@@ -14,6 +14,10 @@ const comebackEmpty = document.getElementById("comebacks-empty");
 const toursEmpty = document.getElementById("tours-empty");
 const comebackList = document.getElementById("comeback-list");
 const tourList = document.getElementById("tour-list");
+const shareModal = document.getElementById("share-modal");
+const shareSubtitle = document.getElementById("share-subtitle");
+const shareToast = document.getElementById("share-toast");
+let sharePayload = null;
 const NEWS_URLS = ["public/news.json", "news.json", "assets/news.json"];
 const pagedSections = document.querySelectorAll("[data-page-section]");
 const prevButtons = document.querySelectorAll("[data-page-prev]");
@@ -121,7 +125,7 @@ function setComeback(card) {
       <p>${body}</p>
       <div class="news-detail-actions">
         <button class="pill">Set Reminder</button>
-        <button class="pill ghost">Share</button>
+        <button class="pill ghost share-btn" data-title="${title}" data-company="${company}" data-date="${date}">Share</button>
       </div>
     `;
 
@@ -144,6 +148,12 @@ function setComeback(card) {
   if (comebackTitle) comebackTitle.textContent = title;
   if (comebackMeta) comebackMeta.textContent = `${company} · ${date}`;
   if (comebackBody) comebackBody.textContent = body;
+  const desktopShare = document.querySelector(".comeback-detail .share-btn");
+  if (desktopShare) {
+    desktopShare.dataset.title = title;
+    desktopShare.dataset.company = company;
+    desktopShare.dataset.date = date;
+  }
 }
 
 filters.forEach((select) => {
@@ -622,6 +632,95 @@ function wireDynamicCards() {
     });
   });
 }
+
+function openShareModal(payload) {
+  if (!shareModal) return;
+  sharePayload = payload;
+  if (shareSubtitle) {
+    shareSubtitle.textContent = `${payload.title} · ${payload.company} · ${payload.date}`;
+  }
+  if (shareToast) shareToast.classList.add("is-hidden");
+  shareModal.classList.remove("is-hidden");
+}
+
+function closeShareModal() {
+  if (!shareModal) return;
+  shareModal.classList.add("is-hidden");
+  sharePayload = null;
+}
+
+function shareUrl() {
+  const base = `${window.location.origin}${window.location.pathname}`;
+  const slug = sharePayload?.title ? encodeURIComponent(sharePayload.title) : "";
+  return `${base}#comeback=${slug}`;
+}
+
+async function copyShareLink() {
+  const url = shareUrl();
+  try {
+    await navigator.clipboard.writeText(url);
+  } catch {
+    const temp = document.createElement("textarea");
+    temp.value = url;
+    document.body.appendChild(temp);
+    temp.select();
+    document.execCommand("copy");
+    temp.remove();
+  }
+  if (shareToast) {
+    shareToast.textContent = "Link copied.";
+    shareToast.classList.remove("is-hidden");
+  }
+}
+
+if (shareModal) {
+  shareModal.addEventListener("click", (event) => {
+    if (event.target === shareModal) closeShareModal();
+  });
+  const closeBtn = shareModal.querySelector(".modal-close");
+  if (closeBtn) closeBtn.addEventListener("click", closeShareModal);
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeShareModal();
+  });
+  shareModal.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-share]");
+    if (!button || !sharePayload) return;
+    const url = shareUrl();
+    const text = encodeURIComponent(`${sharePayload.title} (${sharePayload.company})`);
+    const network = button.dataset.share;
+
+    if (network === "x") {
+      window.open(`https://twitter.com/intent/tweet?text=${text}&url=${encodeURIComponent(url)}`, "_blank");
+      return;
+    }
+    if (network === "facebook") {
+      window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`, "_blank");
+      return;
+    }
+    if (network === "instagram") {
+      copyShareLink().then(() => window.open("https://www.instagram.com/", "_blank"));
+      return;
+    }
+    if (network === "tiktok") {
+      copyShareLink().then(() => window.open("https://www.tiktok.com/", "_blank"));
+      return;
+    }
+    if (network === "copy") {
+      copyShareLink();
+    }
+  });
+}
+
+document.addEventListener("click", (event) => {
+  const button = event.target.closest(".share-btn");
+  if (!button) return;
+  const payload = {
+    title: button.dataset.title || "Comeback",
+    company: button.dataset.company || "Company",
+    date: button.dataset.date || "TBA",
+  };
+  openShareModal(payload);
+});
 
 async function initNews() {
   if (!newsList) return;

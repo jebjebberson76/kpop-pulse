@@ -312,6 +312,60 @@ body {
   border: 1px dashed rgba(255, 255, 255, 0.12);
 }
 
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(6, 8, 12, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  z-index: 50;
+}
+
+.modal-card {
+  width: min(520px, 92vw);
+  background: rgba(12, 15, 24, 0.98);
+  border-radius: 20px;
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.modal-close {
+  background: transparent;
+  border: none;
+  color: var(--text);
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+
+.modal-sub {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.modal-actions {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+}
+
+.modal-toast {
+  font-size: 0.9rem;
+  color: var(--accent-2);
+}
+
 .spinner {
   width: 20px;
   height: 20px;
