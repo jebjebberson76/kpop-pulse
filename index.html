@@ -1,0 +1,836 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>K-Pop Pulse</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="bg-orbit"></div>
+  <div class="bg-glow"></div>
+
+  <header class="hero">
+    <p class="eyebrow">Your daily rhythm report</p>
+    <h1>K-Pop Pulse</h1>
+    <p class="subhead">Track headlines, comebacks, and tours in one neon-lit hub.</p>
+    <div class="hero-actions">
+      <button class="pill">Live Updates</button>
+      <button class="pill ghost">Set Alerts</button>
+    </div>
+  </header>
+
+  <main class="panel">
+    <nav class="tabs" role="tablist">
+      <button class="tab is-active" role="tab" aria-selected="true" data-tab="news">K-Pop News</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="comebacks">K-Pop Comebacks</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="tours">World Tours</button>
+    </nav>
+
+    <section class="tab-panel is-active" role="tabpanel" id="news">
+      <div id="news-status" class="news-status" aria-live="polite">
+        <div class="spinner"></div>
+        <span>Loading latest news...</span>
+      </div>
+      <div id="news-error" class="news-error is-hidden">News unavailable right now. Please try again later.</div>
+      <section id="news-list" class="news-grid" aria-live="polite"></section>
+      <div class="pagination" data-pagination="news">
+        <button class="pill ghost" data-page-prev="news">Previous</button>
+        <span class="page-info" data-page-info="news">Page 1 of 1</span>
+        <button class="pill" data-page-next="news">Next</button>
+      </div>
+    </section>
+
+    <section class="tab-panel" role="tabpanel" id="comebacks">
+      <div class="filter-bar">
+        <label for="comeback-filter">Filter by company</label>
+        <select id="comeback-filter" data-filter="comebacks">
+          <option value="all">All companies</option>
+          <option value="SM">SM</option>
+          <option value="JYP">JYP</option>
+          <option value="HYBE">HYBE</option>
+          <option value="YG">YG</option>
+          <option value="CUBE">CUBE</option>
+          <option value="STARSHIP">STARSHIP</option>
+          <option value="KQ Entertainment">KQ Entertainment</option>
+          <option value="P Nation">P Nation</option>
+          <option value="Kakao Entertainment">Kakao Entertainment</option>
+          <option value="Jellyfish Entertainment">Jellyfish Entertainment</option>
+        </select>
+      </div>
+      <div class="comeback-layout">
+        <div>
+          <div class="timeline" data-page-section="comebacks">
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Mar 12</div>
+          <div class="entry">
+            <h3>TVXQ! - Special Single</h3>
+            <p>Anniversary edition track with orchestral live version.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Mar 16</div>
+          <div class="entry">
+            <h3>Super Junior - Full Album</h3>
+            <p>Variety-driven teasers spotlight sub-unit collaborations.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Mar 20</div>
+          <div class="entry">
+            <h3>Girls' Generation (SNSD) - Special EP</h3>
+            <p>Celebration project with retro-inspired visuals.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Mar 24</div>
+          <div class="entry">
+            <h3>SHINee - Mini Album</h3>
+            <p>Concept film highlights a sleek, futuristic sound.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Mar 28</div>
+          <div class="entry">
+            <h3>EXO - Special Single</h3>
+            <p>Fan-dedicated track with cinematic teaser rollout.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Apr 01</div>
+          <div class="entry">
+            <h3>Red Velvet - Full Album</h3>
+            <p>Dual concept teasers blend velvet and summer themes.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Apr 05</div>
+          <div class="entry">
+            <h3>NCT - “Orbit” EP</h3>
+            <p>Unit-based highlights with rotating teaser drops.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Apr 09</div>
+          <div class="entry">
+            <h3>aespa - Mini Album</h3>
+            <p>Next-level visuals teased through AR showcases.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Apr 13</div>
+          <div class="entry">
+            <h3>RIIZE - Special Single</h3>
+            <p>Performance video teased ahead of the release.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Apr 17</div>
+          <div class="entry">
+            <h3>BoA - “Nova” EP</h3>
+            <p>Vocal-forward project with cinematic concept shots.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="SM" data-active="false">
+          <div class="date">Apr 21</div>
+          <div class="entry">
+            <h3>Kangta - Special Album</h3>
+            <p>Orchestral live sessions teased with studio footage.</p>
+            <div class="meta">Company: SM</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">Mar 18</div>
+          <div class="entry">
+            <h3>2PM - Special Single</h3>
+            <p>Anniversary release with fan-selected B-side performance.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">Mar 26</div>
+          <div class="entry">
+            <h3>DAY6 - Mini Album</h3>
+            <p>Acoustic pre-release sets the mood for the title track.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">Apr 02</div>
+          <div class="entry">
+            <h3>TWICE - Full Album</h3>
+            <p>Lead single rumored to blend city pop and synthwave.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">Apr 09</div>
+          <div class="entry">
+            <h3>Stray Kids - “Riot” EP</h3>
+            <p>Performance-focused teaser series drops weekly.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">Apr 16</div>
+          <div class="entry">
+            <h3>ITZY - Mini Album</h3>
+            <p>Bold choreography highlights in a new dance film.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">Apr 22</div>
+          <div class="entry">
+            <h3>Xdinary Heroes - Special EP</h3>
+            <p>Rock-driven tracklist teased with concept posters.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">Apr 28</div>
+          <div class="entry">
+            <h3>NMIXX - “Shift” Single</h3>
+            <p>Fan showcase announced alongside the music video drop.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">May 04</div>
+          <div class="entry">
+            <h3>NiziU - Mini Album</h3>
+            <p>Bright summer concept photos roll out over two weeks.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">May 12</div>
+          <div class="entry">
+            <h3>BOY STORY - Special Single</h3>
+            <p>Performance video teased with a live band version.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="JYP" data-active="false">
+          <div class="date">May 18</div>
+          <div class="entry">
+            <h3>NEXZ - “Signal” EP</h3>
+            <p>Highlight medley drops ahead of the title track.</p>
+            <div class="meta">Company: JYP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 06</div>
+          <div class="entry">
+            <h3>BTS - Special Single</h3>
+            <p>Global fan project tied to a surprise digital release.</p>
+            <div class="meta">Company: Big Hit Music</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 09</div>
+          <div class="entry">
+            <h3>TXT - Mini Album</h3>
+            <p>Concept photos roll out across three themed chapters.</p>
+            <div class="meta">Company: Big Hit Music</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 13</div>
+          <div class="entry">
+            <h3>ENHYPEN - “Nightfall” EP</h3>
+            <p>Performance film teased ahead of the title track.</p>
+            <div class="meta">Company: BELIFT LAB</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 16</div>
+          <div class="entry">
+            <h3>ILLIT - Single Album</h3>
+            <p>Bright concept videos tease the new lead single.</p>
+            <div class="meta">Company: BELIFT LAB</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 20</div>
+          <div class="entry">
+            <h3>LE SSERAFIM - Full Album</h3>
+            <p>Pre-release track arrives with a cinematic MV.</p>
+            <div class="meta">Company: Source Music</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 23</div>
+          <div class="entry">
+            <h3>NewJeans - Mini Album</h3>
+            <p>Teaser packs drop with retro-style visuals.</p>
+            <div class="meta">Company: ADOR</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 26</div>
+          <div class="entry">
+            <h3>SEVENTEEN - Special EP</h3>
+            <p>Unit highlight medley releases ahead of launch.</p>
+            <div class="meta">Company: PLEDIS Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">May 29</div>
+          <div class="entry">
+            <h3>TWS - Single Album</h3>
+            <p>High-energy performance clip teased for release week.</p>
+            <div class="meta">Company: PLEDIS Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">Jun 02</div>
+          <div class="entry">
+            <h3>BOYNEXTDOOR - “Turn” EP</h3>
+            <p>Street-style concept photos drop in two waves.</p>
+            <div class="meta">Company: KOZ Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">Jun 05</div>
+          <div class="entry">
+            <h3>&TEAM - Full Album</h3>
+            <p>Global listening party announced for launch day.</p>
+            <div class="meta">Company: HYBE LABELS JAPAN</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">Jun 09</div>
+          <div class="entry">
+            <h3>KATSEYE - “Lumen” EP</h3>
+            <p>Concept film teaser hints at a bold new sound.</p>
+            <div class="meta">Company: HYBE x Geffen</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">Jun 12</div>
+          <div class="entry">
+            <h3>Lee Hyun - Special Single</h3>
+            <p>Acoustic teaser arrives with a live clip.</p>
+            <div class="meta">Company: Big Hit Music</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="HYBE" data-active="false">
+          <div class="date">Jun 15</div>
+          <div class="entry">
+            <h3>ZICO - Mini Album</h3>
+            <p>Tracklist reveal teased with a studio photo set.</p>
+            <div class="meta">Company: KOZ Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="YG" data-active="false">
+          <div class="date">May 14</div>
+          <div class="entry">
+            <h3>BLACKPINK - Special Single</h3>
+            <p>Global teaser rollout with cinematic concept photos.</p>
+            <div class="meta">Company: YG</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="YG" data-active="false">
+          <div class="date">May 19</div>
+          <div class="entry">
+            <h3>WINNER - Mini Album</h3>
+            <p>Highlight medley teased ahead of the title track.</p>
+            <div class="meta">Company: YG</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="YG" data-active="false">
+          <div class="date">May 24</div>
+          <div class="entry">
+            <h3>TREASURE - “Luminate” EP</h3>
+            <p>Performance video premieres during release week.</p>
+            <div class="meta">Company: YG</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="YG" data-active="false">
+          <div class="date">May 28</div>
+          <div class="entry">
+            <h3>BABYMONSTER - Single Album</h3>
+            <p>Debut showcase teased with a global livestream.</p>
+            <div class="meta">Company: YG</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="CUBE" data-active="false">
+          <div class="date">Jun 02</div>
+          <div class="entry">
+            <h3>I-dle - Mini Album</h3>
+            <p>Concept photos drop with a bold new aesthetic.</p>
+            <div class="meta">Company: CUBE</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="CUBE" data-active="false">
+          <div class="date">Jun 07</div>
+          <div class="entry">
+            <h3>LIGHTSUM - Single Album</h3>
+            <p>Bright summer teaser clips launch the countdown.</p>
+            <div class="meta">Company: CUBE</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="CUBE" data-active="false">
+          <div class="date">Jun 12</div>
+          <div class="entry">
+            <h3>NOWZ - “Signal” EP</h3>
+            <p>Highlight medley teased ahead of release week.</p>
+            <div class="meta">Company: CUBE</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="STARSHIP" data-active="false">
+          <div class="date">Jun 16</div>
+          <div class="entry">
+            <h3>MONSTA X - Special Single</h3>
+            <p>Anniversary track teased with a cinematic clip.</p>
+            <div class="meta">Company: STARSHIP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="STARSHIP" data-active="false">
+          <div class="date">Jun 20</div>
+          <div class="entry">
+            <h3>CRAVITY - Mini Album</h3>
+            <p>Concept photos roll out with a bold new look.</p>
+            <div class="meta">Company: STARSHIP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="STARSHIP" data-active="false">
+          <div class="date">Jun 24</div>
+          <div class="entry">
+            <h3>IVE - “Mirage” EP</h3>
+            <p>Performance teasers drop with a highlight medley.</p>
+            <div class="meta">Company: STARSHIP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="STARSHIP" data-active="false">
+          <div class="date">Jun 28</div>
+          <div class="entry">
+            <h3>K.Will - Special Album</h3>
+            <p>Vocal-focused teaser clips arrive ahead of launch.</p>
+            <div class="meta">Company: STARSHIP</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="KQ Entertainment" data-active="false">
+          <div class="date">Jul 04</div>
+          <div class="entry">
+            <h3>ATEEZ - Mini Album</h3>
+            <p>Performance teaser drops with cinematic visuals.</p>
+            <div class="meta">Company: KQ Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="KQ Entertainment" data-active="false">
+          <div class="date">Jul 10</div>
+          <div class="entry">
+            <h3>xikers - “Vector” EP</h3>
+            <p>Highlight medley arrives during release week.</p>
+            <div class="meta">Company: KQ Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="KQ Entertainment" data-active="false">
+          <div class="date">Jul 16</div>
+          <div class="entry">
+            <h3>Maddox - Special Single</h3>
+            <p>Vocal clip teaser released ahead of launch day.</p>
+            <div class="meta">Company: KQ Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="P Nation" data-active="false">
+          <div class="date">Jul 20</div>
+          <div class="entry">
+            <h3>TNX - Mini Album</h3>
+            <p>Performance teaser hints at a darker concept.</p>
+            <div class="meta">Company: P Nation</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="P Nation" data-active="false">
+          <div class="date">Jul 24</div>
+          <div class="entry">
+            <h3>PSY - Special Single</h3>
+            <p>Summer anthem teased with a global dance challenge.</p>
+            <div class="meta">Company: P Nation</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="P Nation" data-active="false">
+          <div class="date">Jul 28</div>
+          <div class="entry">
+            <h3>Hwasa - “Muse” EP</h3>
+            <p>Concept photos drop with cinematic visuals.</p>
+            <div class="meta">Company: P Nation</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="Kakao Entertainment" data-active="false">
+          <div class="date">—</div>
+          <div class="entry">
+            <h3>There are currently no announced comebacks.</h3>
+            <p>Check back soon for updates.</p>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="Jellyfish Entertainment" data-active="false">
+          <div class="date">Jul 02</div>
+          <div class="entry">
+            <h3>VERIVERY - Mini Album</h3>
+            <p>Concept films tease a darker performance style.</p>
+            <div class="meta">Company: Jellyfish Entertainment</div>
+          </div>
+        </div>
+        <div class="row comeback-card" data-company="Jellyfish Entertainment" data-active="false">
+          <div class="date">Jul 08</div>
+          <div class="entry">
+            <h3>EVNNE - “Pulse” EP</h3>
+            <p>Highlight medley drops alongside a dance teaser.</p>
+            <div class="meta">Company: Jellyfish Entertainment</div>
+          </div>
+        </div>
+          </div>
+          <div class="empty-state is-hidden" id="comebacks-empty">There are currently no Comebacks planned.</div>
+          <div class="pagination" data-pagination="comebacks">
+            <button class="pill ghost" data-page-prev="comebacks">Previous</button>
+            <span class="page-info" data-page-info="comebacks">Page 1 of 1</span>
+            <button class="pill" data-page-next="comebacks">Next</button>
+          </div>
+      </div>
+
+        <aside class="comeback-detail" aria-live="polite">
+          <div class="news-detail-header">
+            <span class="chip">Comeback Detail</span>
+            <h3 id="comeback-title">TVXQ! - Special Single</h3>
+            <p id="comeback-meta" class="meta">SM · Mar 12</p>
+          </div>
+          <p id="comeback-body">Anniversary edition track with orchestral live version. Check teasers, tracklist drops, and pre-order notices as they arrive.</p>
+          <div class="news-detail-actions">
+            <button class="pill">Set Reminder</button>
+            <button class="pill ghost">Share</button>
+          </div>
+        </aside>
+      </div>
+      <div class="cta">
+        <div>
+          <h4>Never miss a drop</h4>
+          <p>Follow teaser calendars and audio spoilers curated weekly.</p>
+        </div>
+        <button class="pill">Add to Calendar</button>
+      </div>
+    </section>
+
+    <section class="tab-panel" role="tabpanel" id="tours">
+      <div class="filter-bar">
+        <label for="tour-filter">Filter by company</label>
+        <select id="tour-filter" data-filter="tours">
+          <option value="all">All companies</option>
+          <option value="SM">SM</option>
+          <option value="JYP">JYP</option>
+          <option value="HYBE">HYBE</option>
+          <option value="YG">YG</option>
+          <option value="CUBE">CUBE</option>
+          <option value="STARSHIP">STARSHIP</option>
+          <option value="KQ Entertainment">KQ Entertainment</option>
+          <option value="P Nation">P Nation</option>
+          <option value="Kakao Entertainment">Kakao Entertainment</option>
+          <option value="Jellyfish Entertainment">Jellyfish Entertainment</option>
+        </select>
+      </div>
+      <div class="filter-bar tour-geo">
+        <label for="tour-city">Show concerts near</label>
+        <select id="tour-city">
+          <option value="auto">Use my location</option>
+          <option value="Seoul, KR">Seoul, KR</option>
+          <option value="Tokyo, JP">Tokyo, JP</option>
+          <option value="Los Angeles, CA">Los Angeles, CA</option>
+          <option value="New York, NY">New York, NY</option>
+          <option value="London, UK">London, UK</option>
+          <option value="Paris, FR">Paris, FR</option>
+          <option value="Bangkok, TH">Bangkok, TH</option>
+          <option value="Manila, PH">Manila, PH</option>
+          <option value="Jakarta, ID">Jakarta, ID</option>
+          <option value="Sydney, AU">Sydney, AU</option>
+        </select>
+      </div>
+      <div class="grid" data-page-section="tours">
+        <article class="card highlight" data-company="SM" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>TVXQ! - Legacy Arena Tour</h3>
+          <p>Anniversary arena run spanning Seoul and Tokyo Dome.</p>
+          <div class="meta">Company: SM · Tickets on sale Mar 01</div>
+        </article>
+        <article class="card" data-company="SM" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>Girls' Generation (SNSD) - Forever Tour</h3>
+          <p>Special fanmeeting tour hinted for summer.</p>
+          <div class="meta">Company: SM · Details soon</div>
+        </article>
+        <article class="card" data-company="SM" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>SHINee - Prism World Tour</h3>
+          <p>Asia + Europe leg confirmed with 15 shows.</p>
+          <div class="meta">Company: SM · Tickets on sale Apr 02</div>
+        </article>
+        <article class="card" data-company="SM" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>EXO - Eclipse Live</h3>
+          <p>Clues point to Seoul, LA, and Manila stops.</p>
+          <div class="meta">Company: SM · Details soon</div>
+        </article>
+        <article class="card" data-company="SM" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>NCT - Unity World Tour</h3>
+          <p>Multi-unit tour with rotating setlists.</p>
+          <div class="meta">Company: SM · Tickets on sale Apr 20</div>
+        </article>
+        <article class="card" data-company="SM" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>aespa - Synk Tour</h3>
+          <p>Immersive visuals teased for arena shows.</p>
+          <div class="meta">Company: SM · Details soon</div>
+        </article>
+        <article class="card" data-company="SM" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>RIIZE - Rise Up Tour</h3>
+          <p>First arena tour teased with digital fan club presale.</p>
+          <div class="meta">Company: SM · Tickets on sale May 10</div>
+        </article>
+        <article class="card" data-company="SM" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>Kangta - The Classic Tour</h3>
+          <p>Orchestral live showcase hinted for winter.</p>
+          <div class="meta">Company: SM · Details soon</div>
+        </article>
+        <article class="card" data-company="JYP" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>2PM - Legacy Live</h3>
+          <p>Arena tour featuring fan-favorite title tracks.</p>
+          <div class="meta">Company: JYP · Tickets on sale Mar 08</div>
+        </article>
+        <article class="card" data-company="JYP" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>DAY6 - The Midnight Run</h3>
+          <p>Seoul, Tokyo, and Singapore dates rumored.</p>
+          <div class="meta">Company: JYP · Details soon</div>
+        </article>
+        <article class="card" data-company="JYP" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>Stray Kids - Outbreak World Tour</h3>
+          <p>Asia + Europe leg confirmed with 20 shows.</p>
+          <div class="meta">Company: JYP · Tickets on sale Apr 05</div>
+        </article>
+        <article class="card" data-company="JYP" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>ITZY - Neon Pulse Tour</h3>
+          <p>Clues point to Seoul, LA, and Paris stops.</p>
+          <div class="meta">Company: JYP · Details soon</div>
+        </article>
+        <article class="card" data-company="JYP" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>NMIXX - Mirrorverse Tour</h3>
+          <p>Asia leg teased with festival tie-ins.</p>
+          <div class="meta">Company: JYP · Tickets on sale May 01</div>
+        </article>
+        <article class="card" data-company="JYP" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>BOY STORY - Spark Stage Tour</h3>
+          <p>Asia leg hinted with school-themed showcase stops.</p>
+          <div class="meta">Company: JYP · Details soon</div>
+        </article>
+        <article class="card" data-company="JYP" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>NEXZ - Next Chapter Tour</h3>
+          <p>Fanclub presale opens with launch showcase in Seoul.</p>
+          <div class="meta">Company: JYP · Tickets on sale May 22</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>BTS - Echo World Tour</h3>
+          <p>Global stadium dates expected with fanclub presales.</p>
+          <div class="meta">Company: Big Hit Music · Tickets on sale Jun 01</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>TXT - Dream Circuit Tour</h3>
+          <p>Asia + Europe legs hinted for late summer.</p>
+          <div class="meta">Company: Big Hit Music · Details soon</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>ILLIT - Bloom Live</h3>
+          <p>Special showcase tour teased for Japan.</p>
+          <div class="meta">Company: BELIFT LAB · Details soon</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>LE SSERAFIM - Firelight Tour</h3>
+          <p>North America arena dates confirmed for fall.</p>
+          <div class="meta">Company: Source Music · Tickets on sale Jun 15</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>SEVENTEEN - Diamond World Tour</h3>
+          <p>Asia + LATAM dates confirmed with 18 shows.</p>
+          <div class="meta">Company: PLEDIS Entertainment · Tickets on sale Jun 20</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>TWS - First Flight Tour</h3>
+          <p>Fanclub presale expected after debut showcase.</p>
+          <div class="meta">Company: PLEDIS Entertainment · Details soon</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>&TEAM - Wolfpack Live</h3>
+          <p>Japan arena dates expected for winter.</p>
+          <div class="meta">Company: HYBE LABELS JAPAN · Details soon</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>KATSEYE - Prism Tour</h3>
+          <p>First U.S. showcase series announced.</p>
+          <div class="meta">Company: HYBE x Geffen · Tickets on sale Jul 01</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>Lee Hyun - Vocal Night</h3>
+          <p>Intimate live sessions teased for Seoul.</p>
+          <div class="meta">Company: Big Hit Music · Details soon</div>
+        </article>
+        <article class="card" data-company="HYBE" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>ZICO - New Era Tour</h3>
+          <p>Club shows announced with meet & greet add-ons.</p>
+          <div class="meta">Company: KOZ Entertainment · Tickets on sale Jul 10</div>
+        </article>
+        <article class="card" data-company="YG" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>BLACKPINK - Eclipse World Tour</h3>
+          <p>Global stadium dates teased with fanclub presales.</p>
+          <div class="meta">Company: YG · Tickets on sale Jul 05</div>
+        </article>
+        <article class="card" data-company="YG" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>WINNER - Horizon Live</h3>
+          <p>Asia leg hinted with summer festival appearances.</p>
+          <div class="meta">Company: YG · Details soon</div>
+        </article>
+        <article class="card" data-company="YG" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>TREASURE - Glow Arena Tour</h3>
+          <p>Japanese arena dates confirmed for fall.</p>
+          <div class="meta">Company: YG · Tickets on sale Jul 18</div>
+        </article>
+        <article class="card" data-company="YG" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>BABYMONSTER - First Spark Tour</h3>
+          <p>Showcase tour hinted for Seoul and Bangkok.</p>
+          <div class="meta">Company: YG · Details soon</div>
+        </article>
+        <article class="card" data-company="CUBE" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>LIGHTSUM - Daybreak Live</h3>
+          <p>Showcase tour hinted for Seoul and Tokyo.</p>
+          <div class="meta">Company: CUBE · Details soon</div>
+        </article>
+        <article class="card" data-company="CUBE" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>NOWZ - First Spark Tour</h3>
+          <p>Fanclub presale opens with a Seoul kickoff show.</p>
+          <div class="meta">Company: CUBE · Tickets on sale Jun 18</div>
+        </article>
+        <article class="card" data-company="STARSHIP" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>MONSTA X - Vanguard World Tour</h3>
+          <p>Global arena dates teased with fanclub presales.</p>
+          <div class="meta">Company: STARSHIP · Tickets on sale Jul 02</div>
+        </article>
+        <article class="card" data-company="STARSHIP" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>CRAVITY - Starline Tour</h3>
+          <p>Asia leg hinted for late summer.</p>
+          <div class="meta">Company: STARSHIP · Details soon</div>
+        </article>
+        <article class="card" data-company="STARSHIP" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>K.Will - Vocal Night</h3>
+          <p>Intimate live sessions teased for Seoul.</p>
+          <div class="meta">Company: STARSHIP · Details soon</div>
+        </article>
+        <article class="card" data-company="KQ Entertainment" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>ATEEZ - Dominion World Tour</h3>
+          <p>Global arena dates announced with fanclub presales.</p>
+          <div class="meta">Company: KQ Entertainment · Tickets on sale Aug 01</div>
+        </article>
+        <article class="card" data-company="KQ Entertainment" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>xikers - Velocity Tour</h3>
+          <p>Asia showcase dates announced for late summer.</p>
+          <div class="meta">Company: KQ Entertainment · Details soon</div>
+        </article>
+        <article class="card" data-company="KQ Entertainment" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>Maddox - Afterglow Live</h3>
+          <p>Intimate live sessions announced for Seoul.</p>
+          <div class="meta">Company: KQ Entertainment · Details soon</div>
+        </article>
+        <article class="card" data-company="P Nation" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>TNX - Ignite Tour</h3>
+          <p>Asia arena dates announced with fanclub presales.</p>
+          <div class="meta">Company: P Nation · Tickets on sale Aug 05</div>
+        </article>
+        <article class="card" data-company="P Nation" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>PSY - That That Live</h3>
+          <p>Stadium dates announced for Seoul and Bangkok.</p>
+          <div class="meta">Company: P Nation · Tickets on sale Aug 12</div>
+        </article>
+        <article class="card" data-company="P Nation" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>Hwasa - Scarlet Tour</h3>
+          <p>Showcase tour announced for Asia and Europe.</p>
+          <div class="meta">Company: P Nation · Details soon</div>
+        </article>
+        <article class="card" data-company="Kakao Entertainment" data-active="false">
+          <span class="chip">Update</span>
+          <h3>There are currently no announced World Tours.</h3>
+          <p>Check back soon for updates.</p>
+        </article>
+        <article class="card" data-company="Jellyfish Entertainment" data-active="false">
+          <span class="chip">Confirmed</span>
+          <h3>VERIVERY - Signal Tour</h3>
+          <p>Asia showcases teased with fanclub presales.</p>
+          <div class="meta">Company: Jellyfish Entertainment · Tickets on sale Jul 18</div>
+        </article>
+        <article class="card" data-company="Jellyfish Entertainment" data-active="false">
+          <span class="chip">Announced</span>
+          <h3>EVNNE - Brightline Tour</h3>
+          <p>Showcase tour hinted for Seoul and Taipei.</p>
+          <div class="meta">Company: Jellyfish Entertainment · Details soon</div>
+        </article>
+      </div>
+      <div class="empty-state is-hidden" id="tours-empty">There are currently no World Tours planned.</div>
+      <div class="pagination" data-pagination="tours">
+        <button class="pill ghost" data-page-prev="tours">Previous</button>
+        <span class="page-info" data-page-info="tours">Page 1 of 1</span>
+        <button class="pill" data-page-next="tours">Next</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Curated headlines and schedules refresh every morning. Customize alerts to follow your favorites.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

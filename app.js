@@ -1,0 +1,565 @@
+﻿const tabs = document.querySelectorAll(".tab");
+const panels = document.querySelectorAll(".tab-panel");
+const filters = document.querySelectorAll("[data-filter]");
+const comebackCards = document.querySelectorAll(".comeback-card");
+const newsStatus = document.getElementById("news-status");
+const newsError = document.getElementById("news-error");
+const newsList = document.getElementById("news-list");
+const tourCards = document.querySelectorAll("#tours .card");
+const tourCitySelect = document.getElementById("tour-city");
+const comebackTitle = document.getElementById("comeback-title");
+const comebackMeta = document.getElementById("comeback-meta");
+const comebackBody = document.getElementById("comeback-body");
+const comebackEmpty = document.getElementById("comebacks-empty");
+const toursEmpty = document.getElementById("tours-empty");
+const NEWS_URLS = ["public/news.json", "news.json", "assets/news.json"];
+const pagedSections = document.querySelectorAll("[data-page-section]");
+const prevButtons = document.querySelectorAll("[data-page-prev]");
+const nextButtons = document.querySelectorAll("[data-page-next]");
+const pageInfos = document.querySelectorAll("[data-page-info]");
+
+function activateTab(tab) {
+  const target = tab.dataset.tab;
+
+  tabs.forEach((btn) => {
+    btn.classList.toggle("is-active", btn === tab);
+    btn.setAttribute("aria-selected", btn === tab ? "true" : "false");
+  });
+
+  panels.forEach((panel) => {
+    panel.classList.toggle("is-active", panel.id === target);
+  });
+}
+
+function applyFilter(sectionId, company) {
+  const section = document.getElementById(sectionId);
+  if (!section) return;
+
+  const items = section.querySelectorAll("[data-company]");
+  items.forEach((item) => {
+    const isActive = item.dataset.active !== "false";
+    const matches = isActive && (company === "all" || item.dataset.company === company);
+    item.classList.toggle("is-hidden", !matches);
+  });
+
+  if (sectionId === "comebacks") {
+    const visible = section.querySelectorAll(".comeback-card:not(.is-hidden)");
+    if (visible.length) {
+      setComeback(visible[0]);
+    }
+  }
+
+  setPage(sectionId, 1);
+  renderPage(sectionId);
+  updateEmptyState(sectionId, company);
+}
+
+function updateEmptyState(sectionId, company) {
+  const section = document.getElementById(sectionId);
+  if (!section) return;
+  const visibleItems = section.querySelectorAll("[data-company]:not(.is-hidden)");
+  const isEmpty = visibleItems.length === 0;
+
+  if (sectionId === "comebacks" && comebackEmpty) {
+    comebackEmpty.textContent =
+      company === "all"
+        ? "There are currently no Comebacks planned."
+        : "There are currently no Comebacks planned for this company.";
+    comebackEmpty.classList.toggle("is-hidden", !isEmpty);
+  }
+
+  if (sectionId === "tours" && toursEmpty) {
+    toursEmpty.textContent =
+      company === "all"
+        ? "There are currently no World Tours planned."
+        : "There are currently no World Tours planned for this company.";
+    toursEmpty.classList.toggle("is-hidden", !isEmpty);
+  }
+}
+
+function setComeback(card) {
+  const title = card.querySelector("h3")?.textContent ?? "Comeback";
+  const date = card.querySelector(".date")?.textContent ?? "TBA";
+  const metaText = card.querySelector(".meta")?.textContent ?? "Company: TBA";
+  const company = metaText.replace("Company:", "").trim();
+  const summary = card.querySelector(".entry p")?.textContent ?? "";
+  const body = `${summary} Check teasers, tracklist drops, and pre-order notices as they arrive.`.trim();
+
+  const isMobile = window.matchMedia("(max-width: 980px)").matches;
+
+  if (isMobile) {
+    const isActive = card.classList.contains("is-active");
+    document.querySelectorAll(".comeback-inline").forEach((node) => node.remove());
+    comebackCards.forEach((item) => item.classList.remove("is-active"));
+
+    if (isActive) {
+      return;
+    }
+
+    card.classList.add("is-active");
+
+    const detail = document.createElement("div");
+    detail.className = "comeback-inline";
+    detail.innerHTML = `
+      <div class="news-detail-header">
+        <span class="chip">Comeback Detail</span>
+        <h3>${title}</h3>
+        <p class="meta">${company} · ${date}</p>
+      </div>
+      <p>${body}</p>
+      <div class="news-detail-actions">
+        <button class="pill">Set Reminder</button>
+        <button class="pill ghost">Share</button>
+      </div>
+    `;
+
+    card.appendChild(detail);
+    detail.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    return;
+  }
+
+  const isActive = card.classList.contains("is-active");
+  comebackCards.forEach((item) => item.classList.remove("is-active"));
+
+  if (isActive) {
+    if (comebackTitle) comebackTitle.textContent = "Select a comeback";
+    if (comebackMeta) comebackMeta.textContent = "—";
+    if (comebackBody) comebackBody.textContent = "Choose a card to see details here.";
+    return;
+  }
+
+  card.classList.add("is-active");
+  if (comebackTitle) comebackTitle.textContent = title;
+  if (comebackMeta) comebackMeta.textContent = `${company} · ${date}`;
+  if (comebackBody) comebackBody.textContent = body;
+}
+
+filters.forEach((select) => {
+  select.addEventListener("change", (event) => {
+    const targetSection = event.target.dataset.filter;
+    applyFilter(targetSection, event.target.value);
+  });
+});
+
+const pageState = {
+  comebacks: 1,
+  tours: 1,
+  news: 1,
+};
+
+const pageSize = 8;
+const newsPageSize = 6;
+let newsItems = [];
+let userLocation = null;
+let locationDenied = false;
+
+const cityCoords = {
+  "Seoul, KR": { lat: 37.5665, lon: 126.978 },
+  "Tokyo, JP": { lat: 35.6762, lon: 139.6503 },
+  "Los Angeles, CA": { lat: 34.0522, lon: -118.2437 },
+  "New York, NY": { lat: 40.7128, lon: -74.006 },
+  "London, UK": { lat: 51.5074, lon: -0.1278 },
+  "Paris, FR": { lat: 48.8566, lon: 2.3522 },
+  "Bangkok, TH": { lat: 13.7563, lon: 100.5018 },
+  "Manila, PH": { lat: 14.5995, lon: 120.9842 },
+  "Jakarta, ID": { lat: -6.2088, lon: 106.8456 },
+  "Sydney, AU": { lat: -33.8688, lon: 151.2093 },
+};
+
+function toRad(value) {
+  return (value * Math.PI) / 180;
+}
+
+function distanceKm(a, b) {
+  const radius = 6371;
+  const dLat = toRad(b.lat - a.lat);
+  const dLon = toRad(b.lon - a.lon);
+  const lat1 = toRad(a.lat);
+  const lat2 = toRad(b.lat);
+  const h =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.sin(dLon / 2) * Math.sin(dLon / 2) * Math.cos(lat1) * Math.cos(lat2);
+  return 2 * radius * Math.atan2(Math.sqrt(h), Math.sqrt(1 - h));
+}
+
+function setUserLocationFromCity(city) {
+  const coords = cityCoords[city];
+  if (coords) {
+    userLocation = coords;
+  }
+}
+
+function requestGeolocation() {
+  return new Promise((resolve) => {
+    if (!navigator.geolocation) {
+      locationDenied = true;
+      resolve(false);
+      return;
+    }
+
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        userLocation = {
+          lat: position.coords.latitude,
+          lon: position.coords.longitude,
+        };
+        resolve(true);
+      },
+      () => {
+        locationDenied = true;
+        resolve(false);
+      },
+      { enableHighAccuracy: false, timeout: 6000 }
+    );
+  });
+}
+
+function setPage(sectionId, page) {
+  pageState[sectionId] = page;
+}
+
+function updatePageInfo(sectionId, currentPage, totalPages) {
+  pageInfos.forEach((info) => {
+    if (info.dataset.pageInfo === sectionId) {
+      info.textContent = `Page ${currentPage} of ${totalPages}`;
+    }
+  });
+}
+
+function renderPage(sectionId) {
+  const section = document.querySelector(`[data-page-section=\"${sectionId}\"]`);
+  if (!section) return;
+
+  const allItems = Array.from(section.querySelectorAll("[data-company]"));
+  const visibleItems = allItems.filter((item) => !item.classList.contains("is-hidden"));
+  const totalPages = Math.max(1, Math.ceil(visibleItems.length / pageSize));
+  const currentPage = Math.min(pageState[sectionId] || 1, totalPages);
+  setPage(sectionId, currentPage);
+
+  visibleItems.forEach((item, index) => {
+    const start = (currentPage - 1) * pageSize;
+    const end = start + pageSize;
+    const isOnPage = index >= start && index < end;
+    item.classList.toggle("is-hidden-page", !isOnPage);
+  });
+
+  allItems
+    .filter((item) => item.classList.contains("is-hidden"))
+    .forEach((item) => item.classList.add("is-hidden-page"));
+
+  updatePageInfo(sectionId, currentPage, totalPages);
+  const filterSelect = document.querySelector(`[data-filter=\"${sectionId}\"]`);
+  updateEmptyState(sectionId, filterSelect?.value ?? "all");
+
+  if (sectionId === "comebacks") {
+    const firstOnPage = visibleItems.find((item) => !item.classList.contains("is-hidden-page"));
+    if (firstOnPage) {
+      setComeback(firstOnPage);
+    }
+  }
+}
+
+prevButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    const sectionId = button.dataset.pagePrev;
+    const current = pageState[sectionId] || 1;
+    setPage(sectionId, Math.max(1, current - 1));
+    if (sectionId === "news") {
+      renderNewsPage();
+    } else {
+      renderPage(sectionId);
+    }
+  });
+});
+
+nextButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    const sectionId = button.dataset.pageNext;
+    const current = pageState[sectionId] || 1;
+    setPage(sectionId, current + 1);
+    if (sectionId === "news") {
+      renderNewsPage();
+    } else {
+      renderPage(sectionId);
+    }
+  });
+});
+
+comebackCards.forEach((card) => {
+  card.addEventListener("click", () => setComeback(card));
+});
+
+function buildTourDates(card) {
+  if (card.querySelector(".tour-expand")) return;
+  const title = card.querySelector("h3")?.textContent ?? "Tour";
+  let dates = [];
+
+  if (card.dataset.tourDates) {
+    try {
+      dates = JSON.parse(card.dataset.tourDates);
+    } catch {
+      dates = [];
+    }
+  }
+
+  if (!dates.length) {
+    dates = [
+      { date: "Aug 10, 2026", city: "Seoul, KR", venue: "Olympic Gymnastics Arena" },
+      { date: "Aug 22, 2026", city: "Los Angeles, CA", venue: "Kia Forum" },
+      { date: "Sep 05, 2026", city: "Tokyo, JP", venue: "Ariake Arena" },
+    ];
+  }
+
+  const selectedCity = tourCitySelect?.value ?? "auto";
+
+  if (selectedCity !== "auto") {
+    dates = dates.filter((show) => show.city === selectedCity);
+  } else if (userLocation) {
+    dates = [...dates].sort((a, b) => {
+      const aCoords = cityCoords[a.city];
+      const bCoords = cityCoords[b.city];
+      if (!aCoords && !bCoords) return 0;
+      if (!aCoords) return 1;
+      if (!bCoords) return -1;
+      return distanceKm(userLocation, aCoords) - distanceKm(userLocation, bCoords);
+    });
+  }
+
+  const wrap = document.createElement("div");
+  wrap.className = "tour-expand";
+
+  const list = document.createElement("div");
+  list.className = "tour-dates";
+
+  if (!dates.length) {
+    const empty = document.createElement("div");
+    empty.className = "tour-date";
+    empty.innerHTML = `
+      <div class="tour-date-info">
+        <strong>It seems there are no shows in this city.</strong>
+        <span>Try another city or use your location.</span>
+      </div>
+    `;
+    list.appendChild(empty);
+  } else {
+    dates.forEach((show) => {
+      const row = document.createElement("div");
+      row.className = "tour-date";
+      row.innerHTML = `
+        <div class="tour-date-info">
+          <strong>${show.date}</strong>
+          <span>${show.city} · ${show.venue}</span>
+        </div>
+        <a class="pill" href="https://www.ticketmaster.com/search?q=${encodeURIComponent(
+          `${title} ${show.city}`
+        )}" target="_blank" rel="noopener">Buy Tix</a>
+      `;
+      list.appendChild(row);
+    });
+  }
+
+  wrap.appendChild(list);
+  card.appendChild(wrap);
+}
+
+async function ensureLocation() {
+  if (userLocation || locationDenied) return;
+  const wantsAuto = !tourCitySelect || tourCitySelect.value === "auto";
+  if (wantsAuto) {
+    await requestGeolocation();
+  }
+}
+
+function refreshExpandedTours() {
+  tourCards.forEach((card) => {
+    if (card.classList.contains("is-expanded")) {
+      const existing = card.querySelector(".tour-expand");
+      if (existing) existing.remove();
+      buildTourDates(card);
+    }
+  });
+}
+
+async function toggleTour(card) {
+  const status = card.querySelector(".chip")?.textContent?.trim().toLowerCase();
+  if (status !== "confirmed") {
+    card.classList.remove("is-expanded");
+    card.setAttribute("aria-expanded", "false");
+    return;
+  }
+
+  await ensureLocation();
+  buildTourDates(card);
+  const expanded = card.classList.toggle("is-expanded");
+  card.setAttribute("aria-expanded", expanded ? "true" : "false");
+}
+
+tourCards.forEach((card) => {
+  card.tabIndex = 0;
+  card.setAttribute("role", "button");
+  card.setAttribute("aria-expanded", "false");
+  card.addEventListener("click", () => toggleTour(card));
+  card.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      toggleTour(card);
+    }
+  });
+});
+
+if (tourCitySelect) {
+  tourCitySelect.addEventListener("change", async (event) => {
+    const value = event.target.value;
+    if (value === "auto") {
+      userLocation = null;
+      locationDenied = false;
+      await requestGeolocation();
+    } else {
+      setUserLocationFromCity(value);
+    }
+    refreshExpandedTours();
+  });
+}
+
+tabs.forEach((tab) => {
+  tab.addEventListener("click", () => activateTab(tab));
+});
+
+activateTab(tabs[0]);
+filters.forEach((select) => {
+  applyFilter(select.dataset.filter, select.value);
+});
+
+pagedSections.forEach((section) => {
+  renderPage(section.dataset.pageSection);
+});
+
+if (comebackCards.length) {
+  setComeback(comebackCards[0]);
+}
+
+function formatDate(dateString) {
+  if (!dateString) return "Date unavailable";
+  const date = new Date(dateString);
+  if (Number.isNaN(date.getTime())) return "Date unavailable";
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  }).format(date);
+}
+
+function renderSkeletons(count = 6) {
+  if (!newsList) return;
+  newsList.innerHTML = "";
+  for (let i = 0; i < count; i += 1) {
+    const skeleton = document.createElement("div");
+    skeleton.className = "skeleton";
+    newsList.appendChild(skeleton);
+  }
+}
+
+function showNewsError(message) {
+  if (newsStatus) newsStatus.classList.add("is-hidden");
+  if (newsError) {
+    newsError.textContent = message;
+    newsError.classList.remove("is-hidden");
+  }
+}
+
+async function fetchNews() {
+  for (const url of NEWS_URLS) {
+    try {
+      const response = await fetch(url, { cache: "no-store" });
+      if (!response.ok) continue;
+      return await response.json();
+    } catch {
+      continue;
+    }
+  }
+  throw new Error("Unable to fetch news.");
+}
+
+function createNewsCard(item) {
+  const card = document.createElement("article");
+  card.className = "news-card";
+  card.tabIndex = 0;
+  card.setAttribute("role", "button");
+  card.setAttribute("aria-expanded", "false");
+
+  card.innerHTML = `
+    <img src="${item.image}" alt="${item.title}" loading="lazy">
+    <h3 class="news-title">${item.title}</h3>
+    <p>${item.snippet || ""}</p>
+    <div class="news-meta">${item.source} · ${formatDate(item.publishedAt)}</div>
+    <div class="news-expand">
+      <p>${item.description || item.snippet || ""}</p>
+      <div class="news-meta">Published: ${formatDate(item.publishedAt)}</div>
+      <div class="news-actions">
+        <a class="pill" href="${item.url}" target="_blank" rel="noopener">Read full article</a>
+      </div>
+    </div>
+  `;
+
+  const toggle = () => {
+    const expanded = card.classList.toggle("is-expanded");
+    card.setAttribute("aria-expanded", expanded ? "true" : "false");
+  };
+
+  card.addEventListener("click", toggle);
+  card.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      toggle();
+    }
+  });
+
+  return card;
+}
+
+function renderNews(items) {
+  if (!newsList) return;
+  newsList.innerHTML = "";
+  if (!items.length) {
+    showNewsError("No K-pop news found today.");
+    return;
+  }
+  items.forEach((item) => {
+    newsList.appendChild(createNewsCard(item));
+  });
+}
+
+function renderNewsPage() {
+  if (!newsList) return;
+  const cards = Array.from(newsList.querySelectorAll(".news-card"));
+  const totalPages = Math.max(1, Math.ceil(cards.length / newsPageSize));
+  const currentPage = Math.min(pageState.news || 1, totalPages);
+  setPage("news", currentPage);
+
+  cards.forEach((card, index) => {
+    const start = (currentPage - 1) * newsPageSize;
+    const end = start + newsPageSize;
+    const isOnPage = index >= start && index < end;
+    card.classList.toggle("is-hidden-page", !isOnPage);
+  });
+
+  updatePageInfo("news", currentPage, totalPages);
+}
+
+async function initNews() {
+  if (!newsList) return;
+  renderSkeletons();
+  try {
+    const data = await fetchNews();
+    if (newsStatus) newsStatus.classList.add("is-hidden");
+    newsItems = data.items || [];
+    renderNews(newsItems);
+    setPage("news", 1);
+    renderNewsPage();
+  } catch (error) {
+    showNewsError("News unavailable right now. Please try again later.");
+    console.error(error);
+  }
+}
+
+initNews();

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>K-Pop Pulse News</title>
+    <link rel="stylesheet" href="styles/news.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header class="news-hero">
+      <p class="eyebrow">Auto-updating</p>
+      <h1>K-Pop News</h1>
+      <p class="subhead">Fresh headlines updated daily via scheduled build.</p>
+      <a class="pill ghost" href="index.html">Back to Home</a>
+    </header>
+
+    <main class="news-panel">
+      <div id="news-status" class="news-status" aria-live="polite">
+        <div class="spinner"></div>
+        <span>Loading latest news...</span>
+      </div>
+      <div id="news-error" class="news-error is-hidden">News unavailable right now. Please try again later.</div>
+      <section id="news-list" class="news-grid" aria-live="polite"></section>
+    </main>
+
+    <footer class="news-footer">
+      <p>Source list and keyword filters are configurable in `scripts/fetch-news.mjs`.</p>
+    </footer>
+
+    <script src="scripts/news-ui.js"></script>
+  </body>
+</html>
