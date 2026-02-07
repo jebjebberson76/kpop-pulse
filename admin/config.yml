@@ -3,7 +3,7 @@ backend:
   branch: main
 
 site_url: https://jebjebberson76.github.io/kpop-pulse
-display_url: https://jebjebberson76.github.io/kpop-pulse
+display_url: https://roaring-marigold-489491.netlify.app
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
