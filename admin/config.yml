@@ -4,6 +4,7 @@ backend:
   branch: main
   auth_endpoint: https://auth.decapcms.org/auth
   auth_type: pkce
+  oauth_client_id: Ov23liKog6xHcsIMM8c4
 
 site_url: https://jebjebberson76.github.io/kpop-pulse
 display_url: https://jebjebberson76.github.io/kpop-pulse
