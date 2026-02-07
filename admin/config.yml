@@ -2,11 +2,18 @@ backend:
   name: git-gateway
   branch: main
 
-site_url: https://polite-biscuit-600e58.netlify.app
-display_url: https://polite-biscuit-600e58.netlify.app
+site_url: https://jebjebberson76.github.io/kpop-pulse
+display_url: https://jebjebberson76.github.io/kpop-pulse
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
+
+commit_messages:
+  create: "Create {{collection}} “{{slug}}” [skip netlify]"
+  update: "Update {{collection}} “{{slug}}” [skip netlify]"
+  delete: "Delete {{collection}} “{{slug}}” [skip netlify]"
+  uploadMedia: "Upload “{{path}}” [skip netlify]"
+  deleteMedia: "Delete “{{path}}” [skip netlify]"
 
 collections:
   - name: "comebacks"
