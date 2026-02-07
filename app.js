@@ -18,6 +18,11 @@ const shareModal = document.getElementById("share-modal");
 const shareSubtitle = document.getElementById("share-subtitle");
 const shareToast = document.getElementById("share-toast");
 let sharePayload = null;
+const agencyList = document.getElementById("agency-list");
+const agencyName = document.getElementById("agency-name");
+const agencySubtitle = document.getElementById("agency-subtitle");
+const agencyArtists = document.getElementById("agency-artists");
+const debutsList = document.getElementById("debuts-list");
 const NEWS_URLS = ["public/news.json", "news.json", "assets/news.json"];
 const pagedSections = document.querySelectorAll("[data-page-section]");
 const prevButtons = document.querySelectorAll("[data-page-prev]");
@@ -177,6 +182,63 @@ let locationDenied = false;
 
 const COMEBACKS_URLS = ["content/comebacks.json", "comebacks.json"];
 const TOURS_URLS = ["content/tours.json", "tours.json"];
+
+const AGENCIES = [
+  {
+    name: "SM Entertainment",
+    description: "Legendary agency with multi-generation artists.",
+    artists: [
+      { name: "TVXQ!", members: ["U-Know Yunho", "Max Changmin"] },
+      { name: "Red Velvet", members: ["Irene", "Seulgi", "Wendy", "Joy", "Yeri"] },
+      { name: "aespa", members: ["Karina", "Giselle", "Winter", "Ningning"] },
+      { name: "NCT 127", members: ["Taeil", "Johnny", "Taeyong", "Yuta", "Doyoung", "Jaehyun", "Jungwoo", "Mark", "Haechan"] },
+    ],
+  },
+  {
+    name: "JYP Entertainment",
+    description: "Performance-driven rosters with global reach.",
+    artists: [
+      { name: "TWICE", members: ["Nayeon", "Jeongyeon", "Momo", "Sana", "Jihyo", "Mina", "Dahyun", "Chaeyoung", "Tzuyu"] },
+      { name: "Stray Kids", members: ["Bang Chan", "Lee Know", "Changbin", "Hyunjin", "Han", "Felix", "Seungmin", "I.N"] },
+      { name: "ITZY", members: ["Yeji", "Lia", "Ryujin", "Chaeryeong", "Yuna"] },
+      { name: "NMIXX", members: ["Lily", "Haewon", "Sullyoon", "Bae", "Jiwoo", "Kyujin"] },
+    ],
+  },
+  {
+    name: "HYBE Labels",
+    description: "Multi-label powerhouse with global acts.",
+    artists: [
+      { name: "BTS", members: ["RM", "Jin", "SUGA", "j-hope", "Jimin", "V", "Jungkook"] },
+      { name: "SEVENTEEN", members: ["S.Coups", "Jeonghan", "Joshua", "Jun", "Hoshi", "Wonwoo", "Woozi", "DK", "Mingyu", "The8", "Seungkwan", "Vernon", "Dino"] },
+      { name: "LE SSERAFIM", members: ["Sakura", "Chaewon", "Yunjin", "Kazuha", "Eunchae"] },
+      { name: "NewJeans", members: ["Minji", "Hanni", "Danielle", "Haerin", "Hyein"] },
+    ],
+  },
+  {
+    name: "YG Entertainment",
+    description: "Hip-hop-forward visuals and global tours.",
+    artists: [
+      { name: "BLACKPINK", members: ["Jisoo", "Jennie", "Rosé", "Lisa"] },
+      { name: "TREASURE", members: ["Hyunsuk", "Jihoon", "Yoshi", "Junkyu", "Mashiho", "Jaehyuk", "Asahi", "Doyoung", "Haruto", "Jeongwoo", "Junghwan"] },
+    ],
+  },
+  {
+    name: "Kakao Entertainment",
+    description: "Diverse roster across multiple sub-labels.",
+    artists: [
+      { name: "THE BOYZ (IST)", members: ["Sangyeon", "Jacob", "Younghoon", "Hyunjae", "Juyeon", "New", "Q", "Ju Haknyeon", "Sunwoo", "Eric"] },
+      { name: "IU (EDAM)", members: ["IU"] },
+      { name: "STAYC (High Up)", members: ["Sumin", "Sieun", "Isa", "Seeun", "Yoon", "J"] },
+    ],
+  },
+];
+
+const DEBUTS = [
+  { name: "Project Aurora", type: "Group Debut", agency: "SM Entertainment", date: "Aug 2026", teasers: "Concept photos rolling out weekly." },
+  { name: "Nova Unit", type: "Sub-unit Debut", agency: "HYBE Labels", date: "Sep 2026", teasers: "Pre-debut vlog series announced." },
+  { name: "Echo Lane", type: "Solo Debut", agency: "KQ Entertainment", date: "Oct 2026", teasers: "Live busking clips teased." },
+  { name: "Starline", type: "Girl Group Debut", agency: "JYP Entertainment", date: "Nov 2026", teasers: "Dance practice teasers incoming." },
+];
 
 const cityCoords = {
   "Seoul, KR": { lat: 37.5665, lon: 126.978 },
@@ -760,3 +822,68 @@ async function initContent() {
 }
 
 initContent();
+
+function renderAgencies() {
+  if (!agencyList || !agencyArtists || !agencyName || !agencySubtitle) return;
+  agencyList.innerHTML = "";
+
+  AGENCIES.forEach((agency, index) => {
+    const card = document.createElement("div");
+    card.className = "agency-card";
+    card.innerHTML = `
+      <h3>${agency.name}</h3>
+      <p class="meta">${agency.description}</p>
+    `;
+    card.addEventListener("click", () => setAgency(index));
+    agencyList.appendChild(card);
+  });
+}
+
+function setAgency(index) {
+  const agency = AGENCIES[index];
+  if (!agency) return;
+  agencyName.textContent = agency.name;
+  agencySubtitle.textContent = agency.description;
+  agencyArtists.innerHTML = "";
+
+  const cards = agencyList.querySelectorAll(".agency-card");
+  cards.forEach((card, i) => card.classList.toggle("is-active", i === index));
+
+  agency.artists.forEach((artist) => {
+    const artistCard = document.createElement("div");
+    artistCard.className = "artist-card";
+    artistCard.innerHTML = `
+      <strong>${artist.name}</strong>
+      <div class="member-list is-hidden">${artist.members.join(", ")}</div>
+    `;
+    artistCard.addEventListener("click", (event) => {
+      event.stopPropagation();
+      const list = artistCard.querySelector(".member-list");
+      const isHidden = list.classList.toggle("is-hidden");
+      artistCard.classList.toggle("is-active", !isHidden);
+    });
+    agencyArtists.appendChild(artistCard);
+  });
+}
+
+function renderDebuts() {
+  if (!debutsList) return;
+  debutsList.innerHTML = "";
+  DEBUTS.forEach((debut) => {
+    const card = document.createElement("div");
+    card.className = "debut-card";
+    card.innerHTML = `
+      <span class="debut-tag">${debut.type}</span>
+      <h3>${debut.name}</h3>
+      <p>${debut.teasers}</p>
+      <div class="meta">${debut.agency} · ${debut.date}</div>
+    `;
+    debutsList.appendChild(card);
+  });
+}
+
+renderAgencies();
+if (AGENCIES.length) {
+  setAgency(0);
+}
+renderDebuts();

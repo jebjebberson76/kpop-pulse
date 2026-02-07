@@ -28,6 +28,8 @@
       <button class="tab is-active" role="tab" aria-selected="true" data-tab="news">K-Pop News</button>
       <button class="tab" role="tab" aria-selected="false" data-tab="comebacks">K-Pop Comebacks</button>
       <button class="tab" role="tab" aria-selected="false" data-tab="tours">World Tours</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="agencies">Agencies</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="debuts">Debuts</button>
     </nav>
 
     <section class="tab-panel is-active" role="tabpanel" id="news">
@@ -824,6 +826,28 @@
         <span class="page-info" data-page-info="tours">Page 1 of 1</span>
         <button class="pill" data-page-next="tours">Next</button>
       </div>
+    </section>
+
+    <section class="tab-panel" role="tabpanel" id="agencies">
+      <div class="agency-layout">
+        <div class="agency-list" id="agency-list"></div>
+        <div class="agency-detail" id="agency-detail">
+          <div class="news-detail-header">
+            <span class="chip">Agency</span>
+            <h3 id="agency-name">Select an agency</h3>
+            <p class="meta" id="agency-subtitle">Choose an agency to view artists.</p>
+          </div>
+          <div class="agency-artists" id="agency-artists"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel" role="tabpanel" id="debuts">
+      <div class="debuts-header">
+        <h3>New & Upcoming Debuts</h3>
+        <p class="meta">Track first stages and pre-debut teasers.</p>
+      </div>
+      <div class="debuts-grid" id="debuts-list"></div>
     </section>
   </main>
 
