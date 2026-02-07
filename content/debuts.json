@@ -2,14 +2,14 @@
   "items": [
     {
       "active": true,
-      "name": "Project Aurora",
-      "type": "Group Debut",
-      "agency": "SM Entertainment",
-      "date": "Aug 2026",
-      "teasers": "Concept photos rolling out weekly."
+      "name": "JIWOO [KARD]",
+      "type": "Solo Debut",
+      "agency": "DSP Entertainment",
+      "date": "Feb 11 2026",
+      "teasers": ""
     },
     {
-      "active": true,
+      "active": false,
       "name": "Nova Unit",
       "type": "Sub-unit Debut",
       "agency": "HYBE Labels",
@@ -17,7 +17,7 @@
       "teasers": "Pre-debut vlog series announced."
     },
     {
-      "active": true,
+      "active": false,
       "name": "Echo Lane",
       "type": "Solo Debut",
       "agency": "KQ Entertainment",
@@ -25,7 +25,7 @@
       "teasers": "Live busking clips teased."
     },
     {
-      "active": true,
+      "active": false,
       "name": "Starline",
       "type": "Girl Group Debut",
       "agency": "JYP Entertainment",
