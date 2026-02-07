@@ -46,6 +46,51 @@
         { "name": "IU (EDAM)", "members": ["Soloist"] },
         { "name": "STAYC (High Up)", "members": ["Sumin", "Sieun", "Isa", "Seeun", "Yoon", "J"] }
       ]
+    },
+    {
+      "name": "CUBE Entertainment",
+      "description": "Concept-driven acts with bold sonic identities.",
+      "artists": [
+        { "name": "I-dle", "members": ["TBA"] },
+        { "name": "LIGHTSUM", "members": ["TBA"] },
+        { "name": "NOWZ", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "Starship Entertainment",
+      "description": "Performance-focused roster with global touring acts.",
+      "artists": [
+        { "name": "MONSTA X", "members": ["TBA"] },
+        { "name": "CRAVITY", "members": ["TBA"] },
+        { "name": "IVE", "members": ["TBA"] },
+        { "name": "K.Will", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "KQ Entertainment",
+      "description": "High-energy performance crews and standout soloists.",
+      "artists": [
+        { "name": "ATEEZ", "members": ["TBA"] },
+        { "name": "xikers", "members": ["TBA"] },
+        { "name": "Maddox", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "P Nation",
+      "description": "Artist-led label with powerhouse performers.",
+      "artists": [
+        { "name": "TNX", "members": ["TBA"] },
+        { "name": "PSY", "members": ["TBA"] },
+        { "name": "Hwasa", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "Jellyfish Entertainment",
+      "description": "Vocal-forward acts and rising talent.",
+      "artists": [
+        { "name": "VERIVERY", "members": ["TBA"] },
+        { "name": "EVNNE", "members": ["TBA"] }
+      ]
     }
   ]
 }
