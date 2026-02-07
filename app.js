@@ -68,6 +68,16 @@ function updateEmptyState(sectionId, company) {
         ? "There are currently no Comebacks planned."
         : "There are currently no Comebacks planned for this company.";
     comebackEmpty.classList.toggle("is-hidden", !isEmpty);
+
+    const detail = document.querySelector(".comeback-detail");
+    if (detail) {
+      detail.classList.toggle("is-hidden", isEmpty);
+    }
+    if (isEmpty) {
+      if (comebackTitle) comebackTitle.textContent = "Select a comeback";
+      if (comebackMeta) comebackMeta.textContent = "—";
+      if (comebackBody) comebackBody.textContent = "Choose a card to see details here.";
+    }
   }
 
   if (sectionId === "tours" && toursEmpty) {
@@ -640,10 +650,12 @@ async function initContent() {
   const comebackFilter = document.querySelector('[data-filter="comebacks"]');
   applyFilter("comebacks", comebackFilter?.value ?? "all");
   renderPage("comebacks");
+  updateEmptyState("comebacks", comebackFilter?.value ?? "all");
 
   const tourFilter = document.querySelector('[data-filter="tours"]');
   applyFilter("tours", tourFilter?.value ?? "all");
   renderPage("tours");
+  updateEmptyState("tours", tourFilter?.value ?? "all");
 }
 
 initContent();
