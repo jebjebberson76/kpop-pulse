@@ -96,7 +96,9 @@
       "name": "DSP Media",
       "description": "Legacy roster with a mix of idols and soloists.",
       "artists": [
-        { "name": "TBA", "members": ["TBA"] }
+        { "name": "KARD", "members": ["TBA"] },
+        { "name": "YOUNG POSSE", "members": ["TBA"] },
+        { "name": "KARA", "members": ["TBA"] }
       ]
     },
     {
