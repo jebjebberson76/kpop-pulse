@@ -55,3 +55,26 @@ collections:
                   - { label: "Date", name: "date", widget: "string" }
                   - { label: "City", name: "city", widget: "string" }
                   - { label: "Venue", name: "venue", widget: "string" }
+  - name: "agencies"
+    label: "Agencies"
+    files:
+      - name: "agencies"
+        label: "Agencies Data"
+        file: "content/agencies.json"
+        format: "json"
+        fields:
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "Agency Name", name: "name", widget: "string" }
+              - { label: "Description", name: "description", widget: "string", required: false }
+              - label: "Artists"
+                name: "artists"
+                widget: "list"
+                fields:
+                  - { label: "Artist Name", name: "name", widget: "string" }
+                  - label: "Members"
+                    name: "members"
+                    widget: "list"
+                    required: false

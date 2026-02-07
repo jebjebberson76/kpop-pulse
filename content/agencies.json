@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "name": "SM Entertainment",
+      "description": "Legendary agency with multi-generation artists.",
+      "artists": [
+        { "name": "TVXQ!", "members": ["U-Know Yunho", "Max Changmin"] },
+        { "name": "Red Velvet", "members": ["Irene", "Seulgi", "Wendy", "Joy", "Yeri"] },
+        { "name": "aespa", "members": ["Karina", "Giselle", "Winter", "Ningning"] },
+        { "name": "NCT 127", "members": ["Taeil", "Johnny", "Taeyong", "Yuta", "Doyoung", "Jaehyun", "Jungwoo", "Mark", "Haechan"] }
+      ]
+    },
+    {
+      "name": "JYP Entertainment",
+      "description": "Performance-driven rosters with global reach.",
+      "artists": [
+        { "name": "TWICE", "members": ["Nayeon", "Jeongyeon", "Momo", "Sana", "Jihyo", "Mina", "Dahyun", "Chaeyoung", "Tzuyu"] },
+        { "name": "Stray Kids", "members": ["Bang Chan", "Lee Know", "Changbin", "Hyunjin", "Han", "Felix", "Seungmin", "I.N"] },
+        { "name": "ITZY", "members": ["Yeji", "Lia", "Ryujin", "Chaeryeong", "Yuna"] },
+        { "name": "NMIXX", "members": ["Lily", "Haewon", "Sullyoon", "Bae", "Jiwoo", "Kyujin"] }
+      ]
+    },
+    {
+      "name": "HYBE Labels",
+      "description": "Multi-label powerhouse with global acts.",
+      "artists": [
+        { "name": "BTS", "members": ["RM", "Jin", "SUGA", "j-hope", "Jimin", "V", "Jungkook"] },
+        { "name": "SEVENTEEN", "members": ["S.Coups", "Jeonghan", "Joshua", "Jun", "Hoshi", "Wonwoo", "Woozi", "DK", "Mingyu", "The8", "Seungkwan", "Vernon", "Dino"] },
+        { "name": "LE SSERAFIM", "members": ["Sakura", "Chaewon", "Yunjin", "Kazuha", "Eunchae"] },
+        { "name": "NewJeans", "members": ["Minji", "Hanni", "Danielle", "Haerin", "Hyein"] }
+      ]
+    },
+    {
+      "name": "YG Entertainment",
+      "description": "Hip-hop-forward visuals and global tours.",
+      "artists": [
+        { "name": "BLACKPINK", "members": ["Jisoo", "Jennie", "Rosé", "Lisa"] },
+        { "name": "TREASURE", "members": ["Hyunsuk", "Jihoon", "Yoshi", "Junkyu", "Mashiho", "Jaehyuk", "Asahi", "Doyoung", "Haruto", "Jeongwoo", "Junghwan"] }
+      ]
+    },
+    {
+      "name": "Kakao Entertainment",
+      "description": "Diverse roster across multiple sub-labels.",
+      "artists": [
+        { "name": "THE BOYZ (IST)", "members": ["Sangyeon", "Jacob", "Younghoon", "Hyunjae", "Juyeon", "New", "Q", "Ju Haknyeon", "Sunwoo", "Eric"] },
+        { "name": "IU (EDAM)", "members": ["Soloist"] },
+        { "name": "STAYC (High Up)", "members": ["Sumin", "Sieun", "Isa", "Seeun", "Yoon", "J"] }
+      ]
+    }
+  ]
+}
