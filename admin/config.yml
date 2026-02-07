@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: jebjebberson76/kpop-pulse
+  name: git-gateway
   branch: main
-  auth_type: implicit
-  auth_endpoint: https://api.netlify.com/auth
 
 site_url: https://polite-biscuit-600e58.netlify.app
 display_url: https://polite-biscuit-600e58.netlify.app
