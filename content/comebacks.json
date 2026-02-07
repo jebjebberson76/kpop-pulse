@@ -1,3 +1,500 @@
 {
-  "items": []
+  "items": [
+    {
+      "active": false,
+      "title": "HYBE Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 6",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 7",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 8",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 9",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 10",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 11",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "HYBE Comeback 12",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "HYBE",
+      "companyLabel": "HYBE"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 6",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 7",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 8",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 9",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "JYP Comeback 10",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "JYP",
+      "companyLabel": "JYP"
+    },
+    {
+      "active": false,
+      "title": "SM Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "SM",
+      "companyLabel": "SM"
+    },
+    {
+      "active": false,
+      "title": "SM Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "SM",
+      "companyLabel": "SM"
+    },
+    {
+      "active": false,
+      "title": "SM Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "SM",
+      "companyLabel": "SM"
+    },
+    {
+      "active": false,
+      "title": "SM Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "SM",
+      "companyLabel": "SM"
+    },
+    {
+      "active": false,
+      "title": "SM Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "SM",
+      "companyLabel": "SM"
+    },
+    {
+      "active": false,
+      "title": "YG Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "YG",
+      "companyLabel": "YG"
+    },
+    {
+      "active": false,
+      "title": "YG Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "YG",
+      "companyLabel": "YG"
+    },
+    {
+      "active": false,
+      "title": "YG Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "YG",
+      "companyLabel": "YG"
+    },
+    {
+      "active": false,
+      "title": "YG Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "YG",
+      "companyLabel": "YG"
+    },
+    {
+      "active": false,
+      "title": "YG Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "YG",
+      "companyLabel": "YG"
+    },
+    {
+      "active": false,
+      "title": "CUBE Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "CUBE",
+      "companyLabel": "CUBE"
+    },
+    {
+      "active": false,
+      "title": "CUBE Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "CUBE",
+      "companyLabel": "CUBE"
+    },
+    {
+      "active": false,
+      "title": "CUBE Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "CUBE",
+      "companyLabel": "CUBE"
+    },
+    {
+      "active": false,
+      "title": "CUBE Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "CUBE",
+      "companyLabel": "CUBE"
+    },
+    {
+      "active": false,
+      "title": "CUBE Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "CUBE",
+      "companyLabel": "CUBE"
+    },
+    {
+      "active": false,
+      "title": "STARSHIP Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "STARSHIP",
+      "companyLabel": "STARSHIP"
+    },
+    {
+      "active": false,
+      "title": "STARSHIP Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "STARSHIP",
+      "companyLabel": "STARSHIP"
+    },
+    {
+      "active": false,
+      "title": "STARSHIP Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "STARSHIP",
+      "companyLabel": "STARSHIP"
+    },
+    {
+      "active": false,
+      "title": "STARSHIP Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "STARSHIP",
+      "companyLabel": "STARSHIP"
+    },
+    {
+      "active": false,
+      "title": "STARSHIP Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "STARSHIP",
+      "companyLabel": "STARSHIP"
+    },
+    {
+      "active": false,
+      "title": "KQ Entertainment Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "KQ Entertainment",
+      "companyLabel": "KQ Entertainment"
+    },
+    {
+      "active": false,
+      "title": "KQ Entertainment Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "KQ Entertainment",
+      "companyLabel": "KQ Entertainment"
+    },
+    {
+      "active": false,
+      "title": "KQ Entertainment Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "KQ Entertainment",
+      "companyLabel": "KQ Entertainment"
+    },
+    {
+      "active": false,
+      "title": "KQ Entertainment Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "KQ Entertainment",
+      "companyLabel": "KQ Entertainment"
+    },
+    {
+      "active": false,
+      "title": "KQ Entertainment Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "KQ Entertainment",
+      "companyLabel": "KQ Entertainment"
+    },
+    {
+      "active": false,
+      "title": "P Nation Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "P Nation",
+      "companyLabel": "P Nation"
+    },
+    {
+      "active": false,
+      "title": "P Nation Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "P Nation",
+      "companyLabel": "P Nation"
+    },
+    {
+      "active": false,
+      "title": "P Nation Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "P Nation",
+      "companyLabel": "P Nation"
+    },
+    {
+      "active": false,
+      "title": "P Nation Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "P Nation",
+      "companyLabel": "P Nation"
+    },
+    {
+      "active": false,
+      "title": "P Nation Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "P Nation",
+      "companyLabel": "P Nation"
+    },
+    {
+      "active": false,
+      "title": "Kakao Entertainment Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Kakao Entertainment",
+      "companyLabel": "Kakao Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Kakao Entertainment Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Kakao Entertainment",
+      "companyLabel": "Kakao Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Kakao Entertainment Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Kakao Entertainment",
+      "companyLabel": "Kakao Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Kakao Entertainment Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Kakao Entertainment",
+      "companyLabel": "Kakao Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Kakao Entertainment Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Kakao Entertainment",
+      "companyLabel": "Kakao Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Jellyfish Entertainment Comeback 1",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Jellyfish Entertainment",
+      "companyLabel": "Jellyfish Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Jellyfish Entertainment Comeback 2",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Jellyfish Entertainment",
+      "companyLabel": "Jellyfish Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Jellyfish Entertainment Comeback 3",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Jellyfish Entertainment",
+      "companyLabel": "Jellyfish Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Jellyfish Entertainment Comeback 4",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Jellyfish Entertainment",
+      "companyLabel": "Jellyfish Entertainment"
+    },
+    {
+      "active": false,
+      "title": "Jellyfish Entertainment Comeback 5",
+      "date": "TBA",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Jellyfish Entertainment",
+      "companyLabel": "Jellyfish Entertainment"
+    }
+  ]
 }
