@@ -23,6 +23,7 @@ const agencyName = document.getElementById("agency-name");
 const agencySubtitle = document.getElementById("agency-subtitle");
 const agencyArtists = document.getElementById("agency-artists");
 const debutsList = document.getElementById("debuts-list");
+const debutsEmpty = document.getElementById("debuts-empty");
 const NEWS_URLS = ["public/news.json", "news.json", "assets/news.json"];
 const pagedSections = document.querySelectorAll("[data-page-section]");
 const prevButtons = document.querySelectorAll("[data-page-prev]");
@@ -172,25 +173,22 @@ const pageState = {
   comebacks: 1,
   tours: 1,
   news: 1,
+  debuts: 1,
 };
 
 const pageSize = 8;
 const newsPageSize = 6;
+const debutsPageSize = 8;
 let newsItems = [];
 let userLocation = null;
 let locationDenied = false;
 
 const COMEBACKS_URLS = ["content/comebacks.json", "comebacks.json"];
 const TOURS_URLS = ["content/tours.json", "tours.json"];
+const DEBUTS_URLS = ["content/debuts.json", "debuts.json"];
 
 let agenciesData = [];
-
-const DEBUTS = [
-  { name: "Project Aurora", type: "Group Debut", agency: "SM Entertainment", date: "Aug 2026", teasers: "Concept photos rolling out weekly." },
-  { name: "Nova Unit", type: "Sub-unit Debut", agency: "HYBE Labels", date: "Sep 2026", teasers: "Pre-debut vlog series announced." },
-  { name: "Echo Lane", type: "Solo Debut", agency: "KQ Entertainment", date: "Oct 2026", teasers: "Live busking clips teased." },
-  { name: "Starline", type: "Girl Group Debut", agency: "JYP Entertainment", date: "Nov 2026", teasers: "Dance practice teasers incoming." },
-];
+let debutsData = [];
 
 const cityCoords = {
   "Seoul, KR": { lat: 37.5665, lon: 126.978 },
@@ -305,6 +303,8 @@ prevButtons.forEach((button) => {
     setPage(sectionId, Math.max(1, current - 1));
     if (sectionId === "news") {
       renderNewsPage();
+    } else if (sectionId === "debuts") {
+      renderDebutsPage();
     } else {
       renderPage(sectionId);
     }
@@ -318,6 +318,8 @@ nextButtons.forEach((button) => {
     setPage(sectionId, current + 1);
     if (sectionId === "news") {
       renderNewsPage();
+    } else if (sectionId === "debuts") {
+      renderDebutsPage();
     } else {
       renderPage(sectionId);
     }
@@ -580,6 +582,32 @@ function renderNewsPage() {
   updatePageInfo("news", currentPage, totalPages);
 }
 
+function renderDebutsPage() {
+  if (!debutsList) return;
+  const cards = Array.from(debutsList.querySelectorAll(".debut-card"));
+  const visibleCards = cards.filter((card) => !card.classList.contains("is-hidden"));
+  const totalPages = Math.max(1, Math.ceil(visibleCards.length / debutsPageSize));
+  const currentPage = Math.min(pageState.debuts || 1, totalPages);
+  setPage("debuts", currentPage);
+
+  visibleCards.forEach((card, index) => {
+    const start = (currentPage - 1) * debutsPageSize;
+    const end = start + debutsPageSize;
+    const isOnPage = index >= start && index < end;
+    card.classList.toggle("is-hidden-page", !isOnPage);
+  });
+
+  cards
+    .filter((card) => card.classList.contains("is-hidden"))
+    .forEach((card) => card.classList.add("is-hidden-page"));
+
+  updatePageInfo("debuts", currentPage, totalPages);
+
+  if (debutsEmpty) {
+    debutsEmpty.classList.toggle("is-hidden", visibleCards.length !== 0);
+  }
+}
+
 function renderComebacks(items) {
   if (!comebackList) return;
   comebackList.innerHTML = "";
@@ -821,9 +849,14 @@ function setAgency(index) {
 function renderDebuts() {
   if (!debutsList) return;
   debutsList.innerHTML = "";
-  DEBUTS.forEach((debut) => {
+  debutsData.forEach((debut) => {
+    const active = debut.active !== false;
     const card = document.createElement("div");
     card.className = "debut-card";
+    card.dataset.active = active ? "true" : "false";
+    if (!active) {
+      card.classList.add("is-hidden");
+    }
     card.innerHTML = `
       <span class="debut-tag">${debut.type}</span>
       <h3>${debut.name}</h3>
@@ -844,4 +877,13 @@ async function initAgencies() {
 }
 
 initAgencies();
-renderDebuts();
+
+async function initDebuts() {
+  const data = await fetchJson(DEBUTS_URLS);
+  debutsData = data.items || [];
+  renderDebuts();
+  setPage("debuts", 1);
+  renderDebutsPage();
+}
+
+initDebuts();
