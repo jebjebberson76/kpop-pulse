@@ -227,7 +227,7 @@ const AGENCIES = [
     description: "Diverse roster across multiple sub-labels.",
     artists: [
       { name: "THE BOYZ (IST)", members: ["Sangyeon", "Jacob", "Younghoon", "Hyunjae", "Juyeon", "New", "Q", "Ju Haknyeon", "Sunwoo", "Eric"] },
-      { name: "IU (EDAM)", members: ["IU"] },
+      { name: "IU (EDAM)", members: ["Soloist"] },
       { name: "STAYC (High Up)", members: ["Sumin", "Sieun", "Isa", "Seeun", "Yoon", "J"] },
     ],
   },
