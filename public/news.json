@@ -1,32 +1,18 @@
 {
-  "generatedAt": "2026-02-07T09:43:15.474Z",
+  "generatedAt": "2026-02-07T19:13:28.923Z",
   "items": [
     {
-      "id": "47112efe9a82cab4",
-      "title": "BTS And ARMY Make History Yet Again With Latest Achievement",
-      "url": "https://www.koreaboo.com/news/bts-army-make-history-latest-achievement/",
+      "id": "15d8f16d174b7f0d",
+      "title": "Male Idol Exposes Luxury Cosmetic Products, Pokes Fun At BIGBANG Daesung’s 2.4 Million KRW Moisturizer",
+      "url": "https://www.koreaboo.com/news/male-idol-exposes-luxury-cosmetic-products-pokes-fun-bigbang-daesung-3-million-krw-moisturizer/",
       "source": "Koreaboo",
-      "publishedAt": "2026-02-07T08:45:32.000Z",
-      "snippet": "BTS and ARMY have set another milestone with their latest achievement relating to the group’s ARIRANG tour. Global concert promoter Live Nation UK announced on their official socia...",
-      "description": "BTS and ARMY have set another milestone with their latest achievement relating to the group’s ARIRANG tour. Global concert promoter Live Nation UK announced on their official social media on…",
+      "publishedAt": "2026-02-07T17:40:01.000Z",
+      "snippet": "K-Pop's first de-influencer?",
+      "description": "K-Pop's first de-influencer?",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "c5a2c91aeb344d17",
-      "title": "Remembering Go Soo Jung, The “Goblin” and BTS MV Actress Who Passed Away At Age 24",
-      "url": "https://www.koreaboo.com/news/remembering-go-soo-jung-goblin-bts-mv-actress-passed-away-age-24/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-07T06:26:07.000Z",
-      "snippet": "It has already been six years since actress the late Go Soo Jung left us. February 7, 2026 marks the sixth anniversary of actress Go Soo Jung’s passing. Battling a…",
-      "description": "It has already been six years since actress the late Go Soo Jung left us. February 7, 2026 marks the sixth anniversary of actress Go Soo Jung’s passing. Battling a…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mv",
-        "bts"
+        "k-pop",
+        "idol"
       ]
     },
     {
@@ -42,20 +28,6 @@
         "comeback",
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "e3685837621fcc93",
-      "title": "Talented K-Pop Idol Reveals Just How Much He Earns From His Mega-Hit “Cash-Cow” Songs",
-      "url": "https://www.koreaboo.com/news/winner-kang-seungyoon-reallyreally-hit-song-copyright-royalty-income/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-07T02:46:36.000Z",
-      "snippet": "Jaws on the floor 😮",
-      "description": "Jaws on the floor 😮",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -440,6 +412,35 @@
         "music video",
         "billboard",
         "blackpink"
+      ]
+    },
+    {
+      "id": "f376de13c89f4c01",
+      "title": "&apos;Golden’ from ‘KPop Demon Hunters’ wins K-pop&apos;s 1st Grammy",
+      "url": "https://www.koreaherald.com/article/10667333",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-01T23:52:13.000Z",
+      "snippet": "“Golden,” from Netflix’s hit animation “KPop Demon Hunters,” won a Grammy Award for Best Song Written for Visual Media, marking K-pop's first ever Grammy win. The win was announced...",
+      "description": "“Golden,” from Netflix’s hit animation “KPop Demon Hunters,” won a Grammy Award for Best Song Written for Visual Media, marking K-pop's first ever Grammy win. The win was announced during the Grammy Premiere Ceremony, held ahead of the main awards show. The category honors the songwriters behind songs written specifically for visual media in recognition of their excellence in composition and lyrics behind the nominated work. “Golden” was written and produced by a team of acclaimed K-pop producer",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/02/news-p.v1.20260202.1fe9b3a8ec1047f48a46840227ecdcb8_T1.jpg",
+      "tags": [
+        "k-pop",
+        "kpop"
+      ]
+    },
+    {
+      "id": "8cdd6b7b0d09e0db",
+      "title": "K-pop concerts face renewed uncertainty in Greater China",
+      "url": "https://www.koreaherald.com/article/10667165",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-01T06:44:57.000Z",
+      "snippet": "A series of recent cancellations and indefinite postponements of K-pop concerts across the Greater China region has renewed questions about whether unofficial restrictions on Korea...",
+      "description": "A series of recent cancellations and indefinite postponements of K-pop concerts across the Greater China region has renewed questions about whether unofficial restrictions on Korean pop culture remain in place, despite signals of gradual easing. Dream Concert 2026 in Hong Kong, scheduled for Feb. 6 and 7, was organized by the Korea Entertainment Producer's Association and From Entertainment in partnership with Chinese firm Changsha Liu Jiu Cultural Heritage Corp. However, the Chinese partner uni",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/01/news-p.v1.20260201.6b1d4f04638e40ffacced88edd1de24d_T1.jpg",
+      "tags": [
+        "k-pop",
+        "korean pop",
+        "concert"
       ]
     }
   ]
