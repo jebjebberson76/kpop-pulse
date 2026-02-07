@@ -1,17 +1,19 @@
 ﻿const tabs = document.querySelectorAll(".tab");
 const panels = document.querySelectorAll(".tab-panel");
 const filters = document.querySelectorAll("[data-filter]");
-const comebackCards = document.querySelectorAll(".comeback-card");
+let comebackCards = document.querySelectorAll(".comeback-card");
 const newsStatus = document.getElementById("news-status");
 const newsError = document.getElementById("news-error");
 const newsList = document.getElementById("news-list");
-const tourCards = document.querySelectorAll("#tours .card");
+let tourCards = document.querySelectorAll("#tours .card");
 const tourCitySelect = document.getElementById("tour-city");
 const comebackTitle = document.getElementById("comeback-title");
 const comebackMeta = document.getElementById("comeback-meta");
 const comebackBody = document.getElementById("comeback-body");
 const comebackEmpty = document.getElementById("comebacks-empty");
 const toursEmpty = document.getElementById("tours-empty");
+const comebackList = document.getElementById("comeback-list");
+const tourList = document.getElementById("tour-list");
 const NEWS_URLS = ["public/news.json", "news.json", "assets/news.json"];
 const pagedSections = document.querySelectorAll("[data-page-section]");
 const prevButtons = document.querySelectorAll("[data-page-prev]");
@@ -153,6 +155,9 @@ let newsItems = [];
 let userLocation = null;
 let locationDenied = false;
 
+const COMEBACKS_URLS = ["content/comebacks.json", "comebacks.json"];
+const TOURS_URLS = ["content/tours.json", "tours.json"];
+
 const cityCoords = {
   "Seoul, KR": { lat: 37.5665, lon: 126.978 },
   "Tokyo, JP": { lat: 35.6762, lon: 139.6503 },
@@ -285,9 +290,6 @@ nextButtons.forEach((button) => {
   });
 });
 
-comebackCards.forEach((card) => {
-  card.addEventListener("click", () => setComeback(card));
-});
 
 function buildTourDates(card) {
   if (card.querySelector(".tour-expand")) return;
@@ -394,18 +396,6 @@ async function toggleTour(card) {
   card.setAttribute("aria-expanded", expanded ? "true" : "false");
 }
 
-tourCards.forEach((card) => {
-  card.tabIndex = 0;
-  card.setAttribute("role", "button");
-  card.setAttribute("aria-expanded", "false");
-  card.addEventListener("click", () => toggleTour(card));
-  card.addEventListener("keydown", (event) => {
-    if (event.key === "Enter" || event.key === " ") {
-      event.preventDefault();
-      toggleTour(card);
-    }
-  });
-});
 
 if (tourCitySelect) {
   tourCitySelect.addEventListener("change", async (event) => {
@@ -434,9 +424,6 @@ pagedSections.forEach((section) => {
   renderPage(section.dataset.pageSection);
 });
 
-if (comebackCards.length) {
-  setComeback(comebackCards[0]);
-}
 
 function formatDate(dateString) {
   if (!dateString) return "Date unavailable";
@@ -478,6 +465,19 @@ async function fetchNews() {
     }
   }
   throw new Error("Unable to fetch news.");
+}
+
+async function fetchJson(urls) {
+  for (const url of urls) {
+    try {
+      const response = await fetch(url, { cache: "no-store" });
+      if (!response.ok) continue;
+      return await response.json();
+    } catch {
+      continue;
+    }
+  }
+  return { items: [] };
 }
 
 function createNewsCard(item) {
@@ -546,6 +546,71 @@ function renderNewsPage() {
   updatePageInfo("news", currentPage, totalPages);
 }
 
+function renderComebacks(items) {
+  if (!comebackList) return;
+  comebackList.innerHTML = "";
+  items.forEach((item) => {
+    const active = item.active !== false;
+    const row = document.createElement("div");
+    row.className = "row comeback-card";
+    row.dataset.company = item.company || "Unknown";
+    row.dataset.active = active ? "true" : "false";
+    row.innerHTML = `
+      <div class="date">${item.date || "TBA"}</div>
+      <div class="entry">
+        <h3>${item.title || "Untitled"}</h3>
+        <p>${item.summary || ""}</p>
+        <div class="meta">Company: ${item.companyLabel || item.company || "Unknown"}</div>
+      </div>
+    `;
+    comebackList.appendChild(row);
+  });
+}
+
+function renderTours(items) {
+  if (!tourList) return;
+  tourList.innerHTML = "";
+  items.forEach((item) => {
+    const active = item.active !== false;
+    const card = document.createElement("article");
+    card.className = "card";
+    if (item.highlight) card.classList.add("highlight");
+    card.dataset.company = item.company || "Unknown";
+    card.dataset.active = active ? "true" : "false";
+    if (item.dates && Array.isArray(item.dates)) {
+      card.dataset.tourDates = JSON.stringify(item.dates);
+    }
+    card.innerHTML = `
+      <span class="chip">${item.status || "Announced"}</span>
+      <h3>${item.title || "Untitled Tour"}</h3>
+      <p>${item.summary || ""}</p>
+      <div class="meta">Company: ${item.companyLabel || item.company || "Unknown"}${item.metaSuffix ? ` · ${item.metaSuffix}` : ""}</div>
+    `;
+    tourList.appendChild(card);
+  });
+}
+
+function wireDynamicCards() {
+  comebackCards = document.querySelectorAll(".comeback-card");
+  comebackCards.forEach((card) => {
+    card.addEventListener("click", () => setComeback(card));
+  });
+
+  tourCards = document.querySelectorAll("#tours .card");
+  tourCards.forEach((card) => {
+    card.tabIndex = 0;
+    card.setAttribute("role", "button");
+    card.setAttribute("aria-expanded", "false");
+    card.addEventListener("click", () => toggleTour(card));
+    card.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        toggleTour(card);
+      }
+    });
+  });
+}
+
 async function initNews() {
   if (!newsList) return;
   renderSkeletons();
@@ -563,3 +628,22 @@ async function initNews() {
 }
 
 initNews();
+
+async function initContent() {
+  const comebacksData = await fetchJson(COMEBACKS_URLS);
+  const toursData = await fetchJson(TOURS_URLS);
+
+  renderComebacks(comebacksData.items || []);
+  renderTours(toursData.items || []);
+  wireDynamicCards();
+
+  const comebackFilter = document.querySelector('[data-filter="comebacks"]');
+  applyFilter("comebacks", comebackFilter?.value ?? "all");
+  renderPage("comebacks");
+
+  const tourFilter = document.querySelector('[data-filter="tours"]');
+  applyFilter("tours", tourFilter?.value ?? "all");
+  renderPage("tours");
+}
+
+initContent();

@@ -1,0 +1,59 @@
+backend:
+  name: github
+  repo: jebjebberson76/kpop-pulse
+  branch: main
+  auth_endpoint: https://auth.decapcms.org/auth
+
+site_url: https://jebjebberson76.github.io/kpop-pulse
+display_url: https://jebjebberson76.github.io/kpop-pulse
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "comebacks"
+    label: "Comebacks"
+    files:
+      - name: "comebacks"
+        label: "Comebacks Data"
+        file: "content/comebacks.json"
+        format: "json"
+        fields:
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "Active", name: "active", widget: "boolean", default: false }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Date", name: "date", widget: "string" }
+              - { label: "Summary", name: "summary", widget: "string", required: false }
+              - { label: "Company Filter", name: "company", widget: "string" }
+              - { label: "Company Label", name: "companyLabel", widget: "string", required: false }
+  - name: "tours"
+    label: "World Tours"
+    files:
+      - name: "tours"
+        label: "Tours Data"
+        file: "content/tours.json"
+        format: "json"
+        fields:
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: "Active", name: "active", widget: "boolean", default: false }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Status", name: "status", widget: "select", options: ["Confirmed", "Announced"], default: "Announced" }
+              - { label: "Summary", name: "summary", widget: "string", required: false }
+              - { label: "Company Filter", name: "company", widget: "string" }
+              - { label: "Company Label", name: "companyLabel", widget: "string", required: false }
+              - { label: "Meta Suffix", name: "metaSuffix", widget: "string", required: false }
+              - { label: "Highlight", name: "highlight", widget: "boolean", default: false }
+              - label: "Dates"
+                name: "dates"
+                widget: "list"
+                required: false
+                fields:
+                  - { label: "Date", name: "date", widget: "string" }
+                  - { label: "City", name: "city", widget: "string" }
+                  - { label: "Venue", name: "venue", widget: "string" }
