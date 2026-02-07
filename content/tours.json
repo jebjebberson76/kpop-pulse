@@ -681,6 +681,116 @@
       "metaSuffix": "Details soon",
       "highlight": false,
       "dates": []
+    },
+    {
+      "active": false,
+      "title": "DSP Entertainment World Tour 1",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "DSP Entertainment",
+      "companyLabel": "DSP Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": true,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "DSP Entertainment World Tour 2",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "DSP Entertainment",
+      "companyLabel": "DSP Entertainment",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "DSP Entertainment World Tour 3",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "DSP Entertainment",
+      "companyLabel": "DSP Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "DSP Entertainment World Tour 4",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "DSP Entertainment",
+      "companyLabel": "DSP Entertainment",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "DSP Entertainment World Tour 5",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "DSP Entertainment",
+      "companyLabel": "DSP Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "WM Entertainment World Tour 1",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "WM Entertainment",
+      "companyLabel": "WM Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": true,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "WM Entertainment World Tour 2",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "WM Entertainment",
+      "companyLabel": "WM Entertainment",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "WM Entertainment World Tour 3",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "WM Entertainment",
+      "companyLabel": "WM Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "WM Entertainment World Tour 4",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "WM Entertainment",
+      "companyLabel": "WM Entertainment",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "WM Entertainment World Tour 5",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "WM Entertainment",
+      "companyLabel": "WM Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
     }
   ]
 }

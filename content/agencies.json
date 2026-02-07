@@ -91,6 +91,20 @@
         { "name": "VERIVERY", "members": ["TBA"] },
         { "name": "EVNNE", "members": ["TBA"] }
       ]
+    },
+    {
+      "name": "DSP Entertainment",
+      "description": "Legacy roster with a mix of idols and soloists.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "WM Entertainment",
+      "description": "Home to performance-driven acts and vocalists.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
     }
   ]
 }
