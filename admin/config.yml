@@ -3,6 +3,7 @@ backend:
   repo: jebjebberson76/kpop-pulse
   branch: main
   auth_endpoint: https://auth.decapcms.org/auth
+  auth_type: pkce
 
 site_url: https://jebjebberson76.github.io/kpop-pulse
 display_url: https://jebjebberson76.github.io/kpop-pulse
