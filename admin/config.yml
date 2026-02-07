@@ -2,7 +2,8 @@ backend:
   name: github
   repo: jebjebberson76/kpop-pulse
   branch: main
-  auth_endpoint: https://api.netlify.com/auth
+  base_url: https://api.netlify.com
+  auth_endpoint: /auth
 
 site_url: https://polite-biscuit-600e58.netlify.app
 display_url: https://polite-biscuit-600e58.netlify.app
