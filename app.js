@@ -174,11 +174,13 @@ const pageState = {
   tours: 1,
   news: 1,
   debuts: 1,
+  agencies: 1,
 };
 
 const pageSize = 8;
 const newsPageSize = 6;
 const debutsPageSize = 8;
+const agenciesPageSize = 5;
 let newsItems = [];
 let userLocation = null;
 let locationDenied = false;
@@ -305,6 +307,8 @@ prevButtons.forEach((button) => {
       renderNewsPage();
     } else if (sectionId === "debuts") {
       renderDebutsPage();
+    } else if (sectionId === "agencies") {
+      renderAgenciesPage();
     } else {
       renderPage(sectionId);
     }
@@ -320,6 +324,8 @@ nextButtons.forEach((button) => {
       renderNewsPage();
     } else if (sectionId === "debuts") {
       renderDebutsPage();
+    } else if (sectionId === "agencies") {
+      renderAgenciesPage();
     } else {
       renderPage(sectionId);
     }
@@ -608,6 +614,34 @@ function renderDebutsPage() {
   }
 }
 
+function renderAgenciesPage() {
+  if (!agencyList) return;
+  const cards = Array.from(agencyList.querySelectorAll(".agency-card"));
+  const totalPages = Math.max(1, Math.ceil(cards.length / agenciesPageSize));
+  const currentPage = Math.min(pageState.agencies || 1, totalPages);
+  setPage("agencies", currentPage);
+
+  cards.forEach((card, index) => {
+    const start = (currentPage - 1) * agenciesPageSize;
+    const end = start + agenciesPageSize;
+    const isOnPage = index >= start && index < end;
+    card.classList.toggle("is-hidden-page", !isOnPage);
+  });
+
+  updatePageInfo("agencies", currentPage, totalPages);
+
+  if (!cards.length) {
+    if (agencyName) agencyName.textContent = "No agencies available";
+    if (agencySubtitle) agencySubtitle.textContent = "Add agencies in the CMS to get started.";
+    if (agencyArtists) agencyArtists.innerHTML = "";
+  } else {
+    const firstVisibleIndex = cards.findIndex((card) => !card.classList.contains("is-hidden-page"));
+    if (firstVisibleIndex >= 0) {
+      setAgency(firstVisibleIndex);
+    }
+  }
+}
+
 function renderComebacks(items) {
   if (!comebackList) return;
   comebackList.innerHTML = "";
@@ -817,6 +851,9 @@ function renderAgencies() {
     card.addEventListener("click", () => setAgency(index));
     agencyList.appendChild(card);
   });
+
+  setPage("agencies", 1);
+  renderAgenciesPage();
 }
 
 function setAgency(index) {

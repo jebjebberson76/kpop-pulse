@@ -1,4 +1,4 @@
-{
+﻿{
   "items": [
     {
       "active": false,
@@ -684,55 +684,55 @@
     },
     {
       "active": false,
-      "title": "DSP Entertainment World Tour 1",
+      "title": "DSP Media World Tour 1",
       "status": "Announced",
       "summary": "Placeholder entry. Update with official details.",
-      "company": "DSP Entertainment",
-      "companyLabel": "DSP Entertainment",
+      "company": "DSP Media",
+      "companyLabel": "DSP Media",
       "metaSuffix": "Details soon",
       "highlight": true,
       "dates": []
     },
     {
       "active": false,
-      "title": "DSP Entertainment World Tour 2",
+      "title": "DSP Media World Tour 2",
       "status": "Confirmed",
       "summary": "Placeholder entry. Update with official details.",
-      "company": "DSP Entertainment",
-      "companyLabel": "DSP Entertainment",
+      "company": "DSP Media",
+      "companyLabel": "DSP Media",
       "metaSuffix": "Tickets on sale TBA",
       "highlight": false,
       "dates": []
     },
     {
       "active": false,
-      "title": "DSP Entertainment World Tour 3",
+      "title": "DSP Media World Tour 3",
       "status": "Announced",
       "summary": "Placeholder entry. Update with official details.",
-      "company": "DSP Entertainment",
-      "companyLabel": "DSP Entertainment",
+      "company": "DSP Media",
+      "companyLabel": "DSP Media",
       "metaSuffix": "Details soon",
       "highlight": false,
       "dates": []
     },
     {
       "active": false,
-      "title": "DSP Entertainment World Tour 4",
+      "title": "DSP Media World Tour 4",
       "status": "Confirmed",
       "summary": "Placeholder entry. Update with official details.",
-      "company": "DSP Entertainment",
-      "companyLabel": "DSP Entertainment",
+      "company": "DSP Media",
+      "companyLabel": "DSP Media",
       "metaSuffix": "Tickets on sale TBA",
       "highlight": false,
       "dates": []
     },
     {
       "active": false,
-      "title": "DSP Entertainment World Tour 5",
+      "title": "DSP Media World Tour 5",
       "status": "Announced",
       "summary": "Placeholder entry. Update with official details.",
-      "company": "DSP Entertainment",
-      "companyLabel": "DSP Entertainment",
+      "company": "DSP Media",
+      "companyLabel": "DSP Media",
       "metaSuffix": "Details soon",
       "highlight": false,
       "dates": []
