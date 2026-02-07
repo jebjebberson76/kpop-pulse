@@ -561,6 +561,7 @@ function renderComebacks(items) {
   comebackList.innerHTML = "";
   items.forEach((item) => {
     const active = item.active !== false;
+    const summary = item.summary || "";
     const row = document.createElement("div");
     row.className = "row comeback-card";
     row.dataset.company = item.company || "Unknown";
@@ -569,7 +570,8 @@ function renderComebacks(items) {
       <div class="date">${item.date || "TBA"}</div>
       <div class="entry">
         <h3>${item.title || "Untitled"}</h3>
-        <p>${item.summary || ""}</p>
+        <p>${summary}</p>
+        ${summary ? '<span class="read-more">Read more</span>' : ""}
         <div class="meta">Company: ${item.companyLabel || item.company || "Unknown"}</div>
       </div>
     `;
