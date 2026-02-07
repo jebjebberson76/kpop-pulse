@@ -361,6 +361,11 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
 }
 
+.modal-actions [data-share="copy"] {
+  grid-column: 1 / -1;
+  justify-self: center;
+}
+
 .modal-toast {
   font-size: 0.9rem;
   color: var(--accent-2);
