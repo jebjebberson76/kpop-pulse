@@ -224,6 +224,20 @@ body {
   font-size: 1.05rem;
 }
 
+.news-snippet {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.news-read-more {
+  font-size: 0.8rem;
+  color: var(--accent-2);
+  font-weight: 600;
+  margin-top: -6px;
+}
+
 .news-meta {
   font-size: 0.82rem;
   color: var(--muted);

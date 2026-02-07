@@ -529,10 +529,14 @@ function createNewsCard(item) {
   card.setAttribute("role", "button");
   card.setAttribute("aria-expanded", "false");
 
+  const fallbackImage = "public/placeholder-news.svg";
+  const imageUrl = item.image || fallbackImage;
+
   card.innerHTML = `
-    <img src="${item.image}" alt="${item.title}" loading="lazy">
+    <img src="${imageUrl}" alt="${item.title}" loading="lazy">
     <h3 class="news-title">${item.title}</h3>
-    <p>${item.snippet || ""}</p>
+    <p class="news-snippet">${item.snippet || ""}</p>
+    ${item.snippet ? '<span class="news-read-more">Read more</span>' : ""}
     <div class="news-meta">${item.source} · ${formatDate(item.publishedAt)}</div>
     <div class="news-expand">
       <p>${item.description || item.snippet || ""}</p>
@@ -542,6 +546,13 @@ function createNewsCard(item) {
       </div>
     </div>
   `;
+
+  const img = card.querySelector("img");
+  if (img) {
+    img.addEventListener("error", () => {
+      img.src = fallbackImage;
+    });
+  }
 
   const toggle = () => {
     const expanded = card.classList.toggle("is-expanded");
