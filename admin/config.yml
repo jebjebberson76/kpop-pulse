@@ -2,9 +2,10 @@ backend:
   name: github
   repo: jebjebberson76/kpop-pulse
   branch: main
-  auth_endpoint: https://auth.decapcms.org/auth
   auth_type: pkce
   oauth_client_id: Ov23liKog6xHcsIMM8c4
+  base_url: https://auth.decapcms.org
+  auth_endpoint: /auth
 
 site_url: https://jebjebberson76.github.io/kpop-pulse
 display_url: https://jebjebberson76.github.io/kpop-pulse
