@@ -184,6 +184,13 @@
       "artists": [
         { "name": "TBA", "members": ["TBA"] }
       ]
+    },
+    {
+      "name": "MBK Entertainment",
+      "description": "Agency with legacy acts and newer projects.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
     }
   ]
 }
