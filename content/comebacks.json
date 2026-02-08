@@ -41,12 +41,28 @@
       "companyLabel": ""
     },
     {
-      "active": false,
-      "title": "HYBE Comeback 7",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
+      "active": true,
+      "title": "TRENDZ Comeback",
+      "date": "Feb 13 26",
+      "summary": "TRENDZ has announced their 2026 comeback with the digital single \"Kart Racer,\" set for release on February 13 at 12 PM KST. This new track promises a shift to a lighter, more energetic sound compared to their previous intense style, serving as a special Valentine's-themed gift for fans. ",
+      "company": "Global H Media",
+      "companyLabel": ""
+    },
+    {
+      "active": true,
+      "title": "RIIZE Japanese Comeback",
+      "date": "Feb 18 26",
+      "summary": "RIIZE is releasing their second Japanese single, \"All Of You,\" on February 18, 2026, marking their first Japan comeback in over a year. The single features a \"dandy vibes\" concept with two original Japanese tracks. A pre-release of the title track is scheduled for February 9. ",
+      "company": "SM",
+      "companyLabel": ""
+    },
+    {
+      "active": true,
+      "title": "HEARTS2HEARTS",
+      "date": "Feb 20 26",
+      "summary": "Hearts2Hearts is gearing up for a late-February return. SM Entertainment announced on February 6 that Hearts2Hearts will release its new single \"RUDE!\" on February 20 at 6 p.m. KST across major music platforms. The upcoming track marks the group's first release in about four months.",
+      "company": "SM",
+      "companyLabel": ""
     },
     {
       "active": true,
@@ -55,22 +71,6 @@
       "summary": "On February 5, Sports Seoul reported that TXT has confirmed plans to make a comeback in April and is currently focusing on album preparations.  In response to the report, their agency BIGHIT MUSIC confirmed, “TXT is working on their album with the goal of making a comeback in April.” The representative added, “The detailed schedule will be officially announced at a later date. We ask for your anticipation and support.”  This will mark their first comeback in about nine months. The group last released their fourth full-length album “The Star Chapter: TOGETHER” in July of last year, which concluded “The Star Chapter” series.  The upcoming comeback will also be TXT’s first comeback since all members renewed their contracts with BIGHIT MUSIC in August 2025.",
       "company": "HYBE",
       "companyLabel": "Big Hit Music"
-    },
-    {
-      "active": false,
-      "title": "HYBE Comeback 8",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
-    },
-    {
-      "active": false,
-      "title": "HYBE Comeback 9",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
     },
     {
       "active": false,
@@ -735,46 +735,6 @@
       "summary": "Placeholder entry. Update with official details.",
       "company": "220 Entertainment",
       "companyLabel": "220 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "Global H Media Comeback 1",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "Global H Media",
-      "companyLabel": "Global H Media"
-    },
-    {
-      "active": false,
-      "title": "Global H Media Comeback 2",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "Global H Media",
-      "companyLabel": "Global H Media"
-    },
-    {
-      "active": false,
-      "title": "Global H Media Comeback 3",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "Global H Media",
-      "companyLabel": "Global H Media"
-    },
-    {
-      "active": false,
-      "title": "Global H Media Comeback 4",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "Global H Media",
-      "companyLabel": "Global H Media"
-    },
-    {
-      "active": false,
-      "title": "Global H Media Comeback 5",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "Global H Media",
-      "companyLabel": "Global H Media"
     }
   ]
 }
