@@ -44,5 +44,5 @@ jobs:
           if [ -d assets ]; then
             git add assets/news.json assets/news.generated.txt
           fi
-          git commit -m "chore: update k-pop news"
+          git commit -m "chore: update k-pop news [skip netlify]"
           git push
