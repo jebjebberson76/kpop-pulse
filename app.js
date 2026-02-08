@@ -57,7 +57,7 @@ function applyFilter(sectionId, company) {
   if (sectionId === "comebacks") {
     const visible = section.querySelectorAll(".comeback-card:not(.is-hidden)");
     if (visible.length) {
-      setComeback(visible[0]);
+      // Don't auto-open a comeback card.
     }
   }
 
@@ -291,10 +291,7 @@ function renderPage(sectionId) {
   updateEmptyState(sectionId, filterSelect?.value ?? "all");
 
   if (sectionId === "comebacks") {
-    const firstOnPage = visibleItems.find((item) => !item.classList.contains("is-hidden-page"));
-    if (firstOnPage) {
-      setComeback(firstOnPage);
-    }
+    // Don't auto-open a comeback card on pagination.
   }
 }
 
@@ -645,11 +642,6 @@ function renderAgenciesPage() {
     if (agencyName) agencyName.textContent = "No agencies available";
     if (agencySubtitle) agencySubtitle.textContent = "Add agencies in the CMS to get started.";
     if (agencyArtists) agencyArtists.innerHTML = "";
-  } else {
-    const firstVisibleIndex = cards.findIndex((card) => !card.classList.contains("is-hidden-page"));
-    if (firstVisibleIndex >= 0) {
-      setAgency(firstVisibleIndex);
-    }
   }
 }
 
@@ -923,9 +915,6 @@ async function initAgencies() {
   const data = await fetchJson(["content/agencies.json", "agencies.json"]);
   agenciesData = data.items || [];
   renderAgencies();
-  if (agenciesData.length) {
-    setAgency(0);
-  }
 }
 
 initAgencies();
