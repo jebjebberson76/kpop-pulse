@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T15:52:54.219Z",
+  "generatedAt": "2026-02-08T17:01:31.568Z",
   "items": [
     {
       "id": "041703433f85c558",
@@ -14,20 +14,6 @@
         "inkigayo",
         "bts",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "cede3f1550305598",
-      "title": "“Uncomfortable To Watch” — Clip Of SEVENTEEN Hoshi’s Interaction With A Child Sparks Fierce Reactions",
-      "url": "https://www.koreaboo.com/news/clip-seventeen-hoshi-interaction-child-sparks-fierce-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-08T10:57:20.000Z",
-      "snippet": "Many stepped in to defend the idol.",
-      "description": "Many stepped in to defend the idol.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "seventeen"
       ]
     },
     {
@@ -439,6 +425,20 @@
         "music video",
         "billboard",
         "seventeen"
+      ]
+    },
+    {
+      "id": "86a14044d210fc19",
+      "title": "Rose, Bruno Mars open Grammys with hit single &apos;APT.&apos;",
+      "url": "https://www.koreaherald.com/article/10667655",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-02T02:21:20.000Z",
+      "snippet": "BLACKPINK's Rose has opened the 68th Grammy Awards with a high-energy performance of her global hit \"APT.,\" joined on stage by US pop star Bruno Mars. Performing at the Crypto.com...",
+      "description": "BLACKPINK's Rose has opened the 68th Grammy Awards with a high-energy performance of her global hit \"APT.,\" joined on stage by US pop star Bruno Mars. Performing at the Crypto.com Arena in Los Angeles on Sunday night, the K-pop singer appeared in a white sleeveless top and tie, starting the lively set by planting a playful kiss on Mars' cheek as he played the guitar beside her. She then swayed to the rhythm before kneeling in front of him during the song's climactic bridge. The pair shared a sin",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/02/news-p.v1.20260202.bb81df4353fd45b59efdc4d81186a061_T1.jpg",
+      "tags": [
+        "k-pop",
+        "blackpink"
       ]
     }
   ]
