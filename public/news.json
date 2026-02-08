@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T11:46:00.929Z",
+  "generatedAt": "2026-02-08T13:58:00.858Z",
   "items": [
     {
       "id": "cede3f1550305598",
@@ -13,20 +13,6 @@
       "tags": [
         "idol",
         "seventeen"
-      ]
-    },
-    {
-      "id": "ef09da6b4656517e",
-      "title": "IVE Is Coming Back With “BANG BANG” — What To Look Forward To",
-      "url": "https://www.koreaboo.com/news/ive-coming-back-bang-bang-look-forward/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-08T07:23:04.000Z",
-      "snippet": "Group IVE opens the door to their second full-length album with “BANG BANG.” According to their agency Starship Entertainment, IVE will pre-release the new track “BANG BANG” from t...",
-      "description": "Group IVE opens the door to their second full-length album with “BANG BANG.” According to their agency Starship Entertainment, IVE will pre-release the new track “BANG BANG” from their second…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "ive"
       ]
     },
     {
@@ -438,6 +424,20 @@
         "music video",
         "billboard",
         "seventeen"
+      ]
+    },
+    {
+      "id": "86a14044d210fc19",
+      "title": "Rose, Bruno Mars open Grammys with hit single &apos;APT.&apos;",
+      "url": "https://www.koreaherald.com/article/10667655",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-02T02:21:20.000Z",
+      "snippet": "BLACKPINK's Rose has opened the 68th Grammy Awards with a high-energy performance of her global hit \"APT.,\" joined on stage by US pop star Bruno Mars. Performing at the Crypto.com...",
+      "description": "BLACKPINK's Rose has opened the 68th Grammy Awards with a high-energy performance of her global hit \"APT.,\" joined on stage by US pop star Bruno Mars. Performing at the Crypto.com Arena in Los Angeles on Sunday night, the K-pop singer appeared in a white sleeveless top and tie, starting the lively set by planting a playful kiss on Mars' cheek as he played the guitar beside her. She then swayed to the rhythm before kneeling in front of him during the song's climactic bridge. The pair shared a sin",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/02/news-p.v1.20260202.bb81df4353fd45b59efdc4d81186a061_T1.jpg",
+      "tags": [
+        "k-pop",
+        "blackpink"
       ]
     }
   ]
