@@ -791,6 +791,61 @@
       "metaSuffix": "Details soon",
       "highlight": false,
       "dates": []
+    },
+    {
+      "active": false,
+      "title": "143 Entertainment World Tour 1",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "143 Entertainment",
+      "companyLabel": "143 Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": true,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "143 Entertainment World Tour 2",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "143 Entertainment",
+      "companyLabel": "143 Entertainment",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "143 Entertainment World Tour 3",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "143 Entertainment",
+      "companyLabel": "143 Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "143 Entertainment World Tour 4",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "143 Entertainment",
+      "companyLabel": "143 Entertainment",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "143 Entertainment World Tour 5",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "143 Entertainment",
+      "companyLabel": "143 Entertainment",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
     }
   ]
 }
