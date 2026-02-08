@@ -191,6 +191,13 @@
       "artists": [
         { "name": "TBA", "members": ["TBA"] }
       ]
+    },
+    {
+      "name": "Global H Media",
+      "description": "Independent label with emerging artists.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
     }
   ]
 }

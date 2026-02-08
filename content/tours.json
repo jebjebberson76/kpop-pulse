@@ -1011,6 +1011,61 @@
       "metaSuffix": "Details soon",
       "highlight": false,
       "dates": []
+    },
+    {
+      "active": false,
+      "title": "Global H Media World Tour 1",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Global H Media",
+      "companyLabel": "Global H Media",
+      "metaSuffix": "Details soon",
+      "highlight": true,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "Global H Media World Tour 2",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Global H Media",
+      "companyLabel": "Global H Media",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "Global H Media World Tour 3",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Global H Media",
+      "companyLabel": "Global H Media",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "Global H Media World Tour 4",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Global H Media",
+      "companyLabel": "Global H Media",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "Global H Media World Tour 5",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "Global H Media",
+      "companyLabel": "Global H Media",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
     }
   ]
 }
