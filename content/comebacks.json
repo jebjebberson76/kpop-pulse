@@ -2,43 +2,35 @@
   "items": [
     {
       "active": true,
-      "title": "TXT Confirmed To Make April Comeback",
-      "date": "April",
-      "summary": "On February 5, Sports Seoul reported that TXT has confirmed plans to make a comeback in April and is currently focusing on album preparations.  In response to the report, their agency BIGHIT MUSIC confirmed, â€œTXT is working on their album with the goal of making a comeback in April.â€ The representative added, â€œThe detailed schedule will be officially announced at a later date. We ask for your anticipation and support.â€  This will mark their first comeback in about nine months. The group last released their fourth full-length album â€œThe Star Chapter: TOGETHERâ€ in July of last year, which concluded â€œThe Star Chapterâ€ series.",
-      "company": "HYBE",
-      "companyLabel": "Big Hit Music"
+      "title": "MADEIN Comeback",
+      "date": "Feb 9 26",
+      "summary": "On January 22, MADEIN announced that they are preparing to make a comeback with the single album 'Girl Meets Boy.' The group dropped the official track list and promotion schedule, keeping fans updated on MADEIN's comeback activities. With two tracks, the single is set to drop in early February.",
+      "company": "143 Entertainment",
+      "companyLabel": ""
     },
     {
-      "active": false,
-      "title": "HYBE Comeback 2",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
+      "active": true,
+      "title": "CHUNGHA",
+      "date": "Feb 9 26",
+      "summary": "On February 2, Chungha unveiled a “Coming Soon” teaser, announcing her return with a new single, which will drop on February 9 at 6 p.m. KST. The brief teaser shows a heart-shaped cake with a calendar marking the comeback date. When set on fire, a layer of the cake burns away to reveal the single’s release date.",
+      "company": "MORE VISION",
+      "companyLabel": ""
     },
     {
-      "active": false,
-      "title": "HYBE Comeback 3",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
+      "active": true,
+      "title": "STAYC",
+      "date": "Feb 11 26",
+      "summary": "STAYC are finally releasing their first ever Japanese studio album next year, entitled STAY ALIVE.  The upcoming full-length record is the K-pop girl group’s first collection of songs in Japanese and their second album overall after their Korean debut album Metamorphic, which came out on July 1, 2024.  Composed of a total of 17 tracks, STAY ALIVE is set to be released on February 11, 2024 (Wednesday), led by the main track “MWUAH.” Its release was preceded by a string of Japanese singles that came out from 2022 to 2025, beginning with their hit single “POPPY,” other Japanese originals “LIT,” “MEOW,” “Tell Me Now,” “Lover, Killer,” as well as the Japanese versions of “ASAP,” “Teddy Bear,” “Bubble,” “Cheeky Icy Thang,” “GPT,” “BEBE.”  All these songs will be included in STAY ALIVE, while the rest of the album will be completed by the Japanese versions of “STEREOTYPE” and “Stay WITH Me,” as well as the new original songs “Satellite” and “Say My Name.”",
+      "company": "CJ ENM",
+      "companyLabel": "High Up Entertainment"
     },
     {
-      "active": false,
-      "title": "HYBE Comeback 4",
-      "date": "TBA",
+      "active": true,
+      "title": "CNBlue Comeback",
+      "date": "Feb 11 26",
       "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
-    },
-    {
-      "active": false,
-      "title": "HYBE Comeback 5",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
+      "company": "FNC Entertainment",
+      "companyLabel": ""
     },
     {
       "active": false,
@@ -47,6 +39,14 @@
       "summary": "Placeholder entry. Update with official details.",
       "company": "HYBE",
       "companyLabel": "HYBE"
+    },
+    {
+      "active": true,
+      "title": "TXT Confirmed To Make April Comeback",
+      "date": "April",
+      "summary": "On February 5, Sports Seoul reported that TXT has confirmed plans to make a comeback in April and is currently focusing on album preparations.  In response to the report, their agency BIGHIT MUSIC confirmed, “TXT is working on their album with the goal of making a comeback in April.” The representative added, “The detailed schedule will be officially announced at a later date. We ask for your anticipation and support.”  This will mark their first comeback in about nine months. The group last released their fourth full-length album “The Star Chapter: TOGETHER” in July of last year, which concluded “The Star Chapter” series.  The upcoming comeback will also be TXT’s first comeback since all members renewed their contracts with BIGHIT MUSIC in August 2025.",
+      "company": "HYBE",
+      "companyLabel": "Big Hit Music"
     },
     {
       "active": false,
@@ -575,126 +575,6 @@
       "summary": "Placeholder entry. Update with official details.",
       "company": "WM Entertainment",
       "companyLabel": "WM Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 1",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 2",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 3",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 4",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 5",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "MORE VISION Comeback 1",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "MORE VISION",
-      "companyLabel": "MORE VISION"
-    },
-    {
-      "active": false,
-      "title": "MORE VISION Comeback 2",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "MORE VISION",
-      "companyLabel": "MORE VISION"
-    },
-    {
-      "active": false,
-      "title": "MORE VISION Comeback 3",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "MORE VISION",
-      "companyLabel": "MORE VISION"
-    },
-    {
-      "active": false,
-      "title": "MORE VISION Comeback 4",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "MORE VISION",
-      "companyLabel": "MORE VISION"
-    },
-    {
-      "active": false,
-      "title": "MORE VISION Comeback 5",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "MORE VISION",
-      "companyLabel": "MORE VISION"
-    },
-    {
-      "active": false,
-      "title": "FNC Entertainment Comeback 1",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "FNC Entertainment",
-      "companyLabel": "FNC Entertainment"
-    },
-    {
-      "active": false,
-      "title": "FNC Entertainment Comeback 2",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "FNC Entertainment",
-      "companyLabel": "FNC Entertainment"
-    },
-    {
-      "active": false,
-      "title": "FNC Entertainment Comeback 3",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "FNC Entertainment",
-      "companyLabel": "FNC Entertainment"
-    },
-    {
-      "active": false,
-      "title": "FNC Entertainment Comeback 4",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "FNC Entertainment",
-      "companyLabel": "FNC Entertainment"
-    },
-    {
-      "active": false,
-      "title": "FNC Entertainment Comeback 5",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "FNC Entertainment",
-      "companyLabel": "FNC Entertainment"
     }
   ]
 }
