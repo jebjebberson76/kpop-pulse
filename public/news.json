@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T22:59:48.775Z",
+  "generatedAt": "2026-02-08T00:01:22.639Z",
   "items": [
     {
       "id": "15d8f16d174b7f0d",
@@ -145,20 +145,6 @@
         "mini album",
         "album",
         "mv"
-      ]
-    },
-    {
-      "id": "f751bbe8c2b175e8",
-      "title": "TREASURE Earns New RIAJ Platinum Certification In Japan",
-      "url": "https://www.soompi.com/article/1817204wpp/treasure-earns-new-riaj-platinum-certification-in-japan",
-      "source": "Soompi",
-      "publishedAt": "2026-02-04T14:31:05.000Z",
-      "snippet": "TREASURE has gone platinum in Japan with their latest release! In the Recording Industry Association of Japan (RIAJ)’s latest batch of official certifications, TREASURE’s most rece...",
-      "description": "TREASURE has gone platinum in Japan with their latest release! In the Recording Industry Association of Japan (RIAJ)’s latest batch of official certifications, TREASURE’s most recent Korean mini album “LOVE PULSE” was certified platinum for over 250,000 units shipped in Japan. According to the RIAJ’s certification thresholds, albums are certified gold at 100,000 units shipped… Continue reading TREASURE Earns New RIAJ Platinum Certification In Japan The post TREASURE Earns New RIAJ Platinum Certification In Japan appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album"
       ]
     },
     {
@@ -441,6 +427,22 @@
         "k-pop",
         "korean pop",
         "concert"
+      ]
+    },
+    {
+      "id": "b28d20f59c02b1d8",
+      "title": "Cortis and Lngshot break the traditional K-pop mold, redefining creativity in idol system",
+      "url": "https://www.koreaherald.com/article/10666699",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-01-30T08:09:42.000Z",
+      "snippet": "As the K-pop idol market slowly enters a new era, rookie boy groups Cortis and Lngshot are challenging long-held industry formulas by carving out fresh identities in a space long-d...",
+      "description": "As the K-pop idol market slowly enters a new era, rookie boy groups Cortis and Lngshot are challenging long-held industry formulas by carving out fresh identities in a space long-defied by uniformity and structure. Cortis made its official debut in September with the EP “Color Outside the Lines” under Big Hit Music — the agency that houses popular groups BTS and Tomorrow X Together. Lngshot entered the scene four months later with its EP “Shot Callers” with More Vision, the first boy group to de",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/01/30/news-p.v1.20260130.d2bb7bd585aa4bdf9f04f372d9f95e71_T1.jpg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "debut",
+        "bts"
       ]
     }
   ]
