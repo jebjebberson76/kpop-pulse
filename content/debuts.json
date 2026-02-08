@@ -9,28 +9,28 @@
       "teasers": ""
     },
     {
-      "active": false,
-      "name": "Nova Unit",
-      "type": "Sub-unit Debut",
-      "agency": "HYBE Labels",
-      "date": "Sep 2026",
-      "teasers": "Pre-debut vlog series announced."
+      "active": true,
+      "name": "DAILY:DIRECTION",
+      "type": "Boy Group Debut",
+      "agency": "ODDWAVE",
+      "date": "Feb 23 2026",
+      "teasers": ""
     },
     {
-      "active": false,
-      "name": "Echo Lane",
-      "type": "Solo Debut",
-      "agency": "KQ Entertainment",
-      "date": "Oct 2026",
-      "teasers": "Live busking clips teased."
+      "active": true,
+      "name": "INTHE X",
+      "type": "Boy Group Debut",
+      "agency": "iNKNODE",
+      "date": "Feb. 2026",
+      "teasers": ""
     },
     {
-      "active": false,
-      "name": "Starline",
+      "active": true,
+      "name": "DETUDE",
       "type": "Girl Group Debut",
-      "agency": "JYP Entertainment",
-      "date": "Nov 2026",
-      "teasers": "Dance practice teasers incoming."
+      "agency": "AROM Entertainment",
+      "date": "Feb. 2026",
+      "teasers": ""
     }
   ]
 }
