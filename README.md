@@ -13,3 +13,8 @@
 - Data files:
   - `content/comebacks.json`
   - `content/tours.json`
+  - `content/agencies.json`
+  - `content/debuts.json`
+
+## Backups
+- GitHub Actions automatically snapshots `content/*.json` to `backups/` on every change.
