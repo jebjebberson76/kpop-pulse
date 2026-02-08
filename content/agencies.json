@@ -107,6 +107,55 @@
       "artists": [
         { "name": "TBA", "members": ["TBA"] }
       ]
+    },
+    {
+      "name": "C9 Entertainment",
+      "description": "Multi-artist roster with bands and soloists.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "IX Entertainment",
+      "description": "Boutique label with growing roster.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "CJ ENM",
+      "description": "Entertainment powerhouse across labels and media.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "ODDWAVE",
+      "description": "Indie-leaning label with distinct concepts.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "iNKODE",
+      "description": "Artist-focused label with global ambitions.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "AROM Entertainment",
+      "description": "Rising agency for new artists and projects.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
+    },
+    {
+      "name": "Chapter-I",
+      "description": "Boutique agency with curated projects.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
     }
   ]
 }
