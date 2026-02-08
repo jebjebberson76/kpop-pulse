@@ -9,6 +9,7 @@
 ## Admin (Decap CMS)
 - Enable GitHub Pages for the `main` branch root.
 - Admin URL: `/admin/`
+- Netlify CMS-only site can have **Build status = Stopped** to avoid production deploy credits.
 - Data files:
   - `content/comebacks.json`
   - `content/tours.json`
