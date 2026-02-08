@@ -905,11 +905,15 @@ function renderDebuts() {
     if (!active) {
       card.classList.add("is-hidden");
     }
+    const teasers = debut.teasers || "";
+    const type = debut.type || "Debut";
+    const agency = debut.agency || "TBA";
+    const date = debut.date || "TBA";
     card.innerHTML = `
-      <span class="debut-tag">${debut.type}</span>
-      <h3>${debut.name}</h3>
-      <p>${debut.teasers}</p>
-      <div class="meta">${debut.agency} · ${debut.date}</div>
+      <span class="debut-tag">${type}</span>
+      <h3>${debut.name || "Untitled Debut"}</h3>
+      ${teasers ? `<p>${teasers}</p>` : ""}
+      <div class="meta">${agency} · ${date}</div>
     `;
     debutsList.appendChild(card);
   });
