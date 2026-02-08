@@ -524,6 +524,20 @@ body {
   font-weight: 600;
 }
 
+.filter-bar input[type="search"] {
+  min-width: 220px;
+  background: rgba(11, 13, 18, 0.8);
+  color: var(--text);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-weight: 600;
+}
+
+.filter-bar input[type="search"]::placeholder {
+  color: rgba(163, 172, 200, 0.8);
+}
+
 .grid {
   display: grid;
   gap: 18px;

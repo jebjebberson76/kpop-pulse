@@ -29,6 +29,7 @@ const pagedSections = document.querySelectorAll("[data-page-section]");
 const prevButtons = document.querySelectorAll("[data-page-prev]");
 const nextButtons = document.querySelectorAll("[data-page-next]");
 const pageInfos = document.querySelectorAll("[data-page-info]");
+const searchInputs = document.querySelectorAll("[data-search]");
 
 function activateTab(tab) {
   const target = tab.dataset.tab;
@@ -56,10 +57,17 @@ function applyFilter(sectionId, company) {
   const section = document.getElementById(sectionId);
   if (!section) return;
 
+  const searchInput = document.querySelector(`[data-search="${sectionId}"]`);
+  const searchValue = searchInput?.value?.trim().toLowerCase() ?? "";
+
   const items = section.querySelectorAll("[data-company]");
   items.forEach((item) => {
     const isActive = item.dataset.active !== "false";
-    const matches = isActive && (company === "all" || item.dataset.company === company);
+    let matches = isActive && (company === "all" || item.dataset.company === company);
+    if (matches && searchValue) {
+      const text = item.textContent?.toLowerCase() ?? "";
+      matches = text.includes(searchValue);
+    }
     item.classList.toggle("is-hidden", !matches);
   });
 
@@ -894,6 +902,36 @@ function setAgency(index) {
     agencyArtists.appendChild(artistCard);
   });
 }
+
+function filterAgencies(searchValue) {
+  if (!agencyList) return;
+  const query = searchValue.trim().toLowerCase();
+  const cards = Array.from(agencyList.querySelectorAll(".agency-card"));
+
+  cards.forEach((card, index) => {
+    const agency = agenciesData[index];
+    const agencyNameText = agency?.name?.toLowerCase() ?? "";
+    const artistNames = (agency?.artists || []).map((a) => a.name?.toLowerCase() ?? "");
+    const matches =
+      !query || agencyNameText.includes(query) || artistNames.some((name) => name.includes(query));
+    card.classList.toggle("is-hidden", !matches);
+  });
+
+  setPage("agencies", 1);
+  renderAgenciesPage();
+}
+
+searchInputs.forEach((input) => {
+  input.addEventListener("input", (event) => {
+    const sectionId = event.target.dataset.search;
+    if (sectionId === "agencies") {
+      filterAgencies(event.target.value);
+      return;
+    }
+    const filterSelect = document.querySelector(`[data-filter="${sectionId}"]`);
+    applyFilter(sectionId, filterSelect?.value ?? "all");
+  });
+});
 
 function renderDebuts() {
   if (!debutsList) return;
