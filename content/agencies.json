@@ -177,6 +177,13 @@
       "artists": [
         { "name": "TBA", "members": ["TBA"] }
       ]
+    },
+    {
+      "name": "220 Entertainment",
+      "description": "Independent agency with emerging artists.",
+      "artists": [
+        { "name": "TBA", "members": ["TBA"] }
+      ]
     }
   ]
 }
