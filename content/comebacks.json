@@ -2,19 +2,11 @@
   "items": [
     {
       "active": true,
-      "title": "TXT Confirmed To Make April Comeback",
-      "date": "April",
-      "summary": "On February 5, Sports Seoul reported that TXT has confirmed plans to make a comeback in April and is currently focusing on album preparations.  In response to the report, their agency BIGHIT MUSIC confirmed, â€œTXT is working on their album with the goal of making a comeback in April.â€ The representative added, â€œThe detailed schedule will be officially announced at a later date. We ask for your anticipation and support.â€  This will mark their first comeback in about nine months. The group last released their fourth full-length album â€œThe Star Chapter: TOGETHERâ€ in July of last year, which concluded â€œThe Star Chapterâ€ series.",
-      "company": "HYBE",
-      "companyLabel": "Big Hit Music"
-    },
-    {
-      "active": false,
-      "title": "HYBE Comeback 2",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "HYBE",
-      "companyLabel": "HYBE"
+      "title": "MΛDEIN Comeback",
+      "date": "Feb 9 26",
+      "summary": "On January 22, MADEIN announced that they are preparing to make a comeback with the single album 'Girl Meets Boy.' The group dropped the official track list and promotion schedule, keeping fans updated on MADEIN's comeback activities. With two tracks, the single is set to drop in early February.",
+      "company": "143 Entertainment",
+      "companyLabel": ""
     },
     {
       "active": false,
@@ -23,6 +15,14 @@
       "summary": "Placeholder entry. Update with official details.",
       "company": "HYBE",
       "companyLabel": "HYBE"
+    },
+    {
+      "active": true,
+      "title": "TXT Confirmed To Make April Comeback",
+      "date": "April",
+      "summary": "On February 5, Sports Seoul reported that TXT has confirmed plans to make a comeback in April and is currently focusing on album preparations.  In response to the report, their agency BIGHIT MUSIC confirmed, “TXT is working on their album with the goal of making a comeback in April.” The representative added, “The detailed schedule will be officially announced at a later date. We ask for your anticipation and support.”  This will mark their first comeback in about nine months. The group last released their fourth full-length album “The Star Chapter: TOGETHER” in July of last year, which concluded “The Star Chapter” series.  The upcoming comeback will also be TXT’s first comeback since all members renewed their contracts with BIGHIT MUSIC in August 2025.",
+      "company": "HYBE",
+      "companyLabel": "Big Hit Music"
     },
     {
       "active": false,
@@ -575,46 +575,6 @@
       "summary": "Placeholder entry. Update with official details.",
       "company": "WM Entertainment",
       "companyLabel": "WM Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 1",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 2",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 3",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 4",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
-    },
-    {
-      "active": false,
-      "title": "143 Entertainment Comeback 5",
-      "date": "TBA",
-      "summary": "Placeholder entry. Update with official details.",
-      "company": "143 Entertainment",
-      "companyLabel": "143 Entertainment"
     }
   ]
 }
