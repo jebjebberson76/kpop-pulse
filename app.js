@@ -41,6 +41,15 @@ function activateTab(tab) {
   panels.forEach((panel) => {
     panel.classList.toggle("is-active", panel.id === target);
   });
+
+  if (target === "comebacks") {
+    // Clear any auto-filled detail when switching to the tab.
+    document.querySelectorAll(".comeback-inline").forEach((node) => node.remove());
+    comebackCards.forEach((card) => card.classList.remove("is-active"));
+    if (comebackTitle) comebackTitle.textContent = "Select a comeback";
+    if (comebackMeta) comebackMeta.textContent = "—";
+    if (comebackBody) comebackBody.textContent = "Choose a card to see details here.";
+  }
 }
 
 function applyFilter(sectionId, company) {
