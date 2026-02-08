@@ -846,6 +846,61 @@
       "metaSuffix": "Details soon",
       "highlight": false,
       "dates": []
+    },
+    {
+      "active": false,
+      "title": "MORE VISION World Tour 1",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "MORE VISION",
+      "companyLabel": "MORE VISION",
+      "metaSuffix": "Details soon",
+      "highlight": true,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "MORE VISION World Tour 2",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "MORE VISION",
+      "companyLabel": "MORE VISION",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "MORE VISION World Tour 3",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "MORE VISION",
+      "companyLabel": "MORE VISION",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "MORE VISION World Tour 4",
+      "status": "Confirmed",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "MORE VISION",
+      "companyLabel": "MORE VISION",
+      "metaSuffix": "Tickets on sale TBA",
+      "highlight": false,
+      "dates": []
+    },
+    {
+      "active": false,
+      "title": "MORE VISION World Tour 5",
+      "status": "Announced",
+      "summary": "Placeholder entry. Update with official details.",
+      "company": "MORE VISION",
+      "companyLabel": "MORE VISION",
+      "metaSuffix": "Details soon",
+      "highlight": false,
+      "dates": []
     }
   ]
 }
