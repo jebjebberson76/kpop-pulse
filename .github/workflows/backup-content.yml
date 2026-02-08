@@ -1,0 +1,35 @@
+name: Backup CMS Content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/*.json"
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Create backup snapshot
+        run: |
+          ts=$(date -u +"%Y%m%d-%H%M%S")
+          echo "BACKUP_TS=$ts" >> $GITHUB_ENV
+          mkdir -p "backups/$ts"
+          cp content/*.json "backups/$ts/"
+
+      - name: Commit backup
+        run: |
+          if git diff --quiet; then
+            echo "No backup changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backups/
+          git commit -m "chore: backup content $BACKUP_TS [skip netlify]"
+          git push
