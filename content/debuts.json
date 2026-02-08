@@ -31,6 +31,34 @@
       "agency": "AROM Entertainment",
       "date": "Feb. 2026",
       "teasers": ""
+    },
+    {
+      "active": true,
+      "name": "WEZAG",
+      "type": "Boy Group Debut",
+      "agency": "N/A",
+      "date": "Feb 27 2026"
+    },
+    {
+      "active": true,
+      "name": "H//PE Princess",
+      "type": "Girl Group Debut",
+      "agency": "Chapter-I",
+      "date": "2026"
+    },
+    {
+      "active": true,
+      "name": "hrtz.wav",
+      "type": "Global Boy Group Debut",
+      "agency": "Kakao Entertainment",
+      "date": "2026"
+    },
+    {
+      "active": true,
+      "name": "Heo Jiwon",
+      "type": "Solo Debut",
+      "agency": "B.able Company",
+      "date": "2026"
     }
   ]
 }
