@@ -18,6 +18,13 @@
     },
     {
       "active": true,
+      "name": "WEZAG",
+      "type": "Boy Group Debut",
+      "agency": "N/A",
+      "date": "Feb 27 2026"
+    },
+    {
+      "active": true,
       "name": "INTHE X",
       "type": "Boy Group Debut",
       "agency": "iNKNODE",
@@ -31,13 +38,6 @@
       "agency": "AROM Entertainment",
       "date": "Feb. 2026",
       "teasers": ""
-    },
-    {
-      "active": true,
-      "name": "WEZAG",
-      "type": "Boy Group Debut",
-      "agency": "N/A",
-      "date": "Feb 27 2026"
     },
     {
       "active": true,
@@ -58,6 +58,27 @@
       "name": "Heo Jiwon",
       "type": "Solo Debut",
       "agency": "B.able Company",
+      "date": "2026"
+    },
+    {
+      "active": true,
+      "name": "SHUHUA [I-dle]",
+      "type": "Solo Debut",
+      "agency": "CUBE",
+      "date": "2026"
+    },
+    {
+      "active": true,
+      "name": "V01D",
+      "type": "Boy Band Debut",
+      "agency": "IX Entertainment",
+      "date": "2026"
+    },
+    {
+      "active": true,
+      "name": "NAZE",
+      "type": "Pre-Debut Boy Group",
+      "agency": "C9 Entertainment",
       "date": "2026"
     }
   ]
