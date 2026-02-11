@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-02-11T19:38:50.613Z",
+  "generatedAt": "2026-02-11T21:51:43.594Z",
   "items": [
-    {
-      "id": "4c3f98c5957409ff",
-      "title": "BTS’s Comeback Shockingly Triggers Printing Paper Shortage In Korea",
-      "url": "https://www.koreaboo.com/news/bts-printing-paper-shortage-arirang-album/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-11T15:53:36.000Z",
-      "snippet": "Their influence is crazy! 👑",
-      "description": "Their influence is crazy! 👑",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "0595de20f23b2057",
-      "title": "TWICE’s Dahyun To Sit Out From “THIS IS FOR World Tour” Due To Health Concerns",
-      "url": "https://www.koreaboo.com/news/twice-dahyun-ankle-fracture/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-11T14:29:34.000Z",
-      "snippet": "Fans hope for her quick recovery.",
-      "description": "Fans hope for her quick recovery.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "world tour",
-        "twice"
-      ]
-    },
     {
       "id": "00f1eab35a3e5d79",
       "title": "2026 Philippines K-Pop Tour Masterlist: Concerts, Fan Meetings, And More",
@@ -444,6 +416,34 @@
       "tags": [
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "f04b92b6858c8a7b",
+      "title": "FTIsland to host first fan meetup in 10 years",
+      "url": "https://www.koreaherald.com/article/10669467",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T02:55:14.000Z",
+      "snippet": "FTIsland is planning to hold a fan meeting in Seoul on March 7, its first in a decade, its agency FNC Entertainment said Wednesday. The band uploaded a poster with a detective agen...",
+      "description": "FTIsland is planning to hold a fan meeting in Seoul on March 7, its first in a decade, its agency FNC Entertainment said Wednesday. The band uploaded a poster with a detective agency theme, showing each of the three members dressed in suits. The event, dubbed “FT Agency,” also celebrates the three bandmates committing to the future of the group, having renewed contracts with the agency last week. The trio has been with the agency since the group's debut in 2007. Also on March 7, Lee Honggi will",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.26deea72d83f4eb4bfcafb0fbc618461_T1.jpg",
+      "tags": [
+        "debut",
+        "fan meeting"
+      ]
+    },
+    {
+      "id": "162aa995748ea3ae",
+      "title": "Riize to drop Japan single ahead of album release",
+      "url": "https://www.koreaherald.com/article/10669407",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T02:22:59.000Z",
+      "snippet": "Riize will give fans an early listen to its second single in Japan, unveiling the title track as a prerelease on Feb. 9, label SM Entertainment announced Wednesday. The group is se...",
+      "description": "Riize will give fans an early listen to its second single in Japan, unveiling the title track as a prerelease on Feb. 9, label SM Entertainment announced Wednesday. The group is set to release its single album “All of You” on Feb. 18, but will drop the title track beforehand. Starting with Shotaro’s narration, the hip-hop tune is a confession of love to the group's fans, peppered with “saranghae,” meaning \"I love you\" in Korean. The upcoming single follows about 1 1/2 years after Riize's first s",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.db021ad91e7f4caf9e1cd927d905cd1c_T1.jpg",
+      "tags": [
+        "album",
+        "riize"
       ]
     }
   ]
