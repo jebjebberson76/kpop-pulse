@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-02-12T05:19:00.230Z",
+  "generatedAt": "2026-02-12T08:02:35.665Z",
   "items": [
+    {
+      "id": "5ab433246126c485",
+      "title": "National Museum of Korea goes pink for Blackpink&apos;s comeback",
+      "url": "https://www.koreaherald.com/article/10675708",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-12T06:02:57.000Z",
+      "snippet": "Blackpink is expanding beyond music into cultural heritage to mark the Feb. 27 release of its third EP “Deadline,” becoming the first K-pop act to carry out an official large-scale...",
+      "description": "Blackpink is expanding beyond music into cultural heritage to mark the Feb. 27 release of its third EP “Deadline,” becoming the first K-pop act to carry out an official large-scale collaboration with the National Museum of Korea. According to YG Entertainment on Thursday, “National Museum of Korea x Blackpink” rolls out from Feb. 26 to March. 8, in partnership with the museum and global audio streaming platform, Spotify. During the project, the museum’s exterior will be illuminated in pink as pa",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/12/news-p.v1.20260212.f66f73cb42f04af6a1d810939d33f813_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "1195f8e5c76c83ee",
+      "title": "K-Pop Idol Spills On How He Met His Wife And Why He Kept Their Wedding A Secret",
+      "url": "https://www.koreaboo.com/news/kpop-idol-spills-met-wife-kept-wedding-secret/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-12T05:42:14.000Z",
+      "snippet": "A 2nd generation idol boldly revealed the reason why he secretly held his wedding with a non-celebrity without informing the public in advance. On the 11th, original MBLAQ member M...",
+      "description": "A 2nd generation idol boldly revealed the reason why he secretly held his wedding with a non-celebrity without informing the public in advance. On the 11th, original MBLAQ member Mir,…",
+      "image": "https://image.koreaboo.com/2026/02/MBLAQ-Mir-FI.jpg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "00f1eab35a3e5d79",
       "title": "2026 Philippines K-Pop Tour Masterlist: Concerts, Fan Meetings, And More",
@@ -126,7 +155,7 @@
       "publishedAt": "2026-02-10T23:46:06.000Z",
       "snippet": "NMIXX will be performing at Brazil’s Carnival next week! Brazilian singer Pabllo Vittar has announced that NMIXX will be a special guest at Bloco da Pabllo, a massive block party a...",
       "description": "NMIXX will be performing at Brazil’s Carnival next week! Brazilian singer Pabllo Vittar has announced that NMIXX will be a special guest at Bloco da Pabllo, a massive block party at the upcoming São Paulo Carnival, on February 16. NMIXX, who will be the first K-pop artist ever to perform at Carnival, will be joining… Continue reading NMIXX To Become 1st K-Pop Artist To Perform At Brazil’s Carnival The post NMIXX To Become 1st K-Pop Artist To Perform At Brazil’s Carnival appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/02/10154448/NMIXX.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "nmixx"
@@ -415,35 +444,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.d85707d318624b7ab7aa74d5084b44de_T1.jpg",
       "tags": [
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "af242ab72befb734",
-      "title": "Le Sserafim’s encore Seoul show — tightly choreographed to the last beat",
-      "url": "https://www.koreaherald.com/article/10669577",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-04T05:18:14.000Z",
-      "snippet": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jams...",
-      "description": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jamsil Indoor Stadium, the final performance drew a near-capacity crowd, excluding limited-view seats. The tour, which began in Incheon in April last year, marked nearly a full year on the road for the group. Despite the demanding schedule, the members powered through a three-hour set featuring 26 songs, including original",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260203.d793e408b7b84e6b9d2b03104d563b72_T1.jpg",
-      "tags": [
-        "world tour",
-        "concert",
-        "le sserafim"
-      ]
-    },
-    {
-      "id": "82ef66d494a2bfa1",
-      "title": "BTS logs 3m presaves on Spotify",
-      "url": "https://www.koreaherald.com/article/10669476",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-04T03:21:29.000Z",
-      "snippet": "The soon-to-be-released album from BTS amassed 3 million presaves on Spotify as of Wednesday. Its fifth full album “Arirang” has remained atop the platform's Countdown Chart Global...",
-      "description": "The soon-to-be-released album from BTS amassed 3 million presaves on Spotify as of Wednesday. Its fifth full album “Arirang” has remained atop the platform's Countdown Chart Global for two weeks. The album will be available on March 20, a much-hyped return of the septet as a full group after more than 3 1/2 years away from the music scene. Fans have been listening to its old songs on repeat, pushing a number of them past milestones. “Yet To Come” from anthology album “Proof” and “Love Maze” from",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.9940a1d4b7a94a6083052dd62f30fb80_T1.jpg",
-      "tags": [
-        "album",
         "bts"
       ]
     }
