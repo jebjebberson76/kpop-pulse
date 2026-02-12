@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-02-12T14:40:19.884Z",
+  "generatedAt": "2026-02-12T18:08:22.353Z",
   "items": [
-    {
-      "id": "f5832f44655b94a7",
-      "title": "NewJeans (NJZ) Minji’s Alleged Recent Sighting Sparks Attention Amid HYBE’s Lawsuit Loss",
-      "url": "https://www.koreaboo.com/news/newjeans-minji-alleged-sighting-reactions-hybe-lawsuit-contract/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-12T11:45:15.000Z",
-      "snippet": "The idol's status with the company and group is still unknown.",
-      "description": "The idol's status with the company and group is still unknown.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "newjeans"
-      ]
-    },
     {
       "id": "5ab433246126c485",
       "title": "National Museum of Korea goes pink for Blackpink&apos;s comeback",
@@ -445,6 +431,21 @@
       "tags": [
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "af242ab72befb734",
+      "title": "Le Sserafim’s encore Seoul show — tightly choreographed to the last beat",
+      "url": "https://www.koreaherald.com/article/10669577",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T05:18:14.000Z",
+      "snippet": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jams...",
+      "description": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jamsil Indoor Stadium, the final performance drew a near-capacity crowd, excluding limited-view seats. The tour, which began in Incheon in April last year, marked nearly a full year on the road for the group. Despite the demanding schedule, the members powered through a three-hour set featuring 26 songs, including original",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260203.d793e408b7b84e6b9d2b03104d563b72_T1.jpg",
+      "tags": [
+        "world tour",
+        "concert",
+        "le sserafim"
       ]
     }
   ]
