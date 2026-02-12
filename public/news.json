@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T08:02:35.665Z",
+  "generatedAt": "2026-02-12T11:28:23.649Z",
   "items": [
     {
       "id": "5ab433246126c485",
@@ -14,20 +14,6 @@
         "k-pop",
         "comeback",
         "blackpink"
-      ]
-    },
-    {
-      "id": "1195f8e5c76c83ee",
-      "title": "K-Pop Idol Spills On How He Met His Wife And Why He Kept Their Wedding A Secret",
-      "url": "https://www.koreaboo.com/news/kpop-idol-spills-met-wife-kept-wedding-secret/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-12T05:42:14.000Z",
-      "snippet": "A 2nd generation idol boldly revealed the reason why he secretly held his wedding with a non-celebrity without informing the public in advance. On the 11th, original MBLAQ member M...",
-      "description": "A 2nd generation idol boldly revealed the reason why he secretly held his wedding with a non-celebrity without informing the public in advance. On the 11th, original MBLAQ member Mir,…",
-      "image": "https://image.koreaboo.com/2026/02/MBLAQ-Mir-FI.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -155,7 +141,7 @@
       "publishedAt": "2026-02-10T23:46:06.000Z",
       "snippet": "NMIXX will be performing at Brazil’s Carnival next week! Brazilian singer Pabllo Vittar has announced that NMIXX will be a special guest at Bloco da Pabllo, a massive block party a...",
       "description": "NMIXX will be performing at Brazil’s Carnival next week! Brazilian singer Pabllo Vittar has announced that NMIXX will be a special guest at Bloco da Pabllo, a massive block party at the upcoming São Paulo Carnival, on February 16. NMIXX, who will be the first K-pop artist ever to perform at Carnival, will be joining… Continue reading NMIXX To Become 1st K-Pop Artist To Perform At Brazil’s Carnival The post NMIXX To Become 1st K-Pop Artist To Perform At Brazil’s Carnival appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/02/10154448/NMIXX.jpg",
       "tags": [
         "k-pop",
         "nmixx"
@@ -445,6 +431,21 @@
       "tags": [
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "af242ab72befb734",
+      "title": "Le Sserafim’s encore Seoul show — tightly choreographed to the last beat",
+      "url": "https://www.koreaherald.com/article/10669577",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T05:18:14.000Z",
+      "snippet": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jams...",
+      "description": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jamsil Indoor Stadium, the final performance drew a near-capacity crowd, excluding limited-view seats. The tour, which began in Incheon in April last year, marked nearly a full year on the road for the group. Despite the demanding schedule, the members powered through a three-hour set featuring 26 songs, including original",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260203.d793e408b7b84e6b9d2b03104d563b72_T1.jpg",
+      "tags": [
+        "world tour",
+        "concert",
+        "le sserafim"
       ]
     }
   ]
