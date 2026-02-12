@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T23:03:46.189Z",
+  "generatedAt": "2026-02-12T05:19:00.230Z",
   "items": [
     {
       "id": "00f1eab35a3e5d79",
@@ -16,6 +16,20 @@
       ]
     },
     {
+      "id": "1d2b6264ed9825de",
+      "title": "Nmixx becomes first K-pop act to perform at Brazilian Carnival in Sao Paulo",
+      "url": "https://www.koreaherald.com/article/10674838",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-11T07:30:00.000Z",
+      "snippet": "Nmixx is set to become the first-ever K-pop artist to perform at the Brazilian Carnival, one of the world’s largest and most iconic festivals. According to JYP Entertainment, Nmixx...",
+      "description": "Nmixx is set to become the first-ever K-pop artist to perform at the Brazilian Carnival, one of the world’s largest and most iconic festivals. According to JYP Entertainment, Nmixx will take the stage at the Brazilian Carnival Sao Paulo, scheduled for Feb. 14 to 18. The group will appear as a special guest on Feb. 16 at a block party hosted by Brazilian pop star Pabllo Vittar — one of the main carnival festivities. The term “block party” refers to large-scale street celebrations that are a hallm",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/11/news-p.v1.20260211.97720f3bd9294b23b2fa13b6ec72cf98_T1.jpeg",
+      "tags": [
+        "k-pop",
+        "nmixx"
+      ]
+    },
+    {
       "id": "c862792381eb6fa3",
       "title": "15,000 invited to BTS’ free Gwanghwamun concert — how can the rest watch?",
       "url": "https://www.koreaherald.com/article/10674717",
@@ -23,7 +37,7 @@
       "publishedAt": "2026-02-11T06:12:37.000Z",
       "snippet": "BTS' free concert at Gwanghwamun Square in March will have 15,000 invited fans, organizers said Wednesday. But how can those in Seoul without a ticket watch? The question has been...",
       "description": "BTS' free concert at Gwanghwamun Square in March will have 15,000 invited fans, organizers said Wednesday. But how can those in Seoul without a ticket watch? The question has been raised as an estimated 260,000 people are projected to gather near the venue — more than 11 times the square’s official capacity of 18,000. For fans who were not among the 15,000 ticket holders, the concert will be broadcast live on large digital billboards installed on buildings surrounding Gwanghwamun Square, in cent",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/11/news-p.v1.20260211.6c40b6e41fce4d2892d5cf56ded478b7_T1.jpg",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/12/news-p.v1.20260211.6c40b6e41fce4d2892d5cf56ded478b7_T1.jpg",
       "tags": [
         "concert",
         "bts"
@@ -57,6 +71,21 @@
         "music video",
         "mv",
         "twice"
+      ]
+    },
+    {
+      "id": "aff5e0bbd02274d1",
+      "title": "Enhypen extends stay on Billboard 200",
+      "url": "https://www.koreaherald.com/article/10674541",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-11T02:51:47.000Z",
+      "snippet": "Enhypen is spending its third consecutive week on the Billboard 200 with its seventh EP “The Sin: Vanish,” according to the chart published Tuesday in the US. The mini album debute...",
+      "description": "Enhypen is spending its third consecutive week on the Billboard 200 with its seventh EP “The Sin: Vanish,” according to the chart published Tuesday in the US. The mini album debuted at No. 2 and ranked No. 48 on the latest chart. It is the group’s ninth entry on the main albums chart and sixth straight album to rank among the top ten. The 11-track endeavor sold more than 2 million copies in the first week and became Enhypen's fourth to do so. It logged over 250,000 shipments in Japan as of Janua",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/11/news-p.v1.20260211.d2b15777df9f4bf7bf79dab9fa6dc1b6_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "billboard"
       ]
     },
     {
@@ -416,34 +445,6 @@
       "tags": [
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "f04b92b6858c8a7b",
-      "title": "FTIsland to host first fan meetup in 10 years",
-      "url": "https://www.koreaherald.com/article/10669467",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-04T02:55:14.000Z",
-      "snippet": "FTIsland is planning to hold a fan meeting in Seoul on March 7, its first in a decade, its agency FNC Entertainment said Wednesday. The band uploaded a poster with a detective agen...",
-      "description": "FTIsland is planning to hold a fan meeting in Seoul on March 7, its first in a decade, its agency FNC Entertainment said Wednesday. The band uploaded a poster with a detective agency theme, showing each of the three members dressed in suits. The event, dubbed “FT Agency,” also celebrates the three bandmates committing to the future of the group, having renewed contracts with the agency last week. The trio has been with the agency since the group's debut in 2007. Also on March 7, Lee Honggi will",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.26deea72d83f4eb4bfcafb0fbc618461_T1.jpg",
-      "tags": [
-        "debut",
-        "fan meeting"
-      ]
-    },
-    {
-      "id": "162aa995748ea3ae",
-      "title": "Riize to drop Japan single ahead of album release",
-      "url": "https://www.koreaherald.com/article/10669407",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-04T02:22:59.000Z",
-      "snippet": "Riize will give fans an early listen to its second single in Japan, unveiling the title track as a prerelease on Feb. 9, label SM Entertainment announced Wednesday. The group is se...",
-      "description": "Riize will give fans an early listen to its second single in Japan, unveiling the title track as a prerelease on Feb. 9, label SM Entertainment announced Wednesday. The group is set to release its single album “All of You” on Feb. 18, but will drop the title track beforehand. Starting with Shotaro’s narration, the hip-hop tune is a confession of love to the group's fans, peppered with “saranghae,” meaning \"I love you\" in Korean. The upcoming single follows about 1 1/2 years after Riize's first s",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.db021ad91e7f4caf9e1cd927d905cd1c_T1.jpg",
-      "tags": [
-        "album",
-        "riize"
       ]
     }
   ]
