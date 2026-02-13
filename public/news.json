@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-02-13T11:09:19.650Z",
+  "generatedAt": "2026-02-13T14:28:31.171Z",
   "items": [
+    {
+      "id": "273bfa8555846dc1",
+      "title": "ILLIT’s Music Video Sparks Massive Controversy Over Alleged “Shade” Toward NewJeans",
+      "url": "https://www.koreaboo.com/news/illit-music-video-alleged-shade-toward-newjeans/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-13T12:44:19.000Z",
+      "snippet": "Fans pointed out a specific detail.",
+      "description": "Fans pointed out a specific detail.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "music video",
+        "newjeans"
+      ]
+    },
     {
       "id": "583bd0ad2e9088e9",
       "title": "TWICE Extends Record As Girl Group With Most MVs To Surpass 100 Million Views With “THIS IS FOR”",
@@ -435,20 +449,6 @@
         "album",
         "concert",
         "ive"
-      ]
-    },
-    {
-      "id": "640856f8966dde7a",
-      "title": "The ‘BTS effect’ becomes reality in Seoul",
-      "url": "https://www.koreaherald.com/article/10669622",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-04T05:59:40.000Z",
-      "snippet": "With a little more than a month left until BTS’ historic return to the stage, Seoul is already feeling the heat. The group’s concert on March 21 at Gwanghwamun Square — their first...",
-      "description": "With a little more than a month left until BTS’ historic return to the stage, Seoul is already feeling the heat. The group’s concert on March 21 at Gwanghwamun Square — their first full-group performance in over three years — has sent ripple effects through Seoul’s hospitality, retail and aviation industries, with nearby luxury hotels booked out and even budget motels hiking rates to nearly 500,000 won ($344) a night. Hotel industry data and tourism platforms show that the “BTS effect” is alread",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.d85707d318624b7ab7aa74d5084b44de_T1.jpg",
-      "tags": [
-        "concert",
-        "bts"
       ]
     }
   ]
