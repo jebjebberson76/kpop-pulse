@@ -1,46 +1,18 @@
 {
-  "generatedAt": "2026-02-14T11:44:46.882Z",
+  "generatedAt": "2026-02-14T13:56:21.222Z",
   "items": [
     {
-      "id": "375375944a29e653",
-      "title": "Red Velvet Face “Absurd” Racism Accusations Towards BLACKPINK’s Lisa",
-      "url": "https://www.koreaboo.com/news/red-velvet-face-absurd-accusations-racism-towards-blackpink-lisa/",
+      "id": "3b6a6d7a00b00bc2",
+      "title": "BTS Jungkook’s Recent Activity “Debunks” Date With Aespa’s Winter Rumors",
+      "url": "https://www.koreaboo.com/news/bts-jungkooks-recent-activity-debunks-date-aespas-winter-rumors/",
       "source": "Koreaboo",
-      "publishedAt": "2026-02-14T10:42:44.000Z",
-      "snippet": "Their interactions are being looked at differently.",
-      "description": "Their interactions are being looked at differently.",
-      "image": "https://image.koreaboo.com/2026/02/rvlisaracist-FI.jpg",
+      "publishedAt": "2026-02-14T12:56:45.000Z",
+      "snippet": "The alleged relationship has once again become a hot topic.",
+      "description": "The alleged relationship has once again become a hot topic.",
+      "image": "https://image.koreaboo.com/2026/02/WinterjungkookJapan-FI.jpg",
       "tags": [
-        "blackpink",
-        "red velvet"
-      ]
-    },
-    {
-      "id": "069b8c7abc9edfda",
-      "title": "“Disbanding?” Billboard’s New Article About BTS Sparks Fury",
-      "url": "https://www.koreaboo.com/news/disband-billboard-article-bts-sparks-fury/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-14T09:35:42.000Z",
-      "snippet": "\"What a f*ck ass headline...\"",
-      "description": "\"What a f*ck ass headline...\"",
-      "image": "https://image.koreaboo.com/2026/02/FD2870-1-9.jpg",
-      "tags": [
-        "billboard",
-        "bts"
-      ]
-    },
-    {
-      "id": "f5a522ec1e0003a3",
-      "title": "Which Male HYBE Idol Has The Strongest Stage Presence? Vote Now!",
-      "url": "https://www.koreaboo.com/polls/male-hybe-idol-strongest-stage-presence-poll/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-14T07:10:01.000Z",
-      "snippet": "Let your voice be heard in this new K-Pop poll.",
-      "description": "Let your voice be heard in this new K-Pop poll.",
-      "image": "https://image.koreaboo.com/2026/02/bts-enhypen.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
+        "bts",
+        "aespa"
       ]
     },
     {
@@ -448,6 +420,35 @@
         "album",
         "concert",
         "ive"
+      ]
+    },
+    {
+      "id": "640856f8966dde7a",
+      "title": "The ‘BTS effect’ becomes reality in Seoul",
+      "url": "https://www.koreaherald.com/article/10669622",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T05:59:40.000Z",
+      "snippet": "With a little more than a month left until BTS’ historic return to the stage, Seoul is already feeling the heat. The group’s concert on March 21 at Gwanghwamun Square — their first...",
+      "description": "With a little more than a month left until BTS’ historic return to the stage, Seoul is already feeling the heat. The group’s concert on March 21 at Gwanghwamun Square — their first full-group performance in over three years — has sent ripple effects through Seoul’s hospitality, retail and aviation industries, with nearby luxury hotels booked out and even budget motels hiking rates to nearly 500,000 won ($344) a night. Hotel industry data and tourism platforms show that the “BTS effect” is alread",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.d85707d318624b7ab7aa74d5084b44de_T1.jpg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "af242ab72befb734",
+      "title": "Le Sserafim’s encore Seoul show — tightly choreographed to the last beat",
+      "url": "https://www.koreaherald.com/article/10669577",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T05:18:14.000Z",
+      "snippet": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jams...",
+      "description": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jamsil Indoor Stadium, the final performance drew a near-capacity crowd, excluding limited-view seats. The tour, which began in Incheon in April last year, marked nearly a full year on the road for the group. Despite the demanding schedule, the members powered through a three-hour set featuring 26 songs, including original",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260203.d793e408b7b84e6b9d2b03104d563b72_T1.jpg",
+      "tags": [
+        "world tour",
+        "concert",
+        "le sserafim"
       ]
     }
   ]
