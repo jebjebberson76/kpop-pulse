@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-13T23:05:01.017Z",
+  "generatedAt": "2026-02-14T05:00:05.415Z",
   "items": [
+    {
+      "id": "2db4e031ca845c19",
+      "title": "BTS graces GQ magazine cover in 15 markets ahead of new album release",
+      "url": "https://www.koreaherald.com/article/10676892",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-14T01:48:48.000Z",
+      "snippet": "K-pop group BTS has graced the cover of GQ magazine's latest edition in 15 international markets ahead of the release of its fifth full-length album next month, its agency said Sat...",
+      "description": "K-pop group BTS has graced the cover of GQ magazine's latest edition in 15 international markets ahead of the release of its fifth full-length album next month, its agency said Saturday. According to BigHit Music, BTS has been selected as the cover model for the March issue of the men's fashion magazine in 15 countries and regions, including South Korea, the United States, Britain, Japan, Mexico, Germany and Thailand. The agency said it marked the first time a Korean artist has simultaneously ap",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/14/news-a.v1.20260214.bc634c069bb1462298cd99b118ae472d_T1.png",
+      "tags": [
+        "k-pop",
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "e5cc7ead5101dee6",
       "title": "Watch: ATEEZ Takes 2nd Win For “Adrenaline” On “Music Bank”; Performances By IVE, TWS, And More",
@@ -13,34 +28,6 @@
       "tags": [
         "music bank",
         "ive"
-      ]
-    },
-    {
-      "id": "1f26eefb2503c9dc",
-      "title": "BLACKPINK Rosé’s Comments About The “GRAMMYs” Hit With Renewed Backlash Amid BTS RM’s Interview",
-      "url": "https://www.koreaboo.com/news/blackpink-rose-comments-grammys-backlash-bts-rm-interview/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-13T17:15:31.000Z",
-      "snippet": "\"The difference...\"",
-      "description": "\"The difference...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "273bfa8555846dc1",
-      "title": "ILLIT’s Music Video Sparks Massive Controversy Over Alleged “Shade” Toward NewJeans",
-      "url": "https://www.koreaboo.com/news/illit-music-video-alleged-shade-toward-newjeans/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-13T12:44:19.000Z",
-      "snippet": "Fans pointed out a specific detail.",
-      "description": "Fans pointed out a specific detail.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music video",
-        "newjeans"
       ]
     },
     {
@@ -190,36 +177,6 @@
         "world tour",
         "concert",
         "stray kids"
-      ]
-    },
-    {
-      "id": "1e26d8eea94bef40",
-      "title": "TWICE’s Dahyun To Take Hiatus From “THIS IS FOR” Tour Due To Injury",
-      "url": "https://www.soompi.com/article/1818775wpp/twices-dahyun-to-take-hiatus-from-this-is-for-tour-due-to-injury",
-      "source": "Soompi",
-      "publishedAt": "2026-02-11T05:46:53.000Z",
-      "snippet": "Dahyun will be unable to participate in upcoming concert stops for TWICE’s world tour “THIS IS FOR” after sustaining an ankle injury. On February 11, JYP Entertainment issued an of...",
-      "description": "Dahyun will be unable to participate in upcoming concert stops for TWICE’s world tour “THIS IS FOR” after sustaining an ankle injury. On February 11, JYP Entertainment issued an official statement announcing that Dahyun will be unable to participate in the North America tour dates scheduled from February 13 through March 7. Read the full… Continue reading TWICE’s Dahyun To Take Hiatus From “THIS IS FOR” Tour Due To Injury The post TWICE’s Dahyun To Take Hiatus From “THIS IS FOR” Tour Due To Injury appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/02/10214338/dahyun-1-.jpeg",
-      "tags": [
-        "world tour",
-        "concert",
-        "twice"
-      ]
-    },
-    {
-      "id": "ce350b5199e523ab",
-      "title": "TWICE’s “What Is Love?” Becomes Their 1st MV To Hit 900 Million Views",
-      "url": "https://www.soompi.com/article/1818587wpp/twices-what-is-love-becomes-their-1st-mv-to-hit-900-million-views",
-      "source": "Soompi",
-      "publishedAt": "2026-02-11T03:37:31.000Z",
-      "snippet": "TWICE is inching closer towards hitting the 1 billion mark on YouTube! On February 11 at approximately 12:35 p.m. KST, TWICE’s music video for “What is Love?” surpassed 900 million...",
-      "description": "TWICE is inching closer towards hitting the 1 billion mark on YouTube! On February 11 at approximately 12:35 p.m. KST, TWICE’s music video for “What is Love?” surpassed 900 million views on YouTube, making it the group’s first music video ever to reach the milestone. TWICE originally released “What is Love?” on April 9, 2018… Continue reading TWICE’s “What Is Love?” Becomes Their 1st MV To Hit 900 Million Views The post TWICE’s “What Is Love?” Becomes Their 1st MV To Hit 900 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/02/10074700/TWICE.jpg",
-      "tags": [
-        "music video",
-        "mv",
-        "twice"
       ]
     },
     {
@@ -448,6 +405,50 @@
         "k-pop",
         "mini album",
         "album"
+      ]
+    },
+    {
+      "id": "e92e22d9ab2edc96",
+      "title": "Ive announces March fan concert",
+      "url": "https://www.koreaherald.com/article/10671103",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-06T01:23:02.000Z",
+      "snippet": "Ive will hold its fourth fan concert March 21-22 in Incheon, its agency Starship Entertainment announced Thursday. The second day’s event will be broadcast online to reach more fan...",
+      "description": "Ive will hold its fourth fan concert March 21-22 in Incheon, its agency Starship Entertainment announced Thursday. The second day’s event will be broadcast online to reach more fans. The group of six named the two-date event “Ive into Dive,” emphasizing its connection with fans. Dive is the name of its official fandom community. At the fan concert, Ive is expected to perform new songs from its second studio album “Revive+” which is due out on Feb. 23. On Monday, the group will drop the B-side tr",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/06/news-p.v1.20260206.6bdcc8bed9fe4aebbc26ec7676fb0d56_T1.jpg",
+      "tags": [
+        "album",
+        "concert",
+        "ive"
+      ]
+    },
+    {
+      "id": "640856f8966dde7a",
+      "title": "The ‘BTS effect’ becomes reality in Seoul",
+      "url": "https://www.koreaherald.com/article/10669622",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T05:59:40.000Z",
+      "snippet": "With a little more than a month left until BTS’ historic return to the stage, Seoul is already feeling the heat. The group’s concert on March 21 at Gwanghwamun Square — their first...",
+      "description": "With a little more than a month left until BTS’ historic return to the stage, Seoul is already feeling the heat. The group’s concert on March 21 at Gwanghwamun Square — their first full-group performance in over three years — has sent ripple effects through Seoul’s hospitality, retail and aviation industries, with nearby luxury hotels booked out and even budget motels hiking rates to nearly 500,000 won ($344) a night. Hotel industry data and tourism platforms show that the “BTS effect” is alread",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260204.d85707d318624b7ab7aa74d5084b44de_T1.jpg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "af242ab72befb734",
+      "title": "Le Sserafim’s encore Seoul show — tightly choreographed to the last beat",
+      "url": "https://www.koreaherald.com/article/10669577",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-04T05:18:14.000Z",
+      "snippet": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jams...",
+      "description": "Le Sserafim wrapped up its first world tour, “Easy Crazy Hot,” with a sold-out encore concert in Seoul on Sunday, closing a run that spanned 31 shows across 20 cities. Held at Jamsil Indoor Stadium, the final performance drew a near-capacity crowd, excluding limited-view seats. The tour, which began in Incheon in April last year, marked nearly a full year on the road for the group. Despite the demanding schedule, the members powered through a three-hour set featuring 26 songs, including original",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/04/news-p.v1.20260203.d793e408b7b84e6b9d2b03104d563b72_T1.jpg",
+      "tags": [
+        "world tour",
+        "concert",
+        "le sserafim"
       ]
     }
   ]
