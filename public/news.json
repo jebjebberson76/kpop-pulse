@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T14:31:16.887Z",
+  "generatedAt": "2026-02-16T17:24:47.003Z",
   "items": [
     {
       "id": "01c45f1544fd6cb0",
@@ -27,21 +27,6 @@
       "tags": [
         "idol",
         "blackpink"
-      ]
-    },
-    {
-      "id": "6ba4e0f0b91f0297",
-      "title": "BTS’s RM Becomes Victim Of Malicious Racism Amid Feud Between Korean And SEA Netizens",
-      "url": "https://www.koreaboo.com/news/bts-rm-victim-racism-feud-korean-sea-netizens/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-16T10:05:31.000Z",
-      "snippet": "It all started due to a K-Pop concert in Malaysia.",
-      "description": "It all started due to a K-Pop concert in Malaysia.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "concert",
-        "bts"
       ]
     },
     {
@@ -451,6 +436,21 @@
       "tags": [
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "adb33fd5d914148f",
+      "title": "Blackpink, Ive to face off for chart success in late February",
+      "url": "https://www.koreaherald.com/article/10672006",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-08T04:15:44.000Z",
+      "snippet": "A grand face-off in K-pop is on the horizon, as two of the industry’s most prominent girl groups — Blackpink and Ive — are gearing up for back-to-back releases late this month. Wit...",
+      "description": "A grand face-off in K-pop is on the horizon, as two of the industry’s most prominent girl groups — Blackpink and Ive — are gearing up for back-to-back releases late this month. With only four days separating the two groups’ respective returns, K-pop fans are anticipating a head-to-head battle on the charts, pitting one of the most globally recognized acts against a leading fourth-generation girl group, each of them known for consistently putting out hits. On Feb. 27, Blackpink will release its t",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/08/news-p.v1.20260208.03b256622e6647af8cc0f5ad05657179_T1.jpg",
+      "tags": [
+        "k-pop",
+        "blackpink",
+        "ive"
       ]
     }
   ]
