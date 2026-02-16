@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-16T08:05:02.579Z",
+  "generatedAt": "2026-02-16T11:27:44.922Z",
   "items": [
+    {
+      "id": "6ba4e0f0b91f0297",
+      "title": "BTS’s RM Becomes Victim Of Malicious Racism Amid Feud Between Korean And SEA Netizens",
+      "url": "https://www.koreaboo.com/news/bts-rm-victim-racism-feud-korean-sea-netizens/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-16T10:05:31.000Z",
+      "snippet": "It all started due to a K-Pop concert in Malaysia.",
+      "description": "It all started due to a K-Pop concert in Malaysia.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "cfd0752bd9501f13",
       "title": "VERIVERY’s Kangmin Confirmed To Make Solo Debut",
@@ -13,20 +28,6 @@
       "tags": [
         "debut",
         "album"
-      ]
-    },
-    {
-      "id": "cbc4b1c5a4a9071a",
-      "title": "SEVENTEEN Mingyu’s Response To Being Groped During Concert Sparks Heated Reactions",
-      "url": "https://www.koreaboo.com/news/seventeen-mingyu-response-groped-concert-sparks-heated-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-16T03:11:44.000Z",
-      "snippet": "\"How disgusting.\"",
-      "description": "\"How disgusting.\"",
-      "image": "https://image.koreaboo.com/2026/02/FEATURED-IMAGE-2026-02-15T210739.027.jpg",
-      "tags": [
-        "concert",
-        "seventeen"
       ]
     },
     {
@@ -85,7 +86,7 @@
       "publishedAt": "2026-02-15T14:53:27.000Z",
       "snippet": "Following their first-ever “Music Core” win, ATEEZ has snagged the first “Inkigayo” trophy of their career! On the February 15 episode of SBS’s “Inkigayo,” the candidates for first...",
       "description": "Following their first-ever “Music Core” win, ATEEZ has snagged the first “Inkigayo” trophy of their career! On the February 15 episode of SBS’s “Inkigayo,” the candidates for first place were Car, the Garden’s “My whole world,” ATEEZ’s “Adrenaline,” and KiiiKiii’s “404 (New Era).” ATEEZ ultimately took the win with a total of 4,764 points, marking… Continue reading Watch: ATEEZ Takes 1st-Ever “Inkigayo” Win With “Adrenaline”; Performances By IVE, TWS, And More The post Watch: ATEEZ Takes 1st-Ever “Inkigayo” Win With “Adrenaline”; Performances By IVE, TWS, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/02/15065613/ATEEZ_660886.jpg",
       "tags": [
         "inkigayo",
         "ive"
