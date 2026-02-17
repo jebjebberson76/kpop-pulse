@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-02-16T23:01:17.799Z",
+  "generatedAt": "2026-02-17T05:14:40.035Z",
   "items": [
-    {
-      "id": "01c45f1544fd6cb0",
-      "title": "BTS Jungkook’s Fans Begged To Stop Harassing aespa’s Winter Amid Dating Rumors",
-      "url": "https://www.koreaboo.com/news/bts-jungkooks-fans-begged-stop-harassing-aespas-winter-amid-dating-rumors/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-16T13:58:55.000Z",
-      "snippet": "“They’re causing a scene.”",
-      "description": "“They’re causing a scene.”",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "aespa"
-      ]
-    },
-    {
-      "id": "6f65695fd99d0479",
-      "title": "BLACKPINK Jennie’s Viral Comment About Idol Schedule Sparks Major Criticism",
-      "url": "https://www.koreaboo.com/news/blackpink-jennie-viral-comment-idol-schedule-criticism/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-16T12:55:24.000Z",
-      "snippet": "It's linked to past \"Lazy\" allegations.",
-      "description": "It's linked to past \"Lazy\" allegations.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
-      ]
-    },
     {
       "id": "cfd0752bd9501f13",
       "title": "VERIVERY’s Kangmin Confirmed To Make Solo Debut",
@@ -451,6 +423,35 @@
         "k-pop",
         "blackpink",
         "ive"
+      ]
+    },
+    {
+      "id": "58877928ba54ffd9",
+      "title": "BTS to turn Seoul into cultural stage with ‘The City Seoul’",
+      "url": "https://www.koreaherald.com/article/10671570",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-06T08:58:18.000Z",
+      "snippet": "BTS will be extending its comeback celebrations beyond the stage and into Seoul itself as it transforms the city into a massive, immersive cultural venue this spring. “BTS The City...",
+      "description": "BTS will be extending its comeback celebrations beyond the stage and into Seoul itself as it transforms the city into a massive, immersive cultural venue this spring. “BTS The City Arirang Seoul,” launching March 20 and running through April 12, is a citywide project marking the release of BTS' fifth album “Arirang,” agency Big Hit Music announced Thursday. The event will also follow the group's comeback show, “BTS Comeback Live: Arirang,” set for Gwanghwamun Square in central Seoul. “In collabo",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/06/news-p.v1.20260206.d925ef6a4e274eb5a3a815bf17920244_T1.jpg",
+      "tags": [
+        "comeback",
+        "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "7e0e36b3f30ef908",
+      "title": "Blackpink unveils tracklist for new EP, with ‘Go’ as main track",
+      "url": "https://www.koreaherald.com/article/10671525",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-06T07:47:05.000Z",
+      "snippet": "Blackpink has revealed the tracklist for its upcoming third EP “Deadline,” marking the group’s first full-member release in approximately three years and five months. According to...",
+      "description": "Blackpink has revealed the tracklist for its upcoming third EP “Deadline,” marking the group’s first full-member release in approximately three years and five months. According to YG Entertainment on Friday, the new album will feature five tracks: pre-release single “Jump,” main track “Go,” as well as B-side tracks “Me and My,” “Champion” and “Fxxxboy.” YG describes the album as a snapshot of the girl group at its peak. “As the title ‘Deadline’ suggests, the album will be filled with Blackpink’s",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/06/news-p.v1.20260206.48bdab8d2b56437ebd6a0774a9d1fe3d_T1.jpg",
+      "tags": [
+        "album",
+        "blackpink"
       ]
     }
   ]
