@@ -1,18 +1,32 @@
 {
-  "generatedAt": "2026-02-17T11:27:25.776Z",
+  "generatedAt": "2026-02-17T14:36:42.886Z",
   "items": [
     {
-      "id": "2709fcae9db4cfc4",
-      "title": "K-Pop Idol Gets Confronted Face-To-Face About His Poor Attitude",
-      "url": "https://www.koreaboo.com/news/kpop-idol-gets-confronted-poor-attitude/",
+      "id": "81daba2c50f3ff10",
+      "title": "BLACKPINK’s “New” Video Stirs Up Major Ridicule Ahead Of Comeback",
+      "url": "https://www.koreaboo.com/news/new-blackpink-video-major-ridicule-lunar-new-year/",
       "source": "Koreaboo",
-      "publishedAt": "2026-02-17T09:31:48.000Z",
-      "snippet": "Singer Jang Hyunseung, formerly of the group BEAST, decisively addressed past controversies regarding his attitude at fan sign events. On the 16th, a video titled Jang Hyunseung Ha...",
-      "description": "Singer Jang Hyunseung, formerly of the group BEAST, decisively addressed past controversies regarding his attitude at fan sign events. On the 16th, a video titled Jang Hyunseung Has Changed “Jang…",
+      "publishedAt": "2026-02-17T12:55:21.000Z",
+      "snippet": "It was to celebrate the Lunar New Year.",
+      "description": "It was to celebrate the Lunar New Year.",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "k-pop",
-        "idol"
+        "comeback",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "e36965bb3b6da2c4",
+      "title": "HYBE Male Idol Standing Next To IVE Sparks Controversy On Lying About “Real Height”",
+      "url": "https://www.koreaboo.com/news/hybe-male-idols-ive-wonyoung-yujin-sparks-controversy-lying-real-height/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-17T11:40:06.000Z",
+      "snippet": "Male idols' height is always a topic of discussion.",
+      "description": "Male idols' height is always a topic of discussion.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "ive"
       ]
     },
     {
@@ -437,21 +451,6 @@
         "k-pop",
         "blackpink",
         "ive"
-      ]
-    },
-    {
-      "id": "58877928ba54ffd9",
-      "title": "BTS to turn Seoul into cultural stage with ‘The City Seoul’",
-      "url": "https://www.koreaherald.com/article/10671570",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-06T08:58:18.000Z",
-      "snippet": "BTS will be extending its comeback celebrations beyond the stage and into Seoul itself as it transforms the city into a massive, immersive cultural venue this spring. “BTS The City...",
-      "description": "BTS will be extending its comeback celebrations beyond the stage and into Seoul itself as it transforms the city into a massive, immersive cultural venue this spring. “BTS The City Arirang Seoul,” launching March 20 and running through April 12, is a citywide project marking the release of BTS' fifth album “Arirang,” agency Big Hit Music announced Thursday. The event will also follow the group's comeback show, “BTS Comeback Live: Arirang,” set for Gwanghwamun Square in central Seoul. “In collabo",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/06/news-p.v1.20260206.d925ef6a4e274eb5a3a815bf17920244_T1.jpg",
-      "tags": [
-        "comeback",
-        "album",
-        "bts"
       ]
     }
   ]
