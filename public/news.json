@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-02-19T17:40:13.431Z",
+  "generatedAt": "2026-02-19T19:51:53.356Z",
   "items": [
-    {
-      "id": "f9c3102e62b369fa",
-      "title": "“Barbie Reincarnation?” K-Pop Idol Shows Off Her Unrivaled Curves",
-      "url": "https://www.koreaboo.com/news/barbie-reincarnation-kpop-idol-shows-off-unrivaled-curves-in-pink-silk-dress/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-19T11:59:20.000Z",
-      "snippet": "A K-pop idol shared an update showcasing her perfect figure reminiscent of a mannequin and goddess-like beauty. On the 18th, former T-ARA member Hyomin posted several photos on her...",
-      "description": "A K-pop idol shared an update showcasing her perfect figure reminiscent of a mannequin and goddess-like beauty. On the 18th, former T-ARA member Hyomin posted several photos on her Instagram…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
     {
       "id": "47d239745c3b5b04",
       "title": "G-Dragon’s Middle East debut marred by chaotic planning at Dubai show",
@@ -455,6 +441,21 @@
         "mini album",
         "album",
         "seventeen"
+      ]
+    },
+    {
+      "id": "f11e3ef27512e819",
+      "title": "Stray Kids to celebrate 8 years together with fans",
+      "url": "https://www.koreaherald.com/article/10673381",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-10T01:38:13.000Z",
+      "snippet": "Stray Kids will meet and greet fans in person through four days of fan meetings, JYP Entertainment announced Monday. The eight bandmates will celebrate the eighth anniversary of th...",
+      "description": "Stray Kids will meet and greet fans in person through four days of fan meetings, JYP Entertainment announced Monday. The eight bandmates will celebrate the eighth anniversary of their debut with the event, titled “Stay in Our Little House,” at Incheon Inspire Arena. \"Stay\" is the group’s official fandom community. The fan meetups will be held on March 28-29 and April 4-5. The second and fourth events will be broadcast online. Separately, the group's tour film “Stray Kids: The Dominate Experience",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/10/news-p.v1.20260210.85ee71fcd38746a4817af3fa99d6ac83_T1.jpg",
+      "tags": [
+        "debut",
+        "fan meeting",
+        "stray kids"
       ]
     }
   ]
