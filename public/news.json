@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T05:07:36.292Z",
+  "generatedAt": "2026-02-20T08:00:11.229Z",
   "items": [
     {
       "id": "bf355153e4f87517",
@@ -15,20 +15,6 @@
         "album",
         "music video",
         "stray kids"
-      ]
-    },
-    {
-      "id": "c135f9a3f2e7d110",
-      "title": "RIIZE’s Manager Gets Flamed For His Treatment Towards Anton",
-      "url": "https://www.koreaboo.com/news/manager-flamed-ordering-riize-anton-chopsticks/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-19T23:45:07.000Z",
-      "snippet": "Korean etiquette vs. American idol.",
-      "description": "Korean etiquette vs. American idol.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "riize"
       ]
     },
     {
@@ -452,6 +438,21 @@
         "bts",
         "blackpink",
         "ive"
+      ]
+    },
+    {
+      "id": "777159c9edc5f7c1",
+      "title": "Le Sserafim tops Oricon singles chart",
+      "url": "https://www.koreaherald.com/article/10673569",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-10T02:45:00.000Z",
+      "snippet": "Le Sserafim claimed the No. 1 spot on Oricon’s Weekly Single Ranking with “Spaghetti,” according to the chart published Tuesday. This is the first time in three years an internatio...",
+      "description": "Le Sserafim claimed the No. 1 spot on Oricon’s Weekly Single Ranking with “Spaghetti,” according to the chart published Tuesday. This is the first time in three years an international female act sat atop the chart. The five-member group nabbed the highest rung on the chart three months after the album release, notching the spot it landed in 2023 with its Japan debut single “Fearless.” The chart success owes to the quintet’s first international tour, “Easy Crazy Hot,” which saw it play the Tokyo",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/10/news-p.v1.20260210.a4021eea0dd9494d9793031cfbb0c21c_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "le sserafim"
       ]
     }
   ]
