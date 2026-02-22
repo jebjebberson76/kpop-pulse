@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-02-22T17:53:54.409Z",
+  "generatedAt": "2026-02-22T19:04:20.690Z",
   "items": [
+    {
+      "id": "4e51edc76b494db7",
+      "title": "TWICE Jeongyeon’s Weight Mocked By Front Row Concert Attendee, Sparking Outrage",
+      "url": "https://www.koreaboo.com/news/twice-jeongyeon-weight-mocked-front-row-concert-attendee-sparking-outrage/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-22T18:29:07.000Z",
+      "snippet": "Fans are questioning why nothing was done.",
+      "description": "Fans are questioning why nothing was done.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "twice"
+      ]
+    },
     {
       "id": "ab9c7725fd035cdf",
       "title": "Yena Announces March Comeback Date With Explosive Teaser For “LOVE CATCHER”",
@@ -434,23 +448,6 @@
         "debut",
         "album",
         "billboard"
-      ]
-    },
-    {
-      "id": "472e0d34b078a928",
-      "title": "From rookies to global acts, K-pop increasingly turns to electronic music",
-      "url": "https://www.koreaherald.com/article/10673810",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-10T06:51:50.000Z",
-      "snippet": "An increasing number of K-pop acts are leaning into electronic music, signaling what could emerge as one of the genre’s defining sonic currents this year. From rookie groups such a...",
-      "description": "An increasing number of K-pop acts are leaning into electronic music, signaling what could emerge as one of the genre’s defining sonic currents this year. From rookie groups such as KiiiKiii to established acts including Ive and Blackpink, artists are selecting house or electronic dance tracks as their lead singles. Even BTS is reported to have collaborated with American DJ and producer Diplo on its upcoming album “Arirang,” due March 20, further fueling expectations around an EDM-driven directi",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/11/news-p.v1.20260210.38c1b823e5e042bc8da2370b417090c9_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "bts",
-        "blackpink",
-        "ive"
       ]
     }
   ]
