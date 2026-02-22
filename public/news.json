@@ -1,32 +1,19 @@
 {
-  "generatedAt": "2026-02-21T23:46:32.266Z",
+  "generatedAt": "2026-02-22T05:09:48.871Z",
   "items": [
     {
-      "id": "353f934f2fd6bc2d",
-      "title": "BTS RM’s “Extreme” Transformation Ahead Of Comeback Sparks Controversy",
-      "url": "https://www.koreaboo.com/news/bts-rm-weight-loss-sparks-debate/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-21T15:49:14.000Z",
-      "snippet": "His post about weight loss hs triggered debate.",
-      "description": "His post about weight loss hs triggered debate.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "0db1addac565f2fb",
-      "title": "Top K-Pop Idol Fleeces Haters With Secret “Social Experiment” Success",
-      "url": "https://www.koreaboo.com/news/ice-blue-rabbit-identity-revealed-idle-soyeon/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-21T14:23:04.000Z",
-      "snippet": "She won this round.",
-      "description": "She won this round.",
-      "image": "/public/placeholder-news.svg",
+      "id": "08cd83690881fa4d",
+      "title": "K-Pop Artists Sweep 7 Of Top 10 Spots On IFPI’s Global Album Sales Chart For 2025",
+      "url": "https://www.soompi.com/article/1820592wpp/k-pop-artists-sweep-7-of-top-10-spots-on-ifpis-global-album-sales-chart-for-2025",
+      "source": "Soompi",
+      "publishedAt": "2026-02-22T03:57:54.000Z",
+      "snippet": "K-pop made an exceptionally strong showing on the IFPI’s year-end Global Album Sales Chart for 2025! The International Federation of the Phonographic Industry (IFPI)—a non-profit o...",
+      "description": "K-pop made an exceptionally strong showing on the IFPI’s year-end Global Album Sales Chart for 2025! The International Federation of the Phonographic Industry (IFPI)—a non-profit organization that represents the music recording industry worldwide—has revealed its annual ranking of last year’s best-selling albums across global physical sales and digital downloads. Stray Kids’ “KARMA” took No. 2… Continue reading K-Pop Artists Sweep 7 Of Top 10 Spots On IFPI’s Global Album Sales Chart For 2025 The post K-Pop Artists Sweep 7 Of Top 10 Spots On IFPI’s Global Album Sales Chart For 2025 appeared fir...",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/02/21195348/Stray-Kids-SEVENTEEN-ENHYPEN-TXT-ZEROBASEONE-IVE.jpg",
       "tags": [
         "k-pop",
-        "idol"
+        "album",
+        "stray kids"
       ]
     },
     {
@@ -202,7 +189,7 @@
       "publishedAt": "2026-02-18T20:10:10.000Z",
       "snippet": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! Both ENHYPEN’s new Korean mini album “THE SIN : VANISH” and aespa’s Ja...",
       "description": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! Both ENHYPEN’s new Korean mini album “THE SIN : VANISH” and aespa’s Japanese debut single album “HOT MESS” were certified platinum for over 250,000 units shipped in Japan each. Meanwhile, ILLIT’s Japanese debut single album “Toki Yo Tomare” and SEVENTEEN’s… Continue reading ENHYPEN, aespa, ILLIT, And SEVENTEEN’s DxS Earn Platinum And Gold Certifications In Japan The post ENHYPEN, aespa, ILLIT, And SEVENTEEN’s DxS Earn Platinum And Gold Certifications In Japan appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/02/18120643/ENHYPEN-aespa-ILLIT-SEVENTEEN-DxS.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "debut",
         "mini album",
@@ -448,6 +435,21 @@
         "world tour",
         "concert",
         "stray kids"
+      ]
+    },
+    {
+      "id": "aff5e0bbd02274d1",
+      "title": "Enhypen extends stay on Billboard 200",
+      "url": "https://www.koreaherald.com/article/10674541",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-11T02:51:47.000Z",
+      "snippet": "Enhypen is spending its third consecutive week on the Billboard 200 with its seventh EP “The Sin: Vanish,” according to the chart published Tuesday in the US. The mini album debute...",
+      "description": "Enhypen is spending its third consecutive week on the Billboard 200 with its seventh EP “The Sin: Vanish,” according to the chart published Tuesday in the US. The mini album debuted at No. 2 and ranked No. 48 on the latest chart. It is the group’s ninth entry on the main albums chart and sixth straight album to rank among the top ten. The 11-track endeavor sold more than 2 million copies in the first week and became Enhypen's fourth to do so. It logged over 250,000 shipments in Japan as of Janua",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/11/news-p.v1.20260211.d2b15777df9f4bf7bf79dab9fa6dc1b6_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "billboard"
       ]
     }
   ]
