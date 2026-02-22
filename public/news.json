@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-02-22T05:09:48.871Z",
+  "generatedAt": "2026-02-22T07:51:44.364Z",
   "items": [
+    {
+      "id": "99f7de20f2ef9c5c",
+      "title": "Popular K-Pop Idol Group Embroiled In Recent Male Singer Wedlock Controversy",
+      "url": "https://www.koreaboo.com/news/highlight-embroiled-in-kpop-male-singer-child-wedlock-controversy/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-22T06:01:24.000Z",
+      "snippet": "They will take legal action.",
+      "description": "They will take legal action.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "08cd83690881fa4d",
       "title": "K-Pop Artists Sweep 7 Of Top 10 Spots On IFPI’s Global Album Sales Chart For 2025",
@@ -435,21 +449,6 @@
         "world tour",
         "concert",
         "stray kids"
-      ]
-    },
-    {
-      "id": "aff5e0bbd02274d1",
-      "title": "Enhypen extends stay on Billboard 200",
-      "url": "https://www.koreaherald.com/article/10674541",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-11T02:51:47.000Z",
-      "snippet": "Enhypen is spending its third consecutive week on the Billboard 200 with its seventh EP “The Sin: Vanish,” according to the chart published Tuesday in the US. The mini album debute...",
-      "description": "Enhypen is spending its third consecutive week on the Billboard 200 with its seventh EP “The Sin: Vanish,” according to the chart published Tuesday in the US. The mini album debuted at No. 2 and ranked No. 48 on the latest chart. It is the group’s ninth entry on the main albums chart and sixth straight album to rank among the top ten. The 11-track endeavor sold more than 2 million copies in the first week and became Enhypen's fourth to do so. It logged over 250,000 shipments in Japan as of Janua",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/11/news-p.v1.20260211.d2b15777df9f4bf7bf79dab9fa6dc1b6_T1.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "billboard"
       ]
     }
   ]
