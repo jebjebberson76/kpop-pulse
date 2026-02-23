@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-02-23T21:30:21.911Z",
+  "generatedAt": "2026-02-23T23:47:07.764Z",
   "items": [
+    {
+      "id": "1e0fa573d914fcbd",
+      "title": "Alleged Insider Claims Of BLACKPINK’s Jennie Being “Jealous” Of NewJeans’ Minji Go Viral",
+      "url": "https://www.koreaboo.com/news/alleged-insider-claims-blackpink-jennie-jealous-newjeans-minji/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-23T23:33:01.000Z",
+      "snippet": "People are highly divided.",
+      "description": "People are highly divided.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "blackpink",
+        "newjeans"
+      ]
+    },
     {
       "id": "37c09a25b251e208",
       "title": "Ive reignites momentum with 2nd LP ‘Revive+’ ahead of world tour",
@@ -440,23 +454,6 @@
         "k-pop",
         "comeback",
         "blackpink"
-      ]
-    },
-    {
-      "id": "d6bf925454181351",
-      "title": "BTS’ V scores 2.5b plays on Spotify with solo set",
-      "url": "https://www.koreaherald.com/article/10675445",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-12T02:27:45.000Z",
-      "snippet": "V of BTS exceeded 2.5 billion plays on Spotify with his first solo album, “Layover,” according to Big Hit Music on Thursday. The album rolled out in September 2023 and reached the...",
-      "description": "V of BTS exceeded 2.5 billion plays on Spotify with his first solo album, “Layover,” according to Big Hit Music on Thursday. The album rolled out in September 2023 and reached the milestone on Wednesday, nearly 2 1/2 years later. The album debuted on the Billboard 200 at No. 2 and all six of its tracks made the Global 200 and Global Excl. US charts, in a first for a K-pop solo endeavor. Each track garnered more than 100 million streams on Spotify, another first for such a release. The mini album",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/12/news-p.v1.20260212.18fded7e8531493980c9a7dbb632d68c_T1.jpg",
-      "tags": [
-        "k-pop",
-        "mini album",
-        "album",
-        "billboard",
-        "bts"
       ]
     }
   ]
