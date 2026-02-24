@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T11:27:34.560Z",
+  "generatedAt": "2026-02-24T15:11:00.004Z",
   "items": [
     {
       "id": "f6e48ab532feaeab",
@@ -241,6 +241,20 @@
       ]
     },
     {
+      "id": "bdce915d75aa3ce3",
+      "title": "Trace BTS&apos; history through these 7 tourist spots",
+      "url": "https://www.koreaherald.com/article/10678476",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-21T07:00:00.000Z",
+      "snippet": "With just a month to go until BTS takes the stage at Gwanghwamun Square, anticipation is building across Seoul. The performance — marking the group’s return to full-group activitie...",
+      "description": "With just a month to go until BTS takes the stage at Gwanghwamun Square, anticipation is building across Seoul. The performance — marking the group’s return to full-group activities after over three years — is drawing fans from around the world to the capital. Beyond the square itself, the city is dotted with places tied to BTS’ journey. From historic landmarks to meaningful fan spaces, here are seven stops that add an extra layer of meaning to any concert trip. Gyeongbokgung Jongno-gu, central",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/20/news-p.v1.20260219.b95405ab71a64ff29a14ffa9bce8002a_T1.jpg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
+    {
       "id": "2f6cd48553d88321",
       "title": "K-pop stars sweep seven of top 10 spots on IFPI global album sales chart",
       "url": "https://www.koreaherald.com/article/10679530",
@@ -436,21 +450,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/02/18/news-p.v1.20250820.c3c23740036a49458b2e06630cd8084e_T1.jpg",
       "tags": [
         "k-pop",
-        "bts"
-      ]
-    },
-    {
-      "id": "2db4e031ca845c19",
-      "title": "BTS graces GQ magazine cover in 15 markets ahead of new album release",
-      "url": "https://www.koreaherald.com/article/10676892",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-14T01:48:48.000Z",
-      "snippet": "K-pop group BTS has graced the cover of GQ magazine's latest edition in 15 international markets ahead of the release of its fifth full-length album next month, its agency said Sat...",
-      "description": "K-pop group BTS has graced the cover of GQ magazine's latest edition in 15 international markets ahead of the release of its fifth full-length album next month, its agency said Saturday. According to BigHit Music, BTS has been selected as the cover model for the March issue of the men's fashion magazine in 15 countries and regions, including South Korea, the United States, Britain, Japan, Mexico, Germany and Thailand. The agency said it marked the first time a Korean artist has simultaneously ap",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/14/news-a.v1.20260214.bc634c069bb1462298cd99b118ae472d_T1.png",
-      "tags": [
-        "k-pop",
-        "album",
         "bts"
       ]
     }
