@@ -1,18 +1,33 @@
 {
-  "generatedAt": "2026-02-23T23:47:07.764Z",
+  "generatedAt": "2026-02-24T05:13:52.480Z",
   "items": [
     {
-      "id": "1e0fa573d914fcbd",
-      "title": "Alleged Insider Claims Of BLACKPINK’s Jennie Being “Jealous” Of NewJeans’ Minji Go Viral",
-      "url": "https://www.koreaboo.com/news/alleged-insider-claims-blackpink-jennie-jealous-newjeans-minji/",
+      "id": "e2fab84f5ff82b90",
+      "title": "Legendary Idol Files Against Malicious Comments For The First Time Since Debut",
+      "url": "https://www.koreaboo.com/news/gdragon-files-complaint-100-malicious-posts-first-time-since-debut/",
       "source": "Koreaboo",
-      "publishedAt": "2026-02-23T23:33:01.000Z",
-      "snippet": "People are highly divided.",
-      "description": "People are highly divided.",
+      "publishedAt": "2026-02-24T04:26:38.000Z",
+      "snippet": "Fans were relieved to see him finally taking action.",
+      "description": "Fans were relieved to see him finally taking action.",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "blackpink",
-        "newjeans"
+        "idol",
+        "debut"
+      ]
+    },
+    {
+      "id": "8a48d4efd9332f67",
+      "title": "BTS Jimin Beats Out Jungkook And BLACKPINK’s Jennie For Top Spot In Individual Idol Brand Reputation",
+      "url": "https://www.koreaboo.com/news/bts-jimin-beats-jungkook-blackpink-jennie-top-spot-individual-idol-brand-reputation/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-24T03:30:17.000Z",
+      "snippet": "BTS member Jimin ranked first in the February big data analysis of individual idol brand reputation. Fellow group member Jungkook and BLACKPINK’s Jennie followed in second and thir...",
+      "description": "BTS member Jimin ranked first in the February big data analysis of individual idol brand reputation. Fellow group member Jungkook and BLACKPINK’s Jennie followed in second and third place. The…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "bts",
+        "blackpink"
       ]
     },
     {
@@ -28,6 +43,65 @@
         "album",
         "world tour",
         "ive"
+      ]
+    },
+    {
+      "id": "7be5e4eefd9a7456",
+      "title": "I.O.I to reunite in May for 10th anniversary",
+      "url": "https://www.koreaherald.com/article/10680594",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T08:17:21.000Z",
+      "snippet": "Project girl group I.O.I is set to reunite in May to celebrate 10 years since its official debut, Swing Entertainment announced Monday. The comeback marks I.O.I’s first official gr...",
+      "description": "Project girl group I.O.I is set to reunite in May to celebrate 10 years since its official debut, Swing Entertainment announced Monday. The comeback marks I.O.I’s first official group promotion in nearly nine years, following the conclusion of its activities in early 2017. Most of the original bandmates will participate, though Kang Mina and Zhou Jieqiong will sit out due to prior commitments, leaving the group to promote as a nine-member act. Formed through public voting via Mnet’s \"Produce 101",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.72f6bd901a6049c9bf56b5109cd58732_T1.jpg",
+      "tags": [
+        "comeback",
+        "debut",
+        "mnet"
+      ]
+    },
+    {
+      "id": "3838e4f412b60bc7",
+      "title": "Seoul police warn of proxy ticket scams ahead of BTS comeback show",
+      "url": "https://www.koreaherald.com/article/10680468",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T06:24:38.000Z",
+      "snippet": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency sai...",
+      "description": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency said Monday it is closely monitoring online activity as reservations open on Feb. 21, citing concerns over proxy bookings, inflated resale listings and possible data theft. They have already requested the removal or blocking of 34 suspicious posts linked to the event. Many of the flagged posts offered to secure tickets on",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.29883f6030184af3a56d0a803e3434f3_T1.jpg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
+    {
+      "id": "e6edd15c9bb12d8c",
+      "title": "NCT’s Jeno, Jaemin ready to show ‘both sides’",
+      "url": "https://www.koreaherald.com/article/10680253",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T02:24:01.000Z",
+      "snippet": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demo...",
+      "description": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demonstrating their chemistry as a pair based on the history they share as teammates of the same age. The EP consists of six tracks, including the titular track, a hip-hop dance tune. “Many may have been expecting a ‘bold and strong’ concept for us two as a subunit. But we chose this because it has a novel ambience we have",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.97352d70736641d8b5ab6d3b29ee1456_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
+      ]
+    },
+    {
+      "id": "e8eb31ac5915988a",
+      "title": "Le Sserafim exceeds 400m Spotify streams with ‘Smart’",
+      "url": "https://www.koreaherald.com/article/10680206",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T02:11:56.000Z",
+      "snippet": "Le Sserafim has garnered 400 million plays on Spotify with “Smart,” according to Source Music on Monday. It marks the group’s fourth song to reach the milestone, following “Antifra...",
+      "description": "Le Sserafim has garnered 400 million plays on Spotify with “Smart,” according to Source Music on Monday. It marks the group’s fourth song to reach the milestone, following “Antifragile,” “Perfect Night” and “Crazy.” “Smart” is part of Le Sserafim's third EP, “Easy,” from 2024. The mini album spent five weeks on the Billboard 200, peaking at No. 8, while the side track logged 12 weeks on both the Billboard 200 and Global 200 Excl. US, hitting as high as No. 39 and No. 21, respectively. The five-t",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.4f78af1d8b184c768cd8fb0869dc5b5b_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "billboard",
+        "le sserafim"
       ]
     },
     {
@@ -379,81 +453,6 @@
         "k-pop",
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "b5767ae54021cc5f",
-      "title": "Twice tops 100m views with ‘This Is For’ music video",
-      "url": "https://www.koreaherald.com/article/10676445",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-13T02:31:45.000Z",
-      "snippet": "Twice reached 100 million views on YouTube with the music video for “This Is For,” according to label JYP Entertainment on Friday. The group now has 26 videos with over 100 million...",
-      "description": "Twice reached 100 million views on YouTube with the music video for “This Is For,” according to label JYP Entertainment on Friday. The group now has 26 videos with over 100 million views, extending its record as the female group with the most music videos at that level worldwide. “This Is For” is the main track from the eponymous fourth studio album, released in July last year. The LP entered Billboard 200 at No. 6, becoming the nine-member group’s seventh consecutive album to reach the top 10 o",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/13/news-p.v1.20260213.ef8bd6fbecf14352a56c35c28d62d314_T1.jpg",
-      "tags": [
-        "album",
-        "music video",
-        "billboard",
-        "twice"
-      ]
-    },
-    {
-      "id": "aaa7722cd3b7273e",
-      "title": "Riize to livestream Seoul show in cinemas",
-      "url": "https://www.koreaherald.com/article/10676427",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-13T02:26:39.000Z",
-      "snippet": "The final concert of Riize’s first international tour will be available for viewing in cinemas, label SM Entertainment said Friday. The six-member act is set to go live in Seoul on...",
-      "description": "The final concert of Riize’s first international tour will be available for viewing in cinemas, label SM Entertainment said Friday. The six-member act is set to go live in Seoul on March 6-8, concluding the tour “Riizing Loud,” and the second night of the sold-out run will be livestreamed in 32 theaters nationwide. The three-night run will wrap up the tour that began in Seoul last year and took the bandmates to 21 cities around the world. On Feb. 21-23, the group will give an encore show in Japa",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/13/news-p.v1.20260213.ae2c45b9b56b422594137e0d4de8701b_T1.jpg",
-      "tags": [
-        "concert",
-        "riize"
-      ]
-    },
-    {
-      "id": "b8bc4a19d1bb0e86",
-      "title": "Alpha Drive One hits high on Oricon chart",
-      "url": "https://www.koreaherald.com/article/10676278",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-13T01:30:24.000Z",
-      "snippet": "Boy band Alpha Drive One ranked No. 4 on Oricon’s Monthly Album Ranking with its debut album “Euphoria,” according to agency WakeOne Entertainment on Friday. It debuted on Oricon’s...",
-      "description": "Boy band Alpha Drive One ranked No. 4 on Oricon’s Monthly Album Ranking with its debut album “Euphoria,” according to agency WakeOne Entertainment on Friday. It debuted on Oricon’s Weekly and Weekly Combined Album Rankings at No. 3, and spent another week on both at No. 4. The first EP from the rookie group was unveiled in January and sold more than 1.44 million units in a week, setting a record as the second-best-selling debut album from a K-pop group, while all six tracks from the album made M",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/13/news-p.v1.20260213.560e941877064f41ad800f5ece4c290b_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut",
-        "album"
-      ]
-    },
-    {
-      "id": "8ecdb44d93faf56b",
-      "title": "BTS to stream new world tour shows in cinemas worldwide",
-      "url": "https://www.koreaherald.com/article/10676096",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-12T23:54:34.000Z",
-      "snippet": "K-pop giant BTS will livestream the opening shows of its new world tour \"Arirang\" in cinemas across South Korea and around the world, its agency BigHit Music said Friday. The scree...",
-      "description": "K-pop giant BTS will livestream the opening shows of its new world tour \"Arirang\" in cinemas across South Korea and around the world, its agency BigHit Music said Friday. The screenings will feature the band's concerts in Goyang, just northwest of Seoul, on April 11 and in Tokyo on April 18 at more than 3,500 theaters in 75 countries. Some regions will show delayed broadcasts due to time differences, the company said. In South Korea, leading multiplex chains CGV, Lotte Cinema and Megabox will ho",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/13/rcv.YNA.20260122.PYH2026012207610001300_T1.jpg",
-      "tags": [
-        "k-pop",
-        "world tour",
-        "bts"
-      ]
-    },
-    {
-      "id": "5ab433246126c485",
-      "title": "National Museum of Korea goes pink for Blackpink&apos;s comeback",
-      "url": "https://www.koreaherald.com/article/10675708",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-12T06:02:57.000Z",
-      "snippet": "Blackpink is expanding beyond music into cultural heritage to mark the Feb. 27 release of its third EP “Deadline,” becoming the first K-pop act to carry out an official large-scale...",
-      "description": "Blackpink is expanding beyond music into cultural heritage to mark the Feb. 27 release of its third EP “Deadline,” becoming the first K-pop act to carry out an official large-scale collaboration with the National Museum of Korea. According to YG Entertainment on Thursday, “National Museum of Korea x Blackpink” rolls out from Feb. 26 to March. 8, in partnership with the museum and global audio streaming platform, Spotify. During the project, the museum’s exterior will be illuminated in pink as pa",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/12/news-p.v1.20260212.f66f73cb42f04af6a1d810939d33f813_T1.jpg",
-      "tags": [
-        "k-pop",
-        "comeback",
-        "blackpink"
       ]
     }
   ]
