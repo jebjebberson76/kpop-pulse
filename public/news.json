@@ -1,19 +1,21 @@
 {
-  "generatedAt": "2026-02-25T08:06:03.502Z",
+  "generatedAt": "2026-02-25T11:28:00.953Z",
   "items": [
     {
-      "id": "377f06eb19d67455",
-      "title": "Beloved K-Pop Idol Reportedly Sets Wedding Date",
-      "url": "https://www.koreaboo.com/news/beloved-kpop-idol-reportedly-sets-wedding-date/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-25T06:39:37.000Z",
-      "snippet": "A beloved 2nd generation boy group member will reportedly hold his wedding in April. On the 25th, SPOTV News reported that actor and 2PM member Ok Taecyeon will tie the…",
-      "description": "A beloved 2nd generation boy group member will reportedly hold his wedding in April. On the 25th, SPOTV News reported that actor and 2PM member Ok Taecyeon will tie the…",
-      "image": "/public/placeholder-news.svg",
+      "id": "44bf62e94802efac",
+      "title": "5 K-Pop Idols Whose Recent Renaissance Proves It’s Never Too Late To Find Your It Girl Era",
+      "url": "https://www.soompi.com/article/1819053wpp/5-k-pop-idols-whose-recent-renaissance-proves-its-never-too-late-to-find-your-it-girl-era",
+      "source": "Soompi",
+      "publishedAt": "2026-02-25T09:20:45.000Z",
+      "snippet": "Not every idol finds their peak popularity right at debut. For some idols, it takes K-pop fans a bit of time to recognize just how incredible they are! As long as they stay true to...",
+      "description": "Not every idol finds their peak popularity right at debut. For some idols, it takes K-pop fans a bit of time to recognize just how incredible they are! As long as they stay true to themselves, their renaissance is on the horizon. Here’s proof that patience builds an It Girl even stronger! IVE’s Gaeul The… Continue reading 5 K-Pop Idols Whose Recent Renaissance Proves It’s Never Too Late To Find Your It Girl Era The post 5 K-Pop Idols Whose Recent Renaissance Proves It’s Never Too Late To Find Your It Girl Era appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/02/25005429/it-girl.jpg",
       "tags": [
         "k-pop",
+        "k pop",
         "idol",
-        "2pm"
+        "debut",
+        "ive"
       ]
     },
     {
@@ -128,7 +130,7 @@
       "publishedAt": "2026-02-24T16:45:22.000Z",
       "snippet": "TVXQ has just hit the 100 million mark for the very first time on YouTube! On February 25 at around 1:43 a.m. KST, TVXQ’s music video for their iconic 2008 hit “MIROTIC” surpassed...",
       "description": "TVXQ has just hit the 100 million mark for the very first time on YouTube! On February 25 at around 1:43 a.m. KST, TVXQ’s music video for their iconic 2008 hit “MIROTIC” surpassed 100 million views on YouTube, making it the group’s first music video ever to reach the milestone. TVXQ first uploaded the music… Continue reading TVXQ’s “MIROTIC” Becomes Their 1st MV To Hit 100 Million Views The post TVXQ’s “MIROTIC” Becomes Their 1st MV To Hit 100 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/02/24084306/TVXQ.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "music video",
         "mv",
@@ -236,21 +238,6 @@
         "album",
         "billboard",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "a6e38d872b1dee52",
-      "title": "I.O.I Confirms Spring Comeback With 9 Members For 10th Debut Anniversary",
-      "url": "https://www.soompi.com/article/1820745wpp/i-o-i-confirms-spring-comeback-with-9-members-for-10th-debut-anniversary",
-      "source": "Soompi",
-      "publishedAt": "2026-02-23T02:00:03.000Z",
-      "snippet": "It’s finally happening—I.O.I is making a comeback to mark their 10th debut anniversary! On February 23, SWING Entertainment stated, “I.O.I has confirmed their comeback this coming...",
-      "description": "It’s finally happening—I.O.I is making a comeback to mark their 10th debut anniversary! On February 23, SWING Entertainment stated, “I.O.I has confirmed their comeback this coming May. They are currently preparing a new album.” According to the report, SWING Entertainment will take full charge of I.O.I’s management and oversee their activities throughout this 10th anniversary… Continue reading I.O.I Confirms Spring Comeback With 9 Members For 10th Debut Anniversary The post I.O.I Confirms Spring Comeback With 9 Members For 10th Debut Anniversary appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "debut",
-        "album"
       ]
     },
     {
@@ -449,6 +436,21 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/02/19/news-p.v1.20260219.7591d1230f4241eba6d58ff0772c7c25_T1.jpg",
       "tags": [
         "debut",
+        "album",
+        "billboard"
+      ]
+    },
+    {
+      "id": "7dd7e2eda39a2cd4",
+      "title": "Ateez lands on Billboard 200 at No. 3",
+      "url": "https://www.koreaherald.com/article/10678165",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-19T01:32:05.000Z",
+      "snippet": "Ateez placed its 13th mini album at No. 3 on Billboard 200 dated Feb. 21. The EP “Golden Hour: Part 4” is its sixth consecutive album to hit the main albums chart within the top th...",
+      "description": "Ateez placed its 13th mini album at No. 3 on Billboard 200 dated Feb. 21. The EP “Golden Hour: Part 4” is its sixth consecutive album to hit the main albums chart within the top three, and eighth overall to sit among the top ten. The five-track set rolled out Feb. 8 and topped the iTunes Top Albums Chart in 31 regions, and the main track, “Adrenaline,” debuted atop the Top Songs Chart in 18. The mini album sold more than 1.5 million copies in its first week and became the group’s sixth straight",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/19/news-p.v1.20260219.e85fddeab363411d95aa9a4455693908_T1.jpg",
+      "tags": [
+        "mini album",
         "album",
         "billboard"
       ]
