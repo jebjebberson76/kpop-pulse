@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T22:00:54.949Z",
+  "generatedAt": "2026-02-25T23:57:11.318Z",
   "items": [
     {
       "id": "9552b1de9a937d09",
@@ -27,20 +27,6 @@
       "tags": [
         "bts",
         "seventeen"
-      ]
-    },
-    {
-      "id": "b32159f01e9c8d7b",
-      "title": "TWICE Sana’s “Poor” Condition On Stage Worries Fans",
-      "url": "https://www.koreaboo.com/news/twice-sana-poor-condition-stage-worries-fans/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-25T19:17:41.000Z",
-      "snippet": "The group are in the middle of a world tour.",
-      "description": "The group are in the middle of a world tour.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "world tour",
-        "twice"
       ]
     },
     {
@@ -450,6 +436,21 @@
         "exo",
         "red velvet",
         "shinee"
+      ]
+    },
+    {
+      "id": "3c31dfa1321be6b6",
+      "title": "Stray Kids rank No. 2 on global artist chart",
+      "url": "https://www.koreaherald.com/article/10678272",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-19T02:22:58.000Z",
+      "snippet": "Stray Kids ranked No. 2 on the International Federation of the Phonographic Industry's Global Artist Chart, according to the organization on Thursday. Marking the group's fourth co...",
+      "description": "Stray Kids ranked No. 2 on the International Federation of the Phonographic Industry's Global Artist Chart, according to the organization on Thursday. Marking the group's fourth consecutive year on the chart since its debut at No. 7, it is the only K-pop artist to rank among the top ten this year. It claimed the highest rung so far, following Taylor Swift. The group is slated to host a fan meetup in Korea next month. Under the title “Stay in Our Little House,” Stray Kids hold four shows at Inche",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/19/news-p.v1.20260219.81280655c73c499a845e577a65810d87_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "stray kids"
       ]
     }
   ]
