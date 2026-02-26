@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T14:39:27.108Z",
+  "generatedAt": "2026-02-26T18:04:31.344Z",
   "items": [
     {
       "id": "de1787c52af9820c",
@@ -38,20 +38,6 @@
       "publishedAt": "2026-02-26T11:04:12.000Z",
       "snippet": "A top female K-Pop idol was accused of plastic surgery after she was not completely truthful about her weight loss. On the 26th, a video titled “What kind of management…",
       "description": "A top female K-Pop idol was accused of plastic surgery after she was not completely truthful about her weight loss. On the 26th, a video titled “What kind of management…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "5f5e7439736daed1",
-      "title": "Beloved K-Pop Girl Group Idol Reportedly Pregnant",
-      "url": "https://www.koreaboo.com/news/beloved-kpop-girl-group-idol-reportedly-pregnant/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-26T10:33:59.000Z",
-      "snippet": "A beloved 2nd generation girl group member is reportedly in the early stages of pregnancy. According to industry sources on the 26th, an original member of girl group Rainbow, Go W...",
-      "description": "A beloved 2nd generation girl group member is reportedly in the early stages of pregnancy. According to industry sources on the 26th, an original member of girl group Rainbow, Go Woori, is…",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
@@ -443,6 +429,20 @@
         "album",
         "stray kids",
         "seventeen"
+      ]
+    },
+    {
+      "id": "cd14fe3791949267",
+      "title": "Blackpink becomes first artist to reach 100 mln subscribers on YouTube",
+      "url": "https://www.koreaherald.com/article/10679480",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-21T02:04:45.000Z",
+      "snippet": "K-pop girl group Blackpink hit 100 million subscribers on YouTube, making it the first official artist channel to hit the milestone, the video sharing platform said Saturday. To ce...",
+      "description": "K-pop girl group Blackpink hit 100 million subscribers on YouTube, making it the first official artist channel to hit the milestone, the video sharing platform said Saturday. To celebrate such an achievement, YouTube said it presented Blackpink with a custom Red Diamond Creator Award. \"The dynamic female powerhouse that is Blackpink has earned international acclaim on YouTube with their mega hit songs and fierce performances,\" YouTube said on its official blog. \"The group has continuously raised",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/21/news-p.v1.20260221.195c0c5ede4c411e88ece8eb0c8fa97f_T1.jpg",
+      "tags": [
+        "k-pop",
+        "blackpink"
       ]
     }
   ]
