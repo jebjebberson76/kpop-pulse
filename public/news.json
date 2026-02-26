@@ -1,48 +1,88 @@
 {
-  "generatedAt": "2026-02-26T08:03:10.148Z",
+  "generatedAt": "2026-02-26T11:27:28.998Z",
   "items": [
     {
-      "id": "dc3785584902256a",
-      "title": "Top Boy Group Idol Confesses To Cutting Contact With His Parents",
-      "url": "https://www.koreaboo.com/news/top-boy-group-idol-confesses-cutting-contact-parents/",
+      "id": "5b2760d472c9a632",
+      "title": "Top Female Idol Gets Accused Of Plastic Surgery After Lying About Her Weight",
+      "url": "https://www.koreaboo.com/news/top-female-idol-gets-accused-plastic-surgery-after-lying-weight/",
       "source": "Koreaboo",
-      "publishedAt": "2026-02-26T07:55:19.000Z",
-      "snippet": "A top K-Pop boy group member revealed that he has cut off contact with his parents. In Disney+’s Battle Of Fates released on February 25, Super Junior member Shindong was…",
-      "description": "A top K-Pop boy group member revealed that he has cut off contact with his parents. In Disney+’s Battle Of Fates released on February 25, Super Junior member Shindong was…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "super junior"
-      ]
-    },
-    {
-      "id": "7fc4d5bd9ba61edd",
-      "title": "NCT’s Doyoung Sings OST For BLACKPINK Jisoo’s “Boyfriend On Demand”",
-      "url": "https://www.koreaboo.com/news/nct-doyoung-sings-ost-blackpink-jisoo-boyfriend-demand/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-26T06:37:19.000Z",
-      "snippet": "NCT member Doyoung, currently serving in the military, has participated in the OST of Boyfriend On Demand, starring BLACKPINK member Jisoo, with whom he previously co-hosted Inkiga...",
-      "description": "NCT member Doyoung, currently serving in the military, has participated in the OST of Boyfriend On Demand, starring BLACKPINK member Jisoo, with whom he previously co-hosted Inkigayo. According to Herald…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "inkigayo",
-        "blackpink",
-        "nct"
-      ]
-    },
-    {
-      "id": "99d0ae7574639f14",
-      "title": "K-Pop Idol Gets Accused Of Repeatedly Cheating — Even While His Wife Was Pregnant",
-      "url": "https://www.koreaboo.com/news/kpop-idol-accused-repeatedly-cheating-wife-pregnant/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-26T06:14:19.000Z",
-      "snippet": "A K-Pop idol is embroiled in controversy following allegations by his ex-wife that he committed infidelity during their marriage. On the 25th, former U-KISS member Dongho’s ex-wife...",
-      "description": "A K-Pop idol is embroiled in controversy following allegations by his ex-wife that he committed infidelity during their marriage. On the 25th, former U-KISS member Dongho’s ex-wife, identified only as…",
+      "publishedAt": "2026-02-26T11:04:12.000Z",
+      "snippet": "A top female K-Pop idol was accused of plastic surgery after she was not completely truthful about her weight loss. On the 26th, a video titled “What kind of management…",
+      "description": "A top female K-Pop idol was accused of plastic surgery after she was not completely truthful about her weight loss. On the 26th, a video titled “What kind of management…",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
+      ]
+    },
+    {
+      "id": "5f5e7439736daed1",
+      "title": "Beloved K-Pop Girl Group Idol Reportedly Pregnant",
+      "url": "https://www.koreaboo.com/news/beloved-kpop-girl-group-idol-reportedly-pregnant/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-26T10:33:59.000Z",
+      "snippet": "A beloved 2nd generation girl group member is reportedly in the early stages of pregnancy. According to industry sources on the 26th, an original member of girl group Rainbow, Go W...",
+      "description": "A beloved 2nd generation girl group member is reportedly in the early stages of pregnancy. According to industry sources on the 26th, an original member of girl group Rainbow, Go Woori, is…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "f0369cb912a2e068",
+      "title": "Legendary Idol Caught In Prostitution Controversy Suddenly Hints At Marriage",
+      "url": "https://www.koreaboo.com/news/legendary-idol-caught-in-prostitution-controversy-suddenly-hints-marriage/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-26T10:00:08.000Z",
+      "snippet": "An OG K-Pop idol has suddenly attracted attention by mentioning marriage, while embroiled in controversy over his opinion on the legalization of prostitution. On the 25th, Shinhwa’...",
+      "description": "An OG K-Pop idol has suddenly attracted attention by mentioning marriage, while embroiled in controversy over his opinion on the legalization of prostitution. On the 25th, Shinhwa’s Kim Dongwan posted…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "2c87032da70aff04",
+      "title": "BLACKPINK Accused Of “Hating” Fans With Latest Comeback Related Announcement",
+      "url": "https://www.koreaboo.com/news/blackpink-accused-hating-fans-comeback-announcement-listening-party/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-26T09:55:21.000Z",
+      "snippet": "\"...we become more and more disappointed😔\"",
+      "description": "\"...we become more and more disappointed😔\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "6795643c8aba55c8",
+      "title": "EXO Kai’s Latest Activity Hit With Scathing Comparisons With BTS’s V",
+      "url": "https://www.koreaboo.com/news/exo-kai-latest-activity-scathing-comparisons-bts-v/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-26T09:49:30.000Z",
+      "snippet": "People are calling it a double standard.",
+      "description": "People are calling it a double standard.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "exo"
+      ]
+    },
+    {
+      "id": "896d8f2ec53ac9d5",
+      "title": "Kian84, Kim Yeon Koung, Lee Junho, And LE SSERAFIM’s Kazuha Confirmed For “Kian’s Bizarre B&B” Season 2",
+      "url": "https://www.soompi.com/article/1821746wpp/kian84-kim-yeon-koung-lee-junho-and-le-sserafims-kazuha-confirmed-for-kians-bizarre-bb-season-2",
+      "source": "Soompi",
+      "publishedAt": "2026-02-26T09:18:36.000Z",
+      "snippet": "“Kian’s Bizarre B&B” Season 2 has officially unveiled its cast lineup! “Kian’s Bizarre B&B” is a Netflix variety show in which Kian84 and his castmates run a one-of-a-kind guesthou...",
+      "description": "“Kian’s Bizarre B&B” Season 2 has officially unveiled its cast lineup! “Kian’s Bizarre B&B” is a Netflix variety show in which Kian84 and his castmates run a one-of-a-kind guesthouse. Season 1 featured Kian84, BTS’s Jin, and Ji Ye Eun operating a unique lodging on the scenic island of Ulleungdo, offering guests an unforgettable hospitality experience. The newly… Continue reading Kian84, Kim Yeon Koung, Lee Junho, And LE SSERAFIM’s Kazuha Confirmed For “Kian’s Bizarre B&B” Season 2 The post Kian84, Kim Yeon Koung, Lee Junho, And LE SSERAFIM’s Kazuha Confirmed For “Kian’s Bizarre B&B” Season 2 a...",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/02/26011804/kian84-kim-yeon-koung-lee-junho-kazuha-1.jpg",
+      "tags": [
+        "bts",
+        "le sserafim"
       ]
     },
     {
@@ -188,7 +228,7 @@
       "publishedAt": "2026-02-24T18:53:37.000Z",
       "snippet": "ATEEZ’s latest album is enjoying a strong second week on the Billboard charts! Last week, ATEEZ’s 13th mini album “GOLDEN HOUR : Part.4” debuted at No. 3 on Billboard’s Top 200 Alb...",
       "description": "ATEEZ’s latest album is enjoying a strong second week on the Billboard charts! Last week, ATEEZ’s 13th mini album “GOLDEN HOUR : Part.4” debuted at No. 3 on Billboard’s Top 200 Albums chart after achieving the group’s biggest week yet in the United States. On February 24 local time, Billboard revealed that “GOLDEN HOUR :… Continue reading ATEEZ Spends 2nd Week In Top 20 Of Billboard 200 With “GOLDEN HOUR : Part.4” The post ATEEZ Spends 2nd Week In Top 20 Of Billboard 200 With “GOLDEN HOUR : Part.4” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/02/24105039/ATEEZ_29e46f.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -398,51 +438,6 @@
       "description": "With just a month to go until BTS takes the stage at Gwanghwamun Square, anticipation is building across Seoul. The performance — marking the group’s return to full-group activities after over three years — is drawing fans from around the world to the capital. Beyond the square itself, the city is dotted with places tied to BTS’ journey. From historic landmarks to meaningful fan spaces, here are seven stops that add an extra layer of meaning to any concert trip. Gyeongbokgung Jongno-gu, central",
       "image": "https://wimg.heraldcorp.com/news/cms/2026/02/20/news-p.v1.20260219.b95405ab71a64ff29a14ffa9bce8002a_T1.jpg",
       "tags": [
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "2f6cd48553d88321",
-      "title": "K-pop stars sweep seven of top 10 spots on IFPI global album sales chart",
-      "url": "https://www.koreaherald.com/article/10679530",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-21T05:57:27.000Z",
-      "snippet": "K-pop acts, including Stray Kids and Seventeen, dominated global album sales last year, taking seven of the top 10 spots on the International Federation of the Phonographic Industr...",
-      "description": "K-pop acts, including Stray Kids and Seventeen, dominated global album sales last year, taking seven of the top 10 spots on the International Federation of the Phonographic Industry's Global Album Sales Chart, data showed Friday. Stray Kids' \"Karma\" came in second on the 2025 ranking, followed by Seventeen's \"Happy Burstday\" in third place and Enhypen's \"Desire: Unleash\" in fourth. Global pop star Taylor Swift topped the list with \"The Life of a Showgirl.\" Other K-pop albums in the top 10 includ",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/21/news-p.v1.20260221.d6eb6473c522450ba22cbb8bca2a54e2_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "stray kids",
-        "seventeen"
-      ]
-    },
-    {
-      "id": "cd14fe3791949267",
-      "title": "Blackpink becomes first artist to reach 100 mln subscribers on YouTube",
-      "url": "https://www.koreaherald.com/article/10679480",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-21T02:04:45.000Z",
-      "snippet": "K-pop girl group Blackpink hit 100 million subscribers on YouTube, making it the first official artist channel to hit the milestone, the video sharing platform said Saturday. To ce...",
-      "description": "K-pop girl group Blackpink hit 100 million subscribers on YouTube, making it the first official artist channel to hit the milestone, the video sharing platform said Saturday. To celebrate such an achievement, YouTube said it presented Blackpink with a custom Red Diamond Creator Award. \"The dynamic female powerhouse that is Blackpink has earned international acclaim on YouTube with their mega hit songs and fierce performances,\" YouTube said on its official blog. \"The group has continuously raised",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/21/news-p.v1.20260221.195c0c5ede4c411e88ece8eb0c8fa97f_T1.jpg",
-      "tags": [
-        "k-pop",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "27ff7276884d3cde",
-      "title": "Update on BTS comeback show in Seoul: Ticketed entry, one-hour show; city preparing for 260,000 fans",
-      "url": "https://www.koreaherald.com/article/10679359",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-20T11:48:54.000Z",
-      "snippet": "An update on BTS’ upcoming show “BTS The Comeback Live: Arirang” in central Seoul next month: Access to designated viewing areas for the concert will be limited to fans with advanc...",
-      "description": "An update on BTS’ upcoming show “BTS The Comeback Live: Arirang” in central Seoul next month: Access to designated viewing areas for the concert will be limited to fans with advance tickets, organizers said, and the show will run for about one hour. Seoul police are preparing extensive crowd control measures amid expectations that attendance could reach 260,000. According to an announcement posted Friday on the global fan platform Weverse, entry to the main viewing zones for the one-hour event —",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/20/news-p.v1.20260220.f5361b66417d43e8a387999f9e376cd5_T1.jpg",
-      "tags": [
-        "comeback",
         "concert",
         "bts"
       ]
