@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-02-27T05:05:47.188Z",
+  "generatedAt": "2026-02-27T07:59:19.579Z",
   "items": [
+    {
+      "id": "ddd9f310ea1d60a7",
+      "title": "Blackpink fans flock to National Museum of Korea for &apos;Deadline&apos; release",
+      "url": "https://www.koreaherald.com/article/10684221",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-27T07:53:21.000Z",
+      "snippet": "Lee Ju-young, 25, has visited the National Museum of Korea several times before. Friday, she returned with a specific purpose: to celebrate the comeback of Blackpink. \"It's a place...",
+      "description": "Lee Ju-young, 25, has visited the National Museum of Korea several times before. Friday, she returned with a specific purpose: to celebrate the comeback of Blackpink. \"It's a place I visit often, but today it feels completely different,\" she said, with the museum's interior bathed in pink as part of a collaboration with the global girl group. \"The collaboration between the museum and Blackpink feels symbolic. I really wanted to experience it in person.\" Lee was among hundreds of visitors who beg",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/27/news-p.v1.20260227.5411f33a24af47b99d698c89e1e0fbbd_T1.jpg",
+      "tags": [
+        "comeback",
+        "blackpink"
+      ]
+    },
     {
       "id": "ae04b252f9b1a824",
       "title": "Red Velvet’s Irene To Make 1st-Ever Solo Comeback In March",
@@ -85,35 +99,6 @@
       "tags": [
         "album",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "851e4bbbe3422124",
-      "title": "Min Hee Jin’s Long Term Plans For NewJeans Revealed In Court",
-      "url": "https://www.koreaboo.com/news/newjeans-world-tour-plans-key-evidence-min-hee-jin-tampering/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-27T00:41:46.000Z",
-      "snippet": "A world tour was in the works.",
-      "description": "A world tour was in the works.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "world tour",
-        "newjeans"
-      ]
-    },
-    {
-      "id": "1c995884b6ee04f5",
-      "title": "Red Velvet’s Irene To Release First Full Album In Late March",
-      "url": "https://www.koreaboo.com/news/red-velvet-irene-first-full-album-late-march/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-27T00:14:50.000Z",
-      "snippet": "Red Velvet member Irene is set to release her first full-length album. According to Korean media, Irene confirmed her comeback with the release of her first full album at the…",
-      "description": "Red Velvet member Irene is set to release her first full-length album. According to Korean media, Irene confirmed her comeback with the release of her first full album at the…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album",
-        "red velvet"
       ]
     },
     {
@@ -311,21 +296,6 @@
       ]
     },
     {
-      "id": "aea2cab2a8e7811c",
-      "title": "TVXQ’s “MIROTIC” Becomes Their 1st MV To Hit 100 Million Views",
-      "url": "https://www.soompi.com/article/1821234wpp/tvxqs-mirotic-becomes-their-1st-mv-to-hit-100-million-views",
-      "source": "Soompi",
-      "publishedAt": "2026-02-24T16:45:22.000Z",
-      "snippet": "TVXQ has just hit the 100 million mark for the very first time on YouTube! On February 25 at around 1:43 a.m. KST, TVXQ’s music video for their iconic 2008 hit “MIROTIC” surpassed...",
-      "description": "TVXQ has just hit the 100 million mark for the very first time on YouTube! On February 25 at around 1:43 a.m. KST, TVXQ’s music video for their iconic 2008 hit “MIROTIC” surpassed 100 million views on YouTube, making it the group’s first music video ever to reach the milestone. TVXQ first uploaded the music… Continue reading TVXQ’s “MIROTIC” Becomes Their 1st MV To Hit 100 Million Views The post TVXQ’s “MIROTIC” Becomes Their 1st MV To Hit 100 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music video",
-        "mv",
-        "tvxq"
-      ]
-    },
-    {
       "id": "815049a29b14f092",
       "title": "Ryan Tedder calls working BTS’ new album one of the most incredible projects of his career",
       "url": "https://www.koreaherald.com/article/10681463",
@@ -441,6 +411,34 @@
         "comeback",
         "debut",
         "mnet"
+      ]
+    },
+    {
+      "id": "3838e4f412b60bc7",
+      "title": "Seoul police warn of proxy ticket scams ahead of BTS comeback show",
+      "url": "https://www.koreaherald.com/article/10680468",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T06:24:38.000Z",
+      "snippet": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency sai...",
+      "description": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency said Monday it is closely monitoring online activity as reservations open on Feb. 21, citing concerns over proxy bookings, inflated resale listings and possible data theft. They have already requested the removal or blocking of 34 suspicious posts linked to the event. Many of the flagged posts offered to secure tickets on",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.29883f6030184af3a56d0a803e3434f3_T1.jpg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
+    {
+      "id": "e6edd15c9bb12d8c",
+      "title": "NCT’s Jeno, Jaemin ready to show ‘both sides’",
+      "url": "https://www.koreaherald.com/article/10680253",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T02:24:01.000Z",
+      "snippet": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demo...",
+      "description": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demonstrating their chemistry as a pair based on the history they share as teammates of the same age. The EP consists of six tracks, including the titular track, a hip-hop dance tune. “Many may have been expecting a ‘bold and strong’ concept for us two as a subunit. But we chose this because it has a novel ambience we have",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.97352d70736641d8b5ab6d3b29ee1456_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
       ]
     }
   ]
