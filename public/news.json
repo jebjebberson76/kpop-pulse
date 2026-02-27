@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T14:10:18.011Z",
+  "generatedAt": "2026-02-27T16:59:07.806Z",
   "items": [
     {
       "id": "6d91118898b63b17",
@@ -17,20 +17,6 @@
       ]
     },
     {
-      "id": "2ae2179825a615fe",
-      "title": "Controversial K-Pop Idol Directly Speaks About Assaulting His Ex-Girlfriend",
-      "url": "https://www.koreaboo.com/news/controversial-kpop-idol-directly-speaks-assaulting-ex-girlfriend/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-27T11:49:29.000Z",
-      "snippet": "A K-Pop idol candidly shared his feelings about the controversies surrounding him in the past. On the 27th, actor and singer Kim Hyun Joong appeared on the YouTube channel “B-Level...",
-      "description": "A K-Pop idol candidly shared his feelings about the controversies surrounding him in the past. On the 27th, actor and singer Kim Hyun Joong appeared on the YouTube channel “B-Level…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
       "id": "3ddb7ca6e84605aa",
       "title": "Seoul to install 900 toilets for BTS comeback crowd",
       "url": "https://www.koreaherald.com/article/10684334",
@@ -44,20 +30,6 @@
         "concert",
         "bts",
         "twice"
-      ]
-    },
-    {
-      "id": "e64c633058a80635",
-      "title": "“Disband!” BLACKPINK’s “DEADLINE” Album Hit With Scathing Reactions",
-      "url": "https://www.koreaboo.com/news/disband-blackpink-new-release-scathing-reviews/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-27T09:15:10.000Z",
-      "snippet": "\"...worst EP of all time...\"",
-      "description": "\"...worst EP of all time...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "blackpink"
       ]
     },
     {
@@ -441,6 +413,36 @@
         "album",
         "billboard",
         "le sserafim"
+      ]
+    },
+    {
+      "id": "95422fa985b2b5b5",
+      "title": "BTS’ Jimin, Jungkook reach milestones on Spotify",
+      "url": "https://www.koreaherald.com/article/10680147",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T01:41:34.000Z",
+      "snippet": "Jimin of BTS passed 2.3 billion plays on Spotify with his solo single “Who,” a first for an Asian solo artist without a featured collaborator. “Who” is the main track from his seco...",
+      "description": "Jimin of BTS passed 2.3 billion plays on Spotify with his solo single “Who,” a first for an Asian solo artist without a featured collaborator. “Who” is the main track from his second solo set “Muse,” which also reached a milestone of 3.8 billion plays, also a first for a Korean-language solo effort. Jimin rolled out the album in July 2024, charting 33 weeks on Billboard’s Hot 100, in the longest run for a K-pop solo singer at the time, peaking at No. 12. Meanwhile, Jungkook went past 2.8 billion",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.f641f13823074a7aa5f12d4cf21c0bce_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "billboard",
+        "bts"
+      ]
+    },
+    {
+      "id": "bdce915d75aa3ce3",
+      "title": "Trace BTS&apos; history through these 7 tourist spots",
+      "url": "https://www.koreaherald.com/article/10678476",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-21T07:00:00.000Z",
+      "snippet": "With just a month to go until BTS takes the stage at Gwanghwamun Square, anticipation is building across Seoul. The performance — marking the group’s return to full-group activitie...",
+      "description": "With just a month to go until BTS takes the stage at Gwanghwamun Square, anticipation is building across Seoul. The performance — marking the group’s return to full-group activities after over three years — is drawing fans from around the world to the capital. Beyond the square itself, the city is dotted with places tied to BTS’ journey. From historic landmarks to meaningful fan spaces, here are seven stops that add an extra layer of meaning to any concert trip. Gyeongbokgung Jongno-gu, central",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/20/news-p.v1.20260219.b95405ab71a64ff29a14ffa9bce8002a_T1.jpg",
+      "tags": [
+        "concert",
+        "bts"
       ]
     }
   ]
