@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-02-28T05:59:05.465Z",
+  "generatedAt": "2026-02-28T07:05:56.077Z",
   "items": [
+    {
+      "id": "22205a75fd04ce4b",
+      "title": "BTS&apos; Gwanghwamun concert to run for around 1 hour over safety concerns",
+      "url": "https://www.koreaherald.com/article/10684494",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-28T06:35:57.000Z",
+      "snippet": "A free concert by K-pop group BTS at Seoul's Gwanghwamun Square scheduled for next month will run for around an hour due to safety and operational considerations, its organizer sai...",
+      "description": "A free concert by K-pop group BTS at Seoul's Gwanghwamun Square scheduled for next month will run for around an hour due to safety and operational considerations, its organizer said Saturday. \"The performance time has been set at an appropriate duration to ensure safe and smooth operations,\" Hybe said in a release. \"The Gwanghwamun concert is being held in a unique setting at a public outdoor venue rather than a conventional concert hall,\" the company said. \"Accordingly, we have set the performa",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/28/news-p.v1.20260228.533c24ff28ba4d4b9aa9e3994ca9cefe_T1.jpg",
+      "tags": [
+        "k-pop",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "6897c47c6bb9d7ed",
+      "title": "HYBE Addresses Latest Rumors Surrounding BTS’s Concert",
+      "url": "https://www.koreaboo.com/news/hybe-addresses-latest-rumors-surrounding-bts-concert/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-28T06:30:54.000Z",
+      "snippet": "BTS’s agency has clarified their position regarding the group’s performance at Gwanghwamun Square. On the 28th, HYBE addressed rumors about the performance duration, stating, “Seou...",
+      "description": "BTS’s agency has clarified their position regarding the group’s performance at Gwanghwamun Square. On the 28th, HYBE addressed rumors about the performance duration, stating, “Seoul City has never restricted the…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "fb326fad5f4376a2",
       "title": "BLACKPINK Breaks Record For Highest 1st-Day Sales Of Any Girl Group In Hanteo History",
@@ -415,34 +444,6 @@
         "comeback",
         "debut",
         "mnet"
-      ]
-    },
-    {
-      "id": "3838e4f412b60bc7",
-      "title": "Seoul police warn of proxy ticket scams ahead of BTS comeback show",
-      "url": "https://www.koreaherald.com/article/10680468",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-23T06:24:38.000Z",
-      "snippet": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency sai...",
-      "description": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency said Monday it is closely monitoring online activity as reservations open on Feb. 21, citing concerns over proxy bookings, inflated resale listings and possible data theft. They have already requested the removal or blocking of 34 suspicious posts linked to the event. Many of the flagged posts offered to secure tickets on",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.29883f6030184af3a56d0a803e3434f3_T1.jpg",
-      "tags": [
-        "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "e6edd15c9bb12d8c",
-      "title": "NCT’s Jeno, Jaemin ready to show ‘both sides’",
-      "url": "https://www.koreaherald.com/article/10680253",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-23T02:24:01.000Z",
-      "snippet": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demo...",
-      "description": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demonstrating their chemistry as a pair based on the history they share as teammates of the same age. The EP consists of six tracks, including the titular track, a hip-hop dance tune. “Many may have been expecting a ‘bold and strong’ concept for us two as a subunit. But we chose this because it has a novel ambience we have",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.97352d70736641d8b5ab6d3b29ee1456_T1.jpg",
-      "tags": [
-        "album",
-        "nct"
       ]
     }
   ]
