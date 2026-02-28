@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T22:47:52.314Z",
+  "generatedAt": "2026-02-28T23:39:42.202Z",
   "items": [
+    {
+      "id": "c6ec3af7433f8bf4",
+      "title": "K-Pop Idol From 4 Survival Shows And 4 Debut Groups Pens Emotional Letter Amid Yet Another Departure",
+      "url": "https://www.koreaboo.com/news/bae173-hangyul-leaves-third-debut-group-pocketdol-studio/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-02-28T22:57:19.000Z",
+      "snippet": "His fans are actually celebrating.",
+      "description": "His fans are actually celebrating.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "debut"
+      ]
+    },
     {
       "id": "6775865dc0cdc205",
       "title": "Rose becomes first K-pop artist to win at Brit Awards with &apos;APT.&apos;",
@@ -429,20 +444,6 @@
         "comeback",
         "debut",
         "mnet"
-      ]
-    },
-    {
-      "id": "3838e4f412b60bc7",
-      "title": "Seoul police warn of proxy ticket scams ahead of BTS comeback show",
-      "url": "https://www.koreaherald.com/article/10680468",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-23T06:24:38.000Z",
-      "snippet": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency sai...",
-      "description": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency said Monday it is closely monitoring online activity as reservations open on Feb. 21, citing concerns over proxy bookings, inflated resale listings and possible data theft. They have already requested the removal or blocking of 34 suspicious posts linked to the event. Many of the flagged posts offered to secure tickets on",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.29883f6030184af3a56d0a803e3434f3_T1.jpg",
-      "tags": [
-        "comeback",
-        "bts"
       ]
     }
   ]
