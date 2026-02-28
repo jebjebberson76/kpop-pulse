@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-02-28T15:40:36.435Z",
+  "generatedAt": "2026-02-28T16:51:05.227Z",
   "items": [
-    {
-      "id": "48ff973e5a39bd13",
-      "title": "VOTE: Which Male 3rd Gen K-Pop Idol Is The Best Dancer?",
-      "url": "https://www.koreaboo.com/polls/kpop-idol-best-dancer-3rd-generation-vote-poll-male/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-28T09:31:08.000Z",
-      "snippet": "Vote for 10+ idols in this new poll.",
-      "description": "Vote for 10+ idols in this new poll.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
     {
       "id": "2314cab44a0f94f4",
       "title": "BTS’s Agency Clarifies Rumors About Upcoming Gwanghwamun Comeback Performance",
@@ -442,6 +428,20 @@
       "tags": [
         "comeback",
         "bts"
+      ]
+    },
+    {
+      "id": "e6edd15c9bb12d8c",
+      "title": "NCT’s Jeno, Jaemin ready to show ‘both sides’",
+      "url": "https://www.koreaherald.com/article/10680253",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T02:24:01.000Z",
+      "snippet": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demo...",
+      "description": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demonstrating their chemistry as a pair based on the history they share as teammates of the same age. The EP consists of six tracks, including the titular track, a hip-hop dance tune. “Many may have been expecting a ‘bold and strong’ concept for us two as a subunit. But we chose this because it has a novel ambience we have",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.97352d70736641d8b5ab6d3b29ee1456_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
       ]
     }
   ]
