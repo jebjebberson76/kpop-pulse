@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T14:47:38.185Z",
+  "generatedAt": "2026-02-28T15:40:36.435Z",
   "items": [
     {
       "id": "48ff973e5a39bd13",
@@ -13,21 +13,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "7cacea36f585ba32",
-      "title": "“KPop Demon Hunters” Star Under Fire Due To BLACKPINK’s Controversial Album",
-      "url": "https://www.koreaboo.com/news/kpop-demon-hunters-star-fire-due-blackpinks-controversial-album/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-02-28T09:30:48.000Z",
-      "snippet": "She is facing accusations of working with an alleged rapist.",
-      "description": "She is facing accusations of working with an alleged rapist.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "kpop",
-        "album",
-        "blackpink"
       ]
     },
     {
@@ -443,6 +428,20 @@
         "comeback",
         "debut",
         "mnet"
+      ]
+    },
+    {
+      "id": "3838e4f412b60bc7",
+      "title": "Seoul police warn of proxy ticket scams ahead of BTS comeback show",
+      "url": "https://www.koreaherald.com/article/10680468",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-23T06:24:38.000Z",
+      "snippet": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency sai...",
+      "description": "Police have issued a warning over potential ticketing scams ahead of BTS’ free comeback performance at Gwanghwamun Square in central Seoul. The Seoul Metropolitan Police Agency said Monday it is closely monitoring online activity as reservations open on Feb. 21, citing concerns over proxy bookings, inflated resale listings and possible data theft. They have already requested the removal or blocking of 34 suspicious posts linked to the event. Many of the flagged posts offered to secure tickets on",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.29883f6030184af3a56d0a803e3434f3_T1.jpg",
+      "tags": [
+        "comeback",
+        "bts"
       ]
     }
   ]
