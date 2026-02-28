@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T21:39:06.987Z",
+  "generatedAt": "2026-02-28T22:47:52.314Z",
   "items": [
+    {
+      "id": "6775865dc0cdc205",
+      "title": "Rose becomes first K-pop artist to win at Brit Awards with &apos;APT.&apos;",
+      "url": "https://www.koreaherald.com/article/10684607",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-28T22:08:48.000Z",
+      "snippet": "Rose, a member of K-pop group Blackpink, on Saturday (British time) won International Song of the Year for \"APT.,\" her collaborative hit with Bruno Mars, at the 2026 Brit Awards. I...",
+      "description": "Rose, a member of K-pop group Blackpink, on Saturday (British time) won International Song of the Year for \"APT.,\" her collaborative hit with Bruno Mars, at the 2026 Brit Awards. It marks the first time a K-pop act has ever received an honor at the prestigious British music ceremony, held this year in Manchester. \"APT.,\" a pre-release single from her first studio album \"rosie,\" became a global sensation following its release in October 2024. The track pairs bright pop harmonies with an addictive",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/01/rcv.YNA.20260301.PAP20260301129501009_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "blackpink"
+      ]
+    },
     {
       "id": "2314cab44a0f94f4",
       "title": "BTS’s Agency Clarifies Rumors About Upcoming Gwanghwamun Comeback Performance",
@@ -428,20 +443,6 @@
       "tags": [
         "comeback",
         "bts"
-      ]
-    },
-    {
-      "id": "e6edd15c9bb12d8c",
-      "title": "NCT’s Jeno, Jaemin ready to show ‘both sides’",
-      "url": "https://www.koreaherald.com/article/10680253",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-23T02:24:01.000Z",
-      "snippet": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demo...",
-      "description": "Jeno and Jaemin of NCT are unveiling their first album as a duo subunit on Monday. As the album title “Both Sides” suggests, they will be zooming in on their differences while demonstrating their chemistry as a pair based on the history they share as teammates of the same age. The EP consists of six tracks, including the titular track, a hip-hop dance tune. “Many may have been expecting a ‘bold and strong’ concept for us two as a subunit. But we chose this because it has a novel ambience we have",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/23/news-p.v1.20260223.97352d70736641d8b5ab6d3b29ee1456_T1.jpg",
-      "tags": [
-        "album",
-        "nct"
       ]
     }
   ]
