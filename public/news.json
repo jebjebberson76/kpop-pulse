@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-01T22:52:31.702Z",
+  "generatedAt": "2026-03-01T23:45:05.981Z",
   "items": [
+    {
+      "id": "bd542d69b4d515fc",
+      "title": "BLACKPINK’s “Massive” Drop In Streams And Sales Trigger “Flop” Allegations",
+      "url": "https://www.koreaboo.com/news/blackpink-massive-drop-in-streams-sales-trigger-flop-allegations/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-01T22:59:35.000Z",
+      "snippet": "This is their first album since 2022.",
+      "description": "This is their first album since 2022.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "blackpink"
+      ]
+    },
     {
       "id": "58b15bb66eb09bd9",
       "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, ILLIT, And More Sweep Top Spots On Billboard World Albums Chart",
@@ -89,20 +103,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "8d66e5fc6042ba9b",
-      "title": "Major BTS Album Detail Leaks, Sparking Huge Reactions",
-      "url": "https://www.koreaboo.com/news/major-bts-album-detail-leaks-sparking-huge-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-01T11:51:13.000Z",
-      "snippet": "As the album release date nears, more details go viral online.",
-      "description": "As the album release date nears, more details go viral online.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
       ]
     },
     {
