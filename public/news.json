@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T19:40:44.882Z",
+  "generatedAt": "2026-03-01T20:52:19.082Z",
   "items": [
     {
       "id": "58b15bb66eb09bd9",
@@ -117,20 +117,6 @@
       "tags": [
         "concert",
         "super junior"
-      ]
-    },
-    {
-      "id": "cd17b812591b6762",
-      "title": "BLACKPINK’s Jisoo Faces Calls To “Quit The Group” After “DEADLINE”",
-      "url": "https://www.koreaboo.com/news/blackpink-jisoo-faces-calls-quit-group-after-deadline/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-01T10:06:08.000Z",
-      "snippet": "Fans are furious over the album.",
-      "description": "Fans are furious over the album.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "blackpink"
       ]
     },
     {
@@ -442,6 +428,21 @@
         "k-pop",
         "album",
         "exo"
+      ]
+    },
+    {
+      "id": "552b1315fccf4766",
+      "title": "P1Harmony teases March comeback",
+      "url": "https://www.koreaherald.com/article/10682084",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-25T03:16:35.000Z",
+      "snippet": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking...",
+      "description": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking for the bandmates who have been hiding under the radar, ending with hints that the “heroes” are coming out of their hiatus. The group of six is set to release the mini album on March 12, about 10 months since previous EP “Duh.” After the success of the eighth EP, which sold over 440,000 copies in a week, P1Harmony brou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/25/news-p.v1.20260225.52fc3d55968442718825cf0b314dbd9c_T1.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album"
       ]
     }
   ]
