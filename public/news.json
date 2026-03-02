@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T21:06:15.372Z",
+  "generatedAt": "2026-03-02T22:56:32.088Z",
   "items": [
     {
       "id": "0853a698fd595a62",
@@ -28,34 +28,6 @@
       "tags": [
         "album",
         "blackpink"
-      ]
-    },
-    {
-      "id": "4cea8c8f9cfa6d7f",
-      "title": "BLACKPINK Rosé’s “BRITs” Win Sparks Heated Debate About BTS’s Influence In Viral Tweet",
-      "url": "https://www.koreaboo.com/news/blackpink-rose-brits-win-heated-debate-bts-influence-viral-post/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-02T13:55:21.000Z",
-      "snippet": "Both sides got very heated.",
-      "description": "Both sides got very heated.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "7ca0c0a74182e69c",
-      "title": "BTS’s “Strange” Behavior Ahead Of Comeback Triggers Heated Debate",
-      "url": "https://www.koreaboo.com/news/bts-promotions-arirang-spark-heated-debate/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-02T12:46:24.000Z",
-      "snippet": "So far, fans know only a few details.",
-      "description": "So far, fans know only a few details.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "bts"
       ]
     },
     {
@@ -439,6 +411,35 @@
       "tags": [
         "album",
         "ive"
+      ]
+    },
+    {
+      "id": "57e1749aa49e80a2",
+      "title": "Enhypen drops live clip for &apos;No Way Back&apos;",
+      "url": "https://www.koreaherald.com/article/10682888",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-26T02:15:46.000Z",
+      "snippet": "Enhypen uploaded a music video for “No Way Back (Feat. So!YoON!)” on Wednesday. It is a live clip for the B-side track from the group's seventh EP “The Sin: Vanish,” giving fans an...",
+      "description": "Enhypen uploaded a music video for “No Way Back (Feat. So!YoON!)” on Wednesday. It is a live clip for the B-side track from the group's seventh EP “The Sin: Vanish,” giving fans another look and listen to the alternative R&B tune that portrays mixed feelings at the start of running away. The video for the collaboration with indie rock band Se So Neon’s vocalist Hwang Soyoon was unveiled earlier this month. The EP, released last month, entered the Billboard 200 at No. 2 and is now in its fifth co",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/26/news-p.v1.20260226.c1627ff8884c46618bd51020b8e8edc8_T1.jpg",
+      "tags": [
+        "music video",
+        "billboard"
+      ]
+    },
+    {
+      "id": "552b1315fccf4766",
+      "title": "P1Harmony teases March comeback",
+      "url": "https://www.koreaherald.com/article/10682084",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-25T03:16:35.000Z",
+      "snippet": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking...",
+      "description": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking for the bandmates who have been hiding under the radar, ending with hints that the “heroes” are coming out of their hiatus. The group of six is set to release the mini album on March 12, about 10 months since previous EP “Duh.” After the success of the eighth EP, which sold over 440,000 copies in a week, P1Harmony brou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/25/news-p.v1.20260225.52fc3d55968442718825cf0b314dbd9c_T1.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album"
       ]
     }
   ]
