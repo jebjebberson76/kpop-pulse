@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-03-02T11:09:42.213Z",
+  "generatedAt": "2026-03-02T14:29:25.607Z",
   "items": [
+    {
+      "id": "4cea8c8f9cfa6d7f",
+      "title": "BLACKPINK Rosé’s “BRITs” Win Sparks Heated Debate About BTS’s Influence In Viral Tweet",
+      "url": "https://www.koreaboo.com/news/blackpink-rose-brits-win-heated-debate-bts-influence-viral-post/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-02T13:55:21.000Z",
+      "snippet": "Both sides got very heated.",
+      "description": "Both sides got very heated.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "7ca0c0a74182e69c",
+      "title": "BTS’s “Strange” Behavior Ahead Of Comeback Triggers Heated Debate",
+      "url": "https://www.koreaboo.com/news/bts-promotions-arirang-spark-heated-debate/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-02T12:46:24.000Z",
+      "snippet": "So far, fans know only a few details.",
+      "description": "So far, fans know only a few details.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
     {
       "id": "ab276f77cfe681b6",
       "title": "HYBE Boy Group’s Comeback Teasers Slammed By BTS Fans",
@@ -9,7 +37,7 @@
       "publishedAt": "2026-03-02T10:43:05.000Z",
       "snippet": "\"Stop acting like kids.\"",
       "description": "\"Stop acting like kids.\"",
-      "image": "https://image.koreaboo.com/2026/03/txtteasersarmys-FI-1-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "bts"
@@ -28,20 +56,6 @@
         "k-pop",
         "comeback",
         "bts"
-      ]
-    },
-    {
-      "id": "7aec2a4fb00a1b02",
-      "title": "Top Third-Gen Male Idol Sparks Surprise After Commenting On BLACKPINK Lisa’s Recent Live Broadcast",
-      "url": "https://www.koreaboo.com/news/top-male-idol-sparks-surprise-after-commenting-blackpink-lisas-recent-live-broadcast/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-02T09:40:45.000Z",
-      "snippet": "Netizens shared their reactions.",
-      "description": "Netizens shared their reactions.",
-      "image": "https://image.koreaboo.com/2026/03/FD2870.jpg",
-      "tags": [
-        "idol",
-        "blackpink"
       ]
     },
     {
@@ -100,7 +114,7 @@
       "publishedAt": "2026-03-01T15:19:14.000Z",
       "snippet": "The wait is finally over: ITZY’s Yuna’s solo debut is on the way! On March 2 at midnight KST, Yuna unveiled an official trailer and schedule for her highly-anticipated solo debut l...",
       "description": "The wait is finally over: ITZY’s Yuna’s solo debut is on the way! On March 2 at midnight KST, Yuna unveiled an official trailer and schedule for her highly-anticipated solo debut later this month. Yuna will be making her solo debut with “Ice Cream” on March 23 at 6 p.m. KST. One hour before the… Continue reading Watch: ITZY’s Yuna Announces Solo Debut Date With Trailer And Schedule For “Ice Cream” The post Watch: ITZY’s Yuna Announces Solo Debut Date With Trailer And Schedule For “Ice Cream” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/01071804/Yuna.jpg",
       "tags": [
         "debut",
         "itzy"
@@ -114,7 +128,7 @@
       "publishedAt": "2026-03-01T14:28:42.000Z",
       "snippet": "Updated March 2 KST: TXT has now released “THORN” concept photos for their upcoming comeback with “7TH YEAR: A Moment of Stillness in the Thorns”! Original Article: Mark your calen...",
       "description": "Updated March 2 KST: TXT has now released “THORN” concept photos for their upcoming comeback with “7TH YEAR: A Moment of Stillness in the Thorns”! Original Article: Mark your calendars for TXT’s return! On March 1, TXT held the third night of their 2026 “MOA CON” concert at Seoul’s KSPO Dome. At the very end… Continue reading Watch: TXT Announces April Comeback Date With Exciting Trailer And Concept Photos The post Watch: TXT Announces April Comeback Date With Exciting Trailer And Concept Photos appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/01073933/TXT_553713.jpg",
       "tags": [
         "comeback",
         "concert"
@@ -424,21 +438,6 @@
       "tags": [
         "music video",
         "billboard"
-      ]
-    },
-    {
-      "id": "552b1315fccf4766",
-      "title": "P1Harmony teases March comeback",
-      "url": "https://www.koreaherald.com/article/10682084",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-25T03:16:35.000Z",
-      "snippet": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking...",
-      "description": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking for the bandmates who have been hiding under the radar, ending with hints that the “heroes” are coming out of their hiatus. The group of six is set to release the mini album on March 12, about 10 months since previous EP “Duh.” After the success of the eighth EP, which sold over 440,000 copies in a week, P1Harmony brou",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/25/news-p.v1.20260225.52fc3d55968442718825cf0b314dbd9c_T1.jpg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
       ]
     }
   ]
