@@ -1,33 +1,32 @@
 {
-  "generatedAt": "2026-03-02T23:52:49.997Z",
+  "generatedAt": "2026-03-03T05:06:12.682Z",
   "items": [
     {
-      "id": "0853a698fd595a62",
-      "title": "Steal This K-Pop Idol 10-Minute Ab Workout Routine For Seriously Toned Abs",
-      "url": "https://www.koreaboo.com/news/le-sserafim-kazuha-kpop-idol-ab-workout-routine/",
+      "id": "edeb289610cc4981",
+      "title": "SEVENTEEN Successfully Completes “SEVENTEEN WORLD TOUR [NEW_] IN HONG KONG”",
+      "url": "https://www.koreaboo.com/news/seventeen-world-tour-new_-hong-kong/",
       "source": "Koreaboo",
-      "publishedAt": "2026-03-02T16:29:53.000Z",
-      "snippet": "Follow along with LE SSERAFIM's Kazuha!",
-      "description": "Follow along with LE SSERAFIM's Kazuha!",
+      "publishedAt": "2026-03-03T03:26:21.000Z",
+      "snippet": "SEVENTEEN held their world tour [NEW_] over two days on February 28 and March 1 in Hong Kong. Hong Kong is the only city outside of Korea that got two…",
+      "description": "SEVENTEEN held their world tour [NEW_] over two days on February 28 and March 1 in Hong Kong. Hong Kong is the only city outside of Korea that got two…",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "k-pop",
-        "idol",
-        "le sserafim"
+        "world tour",
+        "seventeen"
       ]
     },
     {
-      "id": "b26674bbf0827641",
-      "title": "Brutal Review Of BLACKPINK’s “Cringe” Album Stirs Up More Backlash Towards Group",
-      "url": "https://www.koreaboo.com/news/brutal-review-blackpink-deadline-album-backlash/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-02T14:55:05.000Z",
-      "snippet": "\"BLACKPINK has always been bad...\"",
-      "description": "\"BLACKPINK has always been bad...\"",
-      "image": "/public/placeholder-news.svg",
+      "id": "8b8d8ce948f36990",
+      "title": "Itzy’s Yuna to roll out 1st solo album",
+      "url": "https://www.koreaherald.com/article/10685519",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-03T01:35:26.000Z",
+      "snippet": "Yuna of Itzy will release her first solo EP “Ice Cream” on March 23, her label JYP Entertainment announced Monday. In the teaser video for the upcoming endeavor, Yuna showed her ra...",
+      "description": "Yuna of Itzy will release her first solo EP “Ice Cream” on March 23, her label JYP Entertainment announced Monday. In the teaser video for the upcoming endeavor, Yuna showed her range, transforming from pure and innocent to hip and chic, before taking over the screen in a white dress. Yuna is the youngest member of Itzy and will be the second to release a solo album. The physical album in the US will hit the stores on March 27, along with a remix version of the main track. Separately, Itzy will",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.749b651d367245dd96718b5468d87523_T1.jpg",
       "tags": [
         "album",
-        "blackpink"
+        "itzy"
       ]
     },
     {
@@ -43,6 +42,20 @@
         "k-pop",
         "comeback",
         "bts"
+      ]
+    },
+    {
+      "id": "5bd565de9cdd48fc",
+      "title": "G-Dragon’s ‘Lunar New Year’ greeting at Dubai concert sparks controversy among Chinese fans",
+      "url": "https://www.koreaherald.com/article/10685086",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-02T06:31:18.000Z",
+      "snippet": "K-pop idols often find themselves at the center of controversies they did not necessarily intend to ignite. For global icons such as G-Dragon, even a brief remark onstage can rever...",
+      "description": "K-pop idols often find themselves at the center of controversies they did not necessarily intend to ignite. For global icons such as G-Dragon, even a brief remark onstage can reverberate far beyond its original context. During the Krazy Super Concert held Feb. 17 at Dubai Media City Amphitheater in the United Arab Emirates, G-Dragon greeted fans by saying “Lunar New Year” — a phrase that later drew backlash from some Chinese fans. The date coincided with the Lunar New Year holiday and G-Dragon u",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/02/news-p.v1.20260302.d6394dcc5379427eaa00d59fc8af9720_T1.jpg",
+      "tags": [
+        "k-pop",
+        "concert"
       ]
     },
     {
@@ -193,6 +206,21 @@
       ]
     },
     {
+      "id": "6775865dc0cdc205",
+      "title": "Rose becomes first K-pop artist to win at Brit Awards with &apos;APT.&apos;",
+      "url": "https://www.koreaherald.com/article/10684607",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-28T22:08:48.000Z",
+      "snippet": "Rose, a member of K-pop group Blackpink, on Saturday (British time) won International Song of the Year for \"APT.,\" her collaborative hit with Bruno Mars, at the 2026 Brit Awards. I...",
+      "description": "Rose, a member of K-pop group Blackpink, on Saturday (British time) won International Song of the Year for \"APT.,\" her collaborative hit with Bruno Mars, at the 2026 Brit Awards. It marks the first time a K-pop act has ever received an honor at the prestigious British music ceremony, held this year in Manchester. \"APT.,\" a pre-release single from her first studio album \"rosie,\" became a global sensation following its release in October 2024. The track pairs bright pop harmonies with an addictive",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/01/rcv.YNA.20260301.PAP20260301129501009_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "blackpink"
+      ]
+    },
+    {
       "id": "2314cab44a0f94f4",
       "title": "BTS’s Agency Clarifies Rumors About Upcoming Gwanghwamun Comeback Performance",
       "url": "https://www.soompi.com/article/1822039wpp/btss-agency-clarifies-rumors-about-upcoming-gwanghwamun-comeback-performance",
@@ -282,6 +310,22 @@
         "music bank",
         "ive",
         "nct"
+      ]
+    },
+    {
+      "id": "3ddb7ca6e84605aa",
+      "title": "Seoul to install 900 toilets for BTS comeback crowd",
+      "url": "https://www.koreaherald.com/article/10684334",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-27T11:06:43.000Z",
+      "snippet": "Nearly 900 public and temporary toilets will be installed near Gwanghwamun Square, as more than 260,000 visitors are expected to be in the area for the March 21 comeback concert of...",
+      "description": "Nearly 900 public and temporary toilets will be installed near Gwanghwamun Square, as more than 260,000 visitors are expected to be in the area for the March 21 comeback concert of BTS, the Seoul Metropolitan Government said Friday. The plan includes measures to secure additional women-only facilities, reflecting the high proportion of female ticket holders, which is reportedly twice that of male ticket holders. The city said it will deploy crowd control staff at major bottlenecks to manage stag",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/27/news-p.v1.20260227.b8c5bb41bf0a4ad0bb4a92dceeebfa4f_T1.jpg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts",
+        "twice"
       ]
     },
     {
@@ -397,49 +441,6 @@
       "tags": [
         "album",
         "concert"
-      ]
-    },
-    {
-      "id": "b52522d6a88525dd",
-      "title": "Ive ‘graduates’ with 2nd LP release",
-      "url": "https://www.koreaherald.com/article/10683009",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-26T02:44:02.000Z",
-      "snippet": "The six members of Ive invited fans to a “graduation party,” shared via its YouTube channel Wednesday. The girl group has been releasing a series of graduation-themed content in ce...",
-      "description": "The six members of Ive invited fans to a “graduation party,” shared via its YouTube channel Wednesday. The girl group has been releasing a series of graduation-themed content in celebration of both Leeseo turning 20 and the group dropping its second full album. “We are having a graduation ceremony signifying that we will be reborn as new ‘Ive,’” Gaeul explained, with the six of them dressed in school uniforms. The group released second LP “Revive+” on Monday and will perform main track “Blackhol",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/26/news-p.v1.20260226.08dbb3abc28746bc97d3ea4ab6f4eff8_T1.jpg",
-      "tags": [
-        "album",
-        "ive"
-      ]
-    },
-    {
-      "id": "57e1749aa49e80a2",
-      "title": "Enhypen drops live clip for &apos;No Way Back&apos;",
-      "url": "https://www.koreaherald.com/article/10682888",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-26T02:15:46.000Z",
-      "snippet": "Enhypen uploaded a music video for “No Way Back (Feat. So!YoON!)” on Wednesday. It is a live clip for the B-side track from the group's seventh EP “The Sin: Vanish,” giving fans an...",
-      "description": "Enhypen uploaded a music video for “No Way Back (Feat. So!YoON!)” on Wednesday. It is a live clip for the B-side track from the group's seventh EP “The Sin: Vanish,” giving fans another look and listen to the alternative R&B tune that portrays mixed feelings at the start of running away. The video for the collaboration with indie rock band Se So Neon’s vocalist Hwang Soyoon was unveiled earlier this month. The EP, released last month, entered the Billboard 200 at No. 2 and is now in its fifth co",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/26/news-p.v1.20260226.c1627ff8884c46618bd51020b8e8edc8_T1.jpg",
-      "tags": [
-        "music video",
-        "billboard"
-      ]
-    },
-    {
-      "id": "552b1315fccf4766",
-      "title": "P1Harmony teases March comeback",
-      "url": "https://www.koreaherald.com/article/10682084",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-25T03:16:35.000Z",
-      "snippet": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking...",
-      "description": "P1Harmony confirmed its pending return with a trailer video for the group's ninth EP, released through FNC Entertainment on Wednesday. The teaser clip began with a leaflet looking for the bandmates who have been hiding under the radar, ending with hints that the “heroes” are coming out of their hiatus. The group of six is set to release the mini album on March 12, about 10 months since previous EP “Duh.” After the success of the eighth EP, which sold over 440,000 copies in a week, P1Harmony brou",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/25/news-p.v1.20260225.52fc3d55968442718825cf0b314dbd9c_T1.jpg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
       ]
     }
   ]
