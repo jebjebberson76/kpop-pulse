@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-04T19:51:51.111Z",
+  "generatedAt": "2026-03-04T21:01:59.314Z",
   "items": [
+    {
+      "id": "db18aa722be79c44",
+      "title": "The Idol So Handsome He Hid His Pre-Debut Visuals Out of Fear",
+      "url": "https://www.koreaboo.com/news/idol-so-handsome-hid-pre-debut-visuals-fear-riize-wonbin/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-04T20:48:02.000Z",
+      "snippet": "His visuals really are next level!",
+      "description": "His visuals really are next level!",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "debut"
+      ]
+    },
     {
       "id": "11c90feddee9cbe4",
       "title": "Worse Than Deepfake? This K-Pop Idol AI Filter Is Terrifying",
@@ -429,20 +443,6 @@
         "k-pop",
         "debut",
         "aespa"
-      ]
-    },
-    {
-      "id": "32eda8cd0ba7d4ba",
-      "title": "Le Sserafim secures 2nd double platinum status in Japan",
-      "url": "https://www.koreaherald.com/article/10683794",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-27T01:48:33.000Z",
-      "snippet": "Le Sserafim’s first English-language single “Perfect Night” earned double platinum certification from the Recording Industry Association of Japan, according to the organization Fri...",
-      "description": "Le Sserafim’s first English-language single “Perfect Night” earned double platinum certification from the Recording Industry Association of Japan, according to the organization Friday. The single generated 200 million streams as of January and became the group’s second song to do so, after “Antifragile,” the title track from the group's second EP. The quintet dropped the song in 2023 as a digital single and Heo Yunjin participated in writing the lyrics. Meanwhile, the group’s first single album",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/27/news-p.v1.20260227.6f700d989480455b97fb033bee643030_T1.jpg",
-      "tags": [
-        "album",
-        "le sserafim"
       ]
     }
   ]
