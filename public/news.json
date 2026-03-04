@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-04T21:01:59.314Z",
+  "generatedAt": "2026-03-04T23:01:33.164Z",
   "items": [
+    {
+      "id": "5d1343d51d41cdaf",
+      "title": "Diplo’s New Post About BTS Sparks A Heated Debate Involving BLACKPINK",
+      "url": "https://www.koreaboo.com/news/diplo-new-post-bts-sparks-heated-debate-involving-blackpink-jennie-arirang/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-04T23:00:57.000Z",
+      "snippet": "He worked on five new BTS tracks.",
+      "description": "He worked on five new BTS tracks.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
     {
       "id": "db18aa722be79c44",
       "title": "The Idol So Handsome He Hid His Pre-Debut Visuals Out of Fear",
@@ -428,21 +442,6 @@
         "comeback",
         "album",
         "red velvet"
-      ]
-    },
-    {
-      "id": "aebdc24447af7160",
-      "title": "Aespa teams up with Anderson Paak on movie soundtrack",
-      "url": "https://www.koreaherald.com/article/10683883",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-27T02:21:34.000Z",
-      "snippet": "Aespa is dropping a single Friday for which it joined forces with US singer and songwriter Anderson Paak, said label SM Entertainment. Their collaboration “Keychain” is a hip-hop,...",
-      "description": "Aespa is dropping a single Friday for which it joined forces with US singer and songwriter Anderson Paak, said label SM Entertainment. Their collaboration “Keychain” is a hip-hop, R&B and funk tune mixing Paak’s soulful vibe with Aespa’s edgy sophistication. It will be part of the soundtrack of movie “K-Pops!” a comedy film directed and produced by Paak. The film will come to cinemas in North America on Friday and will be the directorial debut of the Grammy-winning musician. Separately, the quar",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/27/news-p.v1.20260227.be002c3c8bca4bf6a2112bc4bf3d5290_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut",
-        "aespa"
       ]
     }
   ]
