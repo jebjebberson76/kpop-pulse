@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-03-03T23:54:07.110Z",
+  "generatedAt": "2026-03-04T04:57:31.320Z",
   "items": [
+    {
+      "id": "0e8fd17064ee56e1",
+      "title": "Popular K-Pop Idol Confesses To Panic Attacks, Sparks Major Concern",
+      "url": "https://www.koreaboo.com/news/monsta-x-kihyun-confesses-burnout-panic-attacks/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-04T04:25:16.000Z",
+      "snippet": "Fans didn't know.",
+      "description": "Fans didn't know.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "68446fd819b33bee",
+      "title": "Seventeen’s S.Coups, Mingyu reclaim Oricon chart",
+      "url": "https://www.koreaherald.com/article/10686695",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-04T02:45:52.000Z",
+      "snippet": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype...",
+      "description": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype Vibes” returned to the top of the chart after five months, possibly gaining momentum from the success of its ongoing tour “Double Up — Live Party.” The mini album rolled out in September last year and landed atop the daily chart, spending three days at No. 1, before scoring chart-topping debut on its Weekly and Weekly",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.94ee879ebd3f4ec98d85991559f647ab_T1.jpg",
+      "tags": [
+        "debut",
+        "mini album",
+        "album",
+        "seventeen"
+      ]
+    },
+    {
+      "id": "1b12991b1856785c",
+      "title": "4th Gen Group’s Catastrophic Drop In Album Sales Hit With Mixed Reactions",
+      "url": "https://www.koreaboo.com/news/4th-gen-groups-catastrophic-drop-in-album-sales-hit-mixed-reactions-everglow/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-04T00:26:50.000Z",
+      "snippet": "This is their first comeback in over a year and a half.",
+      "description": "This is their first comeback in over a year and a half.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "album"
+      ]
+    },
     {
       "id": "b75d3df485c3493d",
       "title": "ENHYPEN, IVE, KiiiKiii, TWICE, And More Top Circle Weekly Charts",
@@ -65,21 +109,6 @@
       ]
     },
     {
-      "id": "d117daf68738c62a",
-      "title": "BLACKPINK Jisoo’s Negative “Forced” Response To Group’s Controversial Album Sparks Major Speculations",
-      "url": "https://www.koreaboo.com/news/blackpink-jisoo-negative-forced-response-group-album-speculations/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-03T15:00:23.000Z",
-      "snippet": "The idol has been promoting her upcoming K-Drama.",
-      "description": "The idol has been promoting her upcoming K-Drama.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "album",
-        "blackpink"
-      ]
-    },
-    {
       "id": "348b06a6a93da375",
       "title": "Individual Idol Brand Reputation Rankings Announced",
       "url": "https://www.soompi.com/article/1822548wpp/individual-idol-brand-reputation-rankings-announced-2",
@@ -124,17 +153,31 @@
       ]
     },
     {
-      "id": "dc72232818568a18",
-      "title": "[Exclusive] T.O.P to make solo comeback independently",
-      "url": "https://www.koreaherald.com/article/10685927",
+      "id": "5d533289e4ed5deb",
+      "title": "How Blackpink weaves Korean heritage in &apos;Go&apos;",
+      "url": "https://www.koreaherald.com/article/10685963",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-03T06:10:32.000Z",
-      "snippet": "T.O.P is preparing for his long-awaited solo comeback, with plans to release a new album under his own label, Topspot Pictures, according to industry sources Tuesday. Kang Jung-woo...",
-      "description": "T.O.P is preparing for his long-awaited solo comeback, with plans to release a new album under his own label, Topspot Pictures, according to industry sources Tuesday. Kang Jung-woo, CEO of Hiin Entertainment, is expected to oversee T.O.P's promotional activities. Kang is a former executive of BH Entertainment, the agency founded by actor Lee Byung-hun, who starred alongside T.O.P in \"Squid Game.\" \"T.O.P decided to release the new album under his own label, Topspot Pictures,\" a source told The Ko",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-a.v1.20260303.47815dbfe3464204954e649cd8c539e6_T1.jpg",
+      "publishedAt": "2026-03-03T06:37:24.000Z",
+      "snippet": "With the release of Blackpink's long-awaited EP \"Deadline,\" attention has shifted not only to the group's new music, but also to traditional Korean cultural elements woven into the...",
+      "description": "With the release of Blackpink's long-awaited EP \"Deadline,\" attention has shifted not only to the group's new music, but also to traditional Korean cultural elements woven into the music video for lead track \"Go.\" Viewers quickly began dissecting the video's visual motifs, noting that several aspects appeared to draw heavily from traditional Korean aesthetics. The music video for \"Go\" includes ornamental patterns such as the \"sujamun\" — a stylized rendering of the hanja character for \"su\" — that",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.0324c8ca391c4df8b7510d37f33d23bb_T1.png",
       "tags": [
-        "comeback",
-        "album"
+        "music video",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "13dede4f36af7b16",
+      "title": "Ive’s prerelease sits atop all K-charts despite lagging album sales",
+      "url": "https://www.koreaherald.com/article/10685758",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-03T04:06:59.000Z",
+      "snippet": "Ive has dominated all music charts at home for two weeks in a row with “Bang Bang,” its agency Starship Entertainment said Tuesday. The single, dropped last month ahead of the rele...",
+      "description": "Ive has dominated all music charts at home for two weeks in a row with “Bang Bang,” its agency Starship Entertainment said Tuesday. The single, dropped last month ahead of the release of Ive's second LP “Revive+,” swept all charts in Korea, a first for a song released this year, and is maintaining the top spot for another week. The electronic dance tune has earned the six-member group four trophies from music chart shows. The 12-track set, however, did not meet sales expectations. It sold less t",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.53e02c7bfb964e388b2f35afbcee76e0_T1.jpg",
+      "tags": [
+        "album",
+        "ive"
       ]
     },
     {
@@ -150,6 +193,20 @@
         "concert",
         "fan meeting",
         "twice"
+      ]
+    },
+    {
+      "id": "e11181430d81015c",
+      "title": "BoA sets up own agency",
+      "url": "https://www.koreaherald.com/article/10685606",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-03T02:20:51.000Z",
+      "snippet": "BoA established her own management company, BApal Entertainment, the agency said Tuesday. “BoA went for a new structure to better realize her musical direction,” added the newly es...",
+      "description": "BoA established her own management company, BApal Entertainment, the agency said Tuesday. “BoA went for a new structure to better realize her musical direction,” added the newly established company. BoA parted ways with SM Entertainment in December after 25 years. She debuted in 2000 at the age of 14 and led the first wave of Korean culture across Asia, paving the way for K-pop artists abroad. She was a breakout hit in Japan in particular and has two million-selling albums tallied by the Oricon",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.8a596209422e4dedb74190cd24868657_T1.png",
+      "tags": [
+        "k-pop",
+        "boa"
       ]
     },
     {
@@ -300,34 +357,6 @@
       ]
     },
     {
-      "id": "5bc80f324ffb4cf4",
-      "title": "Watch: BLACKPINK’s Rosé Becomes 1st K-Pop Artist Ever To Win A BRIT Award",
-      "url": "https://www.soompi.com/article/1822093wpp/watch-blackpinks-rose-becomes-1st-k-pop-artist-ever-to-win-a-brit-award",
-      "source": "Soompi",
-      "publishedAt": "2026-03-01T01:31:45.000Z",
-      "snippet": "BLACKPINK’s Rosé made history at this year’s BRIT Awards! On February 28 local time, the 2026 BRIT Awards were held in Manchester. The BRITs, which are organized by the British Pho...",
-      "description": "BLACKPINK’s Rosé made history at this year’s BRIT Awards! On February 28 local time, the 2026 BRIT Awards were held in Manchester. The BRITs, which are organized by the British Phonographic Industry (BPI), are widely considered the most high-profile music awards ceremony in the United Kingdom. Rosé and Bruno Mars’ smash hit “APT.” won the… Continue reading Watch: BLACKPINK’s Rosé Becomes 1st K-Pop Artist Ever To Win A BRIT Award The post Watch: BLACKPINK’s Rosé Becomes 1st K-Pop Artist Ever To Win A BRIT Award appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "80dff0a01abf1fb4",
-      "title": "Watch: IVE Wows In New Dance Practice Video For “BLACKHOLE”",
-      "url": "https://www.soompi.com/article/1822088wpp/watch-ive-wows-in-new-dance-practice-video-for-blackhole",
-      "source": "Soompi",
-      "publishedAt": "2026-03-01T00:44:47.000Z",
-      "snippet": "IVE has shared a closer look at the choreography for “BLACKHOLE”! On February 28, IVE released the official dance practice video for “BLACKHOLE,” the title track of their new full-...",
-      "description": "IVE has shared a closer look at the choreography for “BLACKHOLE”! On February 28, IVE released the official dance practice video for “BLACKHOLE,” the title track of their new full-length album “REVIVE+.” The newly released video offers a full view of the group’s spectacular choreography and all six members’ moves throughout the song, along with… Continue reading Watch: IVE Wows In New Dance Practice Video For “BLACKHOLE” The post Watch: IVE Wows In New Dance Practice Video For “BLACKHOLE” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "ive"
-      ]
-    },
-    {
       "id": "6775865dc0cdc205",
       "title": "Rose becomes first K-pop artist to win at Brit Awards with &apos;APT.&apos;",
       "url": "https://www.koreaherald.com/article/10684607",
@@ -414,36 +443,6 @@
       "tags": [
         "concert",
         "riize"
-      ]
-    },
-    {
-      "id": "1b57ad6e6307b451",
-      "title": "Red Velvet’s Irene to release 1st solo LP: report",
-      "url": "https://www.koreaherald.com/article/10683950",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-27T02:39:54.000Z",
-      "snippet": "Irene of Red Velvet will make a comeback as a solo singer in late March, according to a local media report Friday. She is preparing to roll out her first solo full-length album, mo...",
-      "description": "Irene of Red Velvet will make a comeback as a solo singer in late March, according to a local media report Friday. She is preparing to roll out her first solo full-length album, more than a year after her first solo endeavor, “Like A Flower.” The eight-track album sold over 250,000 copies on the day of release and topped the iTunes Top Albums Chart in 21 regions. As a member of Red Velvet, she participated in label SM Entertainment’s all-star show, SM Town Live 2025-26, in Bangkok earlier this m",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/27/news-p.v1.20260227.a9ddd32405f44e69b628f9d855576310_T1.jpg",
-      "tags": [
-        "comeback",
-        "album",
-        "red velvet"
-      ]
-    },
-    {
-      "id": "aebdc24447af7160",
-      "title": "Aespa teams up with Anderson Paak on movie soundtrack",
-      "url": "https://www.koreaherald.com/article/10683883",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-27T02:21:34.000Z",
-      "snippet": "Aespa is dropping a single Friday for which it joined forces with US singer and songwriter Anderson Paak, said label SM Entertainment. Their collaboration “Keychain” is a hip-hop,...",
-      "description": "Aespa is dropping a single Friday for which it joined forces with US singer and songwriter Anderson Paak, said label SM Entertainment. Their collaboration “Keychain” is a hip-hop, R&B and funk tune mixing Paak’s soulful vibe with Aespa’s edgy sophistication. It will be part of the soundtrack of movie “K-Pops!” a comedy film directed and produced by Paak. The film will come to cinemas in North America on Friday and will be the directorial debut of the Grammy-winning musician. Separately, the quar",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/27/news-p.v1.20260227.be002c3c8bca4bf6a2112bc4bf3d5290_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut",
-        "aespa"
       ]
     }
   ]
