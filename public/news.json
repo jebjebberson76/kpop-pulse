@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-04T17:11:15.180Z",
+  "generatedAt": "2026-03-04T19:51:51.111Z",
   "items": [
+    {
+      "id": "11c90feddee9cbe4",
+      "title": "Worse Than Deepfake? This K-Pop Idol AI Filter Is Terrifying",
+      "url": "https://www.koreaboo.com/news/kpop-idol-ai-deepfake-video/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-04T19:36:44.000Z",
+      "snippet": "Just wait until you see their expressions.",
+      "description": "Just wait until you see their expressions.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "2749f468d3611f0d",
       "title": "MONSTA X Reveals Comeback Schedule For New English Album “Unfold”",
@@ -429,21 +443,6 @@
       "tags": [
         "album",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "33330f66a8ac75a6",
-      "title": "Exo achieves 8th million-seller with “Reverxe”",
-      "url": "https://www.koreaherald.com/article/10683116",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-02-26T05:14:30.000Z",
-      "snippet": "Exo has added another milestone to its career with its eighth million-selling album. The group’s eighth LP, “Reverxe,” released on Jan. 19, surpassed 1 million cumulative copies so...",
-      "description": "Exo has added another milestone to its career with its eighth million-selling album. The group’s eighth LP, “Reverxe,” released on Jan. 19, surpassed 1 million cumulative copies sold as of the morning of Jan. 26, making it the group's eighth album to do so. Since first reaching the milestone with its 2013 first LP “XOXO (Kiss & Hug),” the group has consistently delivered strong album sales, solidifying its status as one of K-pop’s leading acts. The main track “Crown” drew attention for its signa",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/02/26/news-p.v1.20260226.660e41ae9be549e18c8f411a53f72a15_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "exo"
       ]
     }
   ]
