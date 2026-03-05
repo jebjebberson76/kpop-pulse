@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-05T12:00:02.185Z",
+  "generatedAt": "2026-03-05T14:34:18.515Z",
   "items": [
+    {
+      "id": "3641c9e2e8f59ad0",
+      "title": "BLACKPINK Jisoo’s Dramatic “Makeover” Has Come Under Serious Criticism",
+      "url": "https://www.koreaboo.com/news/blackpink-jisoo-risabae-makeover-backlash/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-05T14:10:12.000Z",
+      "snippet": "Many thought it made the idol look worse.",
+      "description": "Many thought it made the idol look worse.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "blackpink"
+      ]
+    },
     {
       "id": "adcb66029cae1d9c",
       "title": "Watch: Hearts2Hearts Takes 1st Win For “RUDE!” On “M Countdown”; Performances By WOODZ, TUNEXX, And More",
@@ -24,7 +38,7 @@
       "publishedAt": "2026-03-05T11:30:42.000Z",
       "snippet": "\"... the company is just dumb...\"",
       "description": "\"... the company is just dumb...\"",
-      "image": "https://image.koreaboo.com/2026/03/FD2870-3-2.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "bts"
@@ -38,7 +52,7 @@
       "publishedAt": "2026-03-05T11:15:06.000Z",
       "snippet": "\"I'm so embarrassed...\"",
       "description": "\"I'm so embarrassed...\"",
-      "image": "https://image.koreaboo.com/2026/03/FD2870-2-2.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "blackpink"
@@ -80,7 +94,7 @@
       "publishedAt": "2026-03-05T02:09:50.000Z",
       "snippet": "Park Ji Hoon, who is on the verge of joining the ranks of 10-million moviegoer actors through “The King’s Warden,” is returning as a singer! On March 5, his agency YY Entertainment...",
       "description": "Park Ji Hoon, who is on the verge of joining the ranks of 10-million moviegoer actors through “The King’s Warden,” is returning as a singer! On March 5, his agency YY Entertainment announced, “Park Ji Hoon is preparing a solo album with the goal of making a comeback in April.” This will be Park Ji… Continue reading Park Ji Hoon To Make Solo Comeback The post Park Ji Hoon To Make Solo Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/04180357/PJH.jpg",
       "tags": [
         "comeback",
         "album"
@@ -94,7 +108,7 @@
       "publishedAt": "2026-03-05T01:17:21.000Z",
       "snippet": "TWS is gearing up for a comeback! On March 5, Ilgan Sports reported that TWS will be releasing a new album in April. In response to the report, TWS’s agency PLEDIS Entertainment co...",
       "description": "TWS is gearing up for a comeback! On March 5, Ilgan Sports reported that TWS will be releasing a new album in April. In response to the report, TWS’s agency PLEDIS Entertainment confirmed, “TWS is preparing with the goal of making an April comeback. The specific details will be announced at a later date.” TWS… Continue reading TWS Confirmed To Make Spring Comeback The post TWS Confirmed To Make Spring Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/04171410/tws-2-.jpg",
       "tags": [
         "comeback",
         "album"
@@ -425,20 +439,6 @@
         "k-pop",
         "comeback",
         "bts"
-      ]
-    },
-    {
-      "id": "5bd565de9cdd48fc",
-      "title": "G-Dragon’s ‘Lunar New Year’ greeting at Dubai concert sparks controversy among Chinese fans",
-      "url": "https://www.koreaherald.com/article/10685086",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-02T06:31:18.000Z",
-      "snippet": "K-pop idols often find themselves at the center of controversies they did not necessarily intend to ignite. For global icons such as G-Dragon, even a brief remark onstage can rever...",
-      "description": "K-pop idols often find themselves at the center of controversies they did not necessarily intend to ignite. For global icons such as G-Dragon, even a brief remark onstage can reverberate far beyond its original context. During the Krazy Super Concert held Feb. 17 at Dubai Media City Amphitheater in the United Arab Emirates, G-Dragon greeted fans by saying “Lunar New Year” — a phrase that later drew backlash from some Chinese fans. The date coincided with the Lunar New Year holiday and G-Dragon u",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/02/news-p.v1.20260302.d6394dcc5379427eaa00d59fc8af9720_T1.jpg",
-      "tags": [
-        "k-pop",
-        "concert"
       ]
     }
   ]
