@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-03-05T14:34:18.515Z",
+  "generatedAt": "2026-03-05T19:38:17.675Z",
   "items": [
+    {
+      "id": "54055543a89df2b8",
+      "title": "Co-Ed Idol Group Announces Their Disbandment, Final Appearance",
+      "url": "https://www.koreaboo.com/asia/bite-shock-co-ed-idol-group-disband-announces-disbandment/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-05T16:23:28.000Z",
+      "snippet": "They will perform one last concert together.",
+      "description": "They will perform one last concert together.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "concert"
+      ]
+    },
+    {
+      "id": "af9b2bf5b1fcc67b",
+      "title": "BLACKPINK Rosé’s Photos With Older Man Abroad Incites Malicious Criticism Towards Idol",
+      "url": "https://www.koreaboo.com/news/blackpink-rose-photos-older-man-abroad-criticism/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-05T15:20:38.000Z",
+      "snippet": "It's all to do with her YSL Fashion Week appearance.",
+      "description": "It's all to do with her YSL Fashion Week appearance.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "blackpink"
+      ]
+    },
     {
       "id": "3641c9e2e8f59ad0",
       "title": "BLACKPINK Jisoo’s Dramatic “Makeover” Has Come Under Serious Criticism",
@@ -28,34 +56,6 @@
         "m countdown",
         "blackpink",
         "ive"
-      ]
-    },
-    {
-      "id": "9c2d5fbb4602fe1c",
-      "title": "Reports Surrounding Multiple HYBE Artists Ahead Of BTS’s Comeback Spark Major Criticism",
-      "url": "https://www.koreaboo.com/news/reports-hybe-artists-bts-comebacks-april-backlash/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-05T11:30:42.000Z",
-      "snippet": "\"... the company is just dumb...\"",
-      "description": "\"... the company is just dumb...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "0d9aeba9ee45fe05",
-      "title": "HYBE Idol’s Recent Actions For Song “GO” Triggers Hate Towards BLACKPINK",
-      "url": "https://www.koreaboo.com/news/hybe-idols-go-actions-leads-hate-blackpink/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-05T11:15:06.000Z",
-      "snippet": "\"I'm so embarrassed...\"",
-      "description": "\"I'm so embarrassed...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
       ]
     },
     {
