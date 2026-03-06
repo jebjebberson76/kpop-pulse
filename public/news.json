@@ -1,18 +1,53 @@
 {
-  "generatedAt": "2026-03-06T00:01:22.028Z",
+  "generatedAt": "2026-03-06T05:12:49.993Z",
   "items": [
     {
-      "id": "d4e2fd52918b56c5",
-      "title": "BLACKPINK’s Jisoo And Seo In Guk Consider Possible Bollywood Debut",
-      "url": "https://www.koreaboo.com/news/blackpink-jisoo-seo-in-guk-consider-possible-bollywood-debut/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-05T22:40:16.000Z",
-      "snippet": "Their response was unexpected.",
-      "description": "Their response was unexpected.",
-      "image": "/public/placeholder-news.svg",
+      "id": "bfd27a7d2f54f84e",
+      "title": "NCT U’s “BOSS” Becomes NCT’s 2nd MV To Hit 200 Million Views",
+      "url": "https://www.soompi.com/article/1823205wpp/nct-us-boss-becomes-ncts-2nd-mv-to-hit-200-million-views",
+      "source": "Soompi",
+      "publishedAt": "2026-03-06T02:56:32.000Z",
+      "snippet": "NCT U’s “BOSS” has just reached an impressive milestone on YouTube! On March 6 at approximately 11:53 a.m. KST, NCT U’s music video for their 2018 hit “BOSS” surpassed 200 million...",
+      "description": "NCT U’s “BOSS” has just reached an impressive milestone on YouTube! On March 6 at approximately 11:53 a.m. KST, NCT U’s music video for their 2018 hit “BOSS” surpassed 200 million views on YouTube. The video was originally released on February 19, 2018 at midnight KST, meaning that it took around 8 years and 15… Continue reading NCT U’s “BOSS” Becomes NCT’s 2nd MV To Hit 200 Million Views The post NCT U’s “BOSS” Becomes NCT’s 2nd MV To Hit 200 Million Views appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/05150522/NCT-U.jpg",
       "tags": [
+        "music video",
+        "mv",
+        "nct"
+      ]
+    },
+    {
+      "id": "799edf44172f5c6e",
+      "title": "Cortis to drop 2nd EP main track; debut album tops 2 million in sales",
+      "url": "https://www.koreaherald.com/article/10688657",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-06T02:55:30.000Z",
+      "snippet": "Cortis will release the focus track from its second EP on April 20, ahead of the full album rollout due on May 4, Big Hit Music announced Friday. The five-member act is set to brin...",
+      "description": "Cortis will release the focus track from its second EP on April 20, ahead of the full album rollout due on May 4, Big Hit Music announced Friday. The five-member act is set to bring out the EP “GreenGreen” approximately eight months since the debut set, “Color Outside the Lines.” The mini album hit Billboard 200 at No. 15, the highest rung for a debut album from a non-project K-pop group. The first EP had surpassed 2 million sales as of February, according to a local datamonger on Thursday. It i",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/06/news-p.v1.20260306.b5e29d2ef0f44444bbab0fa83ccba5f5_T1.jpg",
+      "tags": [
+        "k-pop",
         "debut",
-        "blackpink"
+        "mini album",
+        "album",
+        "billboard"
+      ]
+    },
+    {
+      "id": "2117bd6bfcdd34af",
+      "title": "Blackpink shatters sales record for K-pop girl group with 3rd EP",
+      "url": "https://www.koreaherald.com/article/10688538",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-06T02:11:29.000Z",
+      "snippet": "Blackpink set a record for first-week sales for a K-pop girl group with its third EP, “Deadline,” selling more than 1.77 million copies, YG Entertainment said Friday, citing a loca...",
+      "description": "Blackpink set a record for first-week sales for a K-pop girl group with its third EP, “Deadline,” selling more than 1.77 million copies, YG Entertainment said Friday, citing a local tally. The newest set from the group surpassed 1.46 million copies sold on the day of its release, smashing through the first-day and weeklong marks for a K-pop girl group previously held by Aespa for its third EP, “My World,” released nearly three years ago in May 2023. The five-track mini album debuted atop iTunes",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/06/news-p.v1.20260306.73715bf5ea0f4867a8203938ba276641_T1.jpg",
+      "tags": [
+        "k-pop",
+        "mini album",
+        "album",
+        "blackpink",
+        "aespa"
       ]
     },
     {
@@ -29,34 +64,6 @@
         "debut",
         "album",
         "circle chart"
-      ]
-    },
-    {
-      "id": "54055543a89df2b8",
-      "title": "Co-Ed Idol Group Announces Their Disbandment, Final Appearance",
-      "url": "https://www.koreaboo.com/asia/bite-shock-co-ed-idol-group-disband-announces-disbandment/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-05T16:23:28.000Z",
-      "snippet": "They will perform one last concert together.",
-      "description": "They will perform one last concert together.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "concert"
-      ]
-    },
-    {
-      "id": "af9b2bf5b1fcc67b",
-      "title": "BLACKPINK Rosé’s Photos With Older Man Abroad Incites Malicious Criticism Towards Idol",
-      "url": "https://www.koreaboo.com/news/blackpink-rose-photos-older-man-abroad-criticism/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-05T15:20:38.000Z",
-      "snippet": "It's all to do with her YSL Fashion Week appearance.",
-      "description": "It's all to do with her YSL Fashion Week appearance.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
       ]
     },
     {
@@ -110,7 +117,7 @@
       "publishedAt": "2026-03-05T02:09:50.000Z",
       "snippet": "Park Ji Hoon, who is on the verge of joining the ranks of 10-million moviegoer actors through “The King’s Warden,” is returning as a singer! On March 5, his agency YY Entertainment...",
       "description": "Park Ji Hoon, who is on the verge of joining the ranks of 10-million moviegoer actors through “The King’s Warden,” is returning as a singer! On March 5, his agency YY Entertainment announced, “Park Ji Hoon is preparing a solo album with the goal of making a comeback in April.” This will be Park Ji… Continue reading Park Ji Hoon To Make Solo Comeback The post Park Ji Hoon To Make Solo Comeback appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/04180357/PJH.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album"
@@ -251,69 +258,6 @@
       ]
     },
     {
-      "id": "b75d3df485c3493d",
-      "title": "ENHYPEN, IVE, KiiiKiii, TWICE, And More Top Circle Weekly Charts",
-      "url": "https://www.soompi.com/article/1822604wpp/enhypen-ive-kiiikiii-twice-and-more-top-circle-weekly-charts",
-      "source": "Soompi",
-      "publishedAt": "2026-03-03T21:45:52.000Z",
-      "snippet": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of February 15 to 21! Album Chart ENHYPEN topped the physical album chart with their latest...",
-      "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of February 15 to 21! Album Chart ENHYPEN topped the physical album chart with their latest mini album “THE SIN : VANISH,” which returned to No. 1 this week. ZEROBASEONE’s special limited album “RE-FLOW” re-entered the chart at No. 2,… Continue reading ENHYPEN, IVE, KiiiKiii, TWICE, And More Top Circle Weekly Charts The post ENHYPEN, IVE, KiiiKiii, TWICE, And More Top Circle Weekly Charts appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album",
-        "gaon",
-        "circle chart",
-        "twice",
-        "ive"
-      ]
-    },
-    {
-      "id": "24458e17fba9b717",
-      "title": "“M Countdown X Mega Concert” Announces 1st Lineup",
-      "url": "https://www.soompi.com/article/1822594wpp/m-countdown-x-mega-concert-announces-1st-lineup",
-      "source": "Soompi",
-      "publishedAt": "2026-03-03T16:32:13.000Z",
-      "snippet": "“M Countdown X Mega Concert” has revealed its first lineup of performing artists! Mnet’s “M Countdown” and Mega MGC Coffee are teaming up to hold a large-scale music festival at In...",
-      "description": "“M Countdown X Mega Concert” has revealed its first lineup of performing artists! Mnet’s “M Countdown” and Mega MGC Coffee are teaming up to hold a large-scale music festival at Incheon’s INSPIRE Arena on May 30. On March 3, it was announced that EXO, NCT WISH, and Hearts2Hearts would be performing at the upcoming show.… Continue reading “M Countdown X Mega Concert” Announces 1st Lineup The post “M Countdown X Mega Concert” Announces 1st Lineup appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mnet",
-        "m countdown",
-        "concert",
-        "nct",
-        "exo"
-      ]
-    },
-    {
-      "id": "ca435f1bed741754",
-      "title": "BTS Unveils Track List For New Album “ARIRANG”",
-      "url": "https://www.soompi.com/article/1822563wpp/bts-unveils-track-list-for-new-album-arirang",
-      "source": "Soompi",
-      "publishedAt": "2026-03-03T15:42:33.000Z",
-      "snippet": "ARMY, prepare to feast: the wait for new BTS music is nearly over! On March 4 at midnight KST, BIGHIT MUSIC released the track list for BTS’s upcoming fifth full-length album “ARIR...",
-      "description": "ARMY, prepare to feast: the wait for new BTS music is nearly over! On March 4 at midnight KST, BIGHIT MUSIC released the track list for BTS’s upcoming fifth full-length album “ARIRANG.” The album, which is due out on March 20 at 1 p.m. KST, will feature a total of 14 songs, including the title… Continue reading BTS Unveils Track List For New Album “ARIRANG” The post BTS Unveils Track List For New Album “ARIRANG” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "348b06a6a93da375",
-      "title": "Individual Idol Brand Reputation Rankings Announced",
-      "url": "https://www.soompi.com/article/1822548wpp/individual-idol-brand-reputation-rankings-announced-2",
-      "source": "Soompi",
-      "publishedAt": "2026-03-03T14:20:00.000Z",
-      "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for individual idols! The rankings were determined through an analysis of the consumer pa...",
-      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for individual idols! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community awareness indexes of 1,730 idols, using big data collected from January 24 to February 24. BTS’s Jimin held onto his spot at the top… Continue reading Individual Idol Brand Reputation Rankings Announced The post Individual Idol Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
-      ]
-    },
-    {
       "id": "0460b63c304db1e8",
       "title": "Rookie group Tunexx launches ‘Set By Us Only’ with message of self-identity",
       "url": "https://www.koreaherald.com/article/10686106",
@@ -440,6 +384,64 @@
       "tags": [
         "album",
         "itzy"
+      ]
+    },
+    {
+      "id": "34bce8e74133e214",
+      "title": "Jungkook’s late-night livestream raises questions about pressure, fame and BTS’ future",
+      "url": "https://www.koreaherald.com/article/10685163",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-02T09:42:53.000Z",
+      "snippet": "BTS member Jungkook has ignited controversy after appearing in a late-night livestream in which he used profanity and voiced frustration with his agency, Hybe, only to later post a...",
+      "description": "BTS member Jungkook has ignited controversy after appearing in a late-night livestream in which he used profanity and voiced frustration with his agency, Hybe, only to later post a selfie promising to “work really hard” for the group’s upcoming comeback. The abrupt shift in tone has left fans divided and raised broader questions about the pressures facing one of K-pop’s biggest global stars. On Feb. 26, Jungkook broadcast live for about 90 minutes on Weverse, Hybe’s fan platform, while drinking",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/02/news-p.v1.20260302.80eef138b67f4d2f8c993dd5b65dfd63_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "bts"
+      ]
+    },
+    {
+      "id": "5bd565de9cdd48fc",
+      "title": "G-Dragon’s ‘Lunar New Year’ greeting at Dubai concert sparks controversy among Chinese fans",
+      "url": "https://www.koreaherald.com/article/10685086",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-02T06:31:18.000Z",
+      "snippet": "K-pop idols often find themselves at the center of controversies they did not necessarily intend to ignite. For global icons such as G-Dragon, even a brief remark onstage can rever...",
+      "description": "K-pop idols often find themselves at the center of controversies they did not necessarily intend to ignite. For global icons such as G-Dragon, even a brief remark onstage can reverberate far beyond its original context. During the Krazy Super Concert held Feb. 17 at Dubai Media City Amphitheater in the United Arab Emirates, G-Dragon greeted fans by saying “Lunar New Year” — a phrase that later drew backlash from some Chinese fans. The date coincided with the Lunar New Year holiday and G-Dragon u",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/02/news-p.v1.20260302.d6394dcc5379427eaa00d59fc8af9720_T1.jpg",
+      "tags": [
+        "k-pop",
+        "concert"
+      ]
+    },
+    {
+      "id": "e7bb4d43dc28b1ac",
+      "title": "Kim Sungkyu steps ‘Off the Map’ with gratitude, grit and a louder future in mind",
+      "url": "https://www.koreaherald.com/article/10684982",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-02T01:39:57.000Z",
+      "snippet": "For Infinite leader Kim Sungkyu, the tagline of his upcoming album, is not about dramatic reinvention. Instead the phrase — “Off the map. Onto my path” — reflects where he stands n...",
+      "description": "For Infinite leader Kim Sungkyu, the tagline of his upcoming album, is not about dramatic reinvention. Instead the phrase — “Off the map. Onto my path” — reflects where he stands now: A veteran K-pop artist returning after three years away, guided by his own creative choices and a renewed sense of gratitude. Kim’s sixth EP, “Off the Map,” arrives Monday. Since his last solo release in 2023, he has remained active through Infinite’s 15th anniversary promotions, group concerts, musicals and appear",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/02/news-p.v1.20260301.e19aa8e0ba084e98bc0aae7d0c1d2388_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album"
+      ]
+    },
+    {
+      "id": "6775865dc0cdc205",
+      "title": "Rose becomes first K-pop artist to win at Brit Awards with &apos;APT.&apos;",
+      "url": "https://www.koreaherald.com/article/10684607",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-02-28T22:08:48.000Z",
+      "snippet": "Rose, a member of K-pop group Blackpink, on Saturday (British time) won International Song of the Year for \"APT.,\" her collaborative hit with Bruno Mars, at the 2026 Brit Awards. I...",
+      "description": "Rose, a member of K-pop group Blackpink, on Saturday (British time) won International Song of the Year for \"APT.,\" her collaborative hit with Bruno Mars, at the 2026 Brit Awards. It marks the first time a K-pop act has ever received an honor at the prestigious British music ceremony, held this year in Manchester. \"APT.,\" a pre-release single from her first studio album \"rosie,\" became a global sensation following its release in October 2024. The track pairs bright pop harmonies with an addictive",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/01/rcv.YNA.20260301.PAP20260301129501009_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "blackpink"
       ]
     }
   ]
