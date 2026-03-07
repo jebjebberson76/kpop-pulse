@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T08:58:41.789Z",
+  "generatedAt": "2026-03-07T09:53:01.201Z",
   "items": [
     {
       "id": "184414965cd5e298",
@@ -29,20 +29,6 @@
       "tags": [
         "idol",
         "bts"
-      ]
-    },
-    {
-      "id": "7894d7403cae8ee8",
-      "title": "K-Pop Idol Announces Retirement From Popular Group, Troubling Signs Point To Disbandment",
-      "url": "https://www.koreaboo.com/news/kpop-idol-announces-retirement-popular-group-troubling-signs-point-disbandment-knk-dongwon/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-07T01:42:18.000Z",
-      "snippet": "We wish them the best!",
-      "description": "We wish them the best!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -440,6 +426,20 @@
       "tags": [
         "album",
         "ive"
+      ]
+    },
+    {
+      "id": "bd67025040af4fdb",
+      "title": "BTS concert prompts closure of Gyeongbokgung, museums and theaters",
+      "url": "https://www.koreaherald.com/article/10685713",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-03T03:05:17.000Z",
+      "snippet": "Less than three weeks before BTS takes the stage at Gwanghwamun Square on March 21, the city is preparing for large crowds, with authorities announcing safety measures and temporar...",
+      "description": "Less than three weeks before BTS takes the stage at Gwanghwamun Square on March 21, the city is preparing for large crowds, with authorities announcing safety measures and temporary closures of nearby historic sites and cultural venues. The Korea Heritage Service said Gyeongbokgung, the main royal palace of Joseon (1392-1910) in Gwanghwamun, will be closed, with its parking lot shuttered and public access restricted. Officials said an emergency task force for palaces would be activated to conduc",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-a.v1.20260303.08f81d6fda89463396491b040d154647_T1.png",
+      "tags": [
+        "concert",
+        "bts"
       ]
     }
   ]
