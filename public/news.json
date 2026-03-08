@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T13:51:24.187Z",
+  "generatedAt": "2026-03-08T14:52:47.030Z",
   "items": [
     {
       "id": "0f2c15d13d9767a0",
@@ -14,20 +14,6 @@
         "music video",
         "mv",
         "nct"
-      ]
-    },
-    {
-      "id": "41e26e56fff41c83",
-      "title": "BLACKPINK’s Jennie Under Fire For “Israel Campaign” With Huge Brand",
-      "url": "https://www.koreaboo.com/news/blackpink-jennie-fire-israel-campaign-huge-brand/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-08T11:15:36.000Z",
-      "snippet": "The idol is facing heated backlash.",
-      "description": "The idol is facing heated backlash.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
       ]
     },
     {
@@ -443,6 +429,21 @@
       "tags": [
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "18532c935138b7a7",
+      "title": "Unis to host fan meetup in Japan",
+      "url": "https://www.koreaherald.com/article/10685699",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-03T02:49:08.000Z",
+      "snippet": "Girl group Unis will meet and greet fans in Japan later this month at a fan meeting in Tokyo, agency F&F Entertainment announced Tuesday. The multinational group of eight will be r...",
+      "description": "Girl group Unis will meet and greet fans in Japan later this month at a fan meeting in Tokyo, agency F&F Entertainment announced Tuesday. The multinational group of eight will be returning to the Japanese capital about nine months after its Asian fan concert tour. Under the title “Moshi Moshi This is Unis!” the octet will take the stage twice on March 29. The event is named after the digital single it dropped in the country last year between the releases of “Shaking My Head” and “Mwah….” The Tok",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.5615719fc9704275a764767c9110d1a8_T1.jpg",
+      "tags": [
+        "concert",
+        "fan meeting",
+        "twice"
       ]
     }
   ]
