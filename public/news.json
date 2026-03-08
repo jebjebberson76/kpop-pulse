@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-08T10:53:20.623Z",
+  "generatedAt": "2026-03-08T11:39:20.658Z",
   "items": [
+    {
+      "id": "41e26e56fff41c83",
+      "title": "BLACKPINK’s Jennie Under Fire For “Israel Campaign” With Huge Brand",
+      "url": "https://www.koreaboo.com/news/blackpink-jennie-fire-israel-campaign-huge-brand/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-08T11:15:36.000Z",
+      "snippet": "The idol is facing heated backlash.",
+      "description": "The idol is facing heated backlash.",
+      "image": "https://image.koreaboo.com/2026/03/jennieisraelcampaign-FI.jpg",
+      "tags": [
+        "idol",
+        "blackpink"
+      ]
+    },
     {
       "id": "6209700a74ff388b",
       "title": "BLACKPINK’s “DEADLINE” And “GO” Debut On UK’s Official Albums And Singles Charts",
@@ -72,7 +86,7 @@
       "publishedAt": "2026-03-07T01:52:37.000Z",
       "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
       "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from February 7 to March 7. BTS held onto their spot at the top… Continue reading March Boy Group Brand Reputation Rankings Announced The post March Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/06175100/BTS-Stray-Kids-SEVENTEEN.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "bts"
@@ -429,20 +443,6 @@
         "concert",
         "fan meeting",
         "twice"
-      ]
-    },
-    {
-      "id": "e11181430d81015c",
-      "title": "BoA sets up own agency",
-      "url": "https://www.koreaherald.com/article/10685606",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-03T02:20:51.000Z",
-      "snippet": "BoA established her own management company, BApal Entertainment, the agency said Tuesday. “BoA went for a new structure to better realize her musical direction,” added the newly es...",
-      "description": "BoA established her own management company, BApal Entertainment, the agency said Tuesday. “BoA went for a new structure to better realize her musical direction,” added the newly established company. BoA parted ways with SM Entertainment in December after 25 years. She debuted in 2000 at the age of 14 and led the first wave of Korean culture across Asia, paving the way for K-pop artists abroad. She was a breakout hit in Japan in particular and has two million-selling albums tallied by the Oricon",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.8a596209422e4dedb74190cd24868657_T1.png",
-      "tags": [
-        "k-pop",
-        "boa"
       ]
     }
   ]
