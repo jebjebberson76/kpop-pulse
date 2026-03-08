@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-03-08T21:43:38.425Z",
+  "generatedAt": "2026-03-08T22:52:08.479Z",
   "items": [
+    {
+      "id": "21121603fcb7a96b",
+      "title": "K-Pop Idol-Turned-Actress Confesses To Causing A Car Accident With Her “Wild Driving”",
+      "url": "https://www.koreaboo.com/news/nam-gyuri-seeya-kpop-idol-actress-confesses-causing-car-accident-wild-driving/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-08T22:33:28.000Z",
+      "snippet": "Oops.",
+      "description": "Oops.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "18ccbfcdbc2cd23f",
+      "title": "Watch: NCT’s Jaemin And Jeno Show Off Contrasting Charms In “Amazing Saturday” Preview",
+      "url": "https://www.soompi.com/article/1823689wpp/watch-ncts-jaemin-and-jeno-show-off-contrasting-charms-in-amazing-saturday-preview",
+      "source": "Soompi",
+      "publishedAt": "2026-03-08T21:45:00.000Z",
+      "snippet": "Get ready to see NCT’s Jaemin and Jeno on “Amazing Saturday”! The popular tvN variety show has revealed a sneak peek of next week’s episode, which will feature Jaemin and Jeno as g...",
+      "description": "Get ready to see NCT’s Jaemin and Jeno on “Amazing Saturday”! The popular tvN variety show has revealed a sneak peek of next week’s episode, which will feature Jaemin and Jeno as guests alongside Im Woo Il and Kim Ji Yoo. Jaemin and Jeno, who recently made their unit debut as the new duo NCT… Continue reading Watch: NCT’s Jaemin And Jeno Show Off Contrasting Charms In “Amazing Saturday” Preview The post Watch: NCT’s Jaemin And Jeno Show Off Contrasting Charms In “Amazing Saturday” Preview appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08154250/Jaemin-Jeno.jpg",
+      "tags": [
+        "debut",
+        "nct"
+      ]
+    },
     {
       "id": "0da3ba7ace0d6601",
       "title": "“Withdrawn” K-Pop Idol Breaks Silence With Emotional Message After Sudden Departure",
@@ -87,7 +115,7 @@
       "publishedAt": "2026-03-08T14:59:02.000Z",
       "snippet": "IVE has won a seventh music show trophy for their hit pre-release track “BANG BANG”! On the March 8 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO...",
       "description": "IVE has won a seventh music show trophy for their hit pre-release track “BANG BANG”! On the March 8 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO,” IVE’s “BANG BANG,” and Hearts2Hearts’ “RUDE!” IVE ultimately took the win with a total of 6,612 points. Congratulations to IVE! Watch their performance, win,… Continue reading Watch: IVE Takes 7th Win For “BANG BANG” On “Inkigayo”; Performances By WOODZ, Hearts2Hearts, And More The post Watch: IVE Takes 7th Win For “BANG BANG” On “Inkigayo”; Performances By WOODZ, Hearts2Hearts, And More appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08075839/IVE_c89a2e.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "inkigayo",
         "blackpink",
@@ -420,37 +448,6 @@
         "mini album",
         "album",
         "melon"
-      ]
-    },
-    {
-      "id": "68446fd819b33bee",
-      "title": "Seventeen’s S.Coups, Mingyu reclaim Oricon chart",
-      "url": "https://www.koreaherald.com/article/10686695",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-04T02:45:52.000Z",
-      "snippet": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype...",
-      "description": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype Vibes” returned to the top of the chart after five months, possibly gaining momentum from the success of its ongoing tour “Double Up — Live Party.” The mini album rolled out in September last year and landed atop the daily chart, spending three days at No. 1, before scoring chart-topping debut on its Weekly and Weekly",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.94ee879ebd3f4ec98d85991559f647ab_T1.jpg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album",
-        "seventeen"
-      ]
-    },
-    {
-      "id": "0460b63c304db1e8",
-      "title": "Rookie group Tunexx launches ‘Set By Us Only’ with message of self-identity",
-      "url": "https://www.koreaherald.com/article/10686106",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-03T09:07:10.000Z",
-      "snippet": "Rookie boy group Tunexx has officially stepped into the spotlight with its debut mini album \"Set By Us Only,\" breaking away from fixed standards and moving with its own frequency....",
-      "description": "Rookie boy group Tunexx has officially stepped into the spotlight with its debut mini album \"Set By Us Only,\" breaking away from fixed standards and moving with its own frequency. “Like our slogan ‘Tune in to our frequency,’ we want to grow by matching our wavelength with fans,” member Donggyu said during a media showcase held at Yes24 Live Hall in Seoul on Tuesday. Fronting the mini album with a hip-hop-based sound, the main track \"I'm Alive\" delivers a bold message of self-definition and survi",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.dc10bd2d415943b6b06fa78313548901_T1.jpg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album"
       ]
     }
   ]
