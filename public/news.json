@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T22:52:08.479Z",
+  "generatedAt": "2026-03-08T23:47:40.214Z",
   "items": [
     {
       "id": "21121603fcb7a96b",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-03-08T22:33:28.000Z",
       "snippet": "Oops.",
       "description": "Oops.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/Nam-gyuri-fender-bender-fi.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -37,7 +37,7 @@
       "publishedAt": "2026-03-08T21:35:10.000Z",
       "snippet": "She addressed her heartbroken fans.",
       "description": "She addressed her heartbroken fans.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/kep1er-seo-youngeun-goodbye-fi.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -85,7 +85,7 @@
       "publishedAt": "2026-03-08T15:42:42.000Z",
       "snippet": "Kep1er is gearing up for a spring comeback! On March 9 at midnight KST, Kep1er officially announced their plans to make a comeback later this month. The group will be returning wit...",
       "description": "Kep1er is gearing up for a spring comeback! On March 9 at midnight KST, Kep1er officially announced their plans to make a comeback later this month. The group will be returning with their eighth mini album “CRACK CODE” on March 31 at 6 p.m. KST, and you can check out their first teasers for the… Continue reading Kep1er Announces March Comeback Date With Teasers For “CRACK CODE” The post Kep1er Announces March Comeback Date With Teasers For “CRACK CODE” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08083914/Kep1er.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "mini album",
@@ -100,7 +100,7 @@
       "publishedAt": "2026-03-08T15:22:03.000Z",
       "snippet": "Mark your calendars for Red Velvet’s Irene’s return! On March 9 at midnight KST, Irene officially announced the date and details for her first-ever solo comeback. Irene will be rel...",
       "description": "Mark your calendars for Red Velvet’s Irene’s return! On March 9 at midnight KST, Irene officially announced the date and details for her first-ever solo comeback. Irene will be releasing her first full-length solo album, “Biggest Fan,” on March 30 at 6 p.m. KST. Check out Irene’s new “BIGGEST FAN-TASY™” teaser for her upcoming comeback… Continue reading Watch: Red Velvet’s Irene Announces Comeback Date With “BIGGEST FAN-TASY” Teaser Film The post Watch: Red Velvet’s Irene Announces Comeback Date With “BIGGEST FAN-TASY” Teaser Film appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08082015/Irene.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album",
@@ -319,21 +319,6 @@
       ]
     },
     {
-      "id": "adcb66029cae1d9c",
-      "title": "Watch: Hearts2Hearts Takes 1st Win For “RUDE!” On “M Countdown”; Performances By WOODZ, TUNEXX, And More",
-      "url": "https://www.soompi.com/article/1823164wpp/watch-hearts2hearts-takes-1st-win-for-rude-on-m-countdown-performances-by-woodz-tunexx-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-03-05T11:53:08.000Z",
-      "snippet": "Hearts2Hearts has won their first music show trophy for their new title track “RUDE!“ On the March 5 episode of M Countdown, the candidates for first place were BLACKPINK‘s “GO” an...",
-      "description": "Hearts2Hearts has won their first music show trophy for their new title track “RUDE!“ On the March 5 episode of M Countdown, the candidates for first place were BLACKPINK‘s “GO” and Hearts2Hearts’ “RUDE!” Hearts2Hearts ultimately took the prize with a total of 9,389 points. Congratulations to Hearts2Hearts! Watch the winner announcement below! Performers on today’s show included IVE,… Continue reading Watch: Hearts2Hearts Takes 1st Win For “RUDE!” On “M Countdown”; Performances By WOODZ, TUNEXX, And More The post Watch: Hearts2Hearts Takes 1st Win For “RUDE!” On “M Countdown”; Performances By...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "m countdown",
-        "blackpink",
-        "ive"
-      ]
-    },
-    {
       "id": "5cc5b2b45e837951",
       "title": "Netflix unveils teaser for BTS’ comeback live at Gwanghwamun",
       "url": "https://www.koreaherald.com/article/10687774",
@@ -448,6 +433,22 @@
         "mini album",
         "album",
         "melon"
+      ]
+    },
+    {
+      "id": "68446fd819b33bee",
+      "title": "Seventeen’s S.Coups, Mingyu reclaim Oricon chart",
+      "url": "https://www.koreaherald.com/article/10686695",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-04T02:45:52.000Z",
+      "snippet": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype...",
+      "description": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype Vibes” returned to the top of the chart after five months, possibly gaining momentum from the success of its ongoing tour “Double Up — Live Party.” The mini album rolled out in September last year and landed atop the daily chart, spending three days at No. 1, before scoring chart-topping debut on its Weekly and Weekly",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.94ee879ebd3f4ec98d85991559f647ab_T1.jpg",
+      "tags": [
+        "debut",
+        "mini album",
+        "album",
+        "seventeen"
       ]
     }
   ]
