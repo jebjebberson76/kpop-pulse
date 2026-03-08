@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-08T20:52:34.224Z",
+  "generatedAt": "2026-03-08T21:43:38.425Z",
   "items": [
+    {
+      "id": "0da3ba7ace0d6601",
+      "title": "“Withdrawn” K-Pop Idol Breaks Silence With Emotional Message After Sudden Departure",
+      "url": "https://www.koreaboo.com/news/kep1er-seo-youngeun-instagram-update-since-departure/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-08T21:35:10.000Z",
+      "snippet": "She addressed her heartbroken fans.",
+      "description": "She addressed her heartbroken fans.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "c310d193fb7be84f",
+      "title": "BLACKPINK’s “DEADLINE” Becomes Their 3rd Album To Debut In Top 10 Of Billboard 200",
+      "url": "https://www.soompi.com/article/1823681wpp/blackpinks-deadline-becomes-their-3rd-album-to-debut-in-top-10-of-billboard-200",
+      "source": "Soompi",
+      "publishedAt": "2026-03-08T20:17:00.000Z",
+      "snippet": "BLACKPINK has just scored their third consecutive top 10 entry on the Billboard 200! On March 8 local time, Billboard announced that BLACKPINK’s new album “DEADLINE” had debuted at...",
+      "description": "BLACKPINK has just scored their third consecutive top 10 entry on the Billboard 200! On March 8 local time, Billboard announced that BLACKPINK’s new album “DEADLINE” had debuted at No. 8 on its famous Top 200 Albums chart, which ranks the most popular albums in the United States. “DEADLINE” also debuted at No. 2 on… Continue reading BLACKPINK’s “DEADLINE” Becomes Their 3rd Album To Debut In Top 10 Of Billboard 200 The post BLACKPINK’s “DEADLINE” Becomes Their 3rd Album To Debut In Top 10 Of Billboard 200 appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08141608/BLACKPINK_e068ba.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "billboard",
+        "blackpink"
+      ]
+    },
     {
       "id": "cf34bc6456fc8c5f",
       "title": "ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
@@ -72,7 +102,7 @@
       "publishedAt": "2026-03-08T12:59:00.000Z",
       "snippet": "NCT has just hit the 300 million mark for the very first time on YouTube! On March 8 at around 9:50 p.m. KST, NCT U’s music video for “Make A Wish (Birthday Song)” surpassed 300 mi...",
       "description": "NCT has just hit the 300 million mark for the very first time on YouTube! On March 8 at around 9:50 p.m. KST, NCT U’s music video for “Make A Wish (Birthday Song)” surpassed 300 million views on YouTube, making it NCT’s first music video ever to reach the milestone. NCT U originally released the… Continue reading NCT U’s “Make A Wish (Birthday Song)” Becomes NCT’s 1st MV To Hit 300 Million Views The post NCT U’s “Make A Wish (Birthday Song)” Becomes NCT’s 1st MV To Hit 300 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08053117/NCT-U-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "music video",
         "mv",
@@ -420,34 +450,6 @@
       "tags": [
         "debut",
         "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "5d533289e4ed5deb",
-      "title": "How Blackpink weaves Korean heritage in &apos;Go&apos;",
-      "url": "https://www.koreaherald.com/article/10685963",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-03T06:37:24.000Z",
-      "snippet": "With the release of Blackpink's long-awaited EP \"Deadline,\" attention has shifted not only to the group's new music, but also to traditional Korean cultural elements woven into the...",
-      "description": "With the release of Blackpink's long-awaited EP \"Deadline,\" attention has shifted not only to the group's new music, but also to traditional Korean cultural elements woven into the music video for lead track \"Go.\" Viewers quickly began dissecting the video's visual motifs, noting that several aspects appeared to draw heavily from traditional Korean aesthetics. The music video for \"Go\" includes ornamental patterns such as the \"sujamun\" — a stylized rendering of the hanja character for \"su\" — that",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-p.v1.20260303.0324c8ca391c4df8b7510d37f33d23bb_T1.png",
-      "tags": [
-        "music video",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "dc72232818568a18",
-      "title": "[Exclusive] T.O.P to make solo comeback independently",
-      "url": "https://www.koreaherald.com/article/10685927",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-03T06:10:32.000Z",
-      "snippet": "T.O.P is preparing for his long-awaited solo comeback, with plans to release a new album under his own label, Topspot Pictures, according to industry sources Tuesday. Kang Jung-woo...",
-      "description": "T.O.P is preparing for his long-awaited solo comeback, with plans to release a new album under his own label, Topspot Pictures, according to industry sources Tuesday. Kang Jung-woo, CEO of Hiin Entertainment, is expected to oversee T.O.P's promotional activities. Kang is a former executive of BH Entertainment, the agency founded by actor Lee Byung-hun, who starred alongside T.O.P in \"Squid Game.\" \"T.O.P decided to release the new album under his own label, Topspot Pictures,\" a source told The Ko",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/03/news-a.v1.20260303.47815dbfe3464204954e649cd8c539e6_T1.jpg",
-      "tags": [
-        "comeback",
         "album"
       ]
     }
