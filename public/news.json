@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T11:27:58.697Z",
+  "generatedAt": "2026-03-10T12:43:40.974Z",
   "items": [
+    {
+      "id": "238ea086c65fee09",
+      "title": "Wealthier overseas fans reshape power dynamics in K-pop",
+      "url": "https://www.koreaherald.com/article/10691340",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-10T12:31:24.000Z",
+      "snippet": "With BTS’ full-group comeback less than two weeks away, Chinese fan communities have recently announced large-scale promotional campaigns that will dominate some of Seoul’s most vi...",
+      "description": "With BTS’ full-group comeback less than two weeks away, Chinese fan communities have recently announced large-scale promotional campaigns that will dominate some of Seoul’s most visible digital billboards. Jungkook’s official Chinese fan club said it will broadcast a congratulatory video for the singer’s comeback on the 60-meter landmark megascreen at the Koreana Hotel in central Seoul from March 20 to 22. Chinese fan club Baidu V Bar has planned an even larger campaign for V, securing the massi",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.f0859961faae44e2bdd7866b0cd18cd9_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "bts"
+      ]
+    },
     {
       "id": "452e3bef48459f90",
       "title": "BTS’s Upcoming Album “ARIRANG” Merch Triggers Huge Controversy",
@@ -263,36 +278,6 @@
       ]
     },
     {
-      "id": "847cf68528e7afa4",
-      "title": "Soompi’s K-Pop Music Chart 2026, March Week 2",
-      "url": "https://www.soompi.com/article/1823567wpp/soompis-k-pop-music-chart-2026-march-week-2",
-      "source": "Soompi",
-      "publishedAt": "2026-03-08T06:15:10.000Z",
-      "snippet": "After two weeks at No. 2, IVE’s “BANG BANG” moves up one spot to take over as the new No. 1 song. Congratulations to IVE! KiiiKiii’s “404 (New Era),” which topped the chart for the...",
-      "description": "After two weeks at No. 2, IVE’s “BANG BANG” moves up one spot to take over as the new No. 1 song. Congratulations to IVE! KiiiKiii’s “404 (New Era),” which topped the chart for the last four weeks, is down one spot to No. 2. Two new songs debuted in the top 10 this week.… Continue reading Soompi’s K-Pop Music Chart 2026, March Week 2 The post Soompi’s K-Pop Music Chart 2026, March Week 2 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "ive"
-      ]
-    },
-    {
-      "id": "6209700a74ff388b",
-      "title": "BLACKPINK’s “DEADLINE” And “GO” Debut On UK’s Official Albums And Singles Charts",
-      "url": "https://www.soompi.com/article/1823562wpp/blackpinks-deadline-and-go-debut-on-uks-official-albums-and-singles-charts",
-      "source": "Soompi",
-      "publishedAt": "2026-03-08T05:34:08.000Z",
-      "snippet": "BLACKPINK’s latest release is off to a promising start in the United Kingdom! This week, the United Kingdom’s Official Charts (widely regarded as the U.K. equivalent to Billboard’s...",
-      "description": "BLACKPINK’s latest release is off to a promising start in the United Kingdom! This week, the United Kingdom’s Official Charts (widely regarded as the U.K. equivalent to Billboard’s U.S. charts) announced that BLACKPINK’s new album “DEADLINE” had debuted at No. 11 on its Official Albums Chart. “DEADLINE” is BLACKPINK’s fourth album to enter the chart,… Continue reading BLACKPINK’s “DEADLINE” And “GO” Debut On UK’s Official Albums And Singles Charts The post BLACKPINK’s “DEADLINE” And “GO” Debut On UK’s Official Albums And Singles Charts appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "album",
-        "billboard",
-        "blackpink"
-      ]
-    },
-    {
       "id": "72394905062ae6b5",
       "title": "Blackpink&apos;s &apos;Deadline&apos; lands at No. 11 on British Official Albums Chart",
       "url": "https://www.koreaherald.com/article/10689040",
@@ -458,6 +443,20 @@
       "tags": [
         "debut",
         "world tour"
+      ]
+    },
+    {
+      "id": "bec5056f074f5cf5",
+      "title": "YG Entertainment to debut new boy group this fall",
+      "url": "https://www.koreaherald.com/article/10686740",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-04T04:18:55.000Z",
+      "snippet": "YG Entertainment said Wednesday it is preparing to debut a new boy group this fall, marking the agency’s first launch of a male idol act since Treasure six years ago. The company r...",
+      "description": "YG Entertainment said Wednesday it is preparing to debut a new boy group this fall, marking the agency’s first launch of a male idol act since Treasure six years ago. The company revealed the plan through its official blog, stating that it is “preparing a new boy group, targeting fall 2026.” Yang Hyun-suk, YG Entertainment founder and executive producer, hinted at the project last year, saying the agency had been closely evaluating a team of male trainees being considered for debut. “We have bee",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.021f4bb58de845f3851500afb0e7d42f_T1.png",
+      "tags": [
+        "idol",
+        "debut"
       ]
     }
   ]
