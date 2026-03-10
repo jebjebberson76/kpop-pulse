@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T16:51:20.697Z",
+  "generatedAt": "2026-03-10T17:40:48.702Z",
   "items": [
     {
       "id": "238ea086c65fee09",
@@ -13,20 +13,6 @@
       "tags": [
         "k-pop",
         "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "452e3bef48459f90",
-      "title": "BTS’s Upcoming Album “ARIRANG” Merch Triggers Huge Controversy",
-      "url": "https://www.koreaboo.com/news/bts-arirang-merch-sparks-huge-controversy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-10T10:40:37.000Z",
-      "snippet": "\"The company’s audacity is impressive.\"",
-      "description": "\"The company’s audacity is impressive.\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
         "bts"
       ]
     },
@@ -458,6 +444,22 @@
         "mini album",
         "album",
         "melon"
+      ]
+    },
+    {
+      "id": "68446fd819b33bee",
+      "title": "Seventeen’s S.Coups, Mingyu reclaim Oricon chart",
+      "url": "https://www.koreaherald.com/article/10686695",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-04T02:45:52.000Z",
+      "snippet": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype...",
+      "description": "S.Coups and Mingyu of Seventeen notched No. 1 spot on Oricon’s Daily Album Ranking as a subunit, said agency Pledis Entertainment citing the latest chart. The duo’s first EP “Hype Vibes” returned to the top of the chart after five months, possibly gaining momentum from the success of its ongoing tour “Double Up — Live Party.” The mini album rolled out in September last year and landed atop the daily chart, spending three days at No. 1, before scoring chart-topping debut on its Weekly and Weekly",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.94ee879ebd3f4ec98d85991559f647ab_T1.jpg",
+      "tags": [
+        "debut",
+        "mini album",
+        "album",
+        "seventeen"
       ]
     }
   ]
