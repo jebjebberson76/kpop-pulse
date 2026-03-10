@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-03-10T05:40:47.534Z",
+  "generatedAt": "2026-03-10T06:39:58.634Z",
   "items": [
+    {
+      "id": "c18f5ac207dc0fff",
+      "title": "BTS to launch ‘Arirang’ pop-up store in Seoul ahead of album release",
+      "url": "https://www.koreaherald.com/article/10691077",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-10T05:58:41.000Z",
+      "snippet": "BTS will open a special pop-up store in Seoul to mark the release of its upcoming album, “Arirang,” the group’s agency said Tuesday. According to Big Hit Music, the pop-up event wi...",
+      "description": "BTS will open a special pop-up store in Seoul to mark the release of its upcoming album, “Arirang,” the group’s agency said Tuesday. According to Big Hit Music, the pop-up event will run from 1 p.m. on the day of the album’s release (March 20) through 8:30 p.m. on April 12 at two locations: Shinsegae Department Store’s The Heritage building in Jung-gu, central Seoul, and the Hybe headquarters in Yongsan. Merchandise for sale at the pop-up was created in collaboration with the National Museum Fou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.0458504c6cb44e79aad2522e61d21bf0_T1.png",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "e48e81511c20f72f",
+      "title": "Police probe ticket scams ahead of BTS Gwanghwamun comeback show",
+      "url": "https://www.koreaherald.com/article/10691073",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-10T05:58:15.000Z",
+      "snippet": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chie...",
+      "description": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chief of the Seoul Metropolitan Police Agency, said Monday that police are currently investigating three suspected criminal cases tied to ticket sales for the concert, after ticket platform Nol Universe requested a probe into signs of automated programs buying tickets for the event on March 21. Police said the main types o",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.c165442ebf7b4fec8e2052aae08d2c32_T1.jpg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "7add6bb0b7303aa1",
       "title": "Riize wraps ‘Riizing Loud’ world tour with electrifying finale in Seoul",
@@ -24,7 +53,7 @@
       "publishedAt": "2026-03-10T04:08:07.000Z",
       "snippet": "Lisa also shut down a street.",
       "description": "Lisa also shut down a street.",
-      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-67-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "bts",
         "blackpink"
@@ -52,7 +81,7 @@
       "publishedAt": "2026-03-10T02:33:12.000Z",
       "snippet": "Things are getting bigger.",
       "description": "Things are getting bigger.",
-      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-66.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "concert",
@@ -159,7 +188,7 @@
       "publishedAt": "2026-03-08T20:17:00.000Z",
       "snippet": "BLACKPINK has just scored their third consecutive top 10 entry on the Billboard 200! On March 8 local time, Billboard announced that BLACKPINK’s new album “DEADLINE” had debuted at...",
       "description": "BLACKPINK has just scored their third consecutive top 10 entry on the Billboard 200! On March 8 local time, Billboard announced that BLACKPINK’s new album “DEADLINE” had debuted at No. 8 on its famous Top 200 Albums chart, which ranks the most popular albums in the United States. “DEADLINE” also debuted at No. 2 on… Continue reading BLACKPINK’s “DEADLINE” Becomes Their 3rd Album To Debut In Top 10 Of Billboard 200 The post BLACKPINK’s “DEADLINE” Becomes Their 3rd Album To Debut In Top 10 Of Billboard 200 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08141608/BLACKPINK_e068ba.jpg",
       "tags": [
         "debut",
         "album",
@@ -175,7 +204,7 @@
       "publishedAt": "2026-03-08T17:28:48.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on March 7! ATEEZ’s new mini album “GOLDEN HOUR : Part.4” topped the World Albums chart for the third week in a r...",
       "description": "Billboard has published its World Albums chart for the week ending on March 7! ATEEZ’s new mini album “GOLDEN HOUR : Part.4” topped the World Albums chart for the third week in a row, in addition to spending a third week on the Billboard 200 at No. 45. ENHYPEN once again landed a total of… Continue reading ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart The post ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08101944/ATEEZ-ENHYPEN-Stray-Kids-IVE.jpg",
       "tags": [
         "mini album",
         "album",
@@ -304,36 +333,6 @@
         "music video",
         "mv",
         "stray kids"
-      ]
-    },
-    {
-      "id": "184414965cd5e298",
-      "title": "BLACKPINK’s “DEADLINE” Breaks Girl Group Record For Highest 1st-Week Sales In Hanteo History",
-      "url": "https://www.soompi.com/article/1823457wpp/blackpinks-deadline-breaks-girl-group-record-for-highest-1st-week-sales-in-hanteo-history",
-      "source": "Soompi",
-      "publishedAt": "2026-03-07T02:39:33.000Z",
-      "snippet": "BLACKPINK has set a new sales record with their latest album! Last week, BLACKPINK made their highly-anticipated comeback with their new mini album “DEADLINE” on February 27. By th...",
-      "description": "BLACKPINK has set a new sales record with their latest album! Last week, BLACKPINK made their highly-anticipated comeback with their new mini album “DEADLINE” on February 27. By the end of the day, it had already sold over 1.46 million copies, setting a new record for the highest first-day sales of any female artist in… Continue reading BLACKPINK’s “DEADLINE” Breaks Girl Group Record For Highest 1st-Week Sales In Hanteo History The post BLACKPINK’s “DEADLINE” Breaks Girl Group Record For Highest 1st-Week Sales In Hanteo History appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "8492d47cb71782da",
-      "title": "March Boy Group Brand Reputation Rankings Announced",
-      "url": "https://www.soompi.com/article/1823449wpp/march-boy-group-brand-reputation-rankings-announced-7",
-      "source": "Soompi",
-      "publishedAt": "2026-03-07T01:52:37.000Z",
-      "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
-      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from February 7 to March 7. BTS held onto their spot at the top… Continue reading March Boy Group Brand Reputation Rankings Announced The post March Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
       ]
     },
     {
