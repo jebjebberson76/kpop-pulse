@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T13:57:46.236Z",
+  "generatedAt": "2026-03-10T14:50:05.578Z",
   "items": [
     {
       "id": "238ea086c65fee09",
@@ -24,23 +24,9 @@
       "publishedAt": "2026-03-10T10:40:37.000Z",
       "snippet": "\"The company’s audacity is impressive.\"",
       "description": "\"The company’s audacity is impressive.\"",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/btsmerch-FI.jpg",
       "tags": [
         "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "225ed01092a2275c",
-      "title": "HYBE And Netflix Accused Of Disrespecting BTS’s Jungkook And J-Hope Ahead Of “ARIRANG” Comeback",
-      "url": "https://www.koreaboo.com/news/hybe-netflix-accused-disrespecting-bts-jungkook-jhope-arirang-comeback/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-10T10:10:13.000Z",
-      "snippet": "It has sparked mass fury.",
-      "description": "It has sparked mass fury.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
         "bts"
       ]
     },
@@ -207,7 +193,7 @@
       "publishedAt": "2026-03-08T17:28:48.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on March 7! ATEEZ’s new mini album “GOLDEN HOUR : Part.4” topped the World Albums chart for the third week in a r...",
       "description": "Billboard has published its World Albums chart for the week ending on March 7! ATEEZ’s new mini album “GOLDEN HOUR : Part.4” topped the World Albums chart for the third week in a row, in addition to spending a third week on the Billboard 200 at No. 45. ENHYPEN once again landed a total of… Continue reading ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart The post ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/08101944/ATEEZ-ENHYPEN-Stray-Kids-IVE.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -457,6 +443,21 @@
       "tags": [
         "idol",
         "debut"
+      ]
+    },
+    {
+      "id": "74ad20f661f0eb53",
+      "title": "Baby Dont Cry to unveil 1st EP",
+      "url": "https://www.koreaherald.com/article/10686700",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-04T02:54:43.000Z",
+      "snippet": "Baby Dont Cry's agency P Nation announced Wednesday that the girl group will bring out its first EP “After Cry” on March 24. The agency uploaded a teaser trailer, dubbed “The Story...",
+      "description": "Baby Dont Cry's agency P Nation announced Wednesday that the girl group will bring out its first EP “After Cry” on March 24. The agency uploaded a teaser trailer, dubbed “The Story Begins Here,” which hinted that the new album may be followed by two sets: “We Bloom” and “Beyond the Limit.” The upcoming mini album is the quartet’s first release since the digital single “I Don’t Care” in November. The single entered Melon’s Hot 100 chart. The group debuted last June with the digital single “F Girl",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.db961b7484d544d095bc68af8d55e1db_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "melon"
       ]
     }
   ]
