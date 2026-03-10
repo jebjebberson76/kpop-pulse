@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-10T10:32:58.179Z",
+  "generatedAt": "2026-03-10T11:27:58.697Z",
   "items": [
+    {
+      "id": "452e3bef48459f90",
+      "title": "BTS’s Upcoming Album “ARIRANG” Merch Triggers Huge Controversy",
+      "url": "https://www.koreaboo.com/news/bts-arirang-merch-sparks-huge-controversy/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-10T10:40:37.000Z",
+      "snippet": "\"The company’s audacity is impressive.\"",
+      "description": "\"The company’s audacity is impressive.\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "225ed01092a2275c",
       "title": "HYBE And Netflix Accused Of Disrespecting BTS’s Jungkook And J-Hope Ahead Of “ARIRANG” Comeback",
@@ -444,20 +458,6 @@
       "tags": [
         "debut",
         "world tour"
-      ]
-    },
-    {
-      "id": "bec5056f074f5cf5",
-      "title": "YG Entertainment to debut new boy group this fall",
-      "url": "https://www.koreaherald.com/article/10686740",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-04T04:18:55.000Z",
-      "snippet": "YG Entertainment said Wednesday it is preparing to debut a new boy group this fall, marking the agency’s first launch of a male idol act since Treasure six years ago. The company r...",
-      "description": "YG Entertainment said Wednesday it is preparing to debut a new boy group this fall, marking the agency’s first launch of a male idol act since Treasure six years ago. The company revealed the plan through its official blog, stating that it is “preparing a new boy group, targeting fall 2026.” Yang Hyun-suk, YG Entertainment founder and executive producer, hinted at the project last year, saying the agency had been closely evaluating a team of male trainees being considered for debut. “We have bee",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.021f4bb58de845f3851500afb0e7d42f_T1.png",
-      "tags": [
-        "idol",
-        "debut"
       ]
     }
   ]
