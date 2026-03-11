@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T10:32:47.792Z",
+  "generatedAt": "2026-03-11T11:28:15.743Z",
   "items": [
     {
       "id": "9aad14fa6ac2cdea",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-03-11T09:20:41.000Z",
       "snippet": "It was the center of the dating rumors.",
       "description": "It was the center of the dating rumors.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/FD2870-10-1.jpg",
       "tags": [
         "bts",
         "aespa"
@@ -285,22 +285,6 @@
       ]
     },
     {
-      "id": "caa93a73569cf0a8",
-      "title": "BABYMONSTER’s “WE GO UP” Becomes Their 5th MV To Hit 200 Million Views",
-      "url": "https://www.soompi.com/article/1823805wpp/babymonsters-we-go-up-becomes-their-5th-mv-to-hit-200-million-views",
-      "source": "Soompi",
-      "publishedAt": "2026-03-09T07:07:52.000Z",
-      "snippet": "BABYMONSTER has set another milestone on YouTube! According to YG Entertainment on March 9, the music video for BABYMONSTER’s second mini album title track “WE GO UP” surpassed 200...",
-      "description": "BABYMONSTER has set another milestone on YouTube! According to YG Entertainment on March 9, the music video for BABYMONSTER’s second mini album title track “WE GO UP” surpassed 200 million views on YouTube at around 2:01 p.m. KST that day. The achievement comes approximately 150 days after the video was released on October 10 last… Continue reading BABYMONSTER’s “WE GO UP” Becomes Their 5th MV To Hit 200 Million Views The post BABYMONSTER’s “WE GO UP” Becomes Their 5th MV To Hit 200 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/09000747/babymonster-we-go-up-200-m-1.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "music video",
-        "mv"
-      ]
-    },
-    {
       "id": "d659729b1528286c",
       "title": "BTS returns — and so does Army",
       "url": "https://www.koreaherald.com/article/10690074",
@@ -456,6 +440,20 @@
         "comeback",
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "329fbc4dc3487cc5",
+      "title": "Nmixx adds Tokyo to ongoing tour",
+      "url": "https://www.koreaherald.com/article/10687680",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-05T03:06:53.000Z",
+      "snippet": "Nmixx will hit the stage in Tokyo in August for its first international “Episode 1: Zero Frontier” tour, label JYP Entertainment announced Thursday. The group of six will have two...",
+      "description": "Nmixx will hit the stage in Tokyo in August for its first international “Episode 1: Zero Frontier” tour, label JYP Entertainment announced Thursday. The group of six will have two shows in the city, more than a year after performing there for its fan concert, “Nmixx Change Up: Mixx Lab.” Nmixx launched the tour November in Incheon and will begin the European leg on March 17 in Madrid. It will visit five cities in the region before heading to Toronto, the first stop of the North American leg. The",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/05/news-p.v1.20260305.d3625fb766204401b3a78ab687baa3f4_T1.jpg",
+      "tags": [
+        "concert",
+        "nmixx"
       ]
     }
   ]
