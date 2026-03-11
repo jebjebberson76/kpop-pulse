@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-11T06:43:12.438Z",
+  "generatedAt": "2026-03-11T07:39:00.939Z",
   "items": [
+    {
+      "id": "7f48f3146921a101",
+      "title": "Police Investigation Into BTS Concert Ticket Scalping Requested",
+      "url": "https://www.koreaboo.com/news/police-investigation-bts-concert-ticket-scalping-requested/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-11T07:13:58.000Z",
+      "snippet": "The Ministry of Culture, Sports and Tourism announced on the 11th that it has reported to the police four suspected cases of ticket scalping related to BTS concerts held in…",
+      "description": "The Ministry of Culture, Sports and Tourism announced on the 11th that it has reported to the police four suspected cases of ticket scalping related to BTS concerts held in…",
+      "image": "https://image.koreaboo.com/2026/03/BTS-FI-3.jpg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "d71016b979e6b1cd",
       "title": "Girl Group K-Pop Idol Candidly Talks About Marriage And Freezing Her Eggs",
@@ -31,33 +45,33 @@
       ]
     },
     {
-      "id": "900c2fe2a389f4af",
-      "title": "Blackpink sets new K-pop girl group record on Billboard Hot 100 with ‘Go’",
-      "url": "https://www.koreaherald.com/article/10691940",
+      "id": "88004e18127f8935",
+      "title": "Shinee’s Onew tops iTunes Chart in 9 regions with solo EP",
+      "url": "https://www.koreaherald.com/article/10691690",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T05:23:20.000Z",
-      "snippet": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the lates...",
-      "description": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the latest chart update released by Billboard on Monday, the group’s newly released song “Go,” the main track from its third EP “Deadline,” debuted at No. 63 on the Billboard Hot 100. The entry marks Blackpink’s 11th appearance on the Hot 100, the most among K-pop female artists to date. Other tracks that made the chart include",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.632a8b4f12c54b0daf643eeaa88751e1_T1.jpg",
+      "publishedAt": "2026-03-11T02:07:16.000Z",
+      "snippet": "The fifth solo set from Shinee's Onew debuted atop the iTunes Top Albums Chart in nine regions, his agency Griffin Entertainment said Wednesday. His five-track EP “Tough Love” roll...",
+      "description": "The fifth solo set from Shinee's Onew debuted atop the iTunes Top Albums Chart in nine regions, his agency Griffin Entertainment said Wednesday. His five-track EP “Tough Love” rolled out on Monday. Onew co-wrote all five tracks on the album, including the title track — a first for the veteran idol — which landed atop the real-time songs chart on Bugs. A pop-up store is running in Seoul through March 15 to mark the album's release. Onew released his first solo album in 2018 and has since put out",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.40edbbafb35a4aac9c006df929688df1_T1.jpg",
       "tags": [
-        "k-pop",
-        "billboard",
-        "blackpink"
+        "idol",
+        "album",
+        "shinee"
       ]
     },
     {
-      "id": "6b5433a732584f6d",
-      "title": "BTS to accommodate 7,000 more for comeback show",
-      "url": "https://www.koreaherald.com/article/10691886",
+      "id": "2282e8e9f3178c96",
+      "title": "BTOB to return as full group after almost 3 years: report",
+      "url": "https://www.koreaherald.com/article/10691656",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T04:30:32.000Z",
-      "snippet": "More seats will be added to the much-anticipated live show signaling BTS’ return, according to Big Hit Music. The group is set to go live in central Seoul on March 21 under the tit...",
-      "description": "More seats will be added to the much-anticipated live show signaling BTS’ return, according to Big Hit Music. The group is set to go live in central Seoul on March 21 under the title “BTS The Comeback Live: Arirang,” a day after the rollout of its fifth studio album “Arirang.” All 15,000 tickets sold out upon release — with a waitlist of over 100,000 people — and the label decided to expand the outdoor venue for safety reasons and allow 7,000 more fans to enter. Seoul has gone on full alert to a",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.3391befdb2294e818e2aa6e98cc6bf3b_T1.jpg",
+      "publishedAt": "2026-03-11T01:43:19.000Z",
+      "snippet": "BTOB will drop a digital single on March 21 featuring all six members, according to a local media report on Wednesday. It will be the first full group effort since their 12th EP, “...",
+      "description": "BTOB will drop a digital single on March 21 featuring all six members, according to a local media report on Wednesday. It will be the first full group effort since their 12th EP, “Wind and Wish,” released in May 2023, and will mark BTOB's 14th debut anniversary. After the mini album, the bandmates’ exclusive contract with Cube Entertainment expired. Lee Changseob and Yook Sungjae each signed with new agencies, while the remaining four set up a company named after the group. BTOB’s 13th EP “BToda",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.d6d52e2141eb46d5ae743116c4a25900_T1.jpg",
       "tags": [
-        "comeback",
-        "album",
-        "bts"
+        "debut",
+        "mini album",
+        "album"
       ]
     },
     {
@@ -104,6 +118,20 @@
       "tags": [
         "k-pop",
         "comeback",
+        "bts"
+      ]
+    },
+    {
+      "id": "c18f5ac207dc0fff",
+      "title": "BTS to launch ‘Arirang’ pop-up store in Seoul ahead of album release",
+      "url": "https://www.koreaherald.com/article/10691077",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-10T05:58:41.000Z",
+      "snippet": "BTS will open a special pop-up store in Seoul to mark the release of its upcoming album, “Arirang,” the group’s agency said Tuesday. According to Big Hit Music, the pop-up event wi...",
+      "description": "BTS will open a special pop-up store in Seoul to mark the release of its upcoming album, “Arirang,” the group’s agency said Tuesday. According to Big Hit Music, the pop-up event will run from 1 p.m. on the day of the album’s release (March 20) through 8:30 p.m. on April 12 at two locations: Shinsegae Department Store’s The Heritage building in Jung-gu, central Seoul, and the Hybe headquarters in Yongsan. Merchandise for sale at the pop-up was created in collaboration with the National Museum Fou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.0458504c6cb44e79aad2522e61d21bf0_T1.png",
+      "tags": [
+        "album",
         "bts"
       ]
     },
@@ -205,7 +233,7 @@
       "publishedAt": "2026-03-09T07:07:52.000Z",
       "snippet": "BABYMONSTER has set another milestone on YouTube! According to YG Entertainment on March 9, the music video for BABYMONSTER’s second mini album title track “WE GO UP” surpassed 200...",
       "description": "BABYMONSTER has set another milestone on YouTube! According to YG Entertainment on March 9, the music video for BABYMONSTER’s second mini album title track “WE GO UP” surpassed 200 million views on YouTube at around 2:01 p.m. KST that day. The achievement comes approximately 150 days after the video was released on October 10 last… Continue reading BABYMONSTER’s “WE GO UP” Becomes Their 5th MV To Hit 200 Million Views The post BABYMONSTER’s “WE GO UP” Becomes Their 5th MV To Hit 200 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/09000747/babymonster-we-go-up-200-m-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -274,20 +302,6 @@
         "album",
         "billboard",
         "blackpink"
-      ]
-    },
-    {
-      "id": "18ccbfcdbc2cd23f",
-      "title": "Watch: NCT’s Jaemin And Jeno Show Off Contrasting Charms In “Amazing Saturday” Preview",
-      "url": "https://www.soompi.com/article/1823689wpp/watch-ncts-jaemin-and-jeno-show-off-contrasting-charms-in-amazing-saturday-preview",
-      "source": "Soompi",
-      "publishedAt": "2026-03-08T21:45:00.000Z",
-      "snippet": "Get ready to see NCT’s Jaemin and Jeno on “Amazing Saturday”! The popular tvN variety show has revealed a sneak peek of next week’s episode, which will feature Jaemin and Jeno as g...",
-      "description": "Get ready to see NCT’s Jaemin and Jeno on “Amazing Saturday”! The popular tvN variety show has revealed a sneak peek of next week’s episode, which will feature Jaemin and Jeno as guests alongside Im Woo Il and Kim Ji Yoo. Jaemin and Jeno, who recently made their unit debut as the new duo NCT… Continue reading Watch: NCT’s Jaemin And Jeno Show Off Contrasting Charms In “Amazing Saturday” Preview The post Watch: NCT’s Jaemin And Jeno Show Off Contrasting Charms In “Amazing Saturday” Preview appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "nct"
       ]
     },
     {
@@ -442,20 +456,6 @@
         "comeback",
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "8acff63acdd83c75",
-      "title": "Big Bang to launch world tour for 20th anniversary, YG confirms",
-      "url": "https://www.koreaherald.com/article/10686832",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-04T05:28:07.000Z",
-      "snippet": "Big Bang will embark on a global tour this year to mark the 20th anniversary of its debut, YG Entertainment announced Wednesday. The tour will feature three members — G-Dragon, Tae...",
-      "description": "Big Bang will embark on a global tour this year to mark the 20th anniversary of its debut, YG Entertainment announced Wednesday. The tour will feature three members — G-Dragon, Taeyang and Daesung. The announcement was made at the end of a video posted by YG Entertainment, in which founder and executive producer Yang Hyun-suk confirmed that the group had agreed to hold a series of concerts to celebrate the milestone. “I think the reason people miss Big Bang and wait for their concerts is because",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/04/news-p.v1.20260304.2a671597fd0a408c85f91b58e43ec463_T1.jpg",
-      "tags": [
-        "debut",
-        "world tour"
       ]
     }
   ]
