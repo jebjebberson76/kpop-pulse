@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-11T14:01:30.697Z",
+  "generatedAt": "2026-03-11T15:41:16.863Z",
   "items": [
+    {
+      "id": "ddae583007a74912",
+      "title": "Popular K-Pop Male Idol Embroiled In “Dating Rumors” With Top Actress After Now-Deleted Instagram Comments",
+      "url": "https://www.koreaboo.com/news/popular-male-idol-dating-rumors-bigbang-taeyang-top-actress/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-11T14:20:26.000Z",
+      "snippet": "But there's a huge plot twist. 😂",
+      "description": "But there's a huge plot twist. 😂",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "30105d1b1bd782d2",
       "title": "Watch: BLACKPINK Takes 1st Win For “GO” On “Show Champion”; Performances By EVERGLOW, TUNEXX, And More",
@@ -441,20 +455,6 @@
         "comeback",
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "329fbc4dc3487cc5",
-      "title": "Nmixx adds Tokyo to ongoing tour",
-      "url": "https://www.koreaherald.com/article/10687680",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-05T03:06:53.000Z",
-      "snippet": "Nmixx will hit the stage in Tokyo in August for its first international “Episode 1: Zero Frontier” tour, label JYP Entertainment announced Thursday. The group of six will have two...",
-      "description": "Nmixx will hit the stage in Tokyo in August for its first international “Episode 1: Zero Frontier” tour, label JYP Entertainment announced Thursday. The group of six will have two shows in the city, more than a year after performing there for its fan concert, “Nmixx Change Up: Mixx Lab.” Nmixx launched the tour November in Incheon and will begin the European leg on March 17 in Madrid. It will visit five cities in the region before heading to Toronto, the first stop of the North American leg. The",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/05/news-p.v1.20260305.d3625fb766204401b3a78ab687baa3f4_T1.jpg",
-      "tags": [
-        "concert",
-        "nmixx"
       ]
     }
   ]
