@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-11T23:19:22.177Z",
+  "generatedAt": "2026-03-12T01:22:03.488Z",
   "items": [
+    {
+      "id": "25fb5e1326ce5c14",
+      "title": "K-Pop Idol Confirms Group’s Silent Disbandment While Discussing The “Horrific” Circumstances",
+      "url": "https://www.koreaboo.com/news/kpop-idol-confirms-groups-silent-disbandment-discussing-horrific-circumstances-ariaz/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-12T00:41:54.000Z",
+      "snippet": "She was completely honest.",
+      "description": "She was completely honest.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "8c2406c55f8dea87",
       "title": "March Idol Group Brand Reputation Rankings Announced",
@@ -438,23 +452,6 @@
         "mini album",
         "album",
         "billboard"
-      ]
-    },
-    {
-      "id": "2117bd6bfcdd34af",
-      "title": "Blackpink shatters sales record for K-pop girl group with 3rd EP",
-      "url": "https://www.koreaherald.com/article/10688538",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-06T02:11:29.000Z",
-      "snippet": "Blackpink set a record for first-week sales for a K-pop girl group with its third EP, “Deadline,” selling more than 1.77 million copies, YG Entertainment said Friday, citing a loca...",
-      "description": "Blackpink set a record for first-week sales for a K-pop girl group with its third EP, “Deadline,” selling more than 1.77 million copies, YG Entertainment said Friday, citing a local tally. The newest set from the group surpassed 1.46 million copies sold on the day of its release, smashing through the first-day and weeklong marks for a K-pop girl group previously held by Aespa for its third EP, “My World,” released nearly three years ago in May 2023. The five-track mini album debuted atop iTunes",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/06/news-p.v1.20260306.73715bf5ea0f4867a8203938ba276641_T1.jpg",
-      "tags": [
-        "k-pop",
-        "mini album",
-        "album",
-        "blackpink",
-        "aespa"
       ]
     }
   ]
