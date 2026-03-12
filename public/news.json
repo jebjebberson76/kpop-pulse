@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T18:43:27.487Z",
+  "generatedAt": "2026-03-12T19:37:57.555Z",
   "items": [
     {
       "id": "63bff9b2162f9077",
@@ -13,20 +13,6 @@
       "tags": [
         "m countdown",
         "blackpink"
-      ]
-    },
-    {
-      "id": "efabe571433bdc77",
-      "title": "Girl Group Idol Admits To Negative Feelings When Comparing Popularity With Fellow Members",
-      "url": "https://www.koreaboo.com/news/girl-group-idol-admits-negative-feelings-comparing-popularity-fellow-members/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-12T10:29:16.000Z",
-      "snippet": "A female K-Pop idol confessed that even after debuting with a famous group, she never felt completely at ease. On the 10th, Soyou of SISTAR appeared in a video uploaded…",
-      "description": "A female K-Pop idol confessed that even after debuting with a famous group, she never felt completely at ease. On the 10th, Soyou of SISTAR appeared in a video uploaded…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -444,6 +430,21 @@
         "k-pop",
         "album",
         "blackpink"
+      ]
+    },
+    {
+      "id": "ff68d83071a6dce1",
+      "title": "Is 2026 the year of rookie boy groups?",
+      "url": "https://www.koreaherald.com/article/10688965",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-06T11:37:41.000Z",
+      "snippet": "A new wave of rookie boy groups is set to reshape the K-pop landscape in 2026, as major agencies and esteemed producers race to launch new acts after years of girl group domination...",
+      "description": "A new wave of rookie boy groups is set to reshape the K-pop landscape in 2026, as major agencies and esteemed producers race to launch new acts after years of girl group domination. The shift began in January when SM Entertainment confirmed plans to debut a new boy group. More recently, Ador — the Hybe label behind NewJeans — and YG Entertainment also announced plans to launch new male acts. SM Entertainment founder Lee Soo-man, who recently returned to Korea after three years abroad, has also r",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/06/news-p.v1.20260306.f925c2f1c7264978ab81479122676f20_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "newjeans"
       ]
     }
   ]
