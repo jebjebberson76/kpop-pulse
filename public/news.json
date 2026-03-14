@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T15:20:54.271Z",
+  "generatedAt": "2026-03-14T16:23:34.180Z",
   "items": [
     {
       "id": "847b43e94971f733",
@@ -9,25 +9,10 @@
       "publishedAt": "2026-03-14T12:28:57.000Z",
       "snippet": "Members of an idol group who have seven years of experience opened up about their grim reality. On the 10th, the channel “Human Story” posted a video titled Seven idols…",
       "description": "Members of an idol group who have seven years of experience opened up about their grim reality. On the 10th, the channel “Human Story” posted a video titled Seven idols…",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/DKB-FI.jpg",
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "2d129eeb9fcdf35e",
-      "title": "“I Know Where You Go To School” — K-Pop Idol Makes Serious Threat After Getting Assaulted",
-      "url": "https://www.koreaboo.com/news/kpop-idol-makes-serious-threat-after-getting-assaulted/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-14T11:29:15.000Z",
-      "snippet": "A K-Pop idol has reported being a victim of stalking, verbal abuse, and assault. He issued a serious warning to the perpetrator. On the 14th, 2PM’s Nichkhun posted a lengthy…",
-      "description": "A K-Pop idol has reported being a victim of stalking, verbal abuse, and assault. He issued a serious warning to the perpetrator. On the 14th, 2PM’s Nichkhun posted a lengthy…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "2pm"
       ]
     },
     {
@@ -110,7 +95,7 @@
       "publishedAt": "2026-03-12T23:24:00.000Z",
       "snippet": "Mark your calendars for PLAVE’s return! On March 12, PLAVE held a special live event to celebrate the third anniversary of their debut. At the very end of the show, the group surpr...",
       "description": "Mark your calendars for PLAVE’s return! On March 12, PLAVE held a special live event to celebrate the third anniversary of their debut. At the very end of the show, the group surprised fans by announcing their plans for their upcoming comeback next month. PLAVE is gearing up to return with “Caligo Pt.2,” which will… Continue reading PLAVE Announces April Comeback Date For “Caligo Pt.2” The post PLAVE Announces April Comeback Date For “Caligo Pt.2” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/12162319/PLAVE.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "debut"
@@ -437,6 +422,20 @@
         "world tour",
         "concert",
         "riize"
+      ]
+    },
+    {
+      "id": "2f9591e353019850",
+      "title": "VeriVery’s Kangmin to drop 1st solo set",
+      "url": "https://www.koreaherald.com/article/10690918",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-10T02:53:50.000Z",
+      "snippet": "Kangmin of VeriVery will begin his solo career later this month with the physical single “Free Falling,” his agency Jellyfish Entertainment said Tuesday. He is set to release the a...",
+      "description": "Kangmin of VeriVery will begin his solo career later this month with the physical single “Free Falling,” his agency Jellyfish Entertainment said Tuesday. He is set to release the album on March 26, about seven years after his debut with VeriVery. Along with four bandmates, he picked up a trophy from a television music chart show for the first time in three years, with “Red (Beggin’),” the main track from the group’s fourth physical single, “Lost and Found.” Kangmin embarked on a solo fan meet to",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.294c9ab351f047268466313c7b4424b3_T1.jpg",
+      "tags": [
+        "debut",
+        "album"
       ]
     }
   ]
