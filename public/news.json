@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-03-14T11:18:52.805Z",
+  "generatedAt": "2026-03-14T12:35:26.900Z",
   "items": [
+    {
+      "id": "847b43e94971f733",
+      "title": "“I’m Very Scared” — K-Pop Idol Group Struggles With Zero Income For Seven Years",
+      "url": "https://www.koreaboo.com/news/im-scared-kpop-idol-group-struggles-zero-income-seven-years/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-14T12:28:57.000Z",
+      "snippet": "Members of an idol group who have seven years of experience opened up about their grim reality. On the 10th, the channel “Human Story” posted a video titled Seven idols…",
+      "description": "Members of an idol group who have seven years of experience opened up about their grim reality. On the 10th, the channel “Human Story” posted a video titled Seven idols…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "2d129eeb9fcdf35e",
+      "title": "“I Know Where You Go To School” — K-Pop Idol Makes Serious Threat After Getting Assaulted",
+      "url": "https://www.koreaboo.com/news/kpop-idol-makes-serious-threat-after-getting-assaulted/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-14T11:29:15.000Z",
+      "snippet": "A K-Pop idol has reported being a victim of stalking, verbal abuse, and assault. He issued a serious warning to the perpetrator. On the 14th, 2PM’s Nichkhun posted a lengthy…",
+      "description": "A K-Pop idol has reported being a victim of stalking, verbal abuse, and assault. He issued a serious warning to the perpetrator. On the 14th, 2PM’s Nichkhun posted a lengthy…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "2pm"
+      ]
+    },
     {
       "id": "b7c5e005216e22c1",
       "title": "3rd Gen Girl Group Idol Announces Premarital Pregnancy",
@@ -406,36 +435,6 @@
       "tags": [
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "e48e81511c20f72f",
-      "title": "Police probe ticket scams ahead of BTS Gwanghwamun comeback show",
-      "url": "https://www.koreaherald.com/article/10691073",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-10T05:58:15.000Z",
-      "snippet": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chie...",
-      "description": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chief of the Seoul Metropolitan Police Agency, said Monday that police are currently investigating three suspected criminal cases tied to ticket sales for the concert, after ticket platform Nol Universe requested a probe into signs of automated programs buying tickets for the event on March 21. Police said the main types o",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.c165442ebf7b4fec8e2052aae08d2c32_T1.jpg",
-      "tags": [
-        "comeback",
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "7add6bb0b7303aa1",
-      "title": "Riize wraps ‘Riizing Loud’ world tour with electrifying finale in Seoul",
-      "url": "https://www.koreaherald.com/article/10691008",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-10T05:09:01.000Z",
-      "snippet": "Boy group Riize closed its first world tour in Seoul over the weekend, delivering a high-energy finale concert that highlighted the group's rapid growth and deepening connection wi...",
-      "description": "Boy group Riize closed its first world tour in Seoul over the weekend, delivering a high-energy finale concert that highlighted the group's rapid growth and deepening connection with fans. Held from Friday to Sunday at Kspo Dome in Songpa, southern Seoul, the finale of the group’s “Riizing Loud” tour drew a combined audience of 32,000 over three sold-out shows. Sunday’s concert marked the culmination of an eight-month global journey that took Riize across 21 cities in Asia and North America, dra",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260309.db564df4ae2a469ba69925a954966c5b_T1.jpg",
-      "tags": [
-        "world tour",
-        "concert",
-        "riize"
       ]
     }
   ]
