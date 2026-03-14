@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T14:21:50.225Z",
+  "generatedAt": "2026-03-14T15:20:54.271Z",
   "items": [
     {
       "id": "847b43e94971f733",
@@ -28,20 +28,6 @@
         "k-pop",
         "idol",
         "2pm"
-      ]
-    },
-    {
-      "id": "b7c5e005216e22c1",
-      "title": "3rd Gen Girl Group Idol Announces Premarital Pregnancy",
-      "url": "https://www.koreaboo.com/news/3rd-gen-girl-group-idol-announces-premarital-pregnancy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-14T08:06:01.000Z",
-      "snippet": "A female idol from a 3rd generation K-Pop group has shared news of her premarital pregnancy. On the 14th, Nahyun, an original member of girl group SONAMOO, shared on her…",
-      "description": "A female idol from a 3rd generation K-Pop group has shared news of her premarital pregnancy. On the 14th, Nahyun, an original member of girl group SONAMOO, shared on her…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -436,6 +422,21 @@
         "comeback",
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "7add6bb0b7303aa1",
+      "title": "Riize wraps ‘Riizing Loud’ world tour with electrifying finale in Seoul",
+      "url": "https://www.koreaherald.com/article/10691008",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-10T05:09:01.000Z",
+      "snippet": "Boy group Riize closed its first world tour in Seoul over the weekend, delivering a high-energy finale concert that highlighted the group's rapid growth and deepening connection wi...",
+      "description": "Boy group Riize closed its first world tour in Seoul over the weekend, delivering a high-energy finale concert that highlighted the group's rapid growth and deepening connection with fans. Held from Friday to Sunday at Kspo Dome in Songpa, southern Seoul, the finale of the group’s “Riizing Loud” tour drew a combined audience of 32,000 over three sold-out shows. Sunday’s concert marked the culmination of an eight-month global journey that took Riize across 21 cities in Asia and North America, dra",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260309.db564df4ae2a469ba69925a954966c5b_T1.jpg",
+      "tags": [
+        "world tour",
+        "concert",
+        "riize"
       ]
     }
   ]
