@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T20:21:03.162Z",
+  "generatedAt": "2026-03-15T21:21:47.526Z",
   "items": [
     {
       "id": "3d06c6d1eb699c25",
@@ -74,20 +74,6 @@
       "tags": [
         "comeback",
         "concert"
-      ]
-    },
-    {
-      "id": "251d81a8496a105a",
-      "title": "“KPop Demon Hunters” Stars’ Unexpected BTS Claim Hit With Backlash",
-      "url": "https://www.koreaboo.com/news/kpop-demon-hunters-stars-unexpected-bts-comments-set-off-controversy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-15T10:04:17.000Z",
-      "snippet": "\"Paved the way...\"",
-      "description": "\"Paved the way...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "kpop",
-        "bts"
       ]
     },
     {
@@ -442,6 +428,20 @@
         "comeback",
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "f9a10575cfb9219b",
+      "title": "Ateez charts 4 weeks on Billboard 200",
+      "url": "https://www.koreaherald.com/article/10691762",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-11T02:27:17.000Z",
+      "snippet": "Ateez logged another week on the Billboard 200, ranking No. 108 with its 13th EP, agency KQ Entertainment said Wednesday. The EP “Golden Hour: Part 4” has spent four weeks on the m...",
+      "description": "Ateez logged another week on the Billboard 200, ranking No. 108 with its 13th EP, agency KQ Entertainment said Wednesday. The EP “Golden Hour: Part 4” has spent four weeks on the main albums chart after entering it at No. 3. It is the group's sixth consecutive album to sit among the top three on the chart. The newest endeavor logged 200,000 units in streaming equivalent album sales in the US — a career-best for the octet. It also sold more than 1.5 million copies in the first week and became the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.5109f3a2b4e14b95aca136b39d47e72e_T1.jpg",
+      "tags": [
+        "album",
+        "billboard"
       ]
     }
   ]
