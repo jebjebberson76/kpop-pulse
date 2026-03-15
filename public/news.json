@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T10:22:21.955Z",
+  "generatedAt": "2026-03-15T11:20:37.014Z",
   "items": [
     {
       "id": "251d81a8496a105a",
@@ -88,20 +88,6 @@
         "mini album",
         "album",
         "itzy"
-      ]
-    },
-    {
-      "id": "3465f63b39eb00c5",
-      "title": "K-Pop Idol Reveals Why Plastic Surgeons “Hate” Her So Much",
-      "url": "https://www.koreaboo.com/news/fromis9-lee-nagyung-plastic-surgeons-hate-kpop-idol/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-14T23:43:10.000Z",
-      "snippet": "Understandable.",
-      "description": "Understandable.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -438,6 +424,21 @@
         "idol",
         "album",
         "shinee"
+      ]
+    },
+    {
+      "id": "2282e8e9f3178c96",
+      "title": "BTOB to return as full group after almost 3 years: report",
+      "url": "https://www.koreaherald.com/article/10691656",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-11T01:43:19.000Z",
+      "snippet": "BTOB will drop a digital single on March 21 featuring all six members, according to a local media report on Wednesday. It will be the first full group effort since their 12th EP, “...",
+      "description": "BTOB will drop a digital single on March 21 featuring all six members, according to a local media report on Wednesday. It will be the first full group effort since their 12th EP, “Wind and Wish,” released in May 2023, and will mark BTOB's 14th debut anniversary. After the mini album, the bandmates’ exclusive contract with Cube Entertainment expired. Lee Changseob and Yook Sungjae each signed with new agencies, while the remaining four set up a company named after the group. BTOB’s 13th EP “BToda",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.d6d52e2141eb46d5ae743116c4a25900_T1.jpg",
+      "tags": [
+        "debut",
+        "mini album",
+        "album"
       ]
     }
   ]
