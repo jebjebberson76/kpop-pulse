@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-03-15T06:02:25.315Z",
+  "generatedAt": "2026-03-15T07:40:14.003Z",
   "items": [
+    {
+      "id": "43a0f7859885e131",
+      "title": "[Photo news] Six days left: Visitors gather at Gyeongbokgung ahead of BTS comeback concert",
+      "url": "https://www.koreaherald.com/article/10694577",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-15T07:37:22.000Z",
+      "snippet": "Tourists walked around the main palace Gyeongbokgung to watch the changing of the royal guards ceremony at the Woldae platform in Seoul. K-pop supergroup BTS is set to hold an outd...",
+      "description": "Tourists walked around the main palace Gyeongbokgung to watch the changing of the royal guards ceremony at the Woldae platform in Seoul. K-pop supergroup BTS is set to hold an outdoor concert at the same site on March 21 for its long-awaited comeback, corresponding with its first new album in nearly four years, “Arirang.” According to organizers, the group is expected to appear with Gyeongbokgung as a backdrop, proceed past the gate Gwanghwamun and the Woldae platform before taking to the stage",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/15/news-p.v1.20260315.4dbdc5dbe6ac4e32b3ae05d5bbd38f8d_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "album",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "ba289263b22ee16e",
       "title": "Buildings near Gwanghwamun Square under tight control ahead of BTS comeback show",
@@ -421,21 +438,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.0458504c6cb44e79aad2522e61d21bf0_T1.png",
       "tags": [
         "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "e48e81511c20f72f",
-      "title": "Police probe ticket scams ahead of BTS Gwanghwamun comeback show",
-      "url": "https://www.koreaherald.com/article/10691073",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-10T05:58:15.000Z",
-      "snippet": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chie...",
-      "description": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chief of the Seoul Metropolitan Police Agency, said Monday that police are currently investigating three suspected criminal cases tied to ticket sales for the concert, after ticket platform Nol Universe requested a probe into signs of automated programs buying tickets for the event on March 21. Police said the main types o",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.c165442ebf7b4fec8e2052aae08d2c32_T1.jpg",
-      "tags": [
-        "comeback",
-        "concert",
         "bts"
       ]
     }
