@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T04:27:55.112Z",
+  "generatedAt": "2026-03-15T06:02:25.315Z",
   "items": [
     {
       "id": "ba289263b22ee16e",
@@ -38,7 +38,7 @@
       "publishedAt": "2026-03-14T23:43:10.000Z",
       "snippet": "Understandable.",
       "description": "Understandable.",
-      "image": "https://image.koreaboo.com/2026/03/fromis9-lee-nagyung-plastic-surgery-fi.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -141,7 +141,7 @@
       "publishedAt": "2026-03-12T23:52:09.000Z",
       "snippet": "Updated March 13 KST: SF9 has revealed a scheduler for their upcoming special album “About Love”! Original Article: Get ready for SF9’s return! On March 12, SF9 released their firs...",
       "description": "Updated March 13 KST: SF9 has revealed a scheduler for their upcoming special album “About Love”! Original Article: Get ready for SF9’s return! On March 12, SF9 released their first teaser for their upcoming comeback later this month. The group is gearing up to return with their special album “About Love” on March 25 at… Continue reading Update: SF9 Drops Scheduler For Upcoming Comeback With Special Album “About Love” The post Update: SF9 Drops Scheduler For Upcoming Comeback With Special Album “About Love” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/12165056/SF9.jpg",
       "tags": [
         "comeback",
         "album"
@@ -293,21 +293,6 @@
       ]
     },
     {
-      "id": "35f58f631b5461fb",
-      "title": "TXT, RIIZE, And TWICE’s MISAMO Earn Platinum And Gold Certifications In Japan",
-      "url": "https://www.soompi.com/article/1824551wpp/txt-riize-and-twices-misamo-earn-platinum-and-gold-certifications-in-japan",
-      "source": "Soompi",
-      "publishedAt": "2026-03-11T21:41:20.000Z",
-      "snippet": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! TXT’s latest Korean album “The Star Chapter: TOGETHER” earned an offic...",
-      "description": "The Recording Industry Association of Japan (RIAJ) has announced its latest batch of official certifications! TXT’s latest Korean album “The Star Chapter: TOGETHER” earned an official double platinum certification this month for over 500,000 units shipped in Japan. According to the RIAJ’s certification thresholds, albums are certified gold at 100,000 units shipped and platinum at… Continue reading TXT, RIIZE, And TWICE’s MISAMO Earn Platinum And Gold Certifications In Japan The post TXT, RIIZE, And TWICE’s MISAMO Earn Platinum And Gold Certifications In Japan appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "twice",
-        "riize"
-      ]
-    },
-    {
       "id": "a7113fb07cc700c8",
       "title": "Why did Heeseung leave Enhypen?",
       "url": "https://www.koreaherald.com/article/10692171",
@@ -436,6 +421,21 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.0458504c6cb44e79aad2522e61d21bf0_T1.png",
       "tags": [
         "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "e48e81511c20f72f",
+      "title": "Police probe ticket scams ahead of BTS Gwanghwamun comeback show",
+      "url": "https://www.koreaherald.com/article/10691073",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-10T05:58:15.000Z",
+      "snippet": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chie...",
+      "description": "Police have launched an investigation into suspected ticket scams and misuse of automated programs related to BTS’ upcoming comeback show at Gwanghwamun Square. Park Jeong-bo, chief of the Seoul Metropolitan Police Agency, said Monday that police are currently investigating three suspected criminal cases tied to ticket sales for the concert, after ticket platform Nol Universe requested a probe into signs of automated programs buying tickets for the event on March 21. Police said the main types o",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/10/news-p.v1.20260310.c165442ebf7b4fec8e2052aae08d2c32_T1.jpg",
+      "tags": [
+        "comeback",
+        "concert",
         "bts"
       ]
     }
