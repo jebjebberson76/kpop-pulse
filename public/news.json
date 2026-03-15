@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-15T09:27:47.186Z",
+  "generatedAt": "2026-03-15T10:22:21.955Z",
   "items": [
+    {
+      "id": "251d81a8496a105a",
+      "title": "“KPop Demon Hunters” Stars’ Unexpected BTS Claim Hit With Backlash",
+      "url": "https://www.koreaboo.com/news/kpop-demon-hunters-stars-unexpected-bts-comments-set-off-controversy/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-15T10:04:17.000Z",
+      "snippet": "\"Paved the way...\"",
+      "description": "\"Paved the way...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "kpop",
+        "bts"
+      ]
+    },
     {
       "id": "5ac1273835a75e26",
       "title": "BTS comeback concert: Know before you go",
@@ -32,7 +46,7 @@
     },
     {
       "id": "43a0f7859885e131",
-      "title": "[Photo news] Six days left: Visitors gather at Gyeongbokgung ahead of BTS comeback concert",
+      "title": "Six days left: Visitors gather at Gyeongbokgung ahead of BTS comeback concert",
       "url": "https://www.koreaherald.com/article/10694577",
       "source": "Korea Herald K-pop",
       "publishedAt": "2026-03-15T07:37:22.000Z",
@@ -424,21 +438,6 @@
         "idol",
         "album",
         "shinee"
-      ]
-    },
-    {
-      "id": "2282e8e9f3178c96",
-      "title": "BTOB to return as full group after almost 3 years: report",
-      "url": "https://www.koreaherald.com/article/10691656",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T01:43:19.000Z",
-      "snippet": "BTOB will drop a digital single on March 21 featuring all six members, according to a local media report on Wednesday. It will be the first full group effort since their 12th EP, “...",
-      "description": "BTOB will drop a digital single on March 21 featuring all six members, according to a local media report on Wednesday. It will be the first full group effort since their 12th EP, “Wind and Wish,” released in May 2023, and will mark BTOB's 14th debut anniversary. After the mini album, the bandmates’ exclusive contract with Cube Entertainment expired. Lee Changseob and Yook Sungjae each signed with new agencies, while the remaining four set up a company named after the group. BTOB’s 13th EP “BToda",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.d6d52e2141eb46d5ae743116c4a25900_T1.jpg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album"
       ]
     }
   ]
