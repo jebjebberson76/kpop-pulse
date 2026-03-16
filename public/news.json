@@ -1,6 +1,79 @@
 {
-  "generatedAt": "2026-03-16T01:50:44.306Z",
+  "generatedAt": "2026-03-16T04:35:29.220Z",
   "items": [
+    {
+      "id": "fb9b07c0209bc95f",
+      "title": "Seoul to host citywide festival for BTS&apos; ‘Arirang’ comeback",
+      "url": "https://www.koreaherald.com/article/10695210",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-16T04:32:02.000Z",
+      "snippet": "Seoul will be marking BTS’ comeback and new album “Arirang” with a monthlong citywide celebration, featuring large-scale public events and fan programs across major landmarks in th...",
+      "description": "Seoul will be marking BTS’ comeback and new album “Arirang” with a monthlong citywide celebration, featuring large-scale public events and fan programs across major landmarks in the capital. Detailed plans for “BTS The City Arirang Seoul” were unveiled Monday through the group’s global fan platform Weverse. The festival will run from March 20, the day the new album drops, through April 19. Several landmark events are scheduled for the album’s release day. Media facade displays will illuminate hi",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.4741672fd3cc4866af9614ee913e8862_T1.jpg",
+      "tags": [
+        "comeback",
+        "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "ad68666a32f2b379",
+      "title": "ILLIT’s Teaser For New Album Accused Of Plagiarizing BLACKPINK",
+      "url": "https://www.koreaboo.com/news/illit-accused-album-teaser-plagiarism-blackpink/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-16T04:16:59.000Z",
+      "snippet": "Here we go again.",
+      "description": "Here we go again.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "f1b67470d3b558da",
+      "title": "Blackpink logs over 3.6b streams on largest Korean music platform",
+      "url": "https://www.koreaherald.com/article/10695186",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-16T03:21:29.000Z",
+      "snippet": "Blackpink has been streamed more than 3.6 billion times on Melon, the largest music platform in Korea said Monday, citing its own tally. Over 2.5 billion plays came via group effor...",
+      "description": "Blackpink has been streamed more than 3.6 billion times on Melon, the largest music platform in Korea said Monday, citing its own tally. Over 2.5 billion plays came via group efforts, led by “As If It’s Your Last” with more than 260 million plays, followed by “Ddu-du Ddu-du” and “Playing With Fire.” Solo works from the four bandmates exceeded 1 billion: Jennie’s “Solo,” the first solo single from the group, logged close to 180 million plays, with Rose’s collaboration with Bruno Mars, “Apt.,” qui",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.ffcc58fb57044eed868b4a0ba2fc33a7_T1.jpg",
+      "tags": [
+        "melon",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "f33bbccb12bae415",
+      "title": "Red Velvet’s Irene teases first solo LP",
+      "url": "https://www.koreaherald.com/article/10695162",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-16T02:41:54.000Z",
+      "snippet": "Irene of Red Velvet will return with her first full-length solo album, marking her first solo release in about 16 months since her debut EP “Like A Flower.” “Biggest Fan” is set fo...",
+      "description": "Irene of Red Velvet will return with her first full-length solo album, marking her first solo release in about 16 months since her debut EP “Like A Flower.” “Biggest Fan” is set for release on March 30 at 6 p.m., kicking off a new round of solo promotions. The upcoming album will feature 10 tracks spanning a variety of styles, including the title track. According to SM Entertainment, “Biggest Fan” is a pop dance track built on a lively bass groove, combining narration-style rap with an addictive",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.7bf43f49919d47dab39e250f3ab90568_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "red velvet"
+      ]
+    },
+    {
+      "id": "e2f7aa3d8eda214b",
+      "title": "Illit to release new album next month",
+      "url": "https://www.koreaherald.com/article/10695045",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-16T02:14:21.000Z",
+      "snippet": "Illit will drop its fourth EP “Mamihlapinatapai” on April 30, the group announced at the end of the concert it held in Seoul on Sunday. The upcoming set will include the main track...",
+      "description": "Illit will drop its fourth EP “Mamihlapinatapai” on April 30, the group announced at the end of the concert it held in Seoul on Sunday. The upcoming set will include the main track “It’s Me,” according to agency Belift Lab. The new EP will be Illit's first new album in about ten months, since the third EP “bomb,” which entered the Billboard 200 at No. 171 as its third entry on the main albums chart. It sold over 400,000 copies in the first week, marking a career best for the group. The five-memb",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.2d0e2c266c6c4a4d932070fbcf711a32_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "concert"
+      ]
+    },
     {
       "id": "603d8bcf28415dad",
       "title": "Stray Kids, TXT, SEVENTEEN, Jennie, HUNTR/X, TWS, ILLIT, And More Win At 2026 Japan Gold Disc Awards",
@@ -182,6 +255,20 @@
       ]
     },
     {
+      "id": "551959d21bd04e5b",
+      "title": "BTS releases animation inspired by ‘Arirang’ ahead of new album",
+      "url": "https://www.koreaherald.com/article/10693769",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-13T03:56:51.000Z",
+      "snippet": "BTS has released an animated video inspired by the Korean folk song “Arirang” ahead of the group’s upcoming album of the same name. The video begins with a scene set in 1896, showi...",
+      "description": "BTS has released an animated video inspired by the Korean folk song “Arirang” ahead of the group’s upcoming album of the same name. The video begins with a scene set in 1896, showing seven young men gathered around a phonograph. As the device is wound up, the melody of “Arirang,” widely regarded as Korea’s most representative folk song, begins to play. The story then follows the characters as they cross the Pacific Ocean by ship and record the song in a foreign country, sharing it with local aud",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/13/news-p.v1.20260313.e6156d13a7a048f0b356d2cdf1937be6_T1.jpg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
+    {
       "id": "12309e04647757f3",
       "title": "BTS gives fans taste of new album ‘Arirang’",
       "url": "https://www.koreaherald.com/article/10693746",
@@ -355,94 +442,6 @@
         "debut",
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "1e4a7ea1e4f8dced",
-      "title": "Seventeen to launch another subunit: report",
-      "url": "https://www.koreaherald.com/article/10692630",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-12T01:46:36.000Z",
-      "snippet": "Seventeen's Vernon and The8 will form a duo subunit and drop an album in June, according to a local media report on Thursday. Vernon, one of the 13-member act's rappers, has helped...",
-      "description": "Seventeen's Vernon and The8 will form a duo subunit and drop an album in June, according to a local media report on Thursday. Vernon, one of the 13-member act's rappers, has helped write songs for the group since its debut. Last year, he became a member of The Recording Academy along with Woozi, which earned them votes for the 2026 Grammy Awards. The8, one of Seventeen's performers, released his first solo EP “Stardust” in native China in 2024. Vernon co-wrote the lyrics and melodies for the lea",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260312.dae1b9c9e3fd4540883adc66f9fcaff5_T1.jpg",
-      "tags": [
-        "debut",
-        "album",
-        "seventeen"
-      ]
-    },
-    {
-      "id": "a7113fb07cc700c8",
-      "title": "Why did Heeseung leave Enhypen?",
-      "url": "https://www.koreaherald.com/article/10692171",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T07:56:00.000Z",
-      "snippet": "Heeseung of Enhypen announced his sudden departure from the boy group to pursue his own solo career through agency Belift Lab on Tuesday — raising questions across the industry abo...",
-      "description": "Heeseung of Enhypen announced his sudden departure from the boy group to pursue his own solo career through agency Belift Lab on Tuesday — raising questions across the industry about the rare circumstances surrounding the move. Departures from idol groups are not uncommon, but it is highly unusual for a member of a thriving group to leave the band specifically to pursue a solo career while remaining under the same agency. Speculation has quickly spread within the K-pop community, ranging from po",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260311.b92e0df41de64af4bb3649984620dc9a_T1.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "be87b818946feadc",
-      "title": "From idol to producer: Lee Hae-in’s rise as a K-pop hitmaker",
-      "url": "https://www.koreaherald.com/article/10691973",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T05:43:28.000Z",
-      "snippet": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But o...",
-      "description": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But one of the most talked-about breakthroughs came from a far smaller company: Kiss of Life, a girl group launched by the little-known S2 Entertainment. The group’s rapid rise — often described in the industry as a “miracle from a small agency” — has drawn attention to the creative force behind it: Lee Hae-in. The former i",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260309.7481268d520146638aad6e5fb4de2d79_T1.jpg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "newjeans"
-      ]
-    },
-    {
-      "id": "900c2fe2a389f4af",
-      "title": "Blackpink sets new K-pop girl group record on Billboard Hot 100 with ‘Go’",
-      "url": "https://www.koreaherald.com/article/10691940",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T05:23:20.000Z",
-      "snippet": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the lates...",
-      "description": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the latest chart update released by Billboard on Monday, the group’s newly released song “Go,” the main track from its third EP “Deadline,” debuted at No. 63 on the Billboard Hot 100. The entry marks Blackpink’s 11th appearance on the Hot 100, the most among K-pop female artists to date. Other tracks that made the chart include",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.632a8b4f12c54b0daf643eeaa88751e1_T1.jpg",
-      "tags": [
-        "k-pop",
-        "billboard",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "6b5433a732584f6d",
-      "title": "BTS to accommodate 7,000 more for comeback show",
-      "url": "https://www.koreaherald.com/article/10691886",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T04:30:32.000Z",
-      "snippet": "More seats will be added to the much-anticipated live show signaling BTS’ return, according to Big Hit Music. The group is set to go live in central Seoul on March 21 under the tit...",
-      "description": "More seats will be added to the much-anticipated live show signaling BTS’ return, according to Big Hit Music. The group is set to go live in central Seoul on March 21 under the title “BTS The Comeback Live: Arirang,” a day after the rollout of its fifth studio album “Arirang.” All 15,000 tickets sold out upon release — with a waitlist of over 100,000 people — and the label decided to expand the outdoor venue for safety reasons and allow 7,000 more fans to enter. Seoul has gone on full alert to a",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.3391befdb2294e818e2aa6e98cc6bf3b_T1.jpg",
-      "tags": [
-        "comeback",
-        "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "f9a10575cfb9219b",
-      "title": "Ateez charts 4 weeks on Billboard 200",
-      "url": "https://www.koreaherald.com/article/10691762",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T02:27:17.000Z",
-      "snippet": "Ateez logged another week on the Billboard 200, ranking No. 108 with its 13th EP, agency KQ Entertainment said Wednesday. The EP “Golden Hour: Part 4” has spent four weeks on the m...",
-      "description": "Ateez logged another week on the Billboard 200, ranking No. 108 with its 13th EP, agency KQ Entertainment said Wednesday. The EP “Golden Hour: Part 4” has spent four weeks on the main albums chart after entering it at No. 3. It is the group's sixth consecutive album to sit among the top three on the chart. The newest endeavor logged 200,000 units in streaming equivalent album sales in the US — a career-best for the octet. It also sold more than 1.5 million copies in the first week and became the",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.5109f3a2b4e14b95aca136b39d47e72e_T1.jpg",
-      "tags": [
-        "album",
-        "billboard"
       ]
     }
   ]
