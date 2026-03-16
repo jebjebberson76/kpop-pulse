@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T11:47:23.893Z",
+  "generatedAt": "2026-03-16T12:55:53.207Z",
   "items": [
     {
       "id": "e8e9d8b46c2a8ee2",
@@ -38,7 +38,7 @@
       "publishedAt": "2026-03-16T08:02:06.000Z",
       "snippet": "BTS member V joined TikTok on Friday, becoming the third member of the group to launch an account on the platform. His account quickly surpassed one million followers and was appro...",
       "description": "BTS member V joined TikTok on Friday, becoming the third member of the group to launch an account on the platform. His account quickly surpassed one million followers and was approaching four million as of Monday. While fellow member Jungkook first opened a TikTok account in 2023, he resumed activity in October under a new username. J-Hope also joined the platform in 2025. With BTS now in the 13th year of their career, industry watchers are paying close attention to why the veteran idols are emb",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.c421793a1f20414bbed30aed942a47a6_T1.jpg",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-a.v1.20260316.2b4bb87a78fa46d1bbf06ba785c7602c_T1.jpg",
       "tags": [
         "k-pop",
         "bts"
@@ -272,20 +272,6 @@
       ]
     },
     {
-      "id": "d70446dd815708ae",
-      "title": "ITZY To Perform Viral Hit “THAT’S A NO NO” On “M Countdown” 6 Years After Its Release",
-      "url": "https://www.soompi.com/article/1824829wpp/itzy-to-perform-viral-hit-thats-a-no-no-on-m-countdown-6-years-after-its-release",
-      "source": "Soompi",
-      "publishedAt": "2026-03-13T04:07:19.000Z",
-      "snippet": "Six years after its release, ITZY will be performing “THAT’S A NO NO” on a music show for the first time next week! On the upcoming March 19 episode of “M Countdown,” ITZY will tak...",
-      "description": "Six years after its release, ITZY will be performing “THAT’S A NO NO” on a music show for the first time next week! On the upcoming March 19 episode of “M Countdown,” ITZY will take the stage for a special performance of their viral hit “THAT’S A NO NO.” A B-side from their 2020 mini… Continue reading ITZY To Perform Viral Hit “THAT’S A NO NO” On “M Countdown” 6 Years After Its Release The post ITZY To Perform Viral Hit “THAT’S A NO NO” On “M Countdown” 6 Years After Its Release appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "m countdown",
-        "itzy"
-      ]
-    },
-    {
       "id": "551959d21bd04e5b",
       "title": "BTS releases animation inspired by ‘Arirang’ ahead of new album",
       "url": "https://www.koreaherald.com/article/10693769",
@@ -445,6 +431,21 @@
       "tags": [
         "k-pop",
         "idol"
+      ]
+    },
+    {
+      "id": "be87b818946feadc",
+      "title": "From idol to producer: Lee Hae-in’s rise as a K-pop hitmaker",
+      "url": "https://www.koreaherald.com/article/10691973",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-11T05:43:28.000Z",
+      "snippet": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But o...",
+      "description": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But one of the most talked-about breakthroughs came from a far smaller company: Kiss of Life, a girl group launched by the little-known S2 Entertainment. The group’s rapid rise — often described in the industry as a “miracle from a small agency” — has drawn attention to the creative force behind it: Lee Hae-in. The former i",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260309.7481268d520146638aad6e5fb4de2d79_T1.jpg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "newjeans"
       ]
     }
   ]
