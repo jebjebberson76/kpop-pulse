@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T09:59:08.267Z",
+  "generatedAt": "2026-03-16T10:57:31.311Z",
   "items": [
     {
       "id": "d39ca09ea24d92fd",
@@ -43,20 +43,6 @@
         "comeback",
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "1eb572cb569c25dc",
-      "title": "Popular Korean Idol’s “F*ck You Time” During Concert Shocks Casual Fans",
-      "url": "https://www.koreaboo.com/news/popular-korean-idols-fck-time-concert-shocks-casual-fans/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-16T06:38:58.000Z",
-      "snippet": "A stress-reliever for sure.",
-      "description": "A stress-reliever for sure.",
-      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-94-1.jpg",
-      "tags": [
-        "idol",
-        "concert"
       ]
     },
     {
@@ -173,7 +159,7 @@
       "publishedAt": "2026-03-15T14:43:04.000Z",
       "snippet": "BLACKPINK has snagged a third music show trophy for “GO”! On the March 15 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO,” IVE’s “BANG BANG,” and...",
       "description": "BLACKPINK has snagged a third music show trophy for “GO”! On the March 15 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO,” IVE’s “BANG BANG,” and Hearts2Hearts’ “RUDE!” BLACKPINK ultimately took the win with a total of 5,935 points. Congratulations to BLACKPINK! Watch a clip of the winner announcement below: Performers… Continue reading Watch: BLACKPINK Takes 3rd Win For “GO” On “Inkigayo”; Performances By Yena, KickFlip, And More The post Watch: BLACKPINK Takes 3rd Win For “GO” On “Inkigayo”; Performances By Yena, KickFlip, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/15073612/BLACKPINK-Inkigayo.jpg",
       "tags": [
         "inkigayo",
         "blackpink",
@@ -444,6 +430,21 @@
       "tags": [
         "k-pop",
         "idol"
+      ]
+    },
+    {
+      "id": "be87b818946feadc",
+      "title": "From idol to producer: Lee Hae-in’s rise as a K-pop hitmaker",
+      "url": "https://www.koreaherald.com/article/10691973",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-11T05:43:28.000Z",
+      "snippet": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But o...",
+      "description": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But one of the most talked-about breakthroughs came from a far smaller company: Kiss of Life, a girl group launched by the little-known S2 Entertainment. The group’s rapid rise — often described in the industry as a “miracle from a small agency” — has drawn attention to the creative force behind it: Lee Hae-in. The former i",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260309.7481268d520146638aad6e5fb4de2d79_T1.jpg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "newjeans"
       ]
     }
   ]
