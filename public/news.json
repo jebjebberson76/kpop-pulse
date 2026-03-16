@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-03-16T14:18:57.074Z",
+  "generatedAt": "2026-03-16T15:59:37.987Z",
   "items": [
-    {
-      "id": "e8e9d8b46c2a8ee2",
-      "title": "“Debt! Disbandment!” Former Idol Is Going Viral For Her “Tea” On The Harsh Reality Of K-Pop",
-      "url": "https://www.koreaboo.com/news/former-idol-hyogyeong-spilling-tea-debut-debt-disbandment/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-16T11:40:13.000Z",
-      "snippet": "\"Instead of BLACKPINK, I almost ended up on a blacklist...\"",
-      "description": "\"Instead of BLACKPINK, I almost ended up on a blacklist...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "blackpink"
-      ]
-    },
     {
       "id": "d39ca09ea24d92fd",
       "title": "Illit presses start on first tour with playful, game-themed Seoul concert",
@@ -446,6 +431,21 @@
         "k-pop",
         "idol",
         "newjeans"
+      ]
+    },
+    {
+      "id": "900c2fe2a389f4af",
+      "title": "Blackpink sets new K-pop girl group record on Billboard Hot 100 with ‘Go’",
+      "url": "https://www.koreaherald.com/article/10691940",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-11T05:23:20.000Z",
+      "snippet": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the lates...",
+      "description": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the latest chart update released by Billboard on Monday, the group’s newly released song “Go,” the main track from its third EP “Deadline,” debuted at No. 63 on the Billboard Hot 100. The entry marks Blackpink’s 11th appearance on the Hot 100, the most among K-pop female artists to date. Other tracks that made the chart include",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.632a8b4f12c54b0daf643eeaa88751e1_T1.jpg",
+      "tags": [
+        "k-pop",
+        "billboard",
+        "blackpink"
       ]
     }
   ]
