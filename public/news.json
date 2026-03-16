@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-16T08:04:19.751Z",
+  "generatedAt": "2026-03-16T09:59:08.267Z",
   "items": [
+    {
+      "id": "d39ca09ea24d92fd",
+      "title": "Illit presses start on first tour with playful, game-themed Seoul concert",
+      "url": "https://www.koreaherald.com/article/10695494",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-16T08:31:02.000Z",
+      "snippet": "Girl group Illit launched its concert tour in Seoul over the weekend with a colorful, game-themed show, sharing the excitement of a long-awaited milestone with its fandom, Gllit. T...",
+      "description": "Girl group Illit launched its concert tour in Seoul over the weekend with a colorful, game-themed show, sharing the excitement of a long-awaited milestone with its fandom, Gllit. The five-member group — Yunah, Minju, Moka, Wonhee and Iroha — held its first concert since debut in 2024, “Illit Live ‘Press Start’ in Seoul” on March 13 and 14 at Songpa, southern Seoul. Both shows sold out during presales, demonstrating the group’s growing ticket power. As the show opened, the members kicked off the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.60c6ae3ee829417d8e7cd822fd0bbbe1_T1.jpg",
+      "tags": [
+        "debut",
+        "concert"
+      ]
+    },
     {
       "id": "363a6c6d5b629fb3",
       "title": "Why TikTok is becoming unavoidable for K-pop stars",
@@ -39,24 +53,10 @@
       "publishedAt": "2026-03-16T06:38:58.000Z",
       "snippet": "A stress-reliever for sure.",
       "description": "A stress-reliever for sure.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-94-1.jpg",
       "tags": [
         "idol",
         "concert"
-      ]
-    },
-    {
-      "id": "c7e616c2356cab58",
-      "title": "K-Pop Idol Gets Honest About Why He Doesn’t Want Fansigns",
-      "url": "https://www.koreaboo.com/news/kpop-idol-gets-honest-doesnt-want-fansigns/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-16T05:46:49.000Z",
-      "snippet": "A K-Pop star honestly shared that he doesn’t want to do fansigns and explained why. Recently, INFINITE member Kim Sunggyu held a round interview at a cafe in Nonhyeon-dong, Gangnam...",
-      "description": "A K-Pop star honestly shared that he doesn’t want to do fansigns and explained why. Recently, INFINITE member Kim Sunggyu held a round interview at a cafe in Nonhyeon-dong, Gangnam-gu,…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -173,7 +173,7 @@
       "publishedAt": "2026-03-15T14:43:04.000Z",
       "snippet": "BLACKPINK has snagged a third music show trophy for “GO”! On the March 15 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO,” IVE’s “BANG BANG,” and...",
       "description": "BLACKPINK has snagged a third music show trophy for “GO”! On the March 15 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO,” IVE’s “BANG BANG,” and Hearts2Hearts’ “RUDE!” BLACKPINK ultimately took the win with a total of 5,935 points. Congratulations to BLACKPINK! Watch a clip of the winner announcement below: Performers… Continue reading Watch: BLACKPINK Takes 3rd Win For “GO” On “Inkigayo”; Performances By Yena, KickFlip, And More The post Watch: BLACKPINK Takes 3rd Win For “GO” On “Inkigayo”; Performances By Yena, KickFlip, And More appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/15073612/BLACKPINK-Inkigayo.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "inkigayo",
         "blackpink",
@@ -342,21 +342,6 @@
       ]
     },
     {
-      "id": "71527d9c2460412a",
-      "title": "aespa To Make May Comeback",
-      "url": "https://www.soompi.com/article/1824805wpp/aespa-to-make-may-comeback",
-      "source": "Soompi",
-      "publishedAt": "2026-03-13T01:47:48.000Z",
-      "snippet": "aespa is gearing up for a May comeback! On March 13, a representative of SM Entertainment told Maeil Business that aespa was preparing a new album with the goal of a May comeback....",
-      "description": "aespa is gearing up for a May comeback! On March 13, a representative of SM Entertainment told Maeil Business that aespa was preparing a new album with the goal of a May comeback. aespa’s upcoming return will mark their first comeback in approximately eight months: the group’s last return was with “Rich Man” in September… Continue reading aespa To Make May Comeback The post aespa To Make May Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album",
-        "aespa"
-      ]
-    },
-    {
       "id": "5df1f821bc83b590",
       "title": "Aespa to return in May: report",
       "url": "https://www.koreaherald.com/article/10693566",
@@ -445,6 +430,20 @@
         "debut",
         "album",
         "seventeen"
+      ]
+    },
+    {
+      "id": "a7113fb07cc700c8",
+      "title": "Why did Heeseung leave Enhypen?",
+      "url": "https://www.koreaherald.com/article/10692171",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-11T07:56:00.000Z",
+      "snippet": "Heeseung of Enhypen announced his sudden departure from the boy group to pursue his own solo career through agency Belift Lab on Tuesday — raising questions across the industry abo...",
+      "description": "Heeseung of Enhypen announced his sudden departure from the boy group to pursue his own solo career through agency Belift Lab on Tuesday — raising questions across the industry about the rare circumstances surrounding the move. Departures from idol groups are not uncommon, but it is highly unusual for a member of a thriving group to leave the band specifically to pursue a solo career while remaining under the same agency. Speculation has quickly spread within the K-pop community, ranging from po",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260311.b92e0df41de64af4bb3649984620dc9a_T1.jpg",
+      "tags": [
+        "k-pop",
+        "idol"
       ]
     }
   ]
