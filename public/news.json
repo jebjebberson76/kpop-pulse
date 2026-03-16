@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-03-16T17:08:32.784Z",
+  "generatedAt": "2026-03-16T18:53:04.936Z",
   "items": [
+    {
+      "id": "dab663b73fba0de7",
+      "title": "RIIZE Fan Gets Robbed And Assaulted By Locals During Chile Concert",
+      "url": "https://www.koreaboo.com/news/riize-fan-gets-robbed-lollapalooza-chile/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-16T17:17:11.000Z",
+      "snippet": "They lost a $5500 camera.",
+      "description": "They lost a $5500 camera.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "riize"
+      ]
+    },
+    {
+      "id": "2a7477909df7d390",
+      "title": "“Cringe” K-Pop Idol Video Triggers Backlash, Sparks Korean Cultural Criticism Debate",
+      "url": "https://www.koreaboo.com/news/hearts2hearts-ian-hate-ponytail-video/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-16T17:09:51.000Z",
+      "snippet": "\"This...is what's wrong with K-Pop fans today.\"",
+      "description": "\"This...is what's wrong with K-Pop fans today.\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "d39ca09ea24d92fd",
       "title": "Illit presses start on first tour with playful, game-themed Seoul concert",
@@ -416,36 +444,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "be87b818946feadc",
-      "title": "From idol to producer: Lee Hae-in’s rise as a K-pop hitmaker",
-      "url": "https://www.koreaherald.com/article/10691973",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T05:43:28.000Z",
-      "snippet": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But o...",
-      "description": "For the past three years, the K-pop scene has been swept by girl groups backed by major agencies and veteran hitmakers such as Min Hee-jin, creative director behind NewJeans. But one of the most talked-about breakthroughs came from a far smaller company: Kiss of Life, a girl group launched by the little-known S2 Entertainment. The group’s rapid rise — often described in the industry as a “miracle from a small agency” — has drawn attention to the creative force behind it: Lee Hae-in. The former i",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260309.7481268d520146638aad6e5fb4de2d79_T1.jpg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "newjeans"
-      ]
-    },
-    {
-      "id": "900c2fe2a389f4af",
-      "title": "Blackpink sets new K-pop girl group record on Billboard Hot 100 with ‘Go’",
-      "url": "https://www.koreaherald.com/article/10691940",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T05:23:20.000Z",
-      "snippet": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the lates...",
-      "description": "Blackpink continues to expand its presence on global music charts, setting new records for K-pop girl groups on both the US Billboard and UK Official Charts. According to the latest chart update released by Billboard on Monday, the group’s newly released song “Go,” the main track from its third EP “Deadline,” debuted at No. 63 on the Billboard Hot 100. The entry marks Blackpink’s 11th appearance on the Hot 100, the most among K-pop female artists to date. Other tracks that made the chart include",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/11/news-p.v1.20260311.632a8b4f12c54b0daf643eeaa88751e1_T1.jpg",
-      "tags": [
-        "k-pop",
-        "billboard",
-        "blackpink"
       ]
     }
   ]
