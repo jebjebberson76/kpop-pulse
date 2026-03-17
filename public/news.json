@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-03-17T04:11:53.888Z",
+  "generatedAt": "2026-03-17T05:54:58.299Z",
   "items": [
+    {
+      "id": "0f43992eb5683d03",
+      "title": "Seoul rolls out tourism campaign to welcome BTS fans at Gwanghwamun",
+      "url": "https://www.koreaherald.com/article/10696246",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-17T05:22:15.000Z",
+      "snippet": "With BTS’ highly anticipated comeback performance scheduled to take place at Gwanghwamun Square on March 21, nearby areas in central Seoul are gearing up to welcome fans visiting t...",
+      "description": "With BTS’ highly anticipated comeback performance scheduled to take place at Gwanghwamun Square on March 21, nearby areas in central Seoul are gearing up to welcome fans visiting the city. The Korea Tourism Agency said Tuesday that it will launch a tourism promotion program in cooperation with the Ministry of Culture, Sports and Tourism ahead of the concert. The campaign hopes to draw the expected influx of international fans to broader tourism experiences across Seoul. Outdoor digital billboard",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/17/news-p.v1.20260317.f3f26177281348b78697f88052a189a9_T1.jpg",
+      "tags": [
+        "comeback",
+        "billboard",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "da328ea3a08b01fc",
+      "title": "Netizens Suspect Seoul Mayor Of Using BTS’s Comeback For Political Purpose",
+      "url": "https://www.koreaboo.com/news/bts-concert-color-red-not-purple-politic-connotations/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-17T05:14:08.000Z",
+      "snippet": "Fans are suspicious.",
+      "description": "Fans are suspicious.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
+    {
+      "id": "7461918f82ad70f6",
+      "title": "13 years on: The milestones that shaped BTS",
+      "url": "https://www.koreaherald.com/article/10696210",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-17T04:54:50.000Z",
+      "snippet": "June 2013 — BTS debuts under Big Hit Entertainment with the single album “2 Cool 4 Skool.” May 2015 — The group gains international momentum with “The Most Beautiful Moment in Life...",
+      "description": "June 2013 — BTS debuts under Big Hit Entertainment with the single album “2 Cool 4 Skool.” May 2015 — The group gains international momentum with “The Most Beautiful Moment in Life, Pt. 1,” beginning the influential “HYYH” series. Nov. 2017 — BTS becomes the first K-pop group to perform at the American Music Awards, performing “DNA.” May 2018 — BTS releases its third LP “Love Yourself: Tear,” becoming the first K-pop act to debut at No. 1 on the Billboard 200. Feb. 2019 — BTS presents at the Gra",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/17/news-p.v1.20260317.abe109a44b8642f38efc63c983f20e63_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "album",
+        "billboard",
+        "bts"
+      ]
+    },
+    {
+      "id": "1ecf708b798d0baa",
+      "title": "‘BTS: The Return’ trailer teases a journey back to the beginning with new album ‘Arirang’",
+      "url": "https://www.koreaherald.com/article/10696209",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-17T04:54:19.000Z",
+      "snippet": "BTS has unveiled the trailer for its upcoming documentary film “BTS: The Return,” offering a glimpse into the group’s journey as it prepares for the release of its fifth LP, “Arira...",
+      "description": "BTS has unveiled the trailer for its upcoming documentary film “BTS: The Return,” offering a glimpse into the group’s journey as it prepares for the release of its fifth LP, “Arirang,” on Tuesday. Released on Netflix and BTS’ official social media channels, the trailer traces BTS’ past, present and future, as the members look back on their career from previous years and work to shape the next chapter of their career going forward. The trailer features scenes from its previous world tour, members",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/17/news-p.v1.20260317.b6d42c1ced234e28be15d0c117ed3262_T1.jpg",
+      "tags": [
+        "album",
+        "world tour",
+        "bts"
+      ]
+    },
     {
       "id": "f53ba7928a2f32ef",
       "title": "Baby Dont Cry all confidence in 1st EP teaser",
@@ -13,21 +75,6 @@
       "tags": [
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "3d3ff94891f86e6b",
-      "title": "Safety Measures For BTS’s Comeback Concert Become A Hot Topic",
-      "url": "https://www.koreaboo.com/news/bts-safety-precautions-concert/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-16T22:36:21.000Z",
-      "snippet": "Netizens react to the latest changes.",
-      "description": "Netizens react to the latest changes.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "concert",
-        "bts"
       ]
     },
     {
@@ -401,50 +448,6 @@
         "album",
         "music video",
         "stray kids"
-      ]
-    },
-    {
-      "id": "78af7c11a19b0216",
-      "title": "Alpha Drive One to host 1st showcase in Japan",
-      "url": "https://www.koreaherald.com/article/10692727",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-12T02:26:59.000Z",
-      "snippet": "Rookie boy group Alpha Drive One is set to hold its first showcase in Tokyo on March 13, agency WakeOne Entertainment said Thursday. The event will welcome approximately 1,000 fans...",
-      "description": "Rookie boy group Alpha Drive One is set to hold its first showcase in Tokyo on March 13, agency WakeOne Entertainment said Thursday. The event will welcome approximately 1,000 fans to relive the success of its first EP, “Euphoria,” which was released in January. Although the group has yet to officially promote in Japan, its Korean debut album ranked No. 3 on Oricon’s Weekly and Weekly Combined Album Rankings. The mini album sold more than 1.44 million copies in its first week, the second most fo",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260312.e56a89fbd8dc4ab5b7d42fa4ab1f167b_T1.png",
-      "tags": [
-        "debut",
-        "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "1e4a7ea1e4f8dced",
-      "title": "Seventeen to launch another subunit: report",
-      "url": "https://www.koreaherald.com/article/10692630",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-12T01:46:36.000Z",
-      "snippet": "Seventeen's Vernon and The8 will form a duo subunit and drop an album in June, according to a local media report on Thursday. Vernon, one of the 13-member act's rappers, has helped...",
-      "description": "Seventeen's Vernon and The8 will form a duo subunit and drop an album in June, according to a local media report on Thursday. Vernon, one of the 13-member act's rappers, has helped write songs for the group since its debut. Last year, he became a member of The Recording Academy along with Woozi, which earned them votes for the 2026 Grammy Awards. The8, one of Seventeen's performers, released his first solo EP “Stardust” in native China in 2024. Vernon co-wrote the lyrics and melodies for the lea",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260312.dae1b9c9e3fd4540883adc66f9fcaff5_T1.jpg",
-      "tags": [
-        "debut",
-        "album",
-        "seventeen"
-      ]
-    },
-    {
-      "id": "a7113fb07cc700c8",
-      "title": "Why did Heeseung leave Enhypen?",
-      "url": "https://www.koreaherald.com/article/10692171",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-11T07:56:00.000Z",
-      "snippet": "Heeseung of Enhypen announced his sudden departure from the boy group to pursue his own solo career through agency Belift Lab on Tuesday — raising questions across the industry abo...",
-      "description": "Heeseung of Enhypen announced his sudden departure from the boy group to pursue his own solo career through agency Belift Lab on Tuesday — raising questions across the industry about the rare circumstances surrounding the move. Departures from idol groups are not uncommon, but it is highly unusual for a member of a thriving group to leave the band specifically to pursue a solo career while remaining under the same agency. Speculation has quickly spread within the K-pop community, ranging from po",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260311.b92e0df41de64af4bb3649984620dc9a_T1.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     }
   ]
