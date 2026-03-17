@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-17T12:56:40.719Z",
+  "generatedAt": "2026-03-17T14:17:32.913Z",
   "items": [
+    {
+      "id": "07acd7c7e4578174",
+      "title": "BTS Concert Faces Cancellation Demands As Police Warn Of Bomb Threats",
+      "url": "https://www.koreaboo.com/news/bts-concert-faces-cancellation-demands-police-warn-bomb-threats/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-17T13:46:06.000Z",
+      "snippet": "Metal detectors will be installed at 30 entrances.",
+      "description": "Metal detectors will be installed at 30 entrances.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "2132204e0aca9ee0",
       "title": "BTS Jungkook And aespa Winter’s “Favorite Date Spot” Exposed As “Proof” Sparks Heated Debate",
@@ -99,20 +113,6 @@
       "tags": [
         "comeback",
         "album"
-      ]
-    },
-    {
-      "id": "a3bbd1a0a04890f4",
-      "title": "Schools Send Out Newsletters Regarding Safety Ahead Of BTS’s Large-Scale Comeback Stage",
-      "url": "https://www.koreaboo.com/news/schools-send-newsletters-regarding-child-safety-ahead-bts-comeback-stage/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-17T08:40:03.000Z",
-      "snippet": "They are on another level.",
-      "description": "They are on another level.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "bts"
       ]
     },
     {
