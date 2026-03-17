@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-17T07:51:54.098Z",
+  "generatedAt": "2026-03-17T08:43:27.221Z",
   "items": [
+    {
+      "id": "a3bbd1a0a04890f4",
+      "title": "Schools Send Out Newsletters Regarding Safety Ahead Of BTS’s Large-Scale Comeback Stage",
+      "url": "https://www.koreaboo.com/news/schools-send-newsletters-regarding-child-safety-ahead-bts-comeback-stage/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-17T08:40:03.000Z",
+      "snippet": "They are on another level.",
+      "description": "They are on another level.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
     {
       "id": "183b58fec5d8a072",
       "title": "Daftar Master Tur K-Pop di Indonesia Tahun 2026: Konser, Fan Meetings, dan Lainnya",
@@ -432,21 +446,6 @@
       "tags": [
         "debut",
         "concert"
-      ]
-    },
-    {
-      "id": "7deaa36c38cf3188",
-      "title": "Stray Kids win big at Japan Gold Disc Awards",
-      "url": "https://www.koreaherald.com/article/10692784",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-12T02:46:20.000Z",
-      "snippet": "Stray Kids took home four awards at the 40th Japan Gold Disc Awards, according to the organizer on Thursday. The group won album of the year, best artist, music video of the year a...",
-      "description": "Stray Kids took home four awards at the 40th Japan Gold Disc Awards, according to the organizer on Thursday. The group won album of the year, best artist, music video of the year and was among the best 3 albums in Asia, scoring the most this year for an international artist. Stray Kids' third EP in Japan, “Hollow,” the group's first to be entirely made up of Japanese-language songs, was chosen as the album of the year and one of the best 3 Albums. Live Blu-ray documenting the group’s fan meetup",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260312.e2ef1e97815748538a5bcdbc2ae3cbcb_T1.jpg",
-      "tags": [
-        "album",
-        "music video",
-        "stray kids"
       ]
     }
   ]
