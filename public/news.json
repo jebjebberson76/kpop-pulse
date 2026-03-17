@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-17T10:43:09.755Z",
+  "generatedAt": "2026-03-17T11:38:48.485Z",
   "items": [
+    {
+      "id": "50d7f5d7af154251",
+      "title": "“Big 3” Male K-Pop Idol Hit With Major Criticism For His Behavior In New Video",
+      "url": "https://www.koreaboo.com/news/big-3-yg-entertainment-treasure-hyunsuk-behavior-criticism-video/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-17T10:50:29.000Z",
+      "snippet": "Many said he has sabotaged the group's popularity.",
+      "description": "Many said he has sabotaged the group's popularity.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "d9d6fd9c2a17adb5",
       "title": "BTS Threatened With Boycotts Due To “Arrogant” Behavior",
@@ -429,20 +443,6 @@
         "comeback",
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "8e0dcd91c9dee63c",
-      "title": "Kep1er announces Japan fan meetups",
-      "url": "https://www.koreaherald.com/article/10693725",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-13T02:50:42.000Z",
-      "snippet": "Kep1er will host its second fan meeting in Japan in May, agency Klap Entertainment announced Friday. Under the title “Kep1arcade,” the group will take the stage six times across th...",
-      "description": "Kep1er will host its second fan meeting in Japan in May, agency Klap Entertainment announced Friday. Under the title “Kep1arcade,” the group will take the stage six times across three cities — Osaka, Tokyo and Nagoya. The members will meet fans about three years after their first fanmeet held in Tokyo, and over six months after their “Kep1asia” brought them to three cities in the country. On March 31, the group will release its eighth EP, “Crack Code,” marking its first album since it reorganize",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/13/news-p.v1.20260313.46d1bccb975249679183c02201b880e1_T1.jpg",
-      "tags": [
-        "album",
-        "fan meeting"
       ]
     }
   ]
