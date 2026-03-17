@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T05:54:58.299Z",
+  "generatedAt": "2026-03-17T06:56:15.412Z",
   "items": [
     {
       "id": "0f43992eb5683d03",
@@ -25,7 +25,7 @@
       "publishedAt": "2026-03-17T05:14:08.000Z",
       "snippet": "Fans are suspicious.",
       "description": "Fans are suspicious.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-83-1.jpg",
       "tags": [
         "comeback",
         "bts"
@@ -235,7 +235,7 @@
       "publishedAt": "2026-03-15T14:43:04.000Z",
       "snippet": "BLACKPINK has snagged a third music show trophy for “GO”! On the March 15 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO,” IVE’s “BANG BANG,” and...",
       "description": "BLACKPINK has snagged a third music show trophy for “GO”! On the March 15 episode of SBS’s “Inkigayo,” the candidates for first place were BLACKPINK’s “GO,” IVE’s “BANG BANG,” and Hearts2Hearts’ “RUDE!” BLACKPINK ultimately took the win with a total of 5,935 points. Congratulations to BLACKPINK! Watch a clip of the winner announcement below: Performers… Continue reading Watch: BLACKPINK Takes 3rd Win For “GO” On “Inkigayo”; Performances By Yena, KickFlip, And More The post Watch: BLACKPINK Takes 3rd Win For “GO” On “Inkigayo”; Performances By Yena, KickFlip, And More appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/15073612/BLACKPINK-Inkigayo.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "inkigayo",
         "blackpink",
@@ -315,21 +315,6 @@
         "mini album",
         "album",
         "itzy"
-      ]
-    },
-    {
-      "id": "d84cd2479b24c505",
-      "title": "Watch: IVE Takes 8th Win And Triple Crown For “BANG BANG” On “Music Bank”; Performances By Onew, KickFlip, And More",
-      "url": "https://www.soompi.com/article/1824877wpp/watch-ive-takes-8th-win-and-triple-crown-for-bang-bang-on-music-bank-performances-by-onew-kickflip-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-03-13T11:11:28.000Z",
-      "snippet": "IVE has snagged their eighth music show trophy for their hit song “BANG BANG”! On the March 13 episode of “Music Bank,” the candidates for first place were NCT JNJM’s “BOTH SIDES”...",
-      "description": "IVE has snagged their eighth music show trophy for their hit song “BANG BANG”! On the March 13 episode of “Music Bank,” the candidates for first place were NCT JNJM’s “BOTH SIDES” and IVE’s “BANG BANG.” IVE ultimately took the prize with a total of 4,405 points. This is the third time that “BANG BANG” has taken… Continue reading Watch: IVE Takes 8th Win And Triple Crown For “BANG BANG” On “Music Bank”; Performances By Onew, KickFlip, And More The post Watch: IVE Takes 8th Win And Triple Crown For “BANG BANG” On “Music Bank”; Performances By Onew, KickFlip, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music bank",
-        "ive",
-        "nct"
       ]
     },
     {
@@ -448,6 +433,21 @@
         "album",
         "music video",
         "stray kids"
+      ]
+    },
+    {
+      "id": "78af7c11a19b0216",
+      "title": "Alpha Drive One to host 1st showcase in Japan",
+      "url": "https://www.koreaherald.com/article/10692727",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-12T02:26:59.000Z",
+      "snippet": "Rookie boy group Alpha Drive One is set to hold its first showcase in Tokyo on March 13, agency WakeOne Entertainment said Thursday. The event will welcome approximately 1,000 fans...",
+      "description": "Rookie boy group Alpha Drive One is set to hold its first showcase in Tokyo on March 13, agency WakeOne Entertainment said Thursday. The event will welcome approximately 1,000 fans to relive the success of its first EP, “Euphoria,” which was released in January. Although the group has yet to officially promote in Japan, its Korean debut album ranked No. 3 on Oricon’s Weekly and Weekly Combined Album Rankings. The mini album sold more than 1.44 million copies in its first week, the second most fo",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/12/news-p.v1.20260312.e56a89fbd8dc4ab5b7d42fa4ab1f167b_T1.png",
+      "tags": [
+        "debut",
+        "mini album",
+        "album"
       ]
     }
   ]
