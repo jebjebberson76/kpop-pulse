@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-17T22:26:30.274Z",
+  "generatedAt": "2026-03-17T23:26:01.495Z",
   "items": [
+    {
+      "id": "67f78986136ec281",
+      "title": "“Proof” Of SEVENTEEN Faking Album Sales Goes Viral, Triggering Strong Reactions",
+      "url": "https://www.koreaboo.com/news/proof-seventeen-faking-album-sales-goes-viral-triggering-strong-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-17T23:00:44.000Z",
+      "snippet": "Court documents resurfaced the allegations.",
+      "description": "Court documents resurfaced the allegations.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "seventeen"
+      ]
+    },
     {
       "id": "78634438568c27bf",
       "title": "ENHYPEN, ALPHA DRIVE ONE, EXO, SEVENTEEN’s DxS, And idntt Earn Circle Double Million And Platinum Certifications",
@@ -433,20 +447,6 @@
         "comeback",
         "album",
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "ba289263b22ee16e",
-      "title": "Buildings near Gwanghwamun Square under tight control ahead of BTS comeback show",
-      "url": "https://www.koreaherald.com/article/10694489",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-15T04:09:37.000Z",
-      "snippet": "With less than a week left before BTS’ comeback performance at Seoul's Gwanghwamun Square, authorities plan to tighten security around 31 buildings surrounding the plaza, according...",
-      "description": "With less than a week left before BTS’ comeback performance at Seoul's Gwanghwamun Square, authorities plan to tighten security around 31 buildings surrounding the plaza, according to news reports Sunday. Police and the Seoul Metropolitan Government recently held talks with the operators of the buildings and reached an agreement for six of the buildings to close their front entrances and allow access only through rear entrances, while urging the remaining 25 buildings to restrict access to rooft",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/15/news-p.v1.20260315.2524d73cce0c443fbeb7a7b51f372e15_T1.jpg",
-      "tags": [
-        "comeback",
         "bts"
       ]
     }
