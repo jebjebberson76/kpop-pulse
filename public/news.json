@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T18:53:54.849Z",
+  "generatedAt": "2026-03-18T19:44:44.722Z",
   "items": [
     {
       "id": "270cbcc99c47db79",
@@ -46,20 +46,6 @@
       ]
     },
     {
-      "id": "91de1cbf35579a5d",
-      "title": "BTS Jungkook And aespa Winter’s “Break Up” Post Triggers Heated Reactions",
-      "url": "https://www.koreaboo.com/news/bts-jungkook-aespa-winters-break-rumors/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-18T11:26:03.000Z",
-      "snippet": "Netizens think it is too much.",
-      "description": "Netizens think it is too much.",
-      "image": "https://image.koreaboo.com/2026/03/FD2870-3-8.jpg",
-      "tags": [
-        "bts",
-        "aespa"
-      ]
-    },
-    {
       "id": "8a757be1d06b0d4f",
       "title": "HYBE Clarifies Use Of Red Lighting For BTS’s “ARIRANG” Comeback Event",
       "url": "https://www.soompi.com/article/1826011wpp/hybe-clarifies-use-of-red-lighting-for-btss-arirang-comeback-event",
@@ -81,7 +67,7 @@
       "publishedAt": "2026-03-18T07:04:57.000Z",
       "snippet": "ALPHA DRIVE ONE may be making their very first comeback in May! On March 18, News1 reported that ALPHA DRIVE ONE is currently preparing to release a new album sometime in May. In r...",
       "description": "ALPHA DRIVE ONE may be making their very first comeback in May! On March 18, News1 reported that ALPHA DRIVE ONE is currently preparing to release a new album sometime in May. In response to the report, their agency WAKEONE shared, “ALPHA DRIVE ONE is currently preparing for their first comeback. The exact timing has… Continue reading ALPHA DRIVE ONE Reported To Make May Comeback + Agency Briefly Comments The post ALPHA DRIVE ONE Reported To Make May Comeback + Agency Briefly Comments appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/18000436/ald1-feb-26.jpg",
       "tags": [
         "comeback",
         "album"
@@ -442,6 +428,21 @@
         "k-pop",
         "comeback",
         "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "fb9b07c0209bc95f",
+      "title": "Seoul to host citywide festival for BTS&apos; ‘Arirang’ comeback",
+      "url": "https://www.koreaherald.com/article/10695210",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-16T04:32:02.000Z",
+      "snippet": "Seoul will be marking BTS’ comeback and new album “Arirang” with a monthlong citywide celebration, featuring large-scale public events and fan programs across major landmarks in th...",
+      "description": "Seoul will be marking BTS’ comeback and new album “Arirang” with a monthlong citywide celebration, featuring large-scale public events and fan programs across major landmarks in the capital. Detailed plans for “BTS The City Arirang Seoul” were unveiled Monday through the group’s global fan platform Weverse. The festival will run from March 20, the day the new album drops, through April 19. Several landmark events are scheduled for the album’s release day. Media facade displays will illuminate hi",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.4741672fd3cc4866af9614ee913e8862_T1.jpg",
+      "tags": [
+        "comeback",
+        "album",
         "bts"
       ]
     }
