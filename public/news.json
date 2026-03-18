@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-03-18T22:26:58.034Z",
+  "generatedAt": "2026-03-18T23:25:46.956Z",
   "items": [
+    {
+      "id": "8600a0e5360fe1fe",
+      "title": "[Graphic News] BTS to brighten Gwanghwamun with comeback concert",
+      "url": "https://www.koreaherald.com/article/10697483",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-18T23:00:00.000Z",
+      "snippet": "BTS is set to hold an outdoor concert on March 21 to celebrate the release of its fifth album “Arirang,” transforming Gwanghwamun Square into festival grounds. The event, “BTS the...",
+      "description": "BTS is set to hold an outdoor concert on March 21 to celebrate the release of its fifth album “Arirang,” transforming Gwanghwamun Square into festival grounds. The event, “BTS the Comeback Live — Arirang,” will take place at Yukjo Yard, north of Gwanghwamun Square. The seven members will enter through the gates of Geunjeongmun, Heungnyemun and Gwanghwamun, passing the royal viewing platform Woldae, with the procession and concert streamed live to viewers in 190 territories via Netflix. The perfo",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/18/news-p.v1.20260318.98697fa31e7b48a381f2d784dbbed6d5_T1.gif",
+      "tags": [
+        "comeback",
+        "album",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "4cbe7a10fd5aeb06",
       "title": "P1Harmony Breaks 500,000 1st-Week Sales For 1st Time With “UNIQUE”",
@@ -430,20 +446,6 @@
         "comeback",
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "f1b67470d3b558da",
-      "title": "Blackpink logs over 3.6b streams on largest Korean music platform",
-      "url": "https://www.koreaherald.com/article/10695186",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-16T03:21:29.000Z",
-      "snippet": "Blackpink has been streamed more than 3.6 billion times on Melon, the largest music platform in Korea said Monday, citing its own tally. Over 2.5 billion plays came via group effor...",
-      "description": "Blackpink has been streamed more than 3.6 billion times on Melon, the largest music platform in Korea said Monday, citing its own tally. Over 2.5 billion plays came via group efforts, led by “As If It’s Your Last” with more than 260 million plays, followed by “Ddu-du Ddu-du” and “Playing With Fire.” Solo works from the four bandmates exceeded 1 billion: Jennie’s “Solo,” the first solo single from the group, logged close to 180 million plays, with Rose’s collaboration with Bruno Mars, “Apt.,” qui",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/16/news-p.v1.20260316.ffcc58fb57044eed868b4a0ba2fc33a7_T1.jpg",
-      "tags": [
-        "melon",
-        "blackpink"
       ]
     }
   ]
