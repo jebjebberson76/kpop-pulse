@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-18T08:40:08.674Z",
+  "generatedAt": "2026-03-18T09:45:28.355Z",
   "items": [
+    {
+      "id": "1f3a520c70055caa",
+      "title": "Workers Complain Of Being Mistreated Due To BTS Concert",
+      "url": "https://www.koreaboo.com/news/office-workers-forced-take-leave-due-bts/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-18T09:36:09.000Z",
+      "snippet": "Workers were forced to use their leaves.",
+      "description": "Workers were forced to use their leaves.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "b32c8ad3b01fbdd7",
       "title": "ALPHA DRIVE ONE Reported To Make May Comeback + Agency Briefly Comments",
@@ -13,20 +27,6 @@
       "tags": [
         "comeback",
         "album"
-      ]
-    },
-    {
-      "id": "f3805c742eeed875",
-      "title": "Seoul City Accused Of Neglecting Citizens And Prioritizing Visitors In Light Of BTS Concert",
-      "url": "https://www.koreaboo.com/news/bts-concert-closes-major-storage-facilities-opens-ones-foreigners/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-18T06:19:03.000Z",
-      "snippet": "Koreans are upset.",
-      "description": "Koreans are upset.",
-      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-87-1.jpg",
-      "tags": [
-        "concert",
-        "bts"
       ]
     },
     {
@@ -161,7 +161,7 @@
       "publishedAt": "2026-03-17T18:50:03.000Z",
       "snippet": "Upon investigation, Shinsegae Group has confirmed the allegations that an employee stole multiple gift certificates that NCT’s Jaemin had purchased as gifts for his fans. On the ev...",
       "description": "Upon investigation, Shinsegae Group has confirmed the allegations that an employee stole multiple gift certificates that NCT’s Jaemin had purchased as gifts for his fans. On the evening of March 14 KST, Jaemin surprised his fans with a special and generous gift for White Day. The idol sent his fans 30 Shinsegae gift certificates, each… Continue reading Shinsegae Confirms An Employee Stole Gift Certificates Bought By NCT’s Jaemin For His Fans The post Shinsegae Confirms An Employee Stole Gift Certificates Bought By NCT’s Jaemin For His Fans appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/17114249/Jaemin.jpg",
       "tags": [
         "idol",
         "nct"
