@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-19T14:04:38.986Z",
+  "generatedAt": "2026-03-19T15:46:20.731Z",
   "items": [
+    {
+      "id": "811959ce3d2f2cbc",
+      "title": "BTS’s Visuals In New Photo Become Target Of Malicious Hate Ahead Of Comeback",
+      "url": "https://www.koreaboo.com/news/new-bts-photo-visuals-hate-comeback/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-19T15:05:10.000Z",
+      "snippet": "The wave of criticism is increasing.",
+      "description": "The wave of criticism is increasing.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
     {
       "id": "5f089dceed5af4ea",
       "title": "Watch: Hearts2Hearts Takes 3rd Win For “RUDE!” On “M Countdown”; Performances By ITZY, AB6IX, And More",
@@ -28,34 +42,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "e4b6d0ed66702186",
-      "title": "“K-Pop Culture Is Bizarre” — Idol Treatment Comes Under Scrutiny",
-      "url": "https://www.koreaboo.com/news/kpop-culture-bizarre-idol-treatment-comes-scrutiny/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-19T07:30:26.000Z",
-      "snippet": "Excessive security for an idol group at the airport has once again come under scrutiny. On the 18th, a post titled Today’s legendary idol airport security along with a video…",
-      "description": "Excessive security for an idol group at the airport has once again come under scrutiny. On the 18th, a post titled Today’s legendary idol airport security along with a video…",
-      "image": "https://storage.googleapis.com/koreaboo-cdn/2026/03/Security.mp4",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "0021c5f0b525e586",
-      "title": "Off-Duty Female Officers Deployed For BTS’s Comeback Stage Raises Eyebrows",
-      "url": "https://www.koreaboo.com/news/female-police-officers-called-body-search-army-bts-comeback-stage/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-19T06:55:05.000Z",
-      "snippet": "Netizens hope the event will take place smoothly.",
-      "description": "Netizens hope the event will take place smoothly.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "bts"
       ]
     },
     {
@@ -446,6 +432,23 @@
         "comeback",
         "billboard",
         "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "7461918f82ad70f6",
+      "title": "13 years on: The milestones that shaped BTS",
+      "url": "https://www.koreaherald.com/article/10696210",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-17T04:54:50.000Z",
+      "snippet": "June 2013 — BTS debuts under Big Hit Entertainment with the single album “2 Cool 4 Skool.” May 2015 — The group gains international momentum with “The Most Beautiful Moment in Life...",
+      "description": "June 2013 — BTS debuts under Big Hit Entertainment with the single album “2 Cool 4 Skool.” May 2015 — The group gains international momentum with “The Most Beautiful Moment in Life, Pt. 1,” beginning the influential “HYYH” series. Nov. 2017 — BTS becomes the first K-pop group to perform at the American Music Awards, performing “DNA.” May 2018 — BTS releases its third LP “Love Yourself: Tear,” becoming the first K-pop act to debut at No. 1 on the Billboard 200. Feb. 2019 — BTS presents at the Gra",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/17/news-p.v1.20260317.abe109a44b8642f38efc63c983f20e63_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "album",
+        "billboard",
         "bts"
       ]
     }
