@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T19:33:25.195Z",
+  "generatedAt": "2026-03-20T20:24:47.994Z",
   "items": [
     {
       "id": "872b5f56e9acdfe1",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-03-20T17:24:18.000Z",
       "snippet": "Fans provided proof of legitimacy.",
       "description": "Fans provided proof of legitimacy.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/FEATURED-IMAGE-2026-03-20T122156.939.jpg",
       "tags": [
         "album",
         "bts"
@@ -56,34 +56,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.71a6e68e56334bf0a37407cc2bcabf3f_T1.jpg",
       "tags": [
         "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "7f3a06cdd3524628",
-      "title": "Legendary Idol Spills On How He Avoids Drunk Driving",
-      "url": "https://www.koreaboo.com/news/legendary-idol-spills-avoids-drunk-driving/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-20T10:23:30.000Z",
-      "snippet": "On the afternoon of the 19th, a video featuring Super Junior’s Shindong and Heechul was uploaded to the YouTube channel “Study King Genius Hong Jin Kyung.” While talking with Kim…",
-      "description": "On the afternoon of the 19th, a video featuring Super Junior’s Shindong and Heechul was uploaded to the YouTube channel “Study King Genius Hong Jin Kyung.” While talking with Kim…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "super junior"
-      ]
-    },
-    {
-      "id": "1873ee54311d116c",
-      "title": "The Total Cost HYBE Paid To Seoul City For BTS’s “ARIRANG” Comeback Revealed",
-      "url": "https://www.koreaboo.com/news/cost-bts-rent-gwanghwamun-square-backlash/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-20T10:13:27.000Z",
-      "snippet": "They shelled out quite a big sum.",
-      "description": "They shelled out quite a big sum.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
         "bts"
       ]
     },
@@ -231,7 +203,7 @@
       "publishedAt": "2026-03-20T02:49:11.000Z",
       "snippet": "BTS has released an interview ahead of the release of their fifth full-length studio album “ARIRANG”! This album is their first new release in three years and nine months since the...",
       "description": "BTS has released an interview ahead of the release of their fifth full-length studio album “ARIRANG”! This album is their first new release in three years and nine months since the June 2022 anthology album “Proof.” Having ended their military hiatus and reunited as a complete group, BTS plans to open the curtain on a… Continue reading BTS Dishes On Preparations For Long-Awaited Comeback, What Hasn’t Changed Since The Past, And More The post BTS Dishes On Preparations For Long-Awaited Comeback, What Hasn’t Changed Since The Past, And More appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/19190854/bts-comeback-interview_af8751.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album",
@@ -444,6 +416,36 @@
       "tags": [
         "comeback",
         "mini album",
+        "album"
+      ]
+    },
+    {
+      "id": "112d00732a8a9cf9",
+      "title": "Seoul&apos;s red lights in honor of BTS draw political scrutiny",
+      "url": "https://www.koreaherald.com/article/10698035",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-19T03:03:20.000Z",
+      "snippet": "With BTS' comeback concert just two days away, Seoul is set to glow in red, a decision that has sparked controversy as the group's signature color is purple and the chosen hue carr...",
+      "description": "With BTS' comeback concert just two days away, Seoul is set to glow in red, a decision that has sparked controversy as the group's signature color is purple and the chosen hue carries potential political overtones. The Seoul Metropolitan Government said it will illuminate 15 of the city’s landmarks — including Sebitseom, Cheonggyecheon, Seoul Botanic Park, N Seoul Tower and Lotte World Tower — in red for two hours from 7:30 p.m. on both Friday, the day of BTS' album release, and Saturday, the da",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/news-p.v1.20260319.e800560a6d264d89bbc6c3eb3eef9796_T1.jpg",
+      "tags": [
+        "comeback",
+        "album",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "f7ca71f1a10c7c23",
+      "title": "Update: MODYSSEY Drops Promotion Scheduler For Debut Single Album “1. Got Hooked: An Addictive Symphony”",
+      "url": "https://www.soompi.com/article/1826192wpp/modyssey-announces-debut-with-single-album-1-got-hooked-an-addictive-symphony",
+      "source": "Soompi",
+      "publishedAt": "2026-03-19T02:16:43.000Z",
+      "snippet": "Updated March 19 KST: The promotion scheduler has been revealed for MODYSSEY’s debut single album “1. Got Hooked: An Addictive Symphony”! Original Article: MODYSSEY is gearing up f...",
+      "description": "Updated March 19 KST: The promotion scheduler has been revealed for MODYSSEY’s debut single album “1. Got Hooked: An Addictive Symphony”! Original Article: MODYSSEY is gearing up for their debut! Formed through the “BOYS II PLANET” spin-off “PLANET C : HOME RACE,” MODYSSEY is a seven-member group under ONECEAD Entertainment, a new agency co-established by… Continue reading Update: MODYSSEY Drops Promotion Scheduler For Debut Single Album “1. Got Hooked: An Addictive Symphony” The post Update: MODYSSEY Drops Promotion Scheduler For Debut Single Album “1. Got Hooked: An Addictive Symphony” appea...",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "debut",
         "album"
       ]
     }
