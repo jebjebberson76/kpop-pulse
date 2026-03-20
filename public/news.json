@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-20T05:45:49.893Z",
+  "generatedAt": "2026-03-20T06:45:14.821Z",
   "items": [
+    {
+      "id": "1e0ed15e7cee2835",
+      "title": "Seoul tightens security ahead of BTS comeback concert",
+      "url": "https://www.koreaherald.com/article/10699178",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T06:08:43.000Z",
+      "snippet": "BTS’ full-group comeback performance is just a day away, and Gwanghwamun Square has been placed under near-lockdown-level security, with more than 10,000 safety personnel on standb...",
+      "description": "BTS’ full-group comeback performance is just a day away, and Gwanghwamun Square has been placed under near-lockdown-level security, with more than 10,000 safety personnel on standby. The K-pop sensation's long-awaited return to the stage on Saturday is expected to draw some 260,000 people to the square, including 22,000 ticket holders. It will be the first cultural event at the site to draw over 200,000 people since the 2002 and 2006 World Cups. Police will deploy around 6,700 officers throughou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/rcv.YNA.20260320.PYH2026032009550001300_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "3ba6ccdbaf05f712",
+      "title": "BTS’ RM injures ankle ahead of comeback show",
+      "url": "https://www.koreaherald.com/article/10699165",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T05:59:50.000Z",
+      "snippet": "RM of BTS injured his ankle Thursday, just two days before the group’s comeback show, Big Hit Music said Friday. According to the agency, the injury occurred during a rehearsal Thu...",
+      "description": "RM of BTS injured his ankle Thursday, just two days before the group’s comeback show, Big Hit Music said Friday. According to the agency, the injury occurred during a rehearsal Thursday. RM was taken to a hospital for a detailed examination and was diagnosed with a sprain of the accessory navicular, a partial ligament tear and a talus contusion. Medical staff advised him to wear a cast and minimize movement for at least two weeks to focus on recovery. Despite the injury, RM expressed a strong de",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.8c3fb340b45743d58501acaf9875aec5_T1.jpg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
     {
       "id": "598d6118b37ba281",
       "title": "Finance chief says BTS concert expected to generate great amount of economic value",
@@ -419,34 +449,6 @@
       "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "b32c8ad3b01fbdd7",
-      "title": "ALPHA DRIVE ONE Reported To Make May Comeback + Agency Briefly Comments",
-      "url": "https://www.soompi.com/article/1825929wpp/alpha-drive-one-reported-to-make-may-comeback-agency-briefly-comments",
-      "source": "Soompi",
-      "publishedAt": "2026-03-18T07:04:57.000Z",
-      "snippet": "ALPHA DRIVE ONE may be making their very first comeback in May! On March 18, News1 reported that ALPHA DRIVE ONE is currently preparing to release a new album sometime in May. In r...",
-      "description": "ALPHA DRIVE ONE may be making their very first comeback in May! On March 18, News1 reported that ALPHA DRIVE ONE is currently preparing to release a new album sometime in May. In response to the report, their agency WAKEONE shared, “ALPHA DRIVE ONE is currently preparing for their first comeback. The exact timing has… Continue reading ALPHA DRIVE ONE Reported To Make May Comeback + Agency Briefly Comments The post ALPHA DRIVE ONE Reported To Make May Comeback + Agency Briefly Comments appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album"
-      ]
-    },
-    {
-      "id": "a4b39c30a57e9ed4",
-      "title": "BTS&apos; &apos;Swim&apos; teaser hints at Hollywood-facing strategy",
-      "url": "https://www.koreaherald.com/article/10697240",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-18T06:01:19.000Z",
-      "snippet": "BTS unveiled a teaser for its new main track \"Swim\" at midnight on Wednesday, drawing attention not only to the song but also to the high-profile names attached to its music video....",
-      "description": "BTS unveiled a teaser for its new main track \"Swim\" at midnight on Wednesday, drawing attention not only to the song but also to the high-profile names attached to its music video. The 17-second teaser offers limited clues. Nearly five seconds are devoted to the Big Hit Music logo, leaving less than 10 seconds of actual footage, making it difficult to gauge the song’s concept or sound. Music critics say the teaser suggests the music video may cater to the Western pop market rather than emphasize",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/18/news-p.v1.20260318.bf99af8d4e1d48a19ab04a3a30e98fd2_T1.jpg",
-      "tags": [
-        "music video",
         "bts"
       ]
     }
