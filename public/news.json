@@ -1,33 +1,32 @@
 {
-  "generatedAt": "2026-03-20T06:45:14.821Z",
+  "generatedAt": "2026-03-20T07:41:06.885Z",
   "items": [
     {
-      "id": "1e0ed15e7cee2835",
-      "title": "Seoul tightens security ahead of BTS comeback concert",
-      "url": "https://www.koreaherald.com/article/10699178",
+      "id": "4389058900348d62",
+      "title": "[Photo News] D-1: Anticipation builds at Gwanghwamun ahead of show",
+      "url": "https://www.koreaherald.com/article/10699290",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T06:08:43.000Z",
-      "snippet": "BTS’ full-group comeback performance is just a day away, and Gwanghwamun Square has been placed under near-lockdown-level security, with more than 10,000 safety personnel on standb...",
-      "description": "BTS’ full-group comeback performance is just a day away, and Gwanghwamun Square has been placed under near-lockdown-level security, with more than 10,000 safety personnel on standby. The K-pop sensation's long-awaited return to the stage on Saturday is expected to draw some 260,000 people to the square, including 22,000 ticket holders. It will be the first cultural event at the site to draw over 200,000 people since the 2002 and 2006 World Cups. Police will deploy around 6,700 officers throughou",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/rcv.YNA.20260320.PYH2026032009550001300_T1.jpg",
+      "publishedAt": "2026-03-20T07:40:04.000Z",
+      "snippet": "Though a day remained before BTS’ live comeback show at Gwanghwamun Square, the area was already buzzing, with fans dressed in purple and BTS merchandise gathering to take photos n...",
+      "description": "Though a day remained before BTS’ live comeback show at Gwanghwamun Square, the area was already buzzing, with fans dressed in purple and BTS merchandise gathering to take photos near the stage and surrounding advertisements. Congratulatory videos by individual members’ fan clubs played on megascreens in landmarks near the area, including Koreana Hotel and the KT Gwanghwamun Building West, and banners welcoming BTS and its fandom, Army, were also seen hanging around the square. Stage installatio",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.fe65a8854e434b369f9d5101a319f988_T1.jpg",
       "tags": [
-        "k-pop",
         "comeback",
-        "concert",
         "bts"
       ]
     },
     {
-      "id": "3ba6ccdbaf05f712",
-      "title": "BTS’ RM injures ankle ahead of comeback show",
-      "url": "https://www.koreaherald.com/article/10699165",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T05:59:50.000Z",
-      "snippet": "RM of BTS injured his ankle Thursday, just two days before the group’s comeback show, Big Hit Music said Friday. According to the agency, the injury occurred during a rehearsal Thu...",
-      "description": "RM of BTS injured his ankle Thursday, just two days before the group’s comeback show, Big Hit Music said Friday. According to the agency, the injury occurred during a rehearsal Thursday. RM was taken to a hospital for a detailed examination and was diagnosed with a sprain of the accessory navicular, a partial ligament tear and a talus contusion. Medical staff advised him to wear a cast and minimize movement for at least two weeks to focus on recovery. Despite the injury, RM expressed a strong de",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.8c3fb340b45743d58501acaf9875aec5_T1.jpg",
+      "id": "418e0c6f9fad4a7c",
+      "title": "BTS’s New Album Compared To “Kpop Demon Hunters”, Triggers Backlash",
+      "url": "https://www.koreaboo.com/news/bts-new-album-compared-kpop-demon-hunters-backlash/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-20T07:05:49.000Z",
+      "snippet": "Netizens were appalled.",
+      "description": "Netizens were appalled.",
+      "image": "/public/placeholder-news.svg",
       "tags": [
-        "comeback",
+        "kpop",
+        "album",
         "bts"
       ]
     },
@@ -78,13 +77,13 @@
     },
     {
       "id": "027483503aa3e9aa",
-      "title": "BTS&apos; new album ‘Arirang’ released",
+      "title": "BTS&apos; new album ‘Arirang’ speaks to growth, perseverance",
       "url": "https://www.koreaherald.com/article/10699071",
       "source": "Korea Herald K-pop",
       "publishedAt": "2026-03-20T04:47:29.000Z",
-      "snippet": "BTS released their fifth album, ‘Arirang,’ at 1 p.m., Friday, marking the group’s first full-group comeback in three years and nine months. The album explores the group’s identity...",
-      "description": "BTS released their fifth album, ‘Arirang,’ at 1 p.m., Friday, marking the group’s first full-group comeback in three years and nine months. The album explores the group’s identity and universal emotions, drawing inspiration from the traditional Korean folk song, Arirang. Reflecting BTS’ Korean roots while capturing sentiments the seven members experience today, the 14-track album aims to resonate with listeners across cultures and generations. Lead track “Swim” conveys the message of continuing",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.5019b1b4c05444269d62659a758296f6_T1.jpg",
+      "snippet": "BTS released its fifth album \"Arirang\" at 1 p.m. Friday, marking the group’s first full-group comeback in three years and nine months. Fitting for such a return, the 14-track album...",
+      "description": "BTS released its fifth album \"Arirang\" at 1 p.m. Friday, marking the group’s first full-group comeback in three years and nine months. Fitting for such a return, the 14-track album explores the group’s identity — where BTS started, and what it could become. Reflecting BTS’ Korean roots while capturing sentiments the seven members experience today, it was produced to resonate with listeners across cultures and generations. At its core, “Arirang” was built on a simple yet layered question: What do",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.939317a4c25b4b52b784901d5ded1034_T1.jpg",
       "tags": [
         "comeback",
         "album",
@@ -136,6 +135,20 @@
         "comeback",
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "af664ca80356a201",
+      "title": "Cosmosy to drop prerelease from 2nd EP",
+      "url": "https://www.koreaherald.com/article/10698956",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T02:28:17.000Z",
+      "snippet": "Girl group Cosmosy will release “Chance” on Friday ahead of the full release of its second EP, due out on March 31, according to agency NTT docomo Studio. It will be the second pre...",
+      "description": "Girl group Cosmosy will release “Chance” on Friday ahead of the full release of its second EP, due out on March 31, according to agency NTT docomo Studio. It will be the second prerelease from the group's EP, “of the world,” after “Physics,” which was released last year. On Thursday, the group also performed “Chance” on stage for the first time for a television music chart show. The upcoming mini album will expand Cosmosy’s sci-fi narrative imbued with eastern aesthetics, building on that of its",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.a554049c34b44747a6556e8803e8cb31_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
       ]
     },
     {
@@ -197,6 +210,20 @@
         "comeback",
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "ae700a3cd518650a",
+      "title": "P1Harmony’s 9th EP sells half a million",
+      "url": "https://www.koreaherald.com/article/10698806",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T01:33:17.000Z",
+      "snippet": "The ninth EP from P1Harmony sold half a million copies in the first week, a record for the six-member group, agency FNC Entertainment announced Thursday. “Unique” also surpassed th...",
+      "description": "The ninth EP from P1Harmony sold half a million copies in the first week, a record for the six-member group, agency FNC Entertainment announced Thursday. “Unique” also surpassed the first-week sales of its previous album, eighth EP “Duh!,” in just one day. \"Duh!\" entered the Billboard 200 at No. 23, and the group's first English-language album “Ex,” released in September last year, claimed the No. 9 spot on the main albums chart. The new album portrays the bandmates as returning to their superhe",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.6364c868613640fdad460b4b45e8af3d_T1.jpg",
+      "tags": [
+        "album",
+        "billboard"
       ]
     },
     {
@@ -364,6 +391,20 @@
       ]
     },
     {
+      "id": "7bae36125e5d52b8",
+      "title": "GOT7’s Jinyoung to release solo album in May",
+      "url": "https://www.koreaherald.com/article/10697865",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-19T01:48:20.000Z",
+      "snippet": "Park Jinyoung of GOT7 is putting together a solo album set to be released in May, according to BH Entertainment on Thursday. He is said to have participated in writing lyrics as we...",
+      "description": "Park Jinyoung of GOT7 is putting together a solo album set to be released in May, according to BH Entertainment on Thursday. He is said to have participated in writing lyrics as well. Park dropped his first solo mini album, \"Chapter 0: With,\" in 2023, and has two digital singles as a solo act: \"Dive\" from 2021 and \"Christmas Fever\" from last year. Alongside his music career, he has also been active as an actor, appearing in a series of TV dramas and movies. In the ongoing series \"Shining,\" Park",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/news-p.v1.20260319.5b9e62de1ab5462ca0da44350b55b87e_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
+      ]
+    },
+    {
       "id": "c55361564034066f",
       "title": "SHINee’s Onew to tour Asia for solo fan meetups",
       "url": "https://www.koreaherald.com/article/10697811",
@@ -405,50 +446,6 @@
         "comeback",
         "album",
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "4cbe7a10fd5aeb06",
-      "title": "P1Harmony Breaks 500,000 1st-Week Sales For 1st Time With “UNIQUE”",
-      "url": "https://www.soompi.com/article/1826147wpp/p1harmony-breaks-500000-1st-week-sales-for-1st-time-with-unique",
-      "source": "Soompi",
-      "publishedAt": "2026-03-18T20:05:00.000Z",
-      "snippet": "P1Harmony is soaring to new heights with their latest comeback! Last week, P1Harmony made their return with their new mini album “UNIQUE” and its title track of the same name on Ma...",
-      "description": "P1Harmony is soaring to new heights with their latest comeback! Last week, P1Harmony made their return with their new mini album “UNIQUE” and its title track of the same name on March 12. According to Hanteo Chart, “UNIQUE” has now achieved the highest first-week sales of the group’s career to date. In the first week… Continue reading P1Harmony Breaks 500,000 1st-Week Sales For 1st Time With “UNIQUE” The post P1Harmony Breaks 500,000 1st-Week Sales For 1st Time With “UNIQUE” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "0b5b2659000b2519",
-      "title": "Watch: P1Harmony Takes 1st Win For “UNIQUE” On “Show Champion”; Performances By KickFlip, NouerA, And More",
-      "url": "https://www.soompi.com/article/1826032wpp/watch-p1harmony-takes-1st-win-for-unique-on-show-champion-performances-by-kickflip-nouera-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-03-18T11:53:12.000Z",
-      "snippet": "P1Harmony has won their first music show trophy for their new title track “UNIQUE”! On the March 18 episode of “Show Champion,” the candidates for first place were Hearts2Hearts’ “...",
-      "description": "P1Harmony has won their first music show trophy for their new title track “UNIQUE”! On the March 18 episode of “Show Champion,” the candidates for first place were Hearts2Hearts’ “RUDE!,” IVE‘s “BLACKHOLE,” NouerA’s “POP IT LIKE,” P1Harmony’s “UNIQUE,” and SHINee’s Onew‘s “TOUGH LOVE.” The trophy ultimately went to P1Harmony. Congratulations to P1Harmony! Watch the winner announcement… Continue reading Watch: P1Harmony Takes 1st Win For “UNIQUE” On “Show Champion”; Performances By KickFlip, NouerA, And More The post Watch: P1Harmony Takes 1st Win For “UNIQUE” On “Show Champion”; Performances B...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "show champion",
-        "ive",
-        "shinee"
-      ]
-    },
-    {
-      "id": "8a757be1d06b0d4f",
-      "title": "HYBE Clarifies Use Of Red Lighting For BTS’s “ARIRANG” Comeback Event",
-      "url": "https://www.soompi.com/article/1826011wpp/hybe-clarifies-use-of-red-lighting-for-btss-arirang-comeback-event",
-      "source": "Soompi",
-      "publishedAt": "2026-03-18T10:20:52.000Z",
-      "snippet": "HYBE has addressed concerns surrounding the “red lighting” set to illuminate major landmarks across Seoul in celebration of BTS’s upcoming comeback. The lighting display is part of...",
-      "description": "HYBE has addressed concerns surrounding the “red lighting” set to illuminate major landmarks across Seoul in celebration of BTS’s upcoming comeback. The lighting display is part of a large-scale project tied to BTS’s comeback performance, scheduled to take place at Gwanghwamun Square on March 21. At HYBE’s request, the Seoul Metropolitan Government plans to light… Continue reading HYBE Clarifies Use Of Red Lighting For BTS’s “ARIRANG” Comeback Event The post HYBE Clarifies Use Of Red Lighting For BTS’s “ARIRANG” Comeback Event appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
         "bts"
       ]
     }
