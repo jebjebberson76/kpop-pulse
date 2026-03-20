@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-03-20T07:41:06.885Z",
+  "generatedAt": "2026-03-20T08:33:33.603Z",
   "items": [
+    {
+      "id": "b167514c2dcb1339",
+      "title": "BTS RM’s Past Remarks On Using English Lyrics Resurfaces Amid Album Release",
+      "url": "https://www.koreaboo.com/news/bts-rm-past-remarks-singing-in-english-resurfaces-following-new-album/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-20T08:28:24.000Z",
+      "snippet": "\"If we used English, we would no longer be BTS.\"",
+      "description": "\"If we used English, we would no longer be BTS.\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "bebb437746e34fc0",
+      "title": "BTS RM’s New Tattoo Exposed During New Album Live Broadcast",
+      "url": "https://www.koreaboo.com/news/bts-rm-tattoo-in-live-broadcast/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-20T07:46:26.000Z",
+      "snippet": "What are your thoughts on it?",
+      "description": "What are your thoughts on it?",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "4389058900348d62",
       "title": "[Photo News] D-1: Anticipation builds at Gwanghwamun ahead of show",
@@ -16,6 +44,20 @@
       ]
     },
     {
+      "id": "59e5669af19b5d8c",
+      "title": "After 13-year rise, BTS opens new chapter with ‘Arirang’",
+      "url": "https://www.koreaherald.com/article/10699267",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T07:13:23.000Z",
+      "snippet": "Thirteen years ago, few could have predicted the phenomenon of BTS. Before the group's debut, Hybe — then a little-known independent label called Big Hit Entertainment — was fighti...",
+      "description": "Thirteen years ago, few could have predicted the phenomenon of BTS. Before the group's debut, Hybe — then a little-known independent label called Big Hit Entertainment — was fighting for survival. In the early 2000s, founder Bang Si-hyuk was reportedly burdened with more than 10 billion won ($6.7 million) in debt. By 2007, the company was on the brink of bankruptcy. BTS formed three years later, and debuted in 2013. Even that debut was far from certain. Bang would later recall that the group mig",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260318.49677c7354094fdcab2756e706c6ae1b_T1.jpg",
+      "tags": [
+        "debut",
+        "bts"
+      ]
+    },
+    {
       "id": "418e0c6f9fad4a7c",
       "title": "BTS’s New Album Compared To “Kpop Demon Hunters”, Triggers Backlash",
       "url": "https://www.koreaboo.com/news/bts-new-album-compared-kpop-demon-hunters-backlash/",
@@ -27,6 +69,36 @@
       "tags": [
         "kpop",
         "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "1e0ed15e7cee2835",
+      "title": "Seoul tightens security ahead of BTS comeback concert",
+      "url": "https://www.koreaherald.com/article/10699178",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T06:08:43.000Z",
+      "snippet": "BTS’ full-group comeback performance is just a day away, and Gwanghwamun Square has been placed under near-lockdown-level security, with more than 10,000 safety personnel on standb...",
+      "description": "BTS’ full-group comeback performance is just a day away, and Gwanghwamun Square has been placed under near-lockdown-level security, with more than 10,000 safety personnel on standby. The K-pop sensation's long-awaited return to the stage on Saturday is expected to draw some 260,000 people to the square, including 22,000 ticket holders. It will be the first cultural event at the site to draw over 200,000 people since the 2002 and 2006 World Cups. Police will deploy around 6,700 officers throughou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/rcv.YNA.20260320.PYH2026032009550001300_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "3ba6ccdbaf05f712",
+      "title": "BTS’ RM injures ankle ahead of comeback show",
+      "url": "https://www.koreaherald.com/article/10699165",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T05:59:50.000Z",
+      "snippet": "RM of BTS injured his ankle Thursday, just two days before the group’s comeback show, Big Hit Music said Friday. According to the agency, the injury occurred during a rehearsal Thu...",
+      "description": "RM of BTS injured his ankle Thursday, just two days before the group’s comeback show, Big Hit Music said Friday. According to the agency, the injury occurred during a rehearsal Thursday. RM was taken to a hospital for a detailed examination and was diagnosed with a sprain of the accessory navicular, a partial ligament tear and a talus contusion. Medical staff advised him to wear a cast and minimize movement for at least two weeks to focus on recovery. Despite the injury, RM expressed a strong de",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.8c3fb340b45743d58501acaf9875aec5_T1.jpg",
+      "tags": [
+        "comeback",
         "bts"
       ]
     },
@@ -148,20 +220,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.a554049c34b44747a6556e8803e8cb31_T1.jpg",
       "tags": [
         "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "08b6aca3597be287",
-      "title": "T.O.P returns with first solo studio album on April 3",
-      "url": "https://www.koreaherald.com/article/10698904",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T02:15:38.000Z",
-      "snippet": "Former Big Bang member T.O.P will release his first solo album since debut, marking a major return to music after more than a decade. According to a Friday announcement by his agen...",
-      "description": "Former Big Bang member T.O.P will release his first solo album since debut, marking a major return to music after more than a decade. According to a Friday announcement by his agency, Topspot Pictures, the rapper will release \"Another Dimension\" on April 3 across major streaming platforms. The album marks T.O.P’s first solo project in 13 years since the 2013 digital single \"Doom Dada.\" He took the lead in producing the new album, overseeing the project over an extended period. In recent weeks, T",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.b7deca1fbedf40ee99593962def0bfe1_T1.jpg",
-      "tags": [
-        "debut",
         "album"
       ]
     },
@@ -388,65 +446,6 @@
       "tags": [
         "debut",
         "album"
-      ]
-    },
-    {
-      "id": "7bae36125e5d52b8",
-      "title": "GOT7’s Jinyoung to release solo album in May",
-      "url": "https://www.koreaherald.com/article/10697865",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-19T01:48:20.000Z",
-      "snippet": "Park Jinyoung of GOT7 is putting together a solo album set to be released in May, according to BH Entertainment on Thursday. He is said to have participated in writing lyrics as we...",
-      "description": "Park Jinyoung of GOT7 is putting together a solo album set to be released in May, according to BH Entertainment on Thursday. He is said to have participated in writing lyrics as well. Park dropped his first solo mini album, \"Chapter 0: With,\" in 2023, and has two digital singles as a solo act: \"Dive\" from 2021 and \"Christmas Fever\" from last year. Alongside his music career, he has also been active as an actor, appearing in a series of TV dramas and movies. In the ongoing series \"Shining,\" Park",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/news-p.v1.20260319.5b9e62de1ab5462ca0da44350b55b87e_T1.jpg",
-      "tags": [
-        "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "c55361564034066f",
-      "title": "SHINee’s Onew to tour Asia for solo fan meetups",
-      "url": "https://www.koreaherald.com/article/10697811",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-19T01:18:54.000Z",
-      "snippet": "Onew of SHINee is planning to visit five cities in Asia for his solo fan meetup tour, “Tough Love,” Griffin Entertainment announced Wednesday. The tour will kick off in Taiwan capi...",
-      "description": "Onew of SHINee is planning to visit five cities in Asia for his solo fan meetup tour, “Tough Love,” Griffin Entertainment announced Wednesday. The tour will kick off in Taiwan capital Taipei on April 3 and will bring him back to Seoul on April 11, before visits to Hong Kong, Tokyo and Osaka, Japan. Fan meetings in Osaka will run for three days and in Tokyo two days. The event is named after the fifth EP, which Onew brought out earlier this month, which topped iTunes albums charts in nine regions",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/news-p.v1.20260319.a77567f2b9604fce8fab2a9d7e877146_T1.jpg",
-      "tags": [
-        "fan meeting",
-        "shinee"
-      ]
-    },
-    {
-      "id": "00d9689561322bc7",
-      "title": "Hybe denies speculation of political motive behind BTS&apos; red-themed comeback events",
-      "url": "https://www.koreaherald.com/article/10697685",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-19T00:19:50.000Z",
-      "snippet": "Hybe, the K-pop giant behind K-pop supergroup BTS, has dismissed speculation that a plan by the Seoul metropolitan government to illuminate major landmarks in red for the group's l...",
-      "description": "Hybe, the K-pop giant behind K-pop supergroup BTS, has dismissed speculation that a plan by the Seoul metropolitan government to illuminate major landmarks in red for the group's long-awaited comeback is politically motivated. The city government recently announced it would light 15 landmarks, including N Seoul Tower on Mount Nam, Lotte World Tower, the Sebitseom islands and Cheonggye Stream, in red on Friday and Saturday nights to celebrate the return of BTS. The decision prompted some fans and",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/news-p.v1.20260319.1ec516ef8f9746bebe02dcbc7dfdda3d_T1.jpg",
-      "tags": [
-        "k-pop",
-        "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "8600a0e5360fe1fe",
-      "title": "[Graphic News] BTS to brighten Gwanghwamun with comeback concert",
-      "url": "https://www.koreaherald.com/article/10697483",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-18T23:00:00.000Z",
-      "snippet": "BTS is set to hold an outdoor concert on March 21 to celebrate the release of its fifth album “Arirang,” transforming Gwanghwamun Square into festival grounds. The event, “BTS the...",
-      "description": "BTS is set to hold an outdoor concert on March 21 to celebrate the release of its fifth album “Arirang,” transforming Gwanghwamun Square into festival grounds. The event, “BTS the Comeback Live — Arirang,” will take place at Yukjo Yard, north of Gwanghwamun Square. The seven members will enter through the gates of Geunjeongmun, Heungnyemun and Gwanghwamun, passing the royal viewing platform Woldae, with the procession and concert streamed live to viewers in 190 territories via Netflix. The perfo",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/18/news-p.v1.20260318.98697fa31e7b48a381f2d784dbbed6d5_T1.gif",
-      "tags": [
-        "comeback",
-        "album",
-        "concert",
-        "bts"
       ]
     }
   ]
