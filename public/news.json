@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-20T16:35:29.894Z",
+  "generatedAt": "2026-03-20T17:31:10.536Z",
   "items": [
+    {
+      "id": "872b5f56e9acdfe1",
+      "title": "First BTS “Arirang” Album Ratings Spark Massive Controversy",
+      "url": "https://www.koreaboo.com/news/first-bts-arirang-album-ratings-spark-massive-controversy-rolling-stone-uk/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-20T17:24:18.000Z",
+      "snippet": "Fans provided proof of legitimacy.",
+      "description": "Fans provided proof of legitimacy.",
+      "image": "https://image.koreaboo.com/2026/03/FEATURED-IMAGE-2026-03-20T122156.939.jpg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "8873fef63a6df894",
       "title": "Drone show lights up Seoul sky for BTS comeback",
@@ -170,7 +184,7 @@
       "publishedAt": "2026-03-20T05:18:19.000Z",
       "snippet": "BTS’s RM has unfortunately sustained an ankle injury ahead of the group’s highly anticipated comeback live event “ARIRANG” and will be participating with limited movement. On March...",
       "description": "BTS’s RM has unfortunately sustained an ankle injury ahead of the group’s highly anticipated comeback live event “ARIRANG” and will be participating with limited movement. On March 20, BIGHIT MUSIC shared through an official statement that RM had injured his ankle during a rehearsal the previous day. Following a medical examination, he was diagnosed with… Continue reading BTS’s RM Sustains Ankle Injury + To Have Limited Participation In Comeback Live Event The post BTS’s RM Sustains Ankle Injury + To Have Limited Participation In Comeback Live Event appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/19221808/bts-rm-mar-26.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "bts"
@@ -430,21 +444,6 @@
         "comeback",
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "2d8406dd9954ba52",
-      "title": "GOT7’s Park Jinyoung Confirmed To Make Spring Solo Comeback",
-      "url": "https://www.soompi.com/article/1826162wpp/got7s-park-jinyoung-confirmed-to-make-spring-solo-comeback",
-      "source": "Soompi",
-      "publishedAt": "2026-03-19T03:29:08.000Z",
-      "snippet": "GOT7’s Park Jinyoung is gearing up for a comeback! On March 19, his agency BH Entertainment said he is currently focused on working on his next album, aiming for a comeback in May....",
-      "description": "GOT7’s Park Jinyoung is gearing up for a comeback! On March 19, his agency BH Entertainment said he is currently focused on working on his next album, aiming for a comeback in May. The release will be his second mini album, and he plans to enhance its quality by participating in writing the lyrics. Park… Continue reading GOT7’s Park Jinyoung Confirmed To Make Spring Solo Comeback The post GOT7’s Park Jinyoung Confirmed To Make Spring Solo Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
       ]
     }
   ]
