@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-03-20T11:26:35.518Z",
+  "generatedAt": "2026-03-20T12:42:32.782Z",
   "items": [
+    {
+      "id": "8873fef63a6df894",
+      "title": "Drone show lights up Seoul sky for BTS comeback",
+      "url": "https://www.koreaherald.com/article/10699408",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T12:24:38.000Z",
+      "snippet": "Drones lit up the night sky over Ttukseom Hangang Park on Friday, forming images celebrating the comeback of K-pop group BTS after a three-year and nine-month hiatus following thei...",
+      "description": "Drones lit up the night sky over Ttukseom Hangang Park on Friday, forming images celebrating the comeback of K-pop group BTS after a three-year and nine-month hiatus following their military service. The drone light show featured the faces of all seven members — RM, Jin, Suga, J-Hope, Jimin, V and Jungkook — along with visuals referencing their new album released the same day, “Arirang.” (Yonhap)",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.8e67709770c74ab8935ee702a43e32ba_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "782038a56255d982",
       "title": "Yoo Yeon Seok Dances To IVE’s “LOVE DIVE” As Possessed Ghost’s Memories Take Over In “Phantom Lawyer”",
@@ -72,20 +88,6 @@
       ]
     },
     {
-      "id": "b4d6bfd2a2ed4af0",
-      "title": "Controversial “Drug Abuse” Legendary Idol Confirms Comeback Date",
-      "url": "https://www.koreaboo.com/news/controversial-druggie-legendary-idol-confirms-comeback-date/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-20T10:02:18.000Z",
-      "snippet": "He kept to a strict diet.",
-      "description": "He kept to a strict diet.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "comeback"
-      ]
-    },
-    {
       "id": "abeb60e995f4b920",
       "title": "HYBE Reveals Who Played A Huge Role In Selecting Gwanghwamun For BTS’s Comeback Stage",
       "url": "https://www.koreaboo.com/news/bang-si-hyuk-reason-bts-chose-gwanghwamun-comeback-stage/",
@@ -96,20 +98,6 @@
       "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "3eed3d18f4aee5e6",
-      "title": "BTS Face Wave Of Criticism For Lyric Quality In “ARIRANG” Album",
-      "url": "https://www.koreaboo.com/news/bts-wave-criticism-lyrics-album/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-20T08:40:26.000Z",
-      "snippet": "Netizens said the lyrics felt different, not in a good way.",
-      "description": "Netizens said the lyrics felt different, not in a good way.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
         "bts"
       ]
     },
@@ -437,6 +425,21 @@
       "snippet": "South Korea's Ministry of Culture, Sports and Tourism is launching a series of cultural programs across five major national institutions to coincide with BTS' comeback concert on M...",
       "description": "South Korea's Ministry of Culture, Sports and Tourism is launching a series of cultural programs across five major national institutions to coincide with BTS' comeback concert on March 21, aiming to deepen foreign visitors' engagement with Korean heritage. Starting March 20, the National Museum of Korea, the National Museum of Modern and Contemporary Art, the National Folk Museum of Korea, the National Museum of Korean Contemporary History, and the National Library of Korea will each offer progr",
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/rcv.YNA.20260319.PYH2026031907610001300_T1.jpg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "44b446c67f125dc1",
+      "title": "&apos;BTS Pilgrimage&apos;: Fans walk in BTS’ footsteps, share Seoul moments ahead of concert",
+      "url": "https://www.koreaherald.com/article/10698047",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-19T03:38:55.000Z",
+      "snippet": "“It’s incredible. I can’t believe that I’m here.” Sodikjonova Shakhrizoda paused in the middle of Gwanghwamun Square, her \"Army Bomb,\" BTS' official light stick, in hand, taking in...",
+      "description": "“It’s incredible. I can’t believe that I’m here.” Sodikjonova Shakhrizoda paused in the middle of Gwanghwamun Square, her \"Army Bomb,\" BTS' official light stick, in hand, taking in the city she had only seen through screens for years. In a few days, BTS will perform on the same ground she stands on. Shakhrizoda had made the trip from Uzbekistan after multiple attempts to secure a visa, arriving just days before the long-awaited BTS comeback. “They healed me,” she said, adding that being here, in",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/news-p.v1.20260319.0df06bd484fe438c80096dbb46b83e6d_T1.png",
       "tags": [
         "comeback",
         "concert",
