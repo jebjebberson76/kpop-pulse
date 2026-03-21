@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-03-21T11:17:46.240Z",
+  "generatedAt": "2026-03-21T12:33:50.478Z",
   "items": [
+    {
+      "id": "ae169a4c237ec887",
+      "title": "BTS’s Comeback Concert Sparks Shock After Police Predicted 260,000 People Crowd",
+      "url": "https://www.koreaboo.com/news/bts-comeback-concert-sparks-shock-after-police-predicted-260000-people-crowd/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-21T12:19:48.000Z",
+      "snippet": "Police estimating a peak of 260,000 attendees.",
+      "description": "Police estimating a peak of 260,000 attendees.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "f3d7e4056f2a3f98",
+      "title": "Bang Si Hyuk’s BTS Concert Appearance Triggers “Arrest Him” Demands",
+      "url": "https://www.koreaboo.com/news/bang-si-hyuk-bts-concert-appearance-triggers-arrest-demands/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-21T11:41:03.000Z",
+      "snippet": "He was spotted in the venue.",
+      "description": "He was spotted in the venue.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "30a4a70807a040ee",
       "title": "Historic moment: BTS comeback creates decade&apos;s largest celebration in Gwanghwamun",
@@ -38,7 +67,7 @@
       "publishedAt": "2026-03-21T09:02:50.000Z",
       "snippet": "The inconveniences were listed up.",
       "description": "The inconveniences were listed up.",
-      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-2026-03-21T180223.676.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "bts"
@@ -108,6 +137,21 @@
       ]
     },
     {
+      "id": "e0a9f69150ff1735",
+      "title": "Fans continue to pour into central Seoul as BTS comeback concert nears",
+      "url": "https://www.koreaherald.com/article/10699505",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T02:36:39.000Z",
+      "snippet": "The crowd in central Seoul continued to swell on Saturday as fans gathered at Gwanghwamun Square for BTS’ long-awaited comeback concert, prompting authorities to maintain extensive...",
+      "description": "The crowd in central Seoul continued to swell on Saturday as fans gathered at Gwanghwamun Square for BTS’ long-awaited comeback concert, prompting authorities to maintain extensive safety inspections and traffic control throughout the district. As of 4 p.m., the Seoul Metropolitan Government and police reported between 26,000 and 28,000 people on site — a 23.8 percent increase from three hours earlier. Despite the rise, authorities assessed overall congestion levels as “manageable.” Despite earl",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/news-p.v1.20260321.40d64272379645239333dd06a287f048_T1.jpg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
       "id": "f343085141711047",
       "title": "BTS Smashes Their 1st-Week Sales Record In Just One Day + Tops Charts Worldwide With “ARIRANG”",
       "url": "https://www.soompi.com/article/1826752wpp/bts-smashes-their-1st-week-sales-record-in-just-one-day-tops-charts-worldwide-with-arirang",
@@ -123,23 +167,6 @@
       ]
     },
     {
-      "id": "ade35fd5f01d56f9",
-      "title": "BTS returns to the K-pop throne",
-      "url": "https://www.koreaherald.com/article/10699077",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-21T00:00:02.000Z",
-      "snippet": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the...",
-      "description": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the first time in nearly four years. The concert, set in Gwanghwamun Square in central Seoul, is expected to draw about 260,000 fans from around the world, a testament to the group’s enduring pull even after years away. BTS’ military hiatus did little to slow K-pop’s momentum. Acts like Stray Kids and NewJeans have continu",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.f0e6e11d30514214be6ee2be5288f97f_T1.jpg",
-      "tags": [
-        "k-pop",
-        "concert",
-        "bts",
-        "stray kids",
-        "newjeans"
-      ]
-    },
-    {
       "id": "4aded3bc31288d4d",
       "title": "BTS buzz lights up Gwanghwamun — and ad prices",
       "url": "https://www.koreaherald.com/article/10698397",
@@ -152,21 +179,6 @@
         "k-pop",
         "album",
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "641598560a9fa2e1",
-      "title": "When BTS reads, the world follows",
-      "url": "https://www.koreaherald.com/article/10698137",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-21T00:00:00.000Z",
-      "snippet": "Throughout their long reign as a K-pop phenomenon, BTS has shaped culture in many ways, and literature is no exception. The group's reading recommendations routinely send titles up...",
-      "description": "Throughout their long reign as a K-pop phenomenon, BTS has shaped culture in many ways, and literature is no exception. The group's reading recommendations routinely send titles up bestseller lists, often leading to sellouts, reprints and translations across languages and borders. Whether a book has been read by a member, inspired a BTS album or simply appeared in photos — quoted on social media or glimpsed in a variety show — it often becomes a bestseller. Their devoted and highly engaged fando",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/news-p.v1.20260319.4ec8ad234dae4feba0783d89c7e1d541_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
         "bts"
       ]
     },
@@ -201,6 +213,20 @@
       ]
     },
     {
+      "id": "623f448d72fa3a15",
+      "title": "[Herald Review] BTS’ &apos;Arirang&apos; leans into US pop while expanding artistry",
+      "url": "https://www.koreaherald.com/article/10699379",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T10:28:38.000Z",
+      "snippet": "BTS’ new album \"Arirang,\" released Friday at 1 p.m., offers insight into the group’s current state, reflecting both its identity and a range of emotions. Critics largely agree that...",
+      "description": "BTS’ new album \"Arirang,\" released Friday at 1 p.m., offers insight into the group’s current state, reflecting both its identity and a range of emotions. Critics largely agree that the group’s fifth full-length album is well-crafted, though many note that its sound leans toward appealing to a more mature US audience. \"The most notable point is that the album seems to target the US adult pop audience,\" music critic Lim Hee-yun said. \"BTS is widely known among the American public through songs lik",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/news-p.v1.20260320.71a6e68e56334bf0a37407cc2bcabf3f_T1.jpg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
+    {
       "id": "4389058900348d62",
       "title": "[Photo News] D-1: Anticipation builds at Gwanghwamun ahead of show",
       "url": "https://www.koreaherald.com/article/10699290",
@@ -211,20 +237,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.fe65a8854e434b369f9d5101a319f988_T1.jpg",
       "tags": [
         "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "59e5669af19b5d8c",
-      "title": "After 13-year rise, BTS opens new chapter with ‘Arirang’",
-      "url": "https://www.koreaherald.com/article/10699267",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T07:13:23.000Z",
-      "snippet": "Thirteen years ago, few could have predicted the phenomenon of BTS. Before the group's debut, Hybe — then a little-known independent label called Big Hit Entertainment — was fighti...",
-      "description": "Thirteen years ago, few could have predicted the phenomenon of BTS. Before the group's debut, Hybe — then a little-known independent label called Big Hit Entertainment — was fighting for survival. In the early 2000s, founder Bang Si-hyuk was reportedly burdened with more than 10 billion won ($6.7 million) in debt. By 2007, the company was on the brink of bankruptcy. BTS formed three years later, and debuted in 2013. Even that debut was far from certain. Bang would later recall that the group mig",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260318.49677c7354094fdcab2756e706c6ae1b_T1.jpg",
-      "tags": [
-        "debut",
         "bts"
       ]
     },
@@ -290,6 +302,21 @@
       ]
     },
     {
+      "id": "027483503aa3e9aa",
+      "title": "BTS&apos; new album ‘Arirang’ speaks to growth, perseverance",
+      "url": "https://www.koreaherald.com/article/10699071",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-20T04:47:29.000Z",
+      "snippet": "BTS released its fifth album \"Arirang\" at 1 p.m. Friday, marking the group’s first full-group comeback in three years and nine months. Fitting for such a return, the 14-track album...",
+      "description": "BTS released its fifth album \"Arirang\" at 1 p.m. Friday, marking the group’s first full-group comeback in three years and nine months. Fitting for such a return, the 14-track album explores the group’s identity — where BTS started, and what it could become. Reflecting BTS’ Korean roots while capturing sentiments the seven members experience today, it was produced to resonate with listeners across cultures and generations. At its core, “Arirang” was built on a simple yet layered question: What do",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.939317a4c25b4b52b784901d5ded1034_T1.jpg",
+      "tags": [
+        "comeback",
+        "album",
+        "bts"
+      ]
+    },
+    {
       "id": "54317c37c7fd6a3b",
       "title": "Watch: BTS Embarks On Their New Voyage In Long-Awaited “SWIM” Comeback MV",
       "url": "https://www.soompi.com/article/1826585wpp/watch-bts-embarks-on-their-new-voyage-in-long-awaited-swim-comeback-mv",
@@ -314,7 +341,7 @@
       "publishedAt": "2026-03-20T03:08:13.000Z",
       "snippet": "Updated March 21 KST: Xdinary Heroes has released a schedule for their upcoming return with “DEAD AND”! Original Article: Xdinary Heroes is gearing up for their return! On March 20...",
       "description": "Updated March 21 KST: Xdinary Heroes has released a schedule for their upcoming return with “DEAD AND”! Original Article: Xdinary Heroes is gearing up for their return! On March 20, a teaser was revealed for the JYP band’s upcoming mini album “DEAD AND.” A pre-release track from the album will be unveiled on March 25… Continue reading Update: Xdinary Heroes Reveals Comeback Schedule For “DEAD AND” The post Update: Xdinary Heroes Reveals Comeback Schedule For “DEAD AND” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/20203511/Xdinary-Heroes.jpg",
       "tags": [
         "comeback",
         "mini album",
@@ -423,36 +450,6 @@
       "tags": [
         "album",
         "billboard"
-      ]
-    },
-    {
-      "id": "e43473c55f16e971",
-      "title": "BTS redefines &apos;Koreanness&apos; in long-awaited full-group album &apos;Arirang&apos;",
-      "url": "https://www.koreaherald.com/article/10698793",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T01:28:24.000Z",
-      "snippet": "Global K-pop sensation BTS said it wanted to keep Korean sentiment alive in its own way as it prepared to release the new studio album \"Arirang,\" its first full-group project in ne...",
-      "description": "Global K-pop sensation BTS said it wanted to keep Korean sentiment alive in its own way as it prepared to release the new studio album \"Arirang,\" its first full-group project in nearly four years. The seven-member group will drop the 14-track set at 1 p.m. Friday in Korean time, marking its first group release since the anthology album \"Proof\" in June 2022 and all members completed their mandatory military service. The album takes its name from \"Arirang,\" a beloved Korean folk song often describ",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.6d64e4a3341b4f3f9b9909d2d66cadc0_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "19bb11828aafdf8c",
-      "title": "BTS’ new album title, &apos;Arirang,&apos; is pure Korean — are you saying it right?",
-      "url": "https://www.koreaherald.com/article/10698123",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T00:00:00.000Z",
-      "snippet": "Yes, we’ve been waiting for this. K-pop juggernaut BTS is back after four years — and the global hype for the group's fifth full-length album, “Arirang,” set for release on Friday,...",
-      "description": "Yes, we’ve been waiting for this. K-pop juggernaut BTS is back after four years — and the global hype for the group's fifth full-length album, “Arirang,” set for release on Friday, is already going wild. New music, new visuals, new era and, of course, a new wave of buzz. But this time, the conversation isn’t just about concept photos or what the seven bandmates will roll out. It’s also about the language itself. Since the title is a pure Korean word, videos across YouTube, Instagram and X explai",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/19/news-p.v1.20260319.4ff28e426bab412eba839a77008378d9_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "bts"
       ]
     }
   ]
