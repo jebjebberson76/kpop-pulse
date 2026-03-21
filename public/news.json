@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-21T16:21:24.015Z",
+  "generatedAt": "2026-03-21T17:20:17.159Z",
   "items": [
+    {
+      "id": "924f50316d8a5f4a",
+      "title": "ARMY Praised For Being Orderly And Picking Up Trash After BTS’s Gwanghwamun Concert",
+      "url": "https://www.koreaboo.com/news/army-praised-orderly-picking-trash-after-btss-gwanghwamun-concert/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-21T16:36:45.000Z",
+      "snippet": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE...",
+      "description": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE COMEBACK LIVE: ARIRANG,…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "a20015a24fc3f0ba",
       "title": "BTS Convey Their Gratitude Following Historic Gwanghwamun Concert",
@@ -436,20 +451,6 @@
         "comeback",
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "af664ca80356a201",
-      "title": "Cosmosy to drop prerelease from 2nd EP",
-      "url": "https://www.koreaherald.com/article/10698956",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T02:28:17.000Z",
-      "snippet": "Girl group Cosmosy will release “Chance” on Friday ahead of the full release of its second EP, due out on March 31, according to agency NTT docomo Studio. It will be the second pre...",
-      "description": "Girl group Cosmosy will release “Chance” on Friday ahead of the full release of its second EP, due out on March 31, according to agency NTT docomo Studio. It will be the second prerelease from the group's EP, “of the world,” after “Physics,” which was released last year. On Thursday, the group also performed “Chance” on stage for the first time for a television music chart show. The upcoming mini album will expand Cosmosy’s sci-fi narrative imbued with eastern aesthetics, building on that of its",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.a554049c34b44747a6556e8803e8cb31_T1.jpg",
-      "tags": [
-        "mini album",
-        "album"
       ]
     }
   ]
