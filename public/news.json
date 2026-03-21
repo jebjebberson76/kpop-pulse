@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-03-20T23:22:36.516Z",
+  "generatedAt": "2026-03-21T01:22:03.724Z",
   "items": [
+    {
+      "id": "ade35fd5f01d56f9",
+      "title": "BTS returns to the K-pop throne",
+      "url": "https://www.koreaherald.com/article/10699077",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T00:00:02.000Z",
+      "snippet": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the...",
+      "description": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the first time in nearly four years. The concert, set in Gwanghwamun Square in central Seoul, is expected to draw about 260,000 fans from around the world, a testament to the group’s enduring pull even after years away. BTS’ military hiatus did little to slow K-pop’s momentum. Acts like Stray Kids and NewJeans have continu",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.f0e6e11d30514214be6ee2be5288f97f_T1.jpg",
+      "tags": [
+        "k-pop",
+        "concert",
+        "bts",
+        "stray kids",
+        "newjeans"
+      ]
+    },
     {
       "id": "872b5f56e9acdfe1",
       "title": "First BTS “Arirang” Album Ratings Spark Massive Controversy",
@@ -433,20 +450,6 @@
         "album",
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "f7ca71f1a10c7c23",
-      "title": "Update: MODYSSEY Drops Promotion Scheduler For Debut Single Album “1. Got Hooked: An Addictive Symphony”",
-      "url": "https://www.soompi.com/article/1826192wpp/modyssey-announces-debut-with-single-album-1-got-hooked-an-addictive-symphony",
-      "source": "Soompi",
-      "publishedAt": "2026-03-19T02:16:43.000Z",
-      "snippet": "Updated March 19 KST: The promotion scheduler has been revealed for MODYSSEY’s debut single album “1. Got Hooked: An Addictive Symphony”! Original Article: MODYSSEY is gearing up f...",
-      "description": "Updated March 19 KST: The promotion scheduler has been revealed for MODYSSEY’s debut single album “1. Got Hooked: An Addictive Symphony”! Original Article: MODYSSEY is gearing up for their debut! Formed through the “BOYS II PLANET” spin-off “PLANET C : HOME RACE,” MODYSSEY is a seven-member group under ONECEAD Entertainment, a new agency co-established by… Continue reading Update: MODYSSEY Drops Promotion Scheduler For Debut Single Album “1. Got Hooked: An Addictive Symphony” The post Update: MODYSSEY Drops Promotion Scheduler For Debut Single Album “1. Got Hooked: An Addictive Symphony” appea...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "album"
       ]
     }
   ]
