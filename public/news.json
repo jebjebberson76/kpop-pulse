@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-03-22T01:43:26.538Z",
+  "generatedAt": "2026-03-22T04:13:36.347Z",
   "items": [
+    {
+      "id": "2a95fa47d5b87b5d",
+      "title": "HYBE Issues Official Statement Addressing Issues Surrounding BTS’s Gwanghwamun Concert",
+      "url": "https://www.koreaboo.com/news/hybe-issues-official-statement-addressing-issues-surrounding-bts-gwanghwamun-concert/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-22T03:34:23.000Z",
+      "snippet": "HYBE expressed gratitude and also apologized regarding BTS’s comeback performance at Gwanghwamun. On the 22nd, HYBE released an official statement saying, “We sincerely thank every...",
+      "description": "HYBE expressed gratitude and also apologized regarding BTS’s comeback performance at Gwanghwamun. On the 22nd, HYBE released an official statement saying, “We sincerely thank everyone for the warm support and…",
+      "image": "https://image.koreaboo.com/2026/03/BTS-FI-9.jpg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "8723cf319cd52500",
+      "title": "[Photo News] BTS sets off for next global stage",
+      "url": "https://www.koreaherald.com/article/10699745",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-22T01:46:39.000Z",
+      "snippet": "One day after “BTS Comeback Live: Arirang,” the group's first full-group performance in three years, BTS is on its way to the “Spotify x BTS: Swimside” event in New York, departing...",
+      "description": "One day after “BTS Comeback Live: Arirang,” the group's first full-group performance in three years, BTS is on its way to the “Spotify x BTS: Swimside” event in New York, departing via Incheon Airport on Sunday.",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/22/rcv.YNA.20260322.PYH2026032201280001300_T1.jpg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
+    {
+      "id": "1a2171002c563cf3",
+      "title": "BTS Breaks Records For Highest 1st-Day Streams Of Any Pop Group Or K-Pop Artist In Apple Music History",
+      "url": "https://www.soompi.com/article/1826808wpp/bts-breaks-records-for-highest-1st-day-streams-of-any-pop-group-or-k-pop-artist-in-apple-music-history",
+      "source": "Soompi",
+      "publishedAt": "2026-03-22T01:46:23.000Z",
+      "snippet": "BTS’s comeback is off to a record-breaking start! On March 20 at 1 p.m. KST, BTS made their long-awaited return with their fifth full-length album “ARIRANG” and its title track “SW...",
+      "description": "BTS’s comeback is off to a record-breaking start! On March 20 at 1 p.m. KST, BTS made their long-awaited return with their fifth full-length album “ARIRANG” and its title track “SWIM.” The following day, Apple Music announced that “ARIRANG” had already broken two records on the streaming platform. According to Apple Music, “ARIRANG” has achieved… Continue reading BTS Breaks Records For Highest 1st-Day Streams Of Any Pop Group Or K-Pop Artist In Apple Music History The post BTS Breaks Records For Highest 1st-Day Streams Of Any Pop Group Or K-Pop Artist In Apple Music History appeared first on S...",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/21184328/BTS_be9837.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "011e61adbb90ed20",
       "title": "[Photo News] BTS returns",
@@ -25,7 +70,7 @@
       "publishedAt": "2026-03-22T00:05:16.000Z",
       "snippet": "IVE’s “HEYA” is their latest music video to soar past 100 million views! On March 21 at around 9:45 p.m. KST, IVE’s music video for their 2024 hit “I AM” surpassed 100 million view...",
       "description": "IVE’s “HEYA” is their latest music video to soar past 100 million views! On March 21 at around 9:45 p.m. KST, IVE’s music video for their 2024 hit “I AM” surpassed 100 million views on YouTube, making it their sixth music video to do so after “ELEVEN,” “LOVE DIVE,” “After LIKE,” “I AM,” and “Kitsch.”… Continue reading IVE’s “HEYA” Becomes Their 6th MV To Hit 100 Million Views The post IVE’s “HEYA” Becomes Their 6th MV To Hit 100 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/21170245/IVE_2ec61b.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "music video",
         "mv",
@@ -40,7 +85,7 @@
       "publishedAt": "2026-03-21T18:35:03.000Z",
       "snippet": "\"I can't believe this is a real song...\"",
       "description": "\"I can't believe this is a real song...\"",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/autotune.jpg",
       "tags": [
         "album",
         "bts"
@@ -54,7 +99,7 @@
       "publishedAt": "2026-03-21T18:07:32.000Z",
       "snippet": "From the \"SWIM\" MV to the lyrics, some fans aren't impressed.",
       "description": "From the \"SWIM\" MV to the lyrics, some fans aren't impressed.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/bts-arirang-review-criticism.jpg",
       "tags": [
         "album",
         "mv",
@@ -69,23 +114,9 @@
       "publishedAt": "2026-03-21T16:36:45.000Z",
       "snippet": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE...",
       "description": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE COMEBACK LIVE: ARIRANG,…",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/BTS-FI-8.jpg",
       "tags": [
         "comeback",
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "a20015a24fc3f0ba",
-      "title": "BTS Convey Their Gratitude Following Historic Gwanghwamun Concert",
-      "url": "https://www.koreaboo.com/news/bts-convey-gratitude-following-historic-gwanghwamun-concert/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-21T16:01:09.000Z",
-      "snippet": "BTS expressed gratitude and apologies to related organizations, citizens, and merchants after their Gwanghwamun performance. On the 21st, RM said through fan communication platform...",
-      "description": "BTS expressed gratitude and apologies to related organizations, citizens, and merchants after their Gwanghwamun performance. On the 21st, RM said through fan communication platform, “We thank everyone who joined us…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
         "concert",
         "bts"
       ]
@@ -221,7 +252,7 @@
       "publishedAt": "2026-03-21T02:25:09.000Z",
       "snippet": "BTS is already breaking personal records with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated return with their new album “ARIRANG” and it...",
       "description": "BTS is already breaking personal records with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated return with their new album “ARIRANG” and its title track “SWIM.” According to Hanteo Chart, “ARIRANG” sold a staggering total of 3,981,507 copies on its first day of sales alone—managing to break BTS’s previous… Continue reading BTS Smashes Their 1st-Week Sales Record In Just One Day + Tops Charts Worldwide With “ARIRANG” The post BTS Smashes Their 1st-Week Sales Record In Just One Day + Tops Charts Worldwide With “ARIRANG” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/20192225/BTS_3e2271.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album",
@@ -300,7 +331,7 @@
       "publishedAt": "2026-03-20T11:13:05.000Z",
       "snippet": "Yoo Yeon Seok will be showing off his “possessed” idol dance in “Phantom Lawyer”! “Phantom Lawyer” is a quirky yet heartwarming legal drama that follows the adventures of Shin I Ra...",
       "description": "Yoo Yeon Seok will be showing off his “possessed” idol dance in “Phantom Lawyer”! “Phantom Lawyer” is a quirky yet heartwarming legal drama that follows the adventures of Shin I Rang (Yoo Yeon Seok), a lawyer who can see ghosts, and elite attorney Han Na Hyun (Esom) as they resolve the lingering grievances of their… Continue reading Yoo Yeon Seok Dances To IVE’s “LOVE DIVE” As Possessed Ghost’s Memories Take Over In “Phantom Lawyer” The post Yoo Yeon Seok Dances To IVE’s “LOVE DIVE” As Possessed Ghost’s Memories Take Over In “Phantom Lawyer” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/20041257/Phantom-Lawyer-1-6.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "ive"
@@ -389,7 +420,7 @@
       "publishedAt": "2026-03-20T05:18:19.000Z",
       "snippet": "BTS’s RM has unfortunately sustained an ankle injury ahead of the group’s highly anticipated comeback live event “ARIRANG” and will be participating with limited movement. On March...",
       "description": "BTS’s RM has unfortunately sustained an ankle injury ahead of the group’s highly anticipated comeback live event “ARIRANG” and will be participating with limited movement. On March 20, BIGHIT MUSIC shared through an official statement that RM had injured his ankle during a rehearsal the previous day. Following a medical examination, he was diagnosed with… Continue reading BTS’s RM Sustains Ankle Injury + To Have Limited Participation In Comeback Live Event The post BTS’s RM Sustains Ankle Injury + To Have Limited Participation In Comeback Live Event appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/19221808/bts-rm-mar-26.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "bts"
@@ -418,42 +449,12 @@
       "publishedAt": "2026-03-20T04:08:52.000Z",
       "snippet": "BTS is finally here with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated comeback with their fifth studio album “ARIRANG” along with the m...",
       "description": "BTS is finally here with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated comeback with their fifth studio album “ARIRANG” along with the music video for the title track. “SWIM” is a song about continuing to swim onwards without stopping amid the waves of life. The love mentioned is… Continue reading Watch: BTS Embarks On Their New Voyage In Long-Awaited “SWIM” Comeback MV The post Watch: BTS Embarks On Their New Voyage In Long-Awaited “SWIM” Comeback MV appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/19210812/BTS-Swim-.png",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album",
         "music video",
         "mv",
-        "bts"
-      ]
-    },
-    {
-      "id": "ee6b606a62240ba6",
-      "title": "Update: Xdinary Heroes Reveals Comeback Schedule For “DEAD AND”",
-      "url": "https://www.soompi.com/article/1826567wpp/xdinary-heroes-announces-comeback-with-8th-mini-album-dead-and",
-      "source": "Soompi",
-      "publishedAt": "2026-03-20T03:08:13.000Z",
-      "snippet": "Updated March 21 KST: Xdinary Heroes has released a schedule for their upcoming return with “DEAD AND”! Original Article: Xdinary Heroes is gearing up for their return! On March 20...",
-      "description": "Updated March 21 KST: Xdinary Heroes has released a schedule for their upcoming return with “DEAD AND”! Original Article: Xdinary Heroes is gearing up for their return! On March 20, a teaser was revealed for the JYP band’s upcoming mini album “DEAD AND.” A pre-release track from the album will be unveiled on March 25… Continue reading Update: Xdinary Heroes Reveals Comeback Schedule For “DEAD AND” The post Update: Xdinary Heroes Reveals Comeback Schedule For “DEAD AND” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "8a21e465c7591469",
-      "title": "BTS Dishes On Preparations For Long-Awaited Comeback, What Hasn’t Changed Since The Past, And More",
-      "url": "https://www.soompi.com/article/1826537wpp/bts-dishes-on-preparations-for-long-awaited-comeback-what-hasnt-changed-since-the-past-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-03-20T02:49:11.000Z",
-      "snippet": "BTS has released an interview ahead of the release of their fifth full-length studio album “ARIRANG”! This album is their first new release in three years and nine months since the...",
-      "description": "BTS has released an interview ahead of the release of their fifth full-length studio album “ARIRANG”! This album is their first new release in three years and nine months since the June 2022 anthology album “Proof.” Having ended their military hiatus and reunited as a complete group, BTS plans to open the curtain on a… Continue reading BTS Dishes On Preparations For Long-Awaited Comeback, What Hasn’t Changed Since The Past, And More The post BTS Dishes On Preparations For Long-Awaited Comeback, What Hasn’t Changed Since The Past, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album",
         "bts"
       ]
     }
