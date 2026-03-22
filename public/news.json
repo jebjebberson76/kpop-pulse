@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-03-22T04:13:36.347Z",
+  "generatedAt": "2026-03-22T05:48:56.728Z",
   "items": [
+    {
+      "id": "cc1215d3574a534f",
+      "title": "All Tracks From BTS’s “ARIRANG” Sweep Positions 1-14 On Spotify Global Chart",
+      "url": "https://www.koreaboo.com/news/bts-arirang-sweep-positions-spotify-global-chart/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-22T05:25:40.000Z",
+      "snippet": "BTS created a spectacular scene by dominating the Spotify global chart with 14 songs in a row. According to Spotify on the 21st, BTS’s fifth full-length album “ARIRANG” has become…",
+      "description": "BTS created a spectacular scene by dominating the Spotify global chart with 14 songs in a row. According to Spotify on the 21st, BTS’s fifth full-length album “ARIRANG” has become…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "c44ae1ccf5611120",
+      "title": "HYBE Apologizes + Expresses Gratitude After BTS’s Gwanghwamun Comeback Event",
+      "url": "https://www.soompi.com/article/1826819wpp/hybe-apologizes-expresses-gratitude-after-btss-gwanghwamun-comeback-event",
+      "source": "Soompi",
+      "publishedAt": "2026-03-22T05:11:28.000Z",
+      "snippet": "HYBE has released an official statement regarding BTS’s comeback performance in Gwanghwamun Square. On the evening of March 21, BTS held a special one-hour comeback event at Seoul’...",
+      "description": "HYBE has released an official statement regarding BTS’s comeback performance in Gwanghwamun Square. On the evening of March 21, BTS held a special one-hour comeback event at Seoul’s historic Gwanghwamun Square. During the event, which was streamed live via Netflix, BTS performed songs from their new album “ARIRANG” for the very first time. The following… Continue reading HYBE Apologizes + Expresses Gratitude After BTS’s Gwanghwamun Comeback Event The post HYBE Apologizes + Expresses Gratitude After BTS’s Gwanghwamun Comeback Event appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/21220947/BTS_091958.jpg",
+      "tags": [
+        "comeback",
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "2a95fa47d5b87b5d",
       "title": "HYBE Issues Official Statement Addressing Issues Surrounding BTS’s Gwanghwamun Concert",
@@ -9,24 +38,10 @@
       "publishedAt": "2026-03-22T03:34:23.000Z",
       "snippet": "HYBE expressed gratitude and also apologized regarding BTS’s comeback performance at Gwanghwamun. On the 22nd, HYBE released an official statement saying, “We sincerely thank every...",
       "description": "HYBE expressed gratitude and also apologized regarding BTS’s comeback performance at Gwanghwamun. On the 22nd, HYBE released an official statement saying, “We sincerely thank everyone for the warm support and…",
-      "image": "https://image.koreaboo.com/2026/03/BTS-FI-9.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "8723cf319cd52500",
-      "title": "[Photo News] BTS sets off for next global stage",
-      "url": "https://www.koreaherald.com/article/10699745",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-22T01:46:39.000Z",
-      "snippet": "One day after “BTS Comeback Live: Arirang,” the group's first full-group performance in three years, BTS is on its way to the “Spotify x BTS: Swimside” event in New York, departing...",
-      "description": "One day after “BTS Comeback Live: Arirang,” the group's first full-group performance in three years, BTS is on its way to the “Spotify x BTS: Swimside” event in New York, departing via Incheon Airport on Sunday.",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/22/rcv.YNA.20260322.PYH2026032201280001300_T1.jpg",
-      "tags": [
-        "comeback",
         "bts"
       ]
     },
@@ -70,7 +85,7 @@
       "publishedAt": "2026-03-22T00:05:16.000Z",
       "snippet": "IVE’s “HEYA” is their latest music video to soar past 100 million views! On March 21 at around 9:45 p.m. KST, IVE’s music video for their 2024 hit “I AM” surpassed 100 million view...",
       "description": "IVE’s “HEYA” is their latest music video to soar past 100 million views! On March 21 at around 9:45 p.m. KST, IVE’s music video for their 2024 hit “I AM” surpassed 100 million views on YouTube, making it their sixth music video to do so after “ELEVEN,” “LOVE DIVE,” “After LIKE,” “I AM,” and “Kitsch.”… Continue reading IVE’s “HEYA” Becomes Their 6th MV To Hit 100 Million Views The post IVE’s “HEYA” Becomes Their 6th MV To Hit 100 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/21170245/IVE_2ec61b.jpg",
       "tags": [
         "music video",
         "mv",
@@ -85,7 +100,7 @@
       "publishedAt": "2026-03-21T18:35:03.000Z",
       "snippet": "\"I can't believe this is a real song...\"",
       "description": "\"I can't believe this is a real song...\"",
-      "image": "https://image.koreaboo.com/2026/03/autotune.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "bts"
@@ -99,25 +114,10 @@
       "publishedAt": "2026-03-21T18:07:32.000Z",
       "snippet": "From the \"SWIM\" MV to the lyrics, some fans aren't impressed.",
       "description": "From the \"SWIM\" MV to the lyrics, some fans aren't impressed.",
-      "image": "https://image.koreaboo.com/2026/03/bts-arirang-review-criticism.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "mv",
-        "bts"
-      ]
-    },
-    {
-      "id": "924f50316d8a5f4a",
-      "title": "ARMY Praised For Being Orderly And Picking Up Trash After BTS’s Gwanghwamun Concert",
-      "url": "https://www.koreaboo.com/news/army-praised-orderly-picking-trash-after-btss-gwanghwamun-concert/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-21T16:36:45.000Z",
-      "snippet": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE...",
-      "description": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE COMEBACK LIVE: ARIRANG,…",
-      "image": "https://image.koreaboo.com/2026/03/BTS-FI-8.jpg",
-      "tags": [
-        "comeback",
-        "concert",
         "bts"
       ]
     },
@@ -252,7 +252,7 @@
       "publishedAt": "2026-03-21T02:25:09.000Z",
       "snippet": "BTS is already breaking personal records with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated return with their new album “ARIRANG” and it...",
       "description": "BTS is already breaking personal records with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated return with their new album “ARIRANG” and its title track “SWIM.” According to Hanteo Chart, “ARIRANG” sold a staggering total of 3,981,507 copies on its first day of sales alone—managing to break BTS’s previous… Continue reading BTS Smashes Their 1st-Week Sales Record In Just One Day + Tops Charts Worldwide With “ARIRANG” The post BTS Smashes Their 1st-Week Sales Record In Just One Day + Tops Charts Worldwide With “ARIRANG” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/20192225/BTS_3e2271.jpg",
       "tags": [
         "comeback",
         "album",
@@ -331,7 +331,7 @@
       "publishedAt": "2026-03-20T11:13:05.000Z",
       "snippet": "Yoo Yeon Seok will be showing off his “possessed” idol dance in “Phantom Lawyer”! “Phantom Lawyer” is a quirky yet heartwarming legal drama that follows the adventures of Shin I Ra...",
       "description": "Yoo Yeon Seok will be showing off his “possessed” idol dance in “Phantom Lawyer”! “Phantom Lawyer” is a quirky yet heartwarming legal drama that follows the adventures of Shin I Rang (Yoo Yeon Seok), a lawyer who can see ghosts, and elite attorney Han Na Hyun (Esom) as they resolve the lingering grievances of their… Continue reading Yoo Yeon Seok Dances To IVE’s “LOVE DIVE” As Possessed Ghost’s Memories Take Over In “Phantom Lawyer” The post Yoo Yeon Seok Dances To IVE’s “LOVE DIVE” As Possessed Ghost’s Memories Take Over In “Phantom Lawyer” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/20041257/Phantom-Lawyer-1-6.jpg",
       "tags": [
         "idol",
         "ive"
