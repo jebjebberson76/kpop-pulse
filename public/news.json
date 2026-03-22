@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T09:26:04.720Z",
+  "generatedAt": "2026-03-22T10:20:56.453Z",
   "items": [
+    {
+      "id": "8203c4d872c6c52a",
+      "title": "BTS’s “Chemistry” On Stage During Comeback Concert Hit With Mixed Reactions",
+      "url": "https://www.koreaboo.com/news/bts-chemistry-stage-sparks-mixed-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-22T09:35:23.000Z",
+      "snippet": "\"Something was off during the whole concert...\"",
+      "description": "\"Something was off during the whole concert...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "40e7b26f927dc84c",
       "title": "BTS Jungkook’s Treatment During Comeback Concert Sparks Anger — Linked To Lip-Sync Allegations",
@@ -180,20 +195,6 @@
         "music video",
         "mv",
         "ive"
-      ]
-    },
-    {
-      "id": "c1a9bd6fe1e55e5c",
-      "title": "It’s Not Your Speakers — BTS’s “ARIRANG” Album Just Doesn’t Sound Right",
-      "url": "https://www.koreaboo.com/news/bts-arirang-album-autotune-mixing-production-vocal-effects/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-21T18:35:03.000Z",
-      "snippet": "\"I can't believe this is a real song...\"",
-      "description": "\"I can't believe this is a real song...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
       ]
     },
     {
