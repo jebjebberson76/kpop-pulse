@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-03-21T23:18:28.805Z",
+  "generatedAt": "2026-03-22T01:43:26.538Z",
   "items": [
+    {
+      "id": "011e61adbb90ed20",
+      "title": "[Photo News] BTS returns",
+      "url": "https://www.koreaherald.com/article/10699735",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-22T01:23:01.000Z",
+      "snippet": "“BTS Comeback Live: Arirang,” the group's first full-group performance in three years, saw BTS become the first K-pop group to host an exclusive live performance at the historic Gw...",
+      "description": "“BTS Comeback Live: Arirang,” the group's first full-group performance in three years, saw BTS become the first K-pop group to host an exclusive live performance at the historic Gwanghwamun Square. Lasting an hour, the performance livestreamed worldwide via Netflix as the platform’s first-ever broadcast of a single act’s concert.",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/22/news-p.v1.20260322.39aa5fdc9d72428eaea1858ac30a5deb_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "fc631e92664e6fab",
+      "title": "IVE’s “HEYA” Becomes Their 6th MV To Hit 100 Million Views",
+      "url": "https://www.soompi.com/article/1826800wpp/ives-heya-becomes-their-6th-mv-to-hit-100-million-views",
+      "source": "Soompi",
+      "publishedAt": "2026-03-22T00:05:16.000Z",
+      "snippet": "IVE’s “HEYA” is their latest music video to soar past 100 million views! On March 21 at around 9:45 p.m. KST, IVE’s music video for their 2024 hit “I AM” surpassed 100 million view...",
+      "description": "IVE’s “HEYA” is their latest music video to soar past 100 million views! On March 21 at around 9:45 p.m. KST, IVE’s music video for their 2024 hit “I AM” surpassed 100 million views on YouTube, making it their sixth music video to do so after “ELEVEN,” “LOVE DIVE,” “After LIKE,” “I AM,” and “Kitsch.”… Continue reading IVE’s “HEYA” Becomes Their 6th MV To Hit 100 Million Views The post IVE’s “HEYA” Becomes Their 6th MV To Hit 100 Million Views appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/21170245/IVE_2ec61b.jpg",
+      "tags": [
+        "music video",
+        "mv",
+        "ive"
+      ]
+    },
     {
       "id": "c1a9bd6fe1e55e5c",
       "title": "It’s Not Your Speakers — BTS’s “ARIRANG” Album Just Doesn’t Sound Right",
@@ -9,7 +40,7 @@
       "publishedAt": "2026-03-21T18:35:03.000Z",
       "snippet": "\"I can't believe this is a real song...\"",
       "description": "\"I can't believe this is a real song...\"",
-      "image": "https://image.koreaboo.com/2026/03/autotune.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "bts"
@@ -23,7 +54,7 @@
       "publishedAt": "2026-03-21T18:07:32.000Z",
       "snippet": "From the \"SWIM\" MV to the lyrics, some fans aren't impressed.",
       "description": "From the \"SWIM\" MV to the lyrics, some fans aren't impressed.",
-      "image": "https://image.koreaboo.com/2026/03/bts-arirang-review-criticism.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "mv",
@@ -38,7 +69,7 @@
       "publishedAt": "2026-03-21T16:36:45.000Z",
       "snippet": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE...",
       "description": "BTS’s Gwanghwamun concert ended in a relatively orderly manner, contrary to concerns. Additionally, fans were seen picking up trash, earning praise from Korean media. After BTS THE COMEBACK LIVE: ARIRANG,…",
-      "image": "https://image.koreaboo.com/2026/03/BTS-FI-8.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "concert",
@@ -53,7 +84,7 @@
       "publishedAt": "2026-03-21T16:01:09.000Z",
       "snippet": "BTS expressed gratitude and apologies to related organizations, citizens, and merchants after their Gwanghwamun performance. On the 21st, RM said through fan communication platform...",
       "description": "BTS expressed gratitude and apologies to related organizations, citizens, and merchants after their Gwanghwamun performance. On the 21st, RM said through fan communication platform, “We thank everyone who joined us…",
-      "image": "https://image.koreaboo.com/2026/03/BTS-FI-7.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts"
@@ -198,6 +229,23 @@
       ]
     },
     {
+      "id": "ade35fd5f01d56f9",
+      "title": "BTS returns to the K-pop throne",
+      "url": "https://www.koreaherald.com/article/10699077",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T00:00:02.000Z",
+      "snippet": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the...",
+      "description": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the first time in nearly four years. The concert, set in Gwanghwamun Square in central Seoul, is expected to draw about 260,000 fans from around the world, a testament to the group’s enduring pull even after years away. BTS’ military hiatus did little to slow K-pop’s momentum. Acts like Stray Kids and NewJeans have continu",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.f0e6e11d30514214be6ee2be5288f97f_T1.jpg",
+      "tags": [
+        "k-pop",
+        "concert",
+        "bts",
+        "stray kids",
+        "newjeans"
+      ]
+    },
+    {
       "id": "4aded3bc31288d4d",
       "title": "BTS buzz lights up Gwanghwamun — and ad prices",
       "url": "https://www.koreaherald.com/article/10698397",
@@ -210,6 +258,21 @@
         "k-pop",
         "album",
         "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "641598560a9fa2e1",
+      "title": "When BTS reads, the world follows",
+      "url": "https://www.koreaherald.com/article/10698137",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T00:00:00.000Z",
+      "snippet": "Throughout their long reign as a K-pop phenomenon, BTS has shaped culture in many ways, and literature is no exception. The group's reading recommendations routinely send titles up...",
+      "description": "Throughout their long reign as a K-pop phenomenon, BTS has shaped culture in many ways, and literature is no exception. The group's reading recommendations routinely send titles up bestseller lists, often leading to sellouts, reprints and translations across languages and borders. Whether a book has been read by a member, inspired a BTS album or simply appeared in photos — quoted on social media or glimpsed in a variety show — it often becomes a bestseller. Their devoted and highly engaged fando",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/news-a.v1.20260321.017bb290d9e84606b06c0be30a87201b_T1.png",
+      "tags": [
+        "k-pop",
+        "album",
         "bts"
       ]
     },
@@ -237,7 +300,7 @@
       "publishedAt": "2026-03-20T11:13:05.000Z",
       "snippet": "Yoo Yeon Seok will be showing off his “possessed” idol dance in “Phantom Lawyer”! “Phantom Lawyer” is a quirky yet heartwarming legal drama that follows the adventures of Shin I Ra...",
       "description": "Yoo Yeon Seok will be showing off his “possessed” idol dance in “Phantom Lawyer”! “Phantom Lawyer” is a quirky yet heartwarming legal drama that follows the adventures of Shin I Rang (Yoo Yeon Seok), a lawyer who can see ghosts, and elite attorney Han Na Hyun (Esom) as they resolve the lingering grievances of their… Continue reading Yoo Yeon Seok Dances To IVE’s “LOVE DIVE” As Possessed Ghost’s Memories Take Over In “Phantom Lawyer” The post Yoo Yeon Seok Dances To IVE’s “LOVE DIVE” As Possessed Ghost’s Memories Take Over In “Phantom Lawyer” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/20041257/Phantom-Lawyer-1-6.jpg",
       "tags": [
         "idol",
         "ive"
@@ -326,7 +389,7 @@
       "publishedAt": "2026-03-20T05:18:19.000Z",
       "snippet": "BTS’s RM has unfortunately sustained an ankle injury ahead of the group’s highly anticipated comeback live event “ARIRANG” and will be participating with limited movement. On March...",
       "description": "BTS’s RM has unfortunately sustained an ankle injury ahead of the group’s highly anticipated comeback live event “ARIRANG” and will be participating with limited movement. On March 20, BIGHIT MUSIC shared through an official statement that RM had injured his ankle during a rehearsal the previous day. Following a medical examination, he was diagnosed with… Continue reading BTS’s RM Sustains Ankle Injury + To Have Limited Participation In Comeback Live Event The post BTS’s RM Sustains Ankle Injury + To Have Limited Participation In Comeback Live Event appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/19221808/bts-rm-mar-26.jpg",
       "tags": [
         "comeback",
         "bts"
@@ -355,7 +418,7 @@
       "publishedAt": "2026-03-20T04:08:52.000Z",
       "snippet": "BTS is finally here with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated comeback with their fifth studio album “ARIRANG” along with the m...",
       "description": "BTS is finally here with their long-awaited comeback! On March 20 at 1 p.m. KST, BTS made their highly-anticipated comeback with their fifth studio album “ARIRANG” along with the music video for the title track. “SWIM” is a song about continuing to swim onwards without stopping amid the waves of life. The love mentioned is… Continue reading Watch: BTS Embarks On Their New Voyage In Long-Awaited “SWIM” Comeback MV The post Watch: BTS Embarks On Their New Voyage In Long-Awaited “SWIM” Comeback MV appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/19210812/BTS-Swim-.png",
       "tags": [
         "comeback",
         "album",
@@ -392,65 +455,6 @@
         "comeback",
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "af664ca80356a201",
-      "title": "Cosmosy to drop prerelease from 2nd EP",
-      "url": "https://www.koreaherald.com/article/10698956",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T02:28:17.000Z",
-      "snippet": "Girl group Cosmosy will release “Chance” on Friday ahead of the full release of its second EP, due out on March 31, according to agency NTT docomo Studio. It will be the second pre...",
-      "description": "Girl group Cosmosy will release “Chance” on Friday ahead of the full release of its second EP, due out on March 31, according to agency NTT docomo Studio. It will be the second prerelease from the group's EP, “of the world,” after “Physics,” which was released last year. On Thursday, the group also performed “Chance” on stage for the first time for a television music chart show. The upcoming mini album will expand Cosmosy’s sci-fi narrative imbued with eastern aesthetics, building on that of its",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.a554049c34b44747a6556e8803e8cb31_T1.jpg",
-      "tags": [
-        "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "08b6aca3597be287",
-      "title": "T.O.P returns with first solo studio album on April 3",
-      "url": "https://www.koreaherald.com/article/10698904",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T02:15:38.000Z",
-      "snippet": "Former Big Bang member T.O.P will release his first solo album since debut, marking a major return to music after more than a decade. According to a Friday announcement by his agen...",
-      "description": "Former Big Bang member T.O.P will release his first solo album since debut, marking a major return to music after more than a decade. According to a Friday announcement by his agency, Topspot Pictures, the rapper will release \"Another Dimension\" on April 3 across major streaming platforms. The album marks T.O.P’s first solo project in 13 years since the 2013 digital single \"Doom Dada.\" He took the lead in producing the new album, overseeing the project over an extended period. In recent weeks, T",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.b7deca1fbedf40ee99593962def0bfe1_T1.jpg",
-      "tags": [
-        "debut",
-        "album"
-      ]
-    },
-    {
-      "id": "b0ce09ec12dc013a",
-      "title": "15 BTS Lyrics That Prove Their Songs Are Pure Poetry",
-      "url": "https://www.soompi.com/article/1825125wpp/15-bts-lyrics-that-prove-their-songs-are-pure-poetry",
-      "source": "Soompi",
-      "publishedAt": "2026-03-20T02:00:04.000Z",
-      "snippet": "As BTS prepares for the release of their upcoming album “Arirang,” ARMYs are already anticipating another collection of lyrics worth unpacking line by line. Throughout their career...",
-      "description": "As BTS prepares for the release of their upcoming album “Arirang,” ARMYs are already anticipating another collection of lyrics worth unpacking line by line. Throughout their career, the group has built a reputation for blending introspective storytelling with vivid poetic imagery, turning songs about youth, love, and uncertainty into lines that linger long after the… Continue reading 15 BTS Lyrics That Prove Their Songs Are Pure Poetry The post 15 BTS Lyrics That Prove Their Songs Are Pure Poetry appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "1da0d69770b2d563",
-      "title": "Day6’s Wonpil to hold solo concert in May",
-      "url": "https://www.koreaherald.com/article/10698849",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T01:55:48.000Z",
-      "snippet": "Wonpil of Day6 will hold a solo concert in Seoul on May 1-3, label JYP Entertainment announced Thursday. The three shows are named after his solo EP, “Unpiltered,” which is set for...",
-      "description": "Wonpil of Day6 will hold a solo concert in Seoul on May 1-3, label JYP Entertainment announced Thursday. The three shows are named after his solo EP, “Unpiltered,” which is set for release on March 30. The mini album comprises seven tracks, all co-written by the singer-songwriter. The new release comes about four years after Wonpil's first solo album “Pilmography,” which was supported by his first-ever solo show. Separately, Day6 performed twice in Taipei earlier this month for its tour celebrat",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.342af5dc9e8f461fa25fddf879eac522_T1.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "concert",
-        "twice",
-        "day6"
       ]
     }
   ]
