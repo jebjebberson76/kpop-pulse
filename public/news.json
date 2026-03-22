@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T08:26:52.980Z",
+  "generatedAt": "2026-03-22T09:26:04.720Z",
   "items": [
+    {
+      "id": "40e7b26f927dc84c",
+      "title": "BTS Jungkook’s Treatment During Comeback Concert Sparks Anger — Linked To Lip-Sync Allegations",
+      "url": "https://www.koreaboo.com/news/bts-jungkook-treatment-comeback-concert-anger-lipsync-allegations/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-22T08:50:04.000Z",
+      "snippet": "\"Instead of showing the real live singer...\"",
+      "description": "\"Instead of showing the real live singer...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "52e0e753429bb410",
       "title": "Legendary K-Pop Idol Publicly Declares Support For Celebrity Woman Assailant",
@@ -438,23 +453,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.8c3fb340b45743d58501acaf9875aec5_T1.jpg",
       "tags": [
         "comeback",
-        "bts"
-      ]
-    },
-    {
-      "id": "598d6118b37ba281",
-      "title": "Finance chief says BTS concert expected to generate great amount of economic value",
-      "url": "https://www.koreaherald.com/article/10699118",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-20T05:18:26.000Z",
-      "snippet": "Finance Minister Koo Yun-cheol said Friday a live performance by K-pop supergroup BTS this weekend is expected to generate trillions of won in economic value in South Korea. The se...",
-      "description": "Finance Minister Koo Yun-cheol said Friday a live performance by K-pop supergroup BTS this weekend is expected to generate trillions of won in economic value in South Korea. The seven-member group will take to the stage under the title \"BTS The Comeback Live: Arirang\" at Gwanghwamun Square in Seoul on Saturday to celebrate the release of its new studio album, \"Arirang,\" its first in nearly four years. \"This concert is expected to generate trillions of won in economic value, but its intangible ef",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.c46e113f322240ac87d224651fe2cc6d_T1.jpg",
-      "tags": [
-        "k-pop",
-        "comeback",
-        "album",
-        "concert",
         "bts"
       ]
     }
