@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-03-23T10:05:59.195Z",
+  "generatedAt": "2026-03-23T11:39:31.064Z",
   "items": [
+    {
+      "id": "be10a6989e65e0db",
+      "title": "BTS Comeback Concert Song Choice Slated As “Insensitive” Amid Ongoing Controversies",
+      "url": "https://www.koreaboo.com/news/bts-fire-song-choice-insensitive-performance-daejeon-fire/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-23T11:35:11.000Z",
+      "snippet": "The concert used up public services which were needed elsewhere.",
+      "description": "The concert used up public services which were needed elsewhere.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "ea8d72a5b6e6b909",
+      "title": "Yuna becomes 2nd Itzy member to make solo debut",
+      "url": "https://www.koreaherald.com/article/10700855",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-23T10:21:09.000Z",
+      "snippet": "Yuna of Itzy made her solo debut Monday with her first EP \"Ice Cream,\" becoming the second member of the group to go solo following Yeji. The youngest member said the experience br...",
+      "description": "Yuna of Itzy made her solo debut Monday with her first EP \"Ice Cream,\" becoming the second member of the group to go solo following Yeji. The youngest member said the experience brought back memories of her debut seven years ago, describing a mix of excitement and pressure. \"It’s my first solo release in seven years, so I feel a lot of pressure, but at the same time I really want to do well,\" Yuna said during a press conference held in Seoul. \"I saw this as an opportunity to show a more diverse",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/23/news-p.v1.20260323.7429d89b817d4aadb35422315589f0f9_T1.jpg",
+      "tags": [
+        "debut",
+        "itzy"
+      ]
+    },
     {
       "id": "d8d2856a83a0d4d2",
       "title": "Behind BTS’s Secret Rehearsals For Their Historic Gwanghwamun Concert",
@@ -13,21 +42,6 @@
       "tags": [
         "comeback",
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "5a40f9f2945216d3",
-      "title": "BTS’s Comeback Show Ranks No. 1 On Netflix In 77 Countries",
-      "url": "https://www.koreaboo.com/news/bts-comeback-show-ranks-no-1-netflix-in-77-countries/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-23T08:23:48.000Z",
-      "snippet": "The live broadcast of the popular idol group BTS’s comeback show ranked number one on Netflix in 77 countries. According to FlixPatrol on the 22nd (local time), BTS’s comeback show...",
-      "description": "The live broadcast of the popular idol group BTS’s comeback show ranked number one on Netflix in 77 countries. According to FlixPatrol on the 22nd (local time), BTS’s comeback show…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "comeback",
         "bts"
       ]
     },
@@ -440,22 +454,6 @@
         "bts",
         "stray kids",
         "newjeans"
-      ]
-    },
-    {
-      "id": "4aded3bc31288d4d",
-      "title": "BTS buzz lights up Gwanghwamun — and ad prices",
-      "url": "https://www.koreaherald.com/article/10698397",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-21T00:00:01.000Z",
-      "snippet": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and...",
-      "description": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and album teasers are flooding the district’s giant digital screens, turning the historic square into a high-impact showcase of K-pop fandom and commercial firepower. The surge is already pushing up prices. At the Sejong Center for the Performing Arts, wrapping its iconic outdoor staircase for two weeks now costs about 12",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260319.PYH2026031914020001301_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "concert",
-        "bts"
       ]
     }
   ]
