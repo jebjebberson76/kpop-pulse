@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T12:51:42.176Z",
+  "generatedAt": "2026-03-23T14:12:07.789Z",
   "items": [
     {
       "id": "be10a6989e65e0db",
@@ -28,21 +28,6 @@
       "tags": [
         "debut",
         "itzy"
-      ]
-    },
-    {
-      "id": "d8d2856a83a0d4d2",
-      "title": "Behind BTS’s Secret Rehearsals For Their Historic Gwanghwamun Concert",
-      "url": "https://www.koreaboo.com/news/behind-bts-secret-rehearsal-historic-gwanghwamun-concert/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-23T09:10:04.000Z",
-      "snippet": "Behind the spectacular stage of BTS COMEBACK LIVE: ARIRANG held at Gwanghwamun Square in Seoul was a secret rehearsal conducted under strict security. According to a report by Chos...",
-      "description": "Behind the spectacular stage of BTS COMEBACK LIVE: ARIRANG held at Gwanghwamun Square in Seoul was a secret rehearsal conducted under strict security. According to a report by Chosun Ilbo…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "concert",
-        "bts"
       ]
     },
     {
@@ -454,6 +439,22 @@
         "bts",
         "stray kids",
         "newjeans"
+      ]
+    },
+    {
+      "id": "4aded3bc31288d4d",
+      "title": "BTS buzz lights up Gwanghwamun — and ad prices",
+      "url": "https://www.koreaherald.com/article/10698397",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T00:00:01.000Z",
+      "snippet": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and...",
+      "description": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and album teasers are flooding the district’s giant digital screens, turning the historic square into a high-impact showcase of K-pop fandom and commercial firepower. The surge is already pushing up prices. At the Sejong Center for the Performing Arts, wrapping its iconic outdoor staircase for two weeks now costs about 12",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260319.PYH2026031914020001301_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "concert",
+        "bts"
       ]
     }
   ]
