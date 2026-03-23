@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-23T06:06:39.616Z",
+  "generatedAt": "2026-03-23T07:58:10.468Z",
   "items": [
+    {
+      "id": "f396c94e64b96cb4",
+      "title": "BTS’s Gwanghwamun Concert Triggers Ridicule Toward LE SSERAFIM",
+      "url": "https://www.koreaboo.com/news/bts-gwanghwamun-concert-triggers-ridicule-toward-le-sserafim/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-23T07:21:05.000Z",
+      "snippet": "The girl group's concerts were brought up to prove a point.",
+      "description": "The girl group's concerts were brought up to prove a point.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts",
+        "le sserafim"
+      ]
+    },
     {
       "id": "e5cebd409477ee5f",
       "title": "BTS’s “ARIRANG” Sells Over 4 Million Copies In 3 Days — New Record In K-Pop History",
@@ -438,22 +453,6 @@
         "bts",
         "stray kids",
         "newjeans"
-      ]
-    },
-    {
-      "id": "4aded3bc31288d4d",
-      "title": "BTS buzz lights up Gwanghwamun — and ad prices",
-      "url": "https://www.koreaherald.com/article/10698397",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-21T00:00:01.000Z",
-      "snippet": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and...",
-      "description": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and album teasers are flooding the district’s giant digital screens, turning the historic square into a high-impact showcase of K-pop fandom and commercial firepower. The surge is already pushing up prices. At the Sejong Center for the Performing Arts, wrapping its iconic outdoor staircase for two weeks now costs about 12",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260319.PYH2026031914020001301_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "concert",
-        "bts"
       ]
     }
   ]
