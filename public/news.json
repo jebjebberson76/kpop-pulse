@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-24T16:00:19.011Z",
+  "generatedAt": "2026-03-24T17:50:51.966Z",
   "items": [
+    {
+      "id": "cdfe99741c0d69d1",
+      "title": "K-Pop Idol Goes Viral For Insane Fansign Rules",
+      "url": "https://www.koreaboo.com/news/jeong-sewoon-fansign-praise-4-hours-fans/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-24T16:22:48.000Z",
+      "snippet": "This is never heard of before.",
+      "description": "This is never heard of before.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "68354bbce57229e3",
       "title": "Watch: BTS Officially Releases Performance Video For “SWIM”",
@@ -55,20 +69,6 @@
       "tags": [
         "bts",
         "aespa"
-      ]
-    },
-    {
-      "id": "50509e73d6d0429c",
-      "title": "Brutal Review Of BTS’s “ARIRANG” Album Sparks Majorly Divided Reactions",
-      "url": "https://www.koreaboo.com/news/pitchfork-harsh-review-bts-arirang-album-mixed-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-24T09:55:05.000Z",
-      "snippet": "\"...sound of their collapse.\"",
-      "description": "\"...sound of their collapse.\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
       ]
     },
     {
