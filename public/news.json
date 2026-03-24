@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T11:40:32.080Z",
+  "generatedAt": "2026-03-24T12:56:27.419Z",
   "items": [
     {
       "id": "d475a20e2045335f",
@@ -296,21 +296,6 @@
       ]
     },
     {
-      "id": "8a7beb25838b067a",
-      "title": "BTS Sweeps Top 14 Spots On Spotify Global Chart + Breaks 1st-Day Stream Records With “ARIRANG”",
-      "url": "https://www.soompi.com/article/1826826wpp/bts-sweeps-top-14-spots-on-spotify-global-chart-breaks-1st-day-stream-records-with-arirang",
-      "source": "Soompi",
-      "publishedAt": "2026-03-22T06:14:44.000Z",
-      "snippet": "BTS is soaring to new heights with their latest album! On March 21, the day after the release of BTS’s new album “ARIRANG,” Spotify announced that it had already broken two records...",
-      "description": "BTS is soaring to new heights with their latest album! On March 21, the day after the release of BTS’s new album “ARIRANG,” Spotify announced that it had already broken two records on the streaming platform. According to Spotify, “ARIRANG” became both “the most streamed K-pop album in Spotify history” and “the most streamed album… Continue reading BTS Sweeps Top 14 Spots On Spotify Global Chart + Breaks 1st-Day Stream Records With “ARIRANG” The post BTS Sweeps Top 14 Spots On Spotify Global Chart + Breaks 1st-Day Stream Records With “ARIRANG” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "album",
-        "bts"
-      ]
-    },
-    {
       "id": "e568705cba4a2c4a",
       "title": "Songzio’s ‘Lyrical Armor’ shapes BTS’ ‘Arirang’ comeback stage",
       "url": "https://www.koreaherald.com/article/10699838",
@@ -446,6 +431,21 @@
       "tags": [
         "k-pop",
         "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "e0a9f69150ff1735",
+      "title": "Fans continue to pour into central Seoul as BTS comeback concert nears",
+      "url": "https://www.koreaherald.com/article/10699505",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T02:36:39.000Z",
+      "snippet": "The crowd in central Seoul continued to swell on Saturday as fans gathered at Gwanghwamun Square for BTS’ long-awaited comeback concert, prompting authorities to maintain extensive...",
+      "description": "The crowd in central Seoul continued to swell on Saturday as fans gathered at Gwanghwamun Square for BTS’ long-awaited comeback concert, prompting authorities to maintain extensive safety inspections and traffic control throughout the district. As of 4 p.m., the Seoul Metropolitan Government and police reported between 26,000 and 28,000 people on site — a 23.8 percent increase from three hours earlier. Despite the rise, authorities assessed overall congestion levels as “manageable.” Despite earl",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/news-p.v1.20260321.40d64272379645239333dd06a287f048_T1.jpg",
+      "tags": [
+        "comeback",
+        "concert",
         "bts"
       ]
     }
