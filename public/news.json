@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T18:53:46.146Z",
+  "generatedAt": "2026-03-24T19:50:15.568Z",
   "items": [
     {
       "id": "cdfe99741c0d69d1",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-03-24T16:22:48.000Z",
       "snippet": "This is never heard of before.",
       "description": "This is never heard of before.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-2026-03-25T012002.999.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -51,24 +51,10 @@
       "publishedAt": "2026-03-24T15:05:12.000Z",
       "snippet": "\"They're a bunch of hypocrites...\"",
       "description": "\"They're a bunch of hypocrites...\"",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/FD2870-4-11.jpg",
       "tags": [
         "idol",
         "bts"
-      ]
-    },
-    {
-      "id": "d475a20e2045335f",
-      "title": "BTS’s “SWIM” Performance Reignites Debate About Jungkook’s “Couple Tattoo” With aespa’s Winter",
-      "url": "https://www.koreaboo.com/news/bts-swim-performance-reignites-debate-jungkook-couple-tattoo-aespa-winter/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-24T10:55:14.000Z",
-      "snippet": "It continues to be a hot topic.",
-      "description": "It continues to be a hot topic.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "aespa"
       ]
     },
     {
@@ -240,7 +226,7 @@
       "publishedAt": "2026-03-22T23:37:24.000Z",
       "snippet": "CLOSE YOUR EYES is gearing up for an April comeback! On March 23, CLOSE YOUR EYES’ agency officially announced, “We are currently in the final stages of production for [CLOSE YOUR...",
       "description": "CLOSE YOUR EYES is gearing up for an April comeback! On March 23, CLOSE YOUR EYES’ agency officially announced, “We are currently in the final stages of production for [CLOSE YOUR EYES’] new album, which is scheduled to be released in April. The album reflects [the group’s] deepened identity and expanded musical spectrum.” CLOSE YOUR… Continue reading CLOSE YOUR EYES Announces April Comeback The post CLOSE YOUR EYES Announces April Comeback appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/22163529/CLOSE-YOUR-EYES.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album"
@@ -254,7 +240,7 @@
       "publishedAt": "2026-03-22T18:24:48.000Z",
       "snippet": "BLACKPINK’s latest hit has entered the mainstream Top 40 on U.S. radio! For the week ending on March 21, BLACKPINK’s new title track “GO” debuted at No. 37 on Billboard’s Pop Airpl...",
       "description": "BLACKPINK’s latest hit has entered the mainstream Top 40 on U.S. radio! For the week ending on March 21, BLACKPINK’s new title track “GO” debuted at No. 37 on Billboard’s Pop Airplay chart, which measures weekly plays on mainstream Top 40 radio stations across the United States. “GO” is BLACKPINK’s fourth group song to enter… Continue reading BLACKPINK’s “GO” Debuts On Billboard’s Pop Radio Airplay Chart The post BLACKPINK’s “GO” Debuts On Billboard’s Pop Radio Airplay Chart appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/22112147/BLACKPINK_4496d0.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "billboard",
         "blackpink"
@@ -441,6 +427,23 @@
       "tags": [
         "k-pop",
         "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "01d1fa6aee4c228d",
+      "title": "BTS fans in festive mood for &apos;Arirang&apos; comeback",
+      "url": "https://www.koreaherald.com/article/10699543",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T05:20:45.000Z",
+      "snippet": "Downtown Seoul buzzed with a festive mood Saturday as fans gathered for K-pop group BTS' comeback concert, with some singing \"Arirang\" — the Korean folk song the septet's new album...",
+      "description": "Downtown Seoul buzzed with a festive mood Saturday as fans gathered for K-pop group BTS' comeback concert, with some singing \"Arirang\" — the Korean folk song the septet's new album is named after. Throngs of people had already gathered at Gwanghwamun Square in the morning ahead of the group's long-awaited return to the stage. Fans were elated about the group's return with its fifth studio album \"Arirang\" on Friday. According to the group's agency, the album captures BTS' identity as a group that",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260321.PYH2026032103200001300_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "album",
+        "concert",
         "bts"
       ]
     }
