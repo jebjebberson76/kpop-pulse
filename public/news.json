@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-24T09:49:58.216Z",
+  "generatedAt": "2026-03-24T10:44:02.939Z",
   "items": [
+    {
+      "id": "50509e73d6d0429c",
+      "title": "Brutal Review Of BTS’s “ARIRANG” Album Sparks Majorly Divided Reactions",
+      "url": "https://www.koreaboo.com/news/pitchfork-harsh-review-bts-arirang-album-mixed-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-24T09:55:05.000Z",
+      "snippet": "\"...sound of their collapse.\"",
+      "description": "\"...sound of their collapse.\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "d288889859496223",
       "title": "Baby Dont Cry backed by star-studded production team for first EP",
@@ -38,7 +52,7 @@
       "publishedAt": "2026-03-24T04:58:47.000Z",
       "snippet": "I'm not crying, you are!",
       "description": "I'm not crying, you are!",
-      "image": "https://image.koreaboo.com/2026/03/post3-2026-03-24T135638.994.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "ive"
@@ -227,7 +241,7 @@
       "publishedAt": "2026-03-22T17:37:15.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on March 21! ENHYPEN’s latest mini album “THE SIN : VANISH” climbed back up to No. 1 in its eighth week on the Wo...",
       "description": "Billboard has published its World Albums chart for the week ending on March 21! ENHYPEN’s latest mini album “THE SIN : VANISH” climbed back up to No. 1 in its eighth week on the World Albums chart, in addition to rising to No. 61 on the Billboard 200. ENHYPEN’s 2024 album “ROMANCE : UNTOLD” jumped… Continue reading ENHYPEN, ATEEZ, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart The post ENHYPEN, ATEEZ, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/22103215/ENHYPEN-ATEEZ-IVE-Stray-Kids.jpg",
       "tags": [
         "mini album",
         "album",
@@ -432,21 +446,6 @@
         "comeback",
         "album",
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "dd7c5a56a3fea1dd",
-      "title": "Seoul glows red for BTS&apos; new album &apos;Arirang&apos;",
-      "url": "https://www.koreaherald.com/article/10699516",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-21T03:15:21.000Z",
-      "snippet": "Ahead of Saturday's special live performance marking K-pop giant BTS' long-awaited return, Seoul transformed into a sprawling open-air festival overnight, as fans poured into the h...",
-      "description": "Ahead of Saturday's special live performance marking K-pop giant BTS' long-awaited return, Seoul transformed into a sprawling open-air festival overnight, as fans poured into the heart of the city, turning weekday streets into scenes of celebration. The stone walls of the 600-year-old Sungnyemun gate, a key national treasure of South Korea, lit up with alternating white and red logos of BTS and its new album, \"Arirang.\" Accompanied by a deep rumbling sound, the silhouettes of the seven members a",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260320.PYH2026032018190001300_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
         "bts"
       ]
     }
