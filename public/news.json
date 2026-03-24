@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-24T07:53:15.837Z",
+  "generatedAt": "2026-03-24T08:42:56.481Z",
   "items": [
+    {
+      "id": "d3fab006cdf3b0e7",
+      "title": "BTS returns to US stage with exclusive Spotify showcase in New York",
+      "url": "https://www.koreaherald.com/article/10701732",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-24T08:07:41.000Z",
+      "snippet": "After staging their highly anticipated comeback show for the new album \"Arirang\" at Gwanghwamun Square in Seoul on Saturday, BTS flew to New York the following day to attend an exc...",
+      "description": "After staging their highly anticipated comeback show for the new album \"Arirang\" at Gwanghwamun Square in Seoul on Saturday, BTS flew to New York the following day to attend an exclusive event, “Spotify x BTS: Swimside,” held at Pier 17. At the event, the group performed three songs from its fifth full-length album — the main single \"Swim\" and B-side tracks \"2.0\" and \"Normal\" — all released just two days earlier. The Spotify event in New York focused on intimacy rather than scale. Around 1,000 f",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/24/news-p.v1.20260324.b0b83673108d464e9adaaebbe9873ddb_T1.jpg",
+      "tags": [
+        "comeback",
+        "album",
+        "bts"
+      ]
+    },
     {
       "id": "1134db296ba2404f",
       "title": "Audience Member Caught Filming Someone Else At IVE’s Concert, Sparks Massive Reactions",
@@ -434,21 +449,6 @@
         "comeback",
         "album",
         "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "dd7c5a56a3fea1dd",
-      "title": "Seoul glows red for BTS&apos; new album &apos;Arirang&apos;",
-      "url": "https://www.koreaherald.com/article/10699516",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-21T03:15:21.000Z",
-      "snippet": "Ahead of Saturday's special live performance marking K-pop giant BTS' long-awaited return, Seoul transformed into a sprawling open-air festival overnight, as fans poured into the h...",
-      "description": "Ahead of Saturday's special live performance marking K-pop giant BTS' long-awaited return, Seoul transformed into a sprawling open-air festival overnight, as fans poured into the heart of the city, turning weekday streets into scenes of celebration. The stone walls of the 600-year-old Sungnyemun gate, a key national treasure of South Korea, lit up with alternating white and red logos of BTS and its new album, \"Arirang.\" Accompanied by a deep rumbling sound, the silhouettes of the seven members a",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260320.PYH2026032018190001300_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
         "bts"
       ]
     }
