@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-25T08:42:38.776Z",
+  "generatedAt": "2026-03-25T09:46:37.903Z",
   "items": [
+    {
+      "id": "0aed88f270e3abc7",
+      "title": "BTS’s “Family” Bond Strongly Questioned With Treatment Of Jin For Recent Comeback",
+      "url": "https://www.koreaboo.com/news/bts-family-bond-questioned-jin-treatment-comeback/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-25T09:10:21.000Z",
+      "snippet": "It comes amid a new article on the comeback.",
+      "description": "It comes amid a new article on the comeback.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
     {
       "id": "e6e89d9f617437be",
       "title": "BTS Bashed For False Reports On Number Of Views For Netflix Comeback Live",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-03-25T07:23:07.000Z",
       "snippet": "What do you think?",
       "description": "What do you think?",
-      "image": "https://image.koreaboo.com/2026/03/post4-2026-03-25T162127.741.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "bts"
@@ -112,7 +126,7 @@
       "publishedAt": "2026-03-24T15:11:58.000Z",
       "snippet": "Park Ji Hoon has kicked off the countdown to his highly-anticipated comeback! On March 25 at midnight KST, Park Ji Hoon officially announced the date and details for his long-await...",
       "description": "Park Ji Hoon has kicked off the countdown to his highly-anticipated comeback! On March 25 at midnight KST, Park Ji Hoon officially announced the date and details for his long-awaited return as a singer. Park Ji Hoon will be returning with his first single album “RE:FLECT” on April 29 at 6 p.m. KST, marking his… Continue reading Park Ji Hoon Announces Comeback Date With 1st Teaser For Long-Awaited Return The post Park Ji Hoon Announces Comeback Date With 1st Teaser For Long-Awaited Return appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/24081109/Park-Ji-Hoon-2.jpg",
       "tags": [
         "comeback",
         "album"
@@ -433,22 +447,6 @@
         "bts",
         "stray kids",
         "newjeans"
-      ]
-    },
-    {
-      "id": "4aded3bc31288d4d",
-      "title": "BTS buzz lights up Gwanghwamun — and ad prices",
-      "url": "https://www.koreaherald.com/article/10698397",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-21T00:00:01.000Z",
-      "snippet": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and...",
-      "description": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and album teasers are flooding the district’s giant digital screens, turning the historic square into a high-impact showcase of K-pop fandom and commercial firepower. The surge is already pushing up prices. At the Sejong Center for the Performing Arts, wrapping its iconic outdoor staircase for two weeks now costs about 12",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260319.PYH2026031914020001301_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "concert",
-        "bts"
       ]
     }
   ]
