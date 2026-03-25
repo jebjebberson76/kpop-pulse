@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-25T06:59:08.756Z",
+  "generatedAt": "2026-03-25T07:55:32.395Z",
   "items": [
+    {
+      "id": "e6e89d9f617437be",
+      "title": "BTS Bashed For False Reports On Number Of Views For Netflix Comeback Live",
+      "url": "https://www.koreaboo.com/news/bts-bashed-false-reports-number-views-netflix-comeback-live/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-25T07:23:07.000Z",
+      "snippet": "What do you think?",
+      "description": "What do you think?",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "bts"
+      ]
+    },
     {
       "id": "939aa55f18cfe036",
       "title": "“Inkigayo ON THE GO” Announces First Lineup Of Artists",
@@ -48,21 +62,6 @@
       ]
     },
     {
-      "id": "fad2775555b7ef67",
-      "title": "Former K-Pop Idol Spotted In New Career Debut",
-      "url": "https://www.koreaboo.com/news/ily1-rona-lg-twins-baseball-cheerleader-debut/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-24T22:27:31.000Z",
-      "snippet": "And she's making history while at it!",
-      "description": "And she's making history while at it!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "debut"
-      ]
-    },
-    {
       "id": "6df00540e7e88d04",
       "title": "BTS’s Netflix Comeback Special Racks Up 18.4 Million Viewers In Its First 24 Hours",
       "url": "https://www.soompi.com/article/1827589wpp/btss-netflix-comeback-special-racks-up-18-4-million-viewers-in-its-first-24-hours",
@@ -73,20 +72,6 @@
       "image": "https://0.soompi.io/wp-content/uploads/2026/03/24151427/BTS_1d90af.jpg",
       "tags": [
         "comeback",
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "823cfeb46f65a5db",
-      "title": "YouTubers Reveal “Bamboozling” Interaction With Police At BTS Concert—Viral Video Sparks Backlash",
-      "url": "https://www.koreaboo.com/news/bts-gwanghwamun-square-concert-viral-video-police-searching-bodies-youtuber-interaction/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-24T22:09:19.000Z",
-      "snippet": "\"Does this even make sense in 2026?\"",
-      "description": "\"Does this even make sense in 2026?\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
         "concert",
         "bts"
       ]
@@ -448,6 +433,22 @@
         "bts",
         "stray kids",
         "newjeans"
+      ]
+    },
+    {
+      "id": "4aded3bc31288d4d",
+      "title": "BTS buzz lights up Gwanghwamun — and ad prices",
+      "url": "https://www.koreaherald.com/article/10698397",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T00:00:01.000Z",
+      "snippet": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and...",
+      "description": "As BTS gears up for its Saturday concert, central Seoul’s Gwanghwamun is getting a glow-up — not just in lights, but in advertising buzz. Fan-funded billboards, brand campaigns and album teasers are flooding the district’s giant digital screens, turning the historic square into a high-impact showcase of K-pop fandom and commercial firepower. The surge is already pushing up prices. At the Sejong Center for the Performing Arts, wrapping its iconic outdoor staircase for two weeks now costs about 12",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/rcv.YNA.20260319.PYH2026031914020001301_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "concert",
+        "bts"
       ]
     }
   ]
