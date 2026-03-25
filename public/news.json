@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T04:13:51.288Z",
+  "generatedAt": "2026-03-25T05:56:34.426Z",
   "items": [
     {
       "id": "9cdcc7213cc3a5b8",
@@ -280,20 +280,6 @@
       ]
     },
     {
-      "id": "0101a0184738dd67",
-      "title": "CLOSE YOUR EYES Announces April Comeback",
-      "url": "https://www.soompi.com/article/1827038wpp/close-your-eyes-announces-april-comeback",
-      "source": "Soompi",
-      "publishedAt": "2026-03-22T23:37:24.000Z",
-      "snippet": "CLOSE YOUR EYES is gearing up for an April comeback! On March 23, CLOSE YOUR EYES’ agency officially announced, “We are currently in the final stages of production for [CLOSE YOUR...",
-      "description": "CLOSE YOUR EYES is gearing up for an April comeback! On March 23, CLOSE YOUR EYES’ agency officially announced, “We are currently in the final stages of production for [CLOSE YOUR EYES’] new album, which is scheduled to be released in April. The album reflects [the group’s] deepened identity and expanded musical spectrum.” CLOSE YOUR… Continue reading CLOSE YOUR EYES Announces April Comeback The post CLOSE YOUR EYES Announces April Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album"
-      ]
-    },
-    {
       "id": "e568705cba4a2c4a",
       "title": "Songzio’s ‘Lyrical Armor’ shapes BTS’ ‘Arirang’ comeback stage",
       "url": "https://www.koreaherald.com/article/10699838",
@@ -445,6 +431,23 @@
         "comeback",
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "ade35fd5f01d56f9",
+      "title": "BTS returns to the K-pop throne",
+      "url": "https://www.koreaherald.com/article/10699077",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T00:00:02.000Z",
+      "snippet": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the...",
+      "description": "The return of BTS on Friday comes at a moment when K-pop’s global reach is firmly established — and still growing. On Saturday, the seven-member group will reunite onstage for the first time in nearly four years. The concert, set in Gwanghwamun Square in central Seoul, is expected to draw about 260,000 fans from around the world, a testament to the group’s enduring pull even after years away. BTS’ military hiatus did little to slow K-pop’s momentum. Acts like Stray Kids and NewJeans have continu",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/20/news-p.v1.20260320.f0e6e11d30514214be6ee2be5288f97f_T1.jpg",
+      "tags": [
+        "k-pop",
+        "concert",
+        "bts",
+        "stray kids",
+        "newjeans"
       ]
     }
   ]
