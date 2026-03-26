@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-26T04:28:12.910Z",
+  "generatedAt": "2026-03-26T06:09:13.535Z",
   "items": [
+    {
+      "id": "33634f02e2f686bf",
+      "title": "Producer El Capitxn debuts as an artist with single ‘Breaking Through’",
+      "url": "https://www.koreaherald.com/article/10703404",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-26T05:05:12.000Z",
+      "snippet": "K-pop producer El Capitxn made his official debut as an artist with the release of his first single, “Breaking Through” on Thursday. El Capitxn was part of boy band History in 2013...",
+      "description": "K-pop producer El Capitxn made his official debut as an artist with the release of his first single, “Breaking Through” on Thursday. El Capitxn was part of boy band History in 2013, but is best known for producing hits, including BTS’ “Take Two,” Agust D’s “Daechwita,” IU’s “Eight,” Jungkook’s “Stay Alive” and Tomorrow X Together’s “Farewell, Neverland.” With “Breaking Through,” El Capitxn steps into the spotlight as a solo artist, marking a new chapter in his career. The track explores the mome",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/26/news-p.v1.20260326.261d77639e49457b908896f50ac73758_T1.png",
+      "tags": [
+        "k-pop",
+        "debut",
+        "bts"
+      ]
+    },
     {
       "id": "8fb10c8c40800474",
       "title": "Ive announces tour expansion",
@@ -31,34 +46,6 @@
         "circle chart",
         "blackpink",
         "shinee"
-      ]
-    },
-    {
-      "id": "9f75e250c7ffa932",
-      "title": "Junior HYBE Idol Makes Baffling Confession About BTS’s Jungkook",
-      "url": "https://www.koreaboo.com/news/junior-hybe-idol-bts-jungkook-confession-love/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-25T20:30:38.000Z",
-      "snippet": "The “HYBE family” agenda that everyone misread…",
-      "description": "The “HYBE family” agenda that everyone misread…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
-      ]
-    },
-    {
-      "id": "ce40e9bc94316290",
-      "title": "BTS’s Jungkook Calls Out V’s “Low Quality” TikTok Debut",
-      "url": "https://www.koreaboo.com/news/bts-v-tiktok-account-name-jungkook-first-video-comments-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-25T19:38:10.000Z",
-      "snippet": "He wasn't having it.",
-      "description": "He wasn't having it.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "bts"
       ]
     },
     {
@@ -441,6 +428,20 @@
       "tags": [
         "comeback",
         "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "8bc2c1f820539684",
+      "title": "We will be BTS into our 80s, 90s: BTS&apos; Suga",
+      "url": "https://www.koreaherald.com/article/10699607",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-21T09:47:39.000Z",
+      "snippet": "BTS said in a recent interview that they could continue performing together for decades if they chose to. In a rare interview released on Apple Music's official YouTube channel Fri...",
+      "description": "BTS said in a recent interview that they could continue performing together for decades if they chose to. In a rare interview released on Apple Music's official YouTube channel Friday, BTS discussed their long-awaited return to music with their new album, \"Arirang.\" The session, conducted by Zane Lowe as part of \"The Zane Lowe Show,\" a daily music radio program on Apple Music 1, took place at Hybe’s headquarters in Seoul. Throughout the roughly 40-minute interview, BTS discussed their new album,",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/21/news-p.v1.20260321.5522201873fd4d429c089ab88374ceee_T1.png",
+      "tags": [
+        "album",
         "bts"
       ]
     }
