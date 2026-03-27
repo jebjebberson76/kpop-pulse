@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T11:36:58.387Z",
+  "generatedAt": "2026-03-27T12:49:40.781Z",
   "items": [
     {
       "id": "b672e8723a29e315",
@@ -9,24 +9,10 @@
       "publishedAt": "2026-03-27T10:33:03.000Z",
       "snippet": "The post has sparked scathing responses.",
       "description": "The post has sparked scathing responses.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/bts-jennie.jpg",
       "tags": [
         "bts",
         "blackpink"
-      ]
-    },
-    {
-      "id": "95ccb68348e806c2",
-      "title": "BTS Jin’s High Notes In New Album Spark Massive Debate",
-      "url": "https://www.koreaboo.com/news/netizens-spark-debate-bts-jin-high-notes/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-27T06:51:47.000Z",
-      "snippet": "What are your thoughts?",
-      "description": "What are your thoughts?",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
       ]
     },
     {
@@ -185,7 +171,7 @@
       "publishedAt": "2026-03-25T18:10:05.000Z",
       "snippet": "IVE has revealed the next set of stops for their ongoing world tour! On March 25, IVE officially announced their plans for the North American leg of their “SHOW WHAT I AM” world to...",
       "description": "IVE has revealed the next set of stops for their ongoing world tour! On March 25, IVE officially announced their plans for the North American leg of their “SHOW WHAT I AM” world tour, in addition to adding new Asian stops. IVE will kick off the North American leg of their tour in Toronto on… Continue reading Watch: IVE Announces North American And New Asian Stops For World Tour “SHOW WHAT I AM” The post Watch: IVE Announces North American And New Asian Stops For World Tour “SHOW WHAT I AM” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/25110914/IVE_c5948a.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "world tour",
         "ive"
@@ -438,6 +424,20 @@
         "comeback",
         "concert",
         "bts"
+      ]
+    },
+    {
+      "id": "4f8072ee5bf1765d",
+      "title": "P1Harmony hits Billboard 200 at No. 4",
+      "url": "https://www.koreaherald.com/article/10700324",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-23T02:11:19.000Z",
+      "snippet": "P1Harmony’s ninth EP “Unique” entered the Billboard 200 at No. 4, according to the chart preview published Sunday in the US. This is the first time the group has landed among the t...",
+      "description": "P1Harmony’s ninth EP “Unique” entered the Billboard 200 at No. 4, according to the chart preview published Sunday in the US. This is the first time the group has landed among the top five on the main albums chart. The new set is its sixth consecutive entry in the rankings, starting with sixth EP “Harmony: All In,” which debuted at No. 51 in 2023. The six-member act’s first English-language album, “Ex,” ranked No. 9 in 2025. The bandmates had their names credited across all six tracks and the tit",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/23/news-p.v1.20260323.2349139c8c6041ceadbc9e2c79b6accc_T1.jpg",
+      "tags": [
+        "album",
+        "billboard"
       ]
     }
   ]
