@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-27T09:48:20.229Z",
+  "generatedAt": "2026-03-27T10:40:49.616Z",
   "items": [
+    {
+      "id": "b672e8723a29e315",
+      "title": "BTS Vs BLACKPINK’s Jennie — Netizens Indulge In Heated Comparison",
+      "url": "https://www.koreaboo.com/news/bts-vs-blackpink-jennie-heated-comparison/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-27T10:33:03.000Z",
+      "snippet": "The post has sparked scathing responses.",
+      "description": "The post has sparked scathing responses.",
+      "image": "https://image.koreaboo.com/2026/03/bts-jennie.jpg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
     {
       "id": "95ccb68348e806c2",
       "title": "BTS Jin’s High Notes In New Album Spark Massive Debate",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-03-27T06:51:47.000Z",
       "snippet": "What are your thoughts?",
       "description": "What are your thoughts?",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/post5-2026-03-27T155028.767.jpg",
       "tags": [
         "album",
         "bts"
@@ -23,7 +37,7 @@
       "publishedAt": "2026-03-27T05:44:13.000Z",
       "snippet": "Their fans are ageing.",
       "description": "Their fans are ageing.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/I-wanted-to-sleep-with-her.-2026-03-27T130742.849.jpg",
       "tags": [
         "comeback",
         "bts"
@@ -95,7 +109,7 @@
       "publishedAt": "2026-03-26T23:01:29.000Z",
       "snippet": "KCON LA 2026 has revealed its lineup of performing artists! KCON is a major convention and music festival that celebrates Korean pop culture and entertainment, and it includes conc...",
       "description": "KCON LA 2026 has revealed its lineup of performing artists! KCON is a major convention and music festival that celebrates Korean pop culture and entertainment, and it includes concerts featuring performances by popular K-pop artists. On March 26 local time, KCON announced that NCT 127, TXT, and ZEROBASEONE would be headlining KCON LA 2026, which… Continue reading KCON LA 2026 Announces Lineup The post KCON LA 2026 Announces Lineup appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/26155945/KCON-LA-2026.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "korean pop",
@@ -167,7 +181,7 @@
       "publishedAt": "2026-03-25T21:17:45.000Z",
       "snippet": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of March 8 to 14! Album Chart P1Harmony topped this week’s physical album chart with their...",
       "description": "Circle Chart (formerly known as Gaon Chart) has revealed its chart rankings for the week of March 8 to 14! Album Chart P1Harmony topped this week’s physical album chart with their new mini album “UNIQUE,” which debuted at No. 1. Meanwhile, the POCA version of NouerA’s mini album “POP IT LIKE” entered the chart at… Continue reading Hearts2Hearts, P1Harmony, SHINee’s Onew, BLACKPINK, And More Top Circle Weekly Charts The post Hearts2Hearts, P1Harmony, SHINee’s Onew, BLACKPINK, And More Top Circle Weekly Charts appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/25141303/Hearts2Hearts-P1Harmony-Onew-BLACKPINK.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -185,7 +199,7 @@
       "publishedAt": "2026-03-25T18:10:05.000Z",
       "snippet": "IVE has revealed the next set of stops for their ongoing world tour! On March 25, IVE officially announced their plans for the North American leg of their “SHOW WHAT I AM” world to...",
       "description": "IVE has revealed the next set of stops for their ongoing world tour! On March 25, IVE officially announced their plans for the North American leg of their “SHOW WHAT I AM” world tour, in addition to adding new Asian stops. IVE will kick off the North American leg of their tour in Toronto on… Continue reading Watch: IVE Announces North American And New Asian Stops For World Tour “SHOW WHAT I AM” The post Watch: IVE Announces North American And New Asian Stops For World Tour “SHOW WHAT I AM” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/25110914/IVE_c5948a.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "world tour",
         "ive"
@@ -423,21 +437,6 @@
         "k-pop",
         "idol",
         "debut"
-      ]
-    },
-    {
-      "id": "d5156292833daab3",
-      "title": "Safety-first approach keeps crowd lower than expected at BTS&apos; Gwanghwamun show",
-      "url": "https://www.koreaherald.com/article/10700574",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-23T05:26:39.000Z",
-      "snippet": "Fewer fans than expected gathered at Gwanghwamun Square for BTS’ comeback show on March 21, as extensive safety measures and widespread public caution led many to watch the event o...",
-      "description": "Fewer fans than expected gathered at Gwanghwamun Square for BTS’ comeback show on March 21, as extensive safety measures and widespread public caution led many to watch the event online instead. While police had initially forecast a crowd of up to 260,000, actual attendance fell far short of that figure. Estimates varied widely depending on the source. According to the Ministry of the Interior and Safety, Monday, about 62,000 people were present in the Gwanghwamun area during the concert hour fr",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/23/news-p.v1.20260321.40d64272379645239333dd06a287f048_T1.jpg",
-      "tags": [
-        "comeback",
-        "concert",
-        "bts"
       ]
     }
   ]
