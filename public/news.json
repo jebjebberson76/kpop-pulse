@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-28T11:22:37.215Z",
+  "generatedAt": "2026-03-28T12:39:29.895Z",
   "items": [
+    {
+      "id": "6285e599ffb76628",
+      "title": "BTS’s Jungkook Finally Interacts With aespa, Triggering Even More Debate Amid Winter Dating Rumors",
+      "url": "https://www.koreaboo.com/news/bts-jungkook-finally-interacts-aespa-triggering-even-debate-amid-winter-dating-rumors/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-28T11:48:12.000Z",
+      "snippet": "His latest move has drawn viral attention.",
+      "description": "His latest move has drawn viral attention.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "aespa"
+      ]
+    },
     {
       "id": "392fa38e1b3d454f",
       "title": "BTS’s Jungkook, aespa’s Winter And ENHYPEN’s Jungwon Embroiled In Love Triangle Drama",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-03-28T10:41:13.000Z",
       "snippet": "Jungkook's recent social media activity has triggered massive rumors.",
       "description": "Jungkook's recent social media activity has triggered massive rumors.",
-      "image": "https://image.koreaboo.com/2026/03/jungkookWinterJungwon-FI.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "bts",
         "aespa"
@@ -23,7 +37,7 @@
       "publishedAt": "2026-03-28T07:50:33.000Z",
       "snippet": "Vote in this new poll to share your opinion.",
       "description": "Vote in this new poll to share your opinion.",
-      "image": "https://image.koreaboo.com/2026/03/jk-winter.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "bts",
         "aespa"
@@ -96,7 +110,7 @@
       "publishedAt": "2026-03-27T16:43:26.000Z",
       "snippet": "BTS has taken their third win for “SWIM”! On the February 13 episode of “Music Bank,” BTS’s “SWIM” was announced as the winner with 10,703 points over 3,042 points for IVE’s “BANG...",
       "description": "BTS has taken their third win for “SWIM”! On the February 13 episode of “Music Bank,” BTS’s “SWIM” was announced as the winner with 10,703 points over 3,042 points for IVE’s “BANG BANG.” Congratulations to BTS! This week’s “Music Bank” featured performances by AB6IX, ALL(H)OURS, AmbiO, AtHeart, Baby DONT Cry, cosmosy, CSR, DIGNITY, H1-KEY, NouerA,… Continue reading Watch: BTS Takes 3rd Win For “SWIM” On “Music Bank”; Performances By Yuna, Moonbyul, And More The post Watch: BTS Takes 3rd Win For “SWIM” On “Music Bank”; Performances By Yuna, Moonbyul, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/27094216/Screenshot-2026-03-28-at-1.40.59-AM.png",
       "tags": [
         "music bank",
         "bts",
@@ -125,7 +139,7 @@
       "publishedAt": "2026-03-27T01:48:32.000Z",
       "snippet": "BTS has set a new personal record with their latest album! Last week, BTS made their long-awaited comeback with their fourth full-length album “ARIRANG” on March 20. By the end of...",
       "description": "BTS has set a new personal record with their latest album! Last week, BTS made their long-awaited comeback with their fourth full-length album “ARIRANG” on March 20. By the end of the day, “ARIRANG” had already sold over 3.9 million copies, smashing BTS’s previous first-week sales record of 3,378,633 (set by their 2020 album “Map… Continue reading BTS Achieves Their Highest 1st-Week Sales Yet With “ARIRANG” The post BTS Achieves Their Highest 1st-Week Sales Yet With “ARIRANG” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/26184739/BTS_d4967f.jpg",
       "tags": [
         "comeback",
         "album",
@@ -426,20 +440,6 @@
         "k-pop",
         "album",
         "bts"
-      ]
-    },
-    {
-      "id": "ea8d72a5b6e6b909",
-      "title": "Yuna becomes 2nd Itzy member to make solo debut",
-      "url": "https://www.koreaherald.com/article/10700855",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-23T10:21:09.000Z",
-      "snippet": "Yuna of Itzy made her solo debut Monday with her first EP \"Ice Cream,\" becoming the second member of the group to go solo following Yeji. The youngest member said the experience br...",
-      "description": "Yuna of Itzy made her solo debut Monday with her first EP \"Ice Cream,\" becoming the second member of the group to go solo following Yeji. The youngest member said the experience brought back memories of her debut seven years ago, describing a mix of excitement and pressure. \"It’s my first solo release in seven years, so I feel a lot of pressure, but at the same time I really want to do well,\" Yuna said during a press conference held in Seoul. \"I saw this as an opportunity to show a more diverse",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/23/news-p.v1.20260323.7429d89b817d4aadb35422315589f0f9_T1.jpg",
-      "tags": [
-        "debut",
-        "itzy"
       ]
     }
   ]
