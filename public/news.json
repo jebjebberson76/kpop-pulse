@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T05:52:22.785Z",
+  "generatedAt": "2026-03-28T06:50:43.154Z",
   "items": [
     {
       "id": "20d4297cb73d9665",
@@ -43,20 +43,6 @@
         "album",
         "billboard",
         "bts"
-      ]
-    },
-    {
-      "id": "96dce095b72278a2",
-      "title": "What Are The Chances of BLACKPINK’s Jisoo Getting Back Together With Her Ex-Boyfriend?",
-      "url": "https://www.koreaboo.com/news/blackpink-jisoo-harper-bazaar-korea-video-breakup-stance-getting-back-ex-boyfriend/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-28T01:24:36.000Z",
-      "snippet": "The idol reveals her firm dating philosophy.",
-      "description": "The idol reveals her firm dating philosophy.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
       ]
     },
     {
@@ -440,6 +426,21 @@
         "k-pop",
         "idol",
         "debut"
+      ]
+    },
+    {
+      "id": "d5156292833daab3",
+      "title": "Safety-first approach keeps crowd lower than expected at BTS&apos; Gwanghwamun show",
+      "url": "https://www.koreaherald.com/article/10700574",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-23T05:26:39.000Z",
+      "snippet": "Fewer fans than expected gathered at Gwanghwamun Square for BTS’ comeback show on March 21, as extensive safety measures and widespread public caution led many to watch the event o...",
+      "description": "Fewer fans than expected gathered at Gwanghwamun Square for BTS’ comeback show on March 21, as extensive safety measures and widespread public caution led many to watch the event online instead. While police had initially forecast a crowd of up to 260,000, actual attendance fell far short of that figure. Estimates varied widely depending on the source. According to the Ministry of the Interior and Safety, Monday, about 62,000 people were present in the Gwanghwamun area during the concert hour fr",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/23/news-p.v1.20260321.40d64272379645239333dd06a287f048_T1.jpg",
+      "tags": [
+        "comeback",
+        "concert",
+        "bts"
       ]
     }
   ]
