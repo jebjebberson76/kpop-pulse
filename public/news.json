@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T09:31:35.080Z",
+  "generatedAt": "2026-03-28T10:25:29.252Z",
   "items": [
     {
       "id": "beb688d2129d498c",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-03-28T07:50:33.000Z",
       "snippet": "Vote in this new poll to share your opinion.",
       "description": "Vote in this new poll to share your opinion.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/03/jk-winter.jpg",
       "tags": [
         "bts",
         "aespa"
@@ -111,7 +111,7 @@
       "publishedAt": "2026-03-27T01:48:32.000Z",
       "snippet": "BTS has set a new personal record with their latest album! Last week, BTS made their long-awaited comeback with their fourth full-length album “ARIRANG” on March 20. By the end of...",
       "description": "BTS has set a new personal record with their latest album! Last week, BTS made their long-awaited comeback with their fourth full-length album “ARIRANG” on March 20. By the end of the day, “ARIRANG” had already sold over 3.9 million copies, smashing BTS’s previous first-week sales record of 3,378,633 (set by their 2020 album “Map… Continue reading BTS Achieves Their Highest 1st-Week Sales Yet With “ARIRANG” The post BTS Achieves Their Highest 1st-Week Sales Yet With “ARIRANG” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/26184739/BTS_d4967f.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album",
@@ -342,20 +342,6 @@
       ]
     },
     {
-      "id": "338b1a1258b1b4b7",
-      "title": "Rosé’s “APT.” Becomes 2nd Song By K-Pop Artist Ever To Go Triple Platinum In UK",
-      "url": "https://www.soompi.com/article/1827585wpp/roses-apt-becomes-2nd-song-by-k-pop-artist-ever-to-go-triple-platinum-in-uk",
-      "source": "Soompi",
-      "publishedAt": "2026-03-24T21:46:16.000Z",
-      "snippet": "BLACKPINK’s Rosé’s smash hit “APT.” has gone triple platinum in the United Kingdom at record speed! This month, the British Phonographic Industry (BPI) announced that Rosé and Brun...",
-      "description": "BLACKPINK’s Rosé’s smash hit “APT.” has gone triple platinum in the United Kingdom at record speed! This month, the British Phonographic Industry (BPI) announced that Rosé and Bruno Mars’ collab single “APT.” had received an official BRIT triple platinum certification. According to the BPI’s certification thresholds, singles are certified triple platinum at 1.8 million units… Continue reading Rosé’s “APT.” Becomes 2nd Song By K-Pop Artist Ever To Go Triple Platinum In UK The post Rosé’s “APT.” Becomes 2nd Song By K-Pop Artist Ever To Go Triple Platinum In UK appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "blackpink"
-      ]
-    },
-    {
       "id": "d288889859496223",
       "title": "Baby Dont Cry backed by star-studded production team for first EP",
       "url": "https://www.koreaherald.com/article/10701780",
@@ -440,6 +426,21 @@
       "tags": [
         "debut",
         "itzy"
+      ]
+    },
+    {
+      "id": "f13959166067d0d9",
+      "title": "Virtual girl group Owis debuts under hitmaker Lee Hae-in",
+      "url": "https://www.koreaherald.com/article/10700602",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-23T05:41:14.000Z",
+      "snippet": "Another virtual idol group is set to enter the K-pop scene on Monday, as Owis debuts with its first EP, \"Museum,\" at 6 p.m. Owis — a five-member group consisting of Serene, Haru, S...",
+      "description": "Another virtual idol group is set to enter the K-pop scene on Monday, as Owis debuts with its first EP, \"Museum,\" at 6 p.m. Owis — a five-member group consisting of Serene, Haru, Summer, Soi and Yuni — is drawing attention as the latest project led by chief creative officer Lee Hae-in. The debut marks her latest venture following her work on acts such as Kiss of Life and Close Your Eyes, raising expectations over whether her storytelling-driven approach can translate into the fast-growing virtua",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/23/news-p.v1.20260323.953a873abfc144bfaf3e2ccfc25385a0_T1.jpg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "debut"
       ]
     }
   ]
