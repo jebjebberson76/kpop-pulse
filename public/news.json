@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T13:48:14.286Z",
+  "generatedAt": "2026-03-29T14:28:11.388Z",
   "items": [
     {
       "id": "e94699edd71678ff",
@@ -28,20 +28,6 @@
       "tags": [
         "concert",
         "nct"
-      ]
-    },
-    {
-      "id": "9bcd3fcb9870dec3",
-      "title": "POLL: What Is BTS’s Best Album Of All Time? Vote Now!",
-      "url": "https://www.koreaboo.com/polls/poll-btss-best-album-time-vote-now/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-29T06:56:33.000Z",
-      "snippet": "Is it ARIRANG, You Never Walk Alone, or...?",
-      "description": "Is it ARIRANG, You Never Walk Alone, or...?",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
       ]
     },
     {
@@ -441,6 +427,21 @@
       "tags": [
         "debut",
         "itzy"
+      ]
+    },
+    {
+      "id": "f13959166067d0d9",
+      "title": "Virtual girl group Owis debuts under hitmaker Lee Hae-in",
+      "url": "https://www.koreaherald.com/article/10700602",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-23T05:41:14.000Z",
+      "snippet": "Another virtual idol group is set to enter the K-pop scene on Monday, as Owis debuts with its first EP, \"Museum,\" at 6 p.m. Owis — a five-member group consisting of Serene, Haru, S...",
+      "description": "Another virtual idol group is set to enter the K-pop scene on Monday, as Owis debuts with its first EP, \"Museum,\" at 6 p.m. Owis — a five-member group consisting of Serene, Haru, Summer, Soi and Yuni — is drawing attention as the latest project led by chief creative officer Lee Hae-in. The debut marks her latest venture following her work on acts such as Kiss of Life and Close Your Eyes, raising expectations over whether her storytelling-driven approach can translate into the fast-growing virtua",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/23/news-p.v1.20260323.953a873abfc144bfaf3e2ccfc25385a0_T1.jpg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "debut"
       ]
     }
   ]
