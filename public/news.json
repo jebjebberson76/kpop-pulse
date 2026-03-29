@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T01:51:18.832Z",
+  "generatedAt": "2026-03-29T04:32:43.964Z",
   "items": [
     {
       "id": "929359167d8c572f",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-03-28T23:51:57.000Z",
       "snippet": "She slapped them with a lawsuit after they did her dirty.",
       "description": "She slapped them with a lawsuit after they did her dirty.",
-      "image": "https://image.koreaboo.com/2026/03/Lee-Eunju-kbs-wins-fi.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -23,25 +23,10 @@
       "publishedAt": "2026-03-28T20:10:02.000Z",
       "snippet": "Jungkook was first criticized for his actions.",
       "description": "Jungkook was first criticized for his actions.",
-      "image": "https://image.koreaboo.com/2026/03/FEATURED-IMAGE-61.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "bts",
         "blackpink"
-      ]
-    },
-    {
-      "id": "7a39fc706aeee5d6",
-      "title": "BTS to hold world tour shows in 5 Latin American countries in Oct.",
-      "url": "https://www.koreaherald.com/article/10704746",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-28T07:23:10.000Z",
-      "snippet": "K-pop superstar BTS will perform in five countries in Latin America in October, including Colombia and Peru, as part of its \"Arirang\" world tour, the group's agency said Saturday....",
-      "description": "K-pop superstar BTS will perform in five countries in Latin America in October, including Colombia and Peru, as part of its \"Arirang\" world tour, the group's agency said Saturday. The septet will stage a total of 11 performances in five major cities in Latin America, starting in Bogota, Colombia, on Oct. 2-3, according to BigHit Music. The group will perform in Lima, Peru, on Oct. 9-10, followed by concerts in Santiago, Chile, on Oct. 16-17, and in Buenos Aires, Argentina, on Oct. 23-24. The fin",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/28/news-p.v1.20260328.b2de92a40005425ba8e71bb0c198a9b8_T1.jpg",
-      "tags": [
-        "k-pop",
-        "world tour",
-        "bts"
       ]
     },
     {
@@ -96,7 +81,7 @@
       "publishedAt": "2026-03-27T16:43:26.000Z",
       "snippet": "BTS has taken their third win for “SWIM”! On the February 13 episode of “Music Bank,” BTS’s “SWIM” was announced as the winner with 10,703 points over 3,042 points for IVE’s “BANG...",
       "description": "BTS has taken their third win for “SWIM”! On the February 13 episode of “Music Bank,” BTS’s “SWIM” was announced as the winner with 10,703 points over 3,042 points for IVE’s “BANG BANG.” Congratulations to BTS! This week’s “Music Bank” featured performances by AB6IX, ALL(H)OURS, AmbiO, AtHeart, Baby DONT Cry, cosmosy, CSR, DIGNITY, H1-KEY, NouerA,… Continue reading Watch: BTS Takes 3rd Win For “SWIM” On “Music Bank”; Performances By Yuna, Moonbyul, And More The post Watch: BTS Takes 3rd Win For “SWIM” On “Music Bank”; Performances By Yuna, Moonbyul, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/27094216/Screenshot-2026-03-28-at-1.40.59-AM.png",
       "tags": [
         "music bank",
         "bts",
@@ -125,7 +110,7 @@
       "publishedAt": "2026-03-27T01:48:32.000Z",
       "snippet": "BTS has set a new personal record with their latest album! Last week, BTS made their long-awaited comeback with their fourth full-length album “ARIRANG” on March 20. By the end of...",
       "description": "BTS has set a new personal record with their latest album! Last week, BTS made their long-awaited comeback with their fourth full-length album “ARIRANG” on March 20. By the end of the day, “ARIRANG” had already sold over 3.9 million copies, smashing BTS’s previous first-week sales record of 3,378,633 (set by their 2020 album “Map… Continue reading BTS Achieves Their Highest 1st-Week Sales Yet With “ARIRANG” The post BTS Achieves Their Highest 1st-Week Sales Yet With “ARIRANG” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/26184739/BTS_d4967f.jpg",
       "tags": [
         "comeback",
         "album",
@@ -144,6 +129,21 @@
       "tags": [
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "c2f8b2d954060a8c",
+      "title": "SHINee’s Taemin drops 1st English-language single",
+      "url": "https://www.koreaherald.com/article/10704051",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-27T01:23:07.000Z",
+      "snippet": "Taemin of SHINee is unveiling his first digital single in English on Friday, according to Galaxy Corp. “Long Way Home” comes ahead of his festival debut at the Coachella Valley Mus...",
+      "description": "Taemin of SHINee is unveiling his first digital single in English on Friday, according to Galaxy Corp. “Long Way Home” comes ahead of his festival debut at the Coachella Valley Music and Arts Festival in Indio, California, where he will hit the stage on April 11 and 18. He is set to become the first male K-pop solo artist to join the festival lineup. The lyrical pop ballad tinged with R&B is the first new music he is releasing since he signed with the new agency earlier this month. From April 1,",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/27/news-p.v1.20260327.7fcedfb413674b1ea47fde5947522fd5_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "shinee"
       ]
     },
     {
