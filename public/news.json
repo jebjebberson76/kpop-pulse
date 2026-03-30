@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-03-30T10:10:41.169Z",
+  "generatedAt": "2026-03-30T11:51:24.232Z",
   "items": [
+    {
+      "id": "650934c13a81f531",
+      "title": "Male K-Pop Idol Blasted As Rude After Behavior Towards Members",
+      "url": "https://www.koreaboo.com/news/male-kpop-idol-blasted-rude-after-behavior-towards-members/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-03-30T11:05:17.000Z",
+      "snippet": "He has sparked controversy since debuting.",
+      "description": "He has sparked controversy since debuting.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "4383ad46b998b2f8",
+      "title": "ITZY Confirmed To Be Gearing Up For May Comeback",
+      "url": "https://www.soompi.com/article/1828765wpp/itzy-confirmed-to-be-gearing-up-for-may-comeback",
+      "source": "Soompi",
+      "publishedAt": "2026-03-30T10:51:16.000Z",
+      "snippet": "ITZY is gearing up to return in May! On May 30, JoyNews24 reported that ITZY is currently in final preparations for a new album with the goal of making a full-group comeback in May...",
+      "description": "ITZY is gearing up to return in May! On May 30, JoyNews24 reported that ITZY is currently in final preparations for a new album with the goal of making a full-group comeback in May. In response to the report, JYP Entertainment confirmed, “ITZY is preparing with the aim of releasing an album in May. The… Continue reading ITZY Confirmed To Be Gearing Up For May Comeback The post ITZY Confirmed To Be Gearing Up For May Comeback appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/03/30034913/itzy-mar-26-2.jpg",
+      "tags": [
+        "comeback",
+        "album",
+        "itzy"
+      ]
+    },
     {
       "id": "7f52d38b5d3c7754",
       "title": "Watch: Jang Haneum Is Pensive In Dreamy Comeback MV For “WANNA”",
@@ -119,7 +148,7 @@
       "publishedAt": "2026-03-29T15:11:47.000Z",
       "snippet": "Mark your calendars for TWS’s return! On March 30 at midnight KST, TWS officially announced the date and details for their upcoming comeback next month. TWS will be returning with...",
       "description": "Mark your calendars for TWS’s return! On March 30 at midnight KST, TWS officially announced the date and details for their upcoming comeback next month. TWS will be returning with their fifth mini album, “NO TRAGEDY,” on April 27 at 6 p.m. KST. Check out TWS’s new teaser for “NO TRAGEDY” below! The post Watch: TWS Announces April Comeback Date With Teaser Video For “NO TRAGEDY” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/03/29081427/TWS.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "mini album",
@@ -418,37 +447,6 @@
         "k-pop",
         "comeback",
         "album",
-        "bts"
-      ]
-    },
-    {
-      "id": "9cdcc7213cc3a5b8",
-      "title": "BTS&apos; comeback concert draws 18 million global viewers",
-      "url": "https://www.koreaherald.com/article/10702369",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-25T03:12:05.000Z",
-      "snippet": "About 18 million people around the world tuned in to watch BTS’s comeback concert on Netflix, the global streamer said. The Saturday night livestream drew 18.4 million viewers worl...",
-      "description": "About 18 million people around the world tuned in to watch BTS’s comeback concert on Netflix, the global streamer said. The Saturday night livestream drew 18.4 million viewers worldwide within its first day of release. Since its release, the broadcast has landed in the weekly Top 10 rankings across 80 countries and reached No. 1 in 24 territories. The event, held in Gwanghwamun, Seoul, was broadcast globally in real time. Netflix revealed the livestream was supported by the company’s streaming i",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/25/news-p.v1.20260325.d0310a4421464a67bc41791f6bd0f8b5_T1.jpg",
-      "tags": [
-        "comeback",
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "e519d9b185f9d578",
-      "title": "BTS comeback concert draws 18.4m views on Netflix",
-      "url": "https://www.koreaherald.com/article/10701927",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-24T23:05:18.000Z",
-      "snippet": "The livestream of K-pop sensation BTS' first concert in nearly four years attracted 18.4 million views on Netflix, the streaming service announced Tuesday (U.S. time). The figure c...",
-      "description": "The livestream of K-pop sensation BTS' first concert in nearly four years attracted 18.4 million views on Netflix, the streaming service announced Tuesday (U.S. time). The figure combined real-time audiences and those who watched within 24 hours of the broadcast, according to the service. Following the broadcast, the show topped Netflix's weekly movies charts in 24 countries, the company added. The K-pop septet staged the live performance at Gwanghwamun Square on Saturday night in front of tens",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/25/news-p.v1.20260325.bfee51373db2478595e1f0b4939fd767_T1.jpg",
-      "tags": [
-        "k-pop",
-        "comeback",
-        "concert",
         "bts"
       ]
     }
