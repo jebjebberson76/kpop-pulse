@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-03-30T04:40:44.047Z",
+  "generatedAt": "2026-03-30T06:26:28.934Z",
   "items": [
     {
-      "id": "74400d8d6a5a4a9e",
-      "title": "Red Velvet’s Irene looks inward in 1st solo LP",
-      "url": "https://www.koreaherald.com/article/10705588",
+      "id": "60ef4cb7844ac484",
+      "title": "BTS’ Jin logs 1.2b Spotify streams with ‘Echo’",
+      "url": "https://www.koreaherald.com/article/10705416",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-30T04:18:35.000Z",
-      "snippet": "Irene of Red Velvet wants everyone to be their own biggest fan and exclaims it through her first solo studio album, “Biggest Fan,” which released Monday. Irene not only looks back...",
-      "description": "Irene of Red Velvet wants everyone to be their own biggest fan and exclaims it through her first solo studio album, “Biggest Fan,” which released Monday. Irene not only looks back at her life, but works up the courage to appreciate and accept herself, hoping listeners will offer warm words to themselves when they listen to her new music, she said via label SM Entertainment. The 10-track LP marks her return as a solo singer, close to 1 1/2 years since her first EP, “Like A Flower.” She was set to",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/30/news-p.v1.20260330.61b16840151d4d5cb1a67906ca3abf02_T1.jpg",
+      "publishedAt": "2026-03-30T01:57:44.000Z",
+      "snippet": "Jin of BTS reached 1.2 billion streams on Spotify with his second solo EP “Echo,” label Big Hit Music announced Monday. The EP debuted on Billboard 200 at No. 3 and, led by lead tr...",
+      "description": "Jin of BTS reached 1.2 billion streams on Spotify with his second solo EP “Echo,” label Big Hit Music announced Monday. The EP debuted on Billboard 200 at No. 3 and, led by lead track “Don’t Say You Love Me,” generated 1 billion streams in about seven months to become the most-streamed K-pop solo single on the platform last year. The single debuted on Billboard’s Hot 100 at No. 13 and on the UK Official Singles Top 100 at No. 10. Meanwhile, BTS on Friday released “Keep Swimming,” a remix of the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/30/news-p.v1.20260330.8a3d73519b604f13b882d17715b4a35f_T1.jpg",
       "tags": [
-        "album",
-        "red velvet"
+        "k-pop",
+        "billboard",
+        "bts"
       ]
     },
     {
@@ -139,6 +140,22 @@
       "tags": [
         "concert",
         "nct"
+      ]
+    },
+    {
+      "id": "6751d065b2bf1ed6",
+      "title": "SM eyes US as Hybe doubles down on Asia",
+      "url": "https://www.koreaherald.com/article/10704983",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-29T06:59:36.000Z",
+      "snippet": "Two of K-pop’s two biggest players are recalibrating global strategies, with India emerging as a new frontier. SM Entertainment and Hybe are increasingly stepping into each other’s...",
+      "description": "Two of K-pop’s two biggest players are recalibrating global strategies, with India emerging as a new frontier. SM Entertainment and Hybe are increasingly stepping into each other’s core markets, as SM pushes deeper into the US while Hybe accelerates its expansion across Asia, particularly India. SM has long maintained a strong foothold in Asia, especially in Japan, the world’s second-largest music market. Its early K-pop acts such as BoA, TVXQ and Shinee built massive followings there, with some",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/29/news-p.v1.20260329.5b6406b5b1c64f459f09db442c4c91ec_T1.jpg",
+      "tags": [
+        "k-pop",
+        "shinee",
+        "boa",
+        "tvxq"
       ]
     },
     {
@@ -429,22 +446,6 @@
       "description": "About 18 million people around the world tuned in to watch BTS’s comeback concert on Netflix, the global streamer said. The Saturday night livestream drew 18.4 million viewers worldwide within its first day of release. Since its release, the broadcast has landed in the weekly Top 10 rankings across 80 countries and reached No. 1 in 24 territories. The event, held in Gwanghwamun, Seoul, was broadcast globally in real time. Netflix revealed the livestream was supported by the company’s streaming i",
       "image": "https://wimg.heraldcorp.com/news/cms/2026/03/25/news-p.v1.20260325.d0310a4421464a67bc41791f6bd0f8b5_T1.jpg",
       "tags": [
-        "comeback",
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "e519d9b185f9d578",
-      "title": "BTS comeback concert draws 18.4m views on Netflix",
-      "url": "https://www.koreaherald.com/article/10701927",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-24T23:05:18.000Z",
-      "snippet": "The livestream of K-pop sensation BTS' first concert in nearly four years attracted 18.4 million views on Netflix, the streaming service announced Tuesday (U.S. time). The figure c...",
-      "description": "The livestream of K-pop sensation BTS' first concert in nearly four years attracted 18.4 million views on Netflix, the streaming service announced Tuesday (U.S. time). The figure combined real-time audiences and those who watched within 24 hours of the broadcast, according to the service. Following the broadcast, the show topped Netflix's weekly movies charts in 24 countries, the company added. The K-pop septet staged the live performance at Gwanghwamun Square on Saturday night in front of tens",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/25/news-p.v1.20260325.bfee51373db2478595e1f0b4939fd767_T1.jpg",
-      "tags": [
-        "k-pop",
         "comeback",
         "concert",
         "bts"
