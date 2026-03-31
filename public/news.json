@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T17:51:23.229Z",
+  "generatedAt": "2026-03-31T18:52:29.093Z",
   "items": [
     {
       "id": "f30b00c6228be094",
@@ -380,22 +380,6 @@
       ]
     },
     {
-      "id": "213d7c87a441a522",
-      "title": "Watch: BTS Takes 4th Win For “SWIM” On “Inkigayo”; Performances By ITZY’s Yuna, VERIVERY’s Kangmin, And More",
-      "url": "https://www.soompi.com/article/1828489wpp/watch-bts-takes-4th-win-for-swim-on-inkigayo-performances-by-itzys-yuna-veriverys-kangmin-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-03-29T14:48:50.000Z",
-      "snippet": "BTS has snagged a fourth music show trophy for “SWIM”! On the March 29 episode of SBS’s “Inkigayo,” the candidates for first place were BTS’s “SWIM,” IVE’s “BANG BANG,” and KiiiKii...",
-      "description": "BTS has snagged a fourth music show trophy for “SWIM”! On the March 29 episode of SBS’s “Inkigayo,” the candidates for first place were BTS’s “SWIM,” IVE’s “BANG BANG,” and KiiiKiii’s “404 (New Era).” BTS ultimately took the win with a total of 7,245 points. Congratulations to BTS! Watch a clip of the winner announcement… Continue reading Watch: BTS Takes 4th Win For “SWIM” On “Inkigayo”; Performances By ITZY’s Yuna, VERIVERY’s Kangmin, And More The post Watch: BTS Takes 4th Win For “SWIM” On “Inkigayo”; Performances By ITZY’s Yuna, VERIVERY’s Kangmin, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "inkigayo",
-        "bts",
-        "ive",
-        "itzy"
-      ]
-    },
-    {
       "id": "6751d065b2bf1ed6",
       "title": "SM eyes US as Hybe doubles down on Asia",
       "url": "https://www.koreaherald.com/article/10704983",
@@ -452,6 +436,20 @@
       "tags": [
         "album",
         "music video"
+      ]
+    },
+    {
+      "id": "27352b74cd9c14de",
+      "title": "BTS tops 115 Apple charts, selling 4.17m in 1 week",
+      "url": "https://www.koreaherald.com/article/10704099",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-27T01:54:09.000Z",
+      "snippet": "The fifth studio album from BTS, “Arirang,” sold 4.17 million copies in one week, a career-best for the septet, Big Hit Music said Friday, citing a local data firm. The album dropp...",
+      "description": "The fifth studio album from BTS, “Arirang,” sold 4.17 million copies in one week, a career-best for the septet, Big Hit Music said Friday, citing a local data firm. The album dropped on March 20 and sold 3.98 million copies on the day of its release, easily surpassing the first-week sales of its previous LP, “Map of the Seoul: 7,” in 2020. It landed atop Apple Music albums charts in 102 regions and added 13 more by Friday, notching No. 1 spots on Oricon’s weekly, weekly combined and weekly digit",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/27/news-p.v1.20260327.223ab06ba5744209b44f411c883ffef5_T1.jpg",
+      "tags": [
+        "album",
+        "bts"
       ]
     }
   ]
