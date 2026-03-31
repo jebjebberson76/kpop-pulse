@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T06:13:10.443Z",
+  "generatedAt": "2026-03-31T08:04:01.846Z",
   "items": [
     {
       "id": "76f4781989107cfa",
@@ -14,20 +14,6 @@
         "album",
         "billboard",
         "bts"
-      ]
-    },
-    {
-      "id": "c7bd09f553dfd112",
-      "title": "K-Pop Idol Reveals Truth Behind The Staff During Fan Calls, Triggers Divided Response",
-      "url": "https://www.koreaboo.com/news/ghost9-prince-reveals-truth-behind-fan-calls-triggers-massive-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-03-31T04:01:51.000Z",
-      "snippet": "What are your thoughts?",
-      "description": "What are your thoughts?",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -353,12 +339,12 @@
     },
     {
       "id": "2034d41f50b1d2f8",
-      "title": "NCT’s Jaemin Thanks Namgoong Min For Showing Love At NCT DREAM’s Concert",
+      "title": "NCT’s Jaemin Thanks Namkoong Min For Showing Love At NCT DREAM’s Concert",
       "url": "https://www.soompi.com/article/1828438wpp/ncts-jaemin-thanks-namgoong-min-for-showing-love-at-nct-dreams-concert",
       "source": "Soompi",
       "publishedAt": "2026-03-29T07:34:34.000Z",
-      "snippet": "Namgoong Min made a sweet show of support for NCT’s Jaemin! On March 29, Jaemin took to social media to thank his doppelganger Namgoong Min for thoughtfully sending a coffee truck...",
-      "description": "Namgoong Min made a sweet show of support for NCT’s Jaemin! On March 29, Jaemin took to social media to thank his doppelganger Namgoong Min for thoughtfully sending a coffee truck to the venue of NCT DREAM’s encore concert “THE DREAM SHOW 4 : FUTURE THE DREAM.” Ahead of Day 6 of the concert, which… Continue reading NCT’s Jaemin Thanks Namgoong Min For Showing Love At NCT DREAM’s Concert The post NCT’s Jaemin Thanks Namgoong Min For Showing Love At NCT DREAM’s Concert appeared first on Soompi.",
+      "snippet": "Namkoong Min made a sweet show of support for NCT’s Jaemin! On March 29, Jaemin took to social media to thank his doppelganger Namokong Min for thoughtfully sending a coffee truck...",
+      "description": "Namkoong Min made a sweet show of support for NCT’s Jaemin! On March 29, Jaemin took to social media to thank his doppelganger Namokong Min for thoughtfully sending a coffee truck to the venue of NCT DREAM’s encore concert “THE DREAM SHOW 4 : FUTURE THE DREAM.” Ahead of Day 6 of the concert, which… Continue reading NCT’s Jaemin Thanks Namkoong Min For Showing Love At NCT DREAM’s Concert The post NCT’s Jaemin Thanks Namkoong Min For Showing Love At NCT DREAM’s Concert appeared first on Soompi.",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
@@ -451,6 +437,21 @@
         "k-pop",
         "album",
         "nct"
+      ]
+    },
+    {
+      "id": "c2f8b2d954060a8c",
+      "title": "SHINee’s Taemin drops 1st English-language single",
+      "url": "https://www.koreaherald.com/article/10704051",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-27T01:23:07.000Z",
+      "snippet": "Taemin of SHINee is unveiling his first digital single in English on Friday, according to Galaxy Corp. “Long Way Home” comes ahead of his festival debut at the Coachella Valley Mus...",
+      "description": "Taemin of SHINee is unveiling his first digital single in English on Friday, according to Galaxy Corp. “Long Way Home” comes ahead of his festival debut at the Coachella Valley Music and Arts Festival in Indio, California, where he will hit the stage on April 11 and 18. He is set to become the first male K-pop solo artist to join the festival lineup. The lyrical pop ballad tinged with R&B is the first new music he is releasing since he signed with the new agency earlier this month. From April 1,",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/27/news-p.v1.20260327.7fcedfb413674b1ea47fde5947522fd5_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "shinee"
       ]
     }
   ]
