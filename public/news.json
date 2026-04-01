@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-04-01T06:23:50.872Z",
+  "generatedAt": "2026-04-01T08:12:24.587Z",
   "items": [
+    {
+      "id": "28c252c64c84f3a8",
+      "title": "VR concerts gain ground as new frontier for K-pop on big screen",
+      "url": "https://www.koreaherald.com/article/10707913",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-01T07:45:50.000Z",
+      "snippet": "Virtual reality concerts are steadily gaining traction among K-pop fans, emerging as a more accessible way to experience live performances beyond traditional venues. At a VR concer...",
+      "description": "Virtual reality concerts are steadily gaining traction among K-pop fans, emerging as a more accessible way to experience live performances beyond traditional venues. At a VR concert, viewers wear headsets that immerse them in a highly personalized concert environment — one that can feel as if the artist is performing just for them. By tracking hand gestures, the system allows viewers to interact with the experience, from selecting story elements to focusing on individual members during performan",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/01/news-p.v1.20260401.0076d42a56044fc8876a28daf2e842a9_T1.png",
+      "tags": [
+        "k-pop",
+        "concert"
+      ]
+    },
+    {
+      "id": "518b1c00c2d9e9fd",
+      "title": "BTS’s Security Team Reportedly Guarded A Female Idol Like A Princess At The Airport",
+      "url": "https://www.koreaboo.com/stories/bts-bodyguards-protect-female-idol-le-ssserafim-sakura/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-01T07:10:23.000Z",
+      "snippet": "Her security was \"iron clad,\" according to Korean media.",
+      "description": "Her security was \"iron clad,\" according to Korean media.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "bts"
+      ]
+    },
     {
       "id": "7be15563719a0697",
       "title": "Fansite Releases 2025-Debuted Idol’s Pictures From 2022, Sparking Sasaeng Backlash",
@@ -13,20 +41,6 @@
       "tags": [
         "idol",
         "debut"
-      ]
-    },
-    {
-      "id": "ed4225d532ad82b9",
-      "title": "BTS teases ‘2.0’ music video with nod to Park Chan-wook’s ‘Oldboy’",
-      "url": "https://www.koreaherald.com/article/10707718",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-01T05:23:02.000Z",
-      "snippet": "BTS unveiled a music video teaser for “2.0,” a track from its fifth LP “Arirang,” on Wednesday. The teaser draws inspiration from director Park Chan-wook’s 2003 film “Oldboy,” offe...",
-      "description": "BTS unveiled a music video teaser for “2.0,” a track from its fifth LP “Arirang,” on Wednesday. The teaser draws inspiration from director Park Chan-wook’s 2003 film “Oldboy,” offering a brief yet striking glimpse that has heightened anticipation for the full release. Set in a worn-down corridor and elevator, the video opens with a narrow hallway filled with rough, intimidating figures. As the elevator doors open on the second floor, BTS members appear dressed in clean-cut suits, some holding ne",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/01/news-p.v1.20260401.32f1c2f672f54a4e9835aa0b4623224d_T1.png",
-      "tags": [
-        "music video",
-        "bts"
       ]
     },
     {
@@ -432,22 +446,6 @@
         "album",
         "billboard",
         "bts"
-      ]
-    },
-    {
-      "id": "6751d065b2bf1ed6",
-      "title": "SM eyes US as Hybe doubles down on Asia",
-      "url": "https://www.koreaherald.com/article/10704983",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-29T06:59:36.000Z",
-      "snippet": "Two of K-pop’s two biggest players are recalibrating global strategies, with India emerging as a new frontier. SM Entertainment and Hybe are increasingly stepping into each other’s...",
-      "description": "Two of K-pop’s two biggest players are recalibrating global strategies, with India emerging as a new frontier. SM Entertainment and Hybe are increasingly stepping into each other’s core markets, as SM pushes deeper into the US while Hybe accelerates its expansion across Asia, particularly India. SM has long maintained a strong foothold in Asia, especially in Japan, the world’s second-largest music market. Its early K-pop acts such as BoA, TVXQ and Shinee built massive followings there, with some",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/29/news-p.v1.20260329.5b6406b5b1c64f459f09db442c4c91ec_T1.jpg",
-      "tags": [
-        "k-pop",
-        "shinee",
-        "boa",
-        "tvxq"
       ]
     }
   ]
