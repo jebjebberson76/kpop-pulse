@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-01T08:12:24.587Z",
+  "generatedAt": "2026-04-01T10:02:22.861Z",
   "items": [
+    {
+      "id": "a82308826c9db638",
+      "title": "Why are K-pop stars betting on Galaxy Corp.?",
+      "url": "https://www.koreaherald.com/article/10707980",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-01T08:37:36.000Z",
+      "snippet": "As Galaxy Corp. continues to sign high-profile artists who have newly become free agents, industry officials are questioning why established names are joining a relatively unknown...",
+      "description": "As Galaxy Corp. continues to sign high-profile artists who have newly become free agents, industry officials are questioning why established names are joining a relatively unknown agency branding itself as an “AI entertainment technology company.” Singer Kwon Eun-bi, who rose to fame through project girl group Iz*One, is reportedly preparing to join Galaxy Corp., just three weeks after the company signed Taemin, formerly of boy band SHINee. The company’s current roster includes pop icon and acto",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/01/news-p.v1.20260401.5fe7476aaff94dbf82bbd494eeff9fe4_T1.jpg",
+      "tags": [
+        "k-pop",
+        "shinee"
+      ]
+    },
     {
       "id": "28c252c64c84f3a8",
       "title": "VR concerts gain ground as new frontier for K-pop on big screen",
@@ -429,23 +443,6 @@
         "mini album",
         "album",
         "day6"
-      ]
-    },
-    {
-      "id": "9f414c2e8d205c6f",
-      "title": "BTS&apos; &apos;Arirang&apos; debuts at No. 1 on Billboard 200",
-      "url": "https://www.koreaherald.com/article/10705092",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-29T22:39:40.000Z",
-      "snippet": "K-pop giant BTS has claimed its seventh No. 1 debut on the US Billboard's main albums chart with its new album, \"Arirang.\" \"Arirang,\" the band's first group project in three years...",
-      "description": "K-pop giant BTS has claimed its seventh No. 1 debut on the US Billboard's main albums chart with its new album, \"Arirang.\" \"Arirang,\" the band's first group project in three years and nine months, debuted atop the Billboard 200 for the week of April 4, Billboard said in a chart preview released Sunday (US time). It marks BTS' seventh No. 1 debut on the chart, following \"Love Yourself: Tear,\" \"Love Yourself: Answer,\" \"Map of the Soul: Persona,\" \"Map of the Soul: 7,\" \"Be\" and the anthology album \"",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/30/rcv.YNA.20260329.PYH2026032909730001300_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut",
-        "album",
-        "billboard",
-        "bts"
       ]
     }
   ]
