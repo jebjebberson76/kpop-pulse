@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-02T12:57:24.343Z",
+  "generatedAt": "2026-04-02T14:21:39.725Z",
   "items": [
+    {
+      "id": "d2f15f557dceea33",
+      "title": "False Accusations Against BLACKPINK’s Jennie Leads To Backlash Against BTS",
+      "url": "https://www.koreaboo.com/news/false-accusations-blackpink-jennie-leads-backlash-bts/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-02T14:00:11.000Z",
+      "snippet": "The fake screenshot went viral.",
+      "description": "The fake screenshot went viral.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
     {
       "id": "5f980a0b582ccb56",
       "title": "Watch: BTS Takes 6th Win For “SWIM” On “M Countdown”; Performances By Kep1er, Irene, And More",
@@ -433,20 +447,6 @@
       "tags": [
         "album",
         "red velvet"
-      ]
-    },
-    {
-      "id": "71fb700a1ca5673c",
-      "title": "BTOB’s Changsub to release solo single",
-      "url": "https://www.koreaherald.com/article/10705504",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-03-30T02:27:53.000Z",
-      "snippet": "Lee Changsub of BTOB will release a single on April 23, his agency Fantagio announced Sunday. The teaser trailer spelled out the song title in Korean in the singer's handwriting. “...",
-      "description": "Lee Changsub of BTOB will release a single on April 23, his agency Fantagio announced Sunday. The teaser trailer spelled out the song title in Korean in the singer's handwriting. “Youth” will be the singer's first new music in six months, after his second solo EP “End And.” He promoted the mini album with a solo tour of the same name, visiting seven cities across Korea. The tour ended last month with three encore concerts in Seoul. Changsub also spent his birthday with fans, hosting a party-them",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/30/news-p.v1.20260330.108dc5826bc24001a991a5531f7866c8_T1.jpg",
-      "tags": [
-        "mini album",
-        "album"
       ]
     }
   ]
