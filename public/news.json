@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-04-02T01:46:47.015Z",
+  "generatedAt": "2026-04-02T04:24:34.543Z",
   "items": [
+    {
+      "id": "9b7595f0056c3497",
+      "title": "BTS takes to livestream to thank fans for chart success",
+      "url": "https://www.koreaherald.com/article/10708620",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-02T04:14:52.000Z",
+      "snippet": "BTS expressed its gratitude to fans for helping it debut atop Billboard’s Hot 100, in a livestream that aired Wednesday night. “I almost passed out last night, and when I woke up a...",
+      "description": "BTS expressed its gratitude to fans for helping it debut atop Billboard’s Hot 100, in a livestream that aired Wednesday night. “I almost passed out last night, and when I woke up at 3 a.m., it was blowing up,” said RM, “all thanks to our fans.” The seven members wanted to celebrate with fans the news that “Swim,” the main track from their fifth LP “Arirang,” had shot to the top of the chart on its debut. Thirteen tracks from the 14-track set made the main singles chart, and the album claimed the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/02/news-p.v1.20260402.d44fdc90abf84e28bedb395236019d02_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "billboard",
+        "bts"
+      ]
+    },
     {
       "id": "653f53c05aafaeb7",
       "title": "BTS And Hearts2Hearts Earn Triple And Double Crowns On Circle Weekly Charts",
@@ -43,20 +59,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "941362aec007d573",
-      "title": "Not Just Billboard Hot 100 #1— BTS Secures Historic “Global All Kill”",
-      "url": "https://www.koreaboo.com/news/billboard-hot-100-1-bts-secures-historic-global-kill/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-01T15:53:25.000Z",
-      "snippet": "“ARIRANG” is making history!",
-      "description": "“ARIRANG” is making history!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "billboard",
-        "bts"
       ]
     },
     {
@@ -314,35 +316,6 @@
       ]
     },
     {
-      "id": "28cdb19b4fa20953",
-      "title": "BTS’s “SWIM” Tops Billboard Charts Including Hot 100 + “ARIRANG” Dominates Global 200",
-      "url": "https://www.soompi.com/article/1828896wpp/btss-swim-tops-billboard-charts-including-hot-100-arirang-dominates-global-200",
-      "source": "Soompi",
-      "publishedAt": "2026-03-31T02:40:46.000Z",
-      "snippet": "BTS has sweeped several Billboard charts with their long-awaited comeback! In addition to “ARIRANG” topping the Billboard 200, the title track “SWIM” debuted at No. 1 on the Hot 10...",
-      "description": "BTS has sweeped several Billboard charts with their long-awaited comeback! In addition to “ARIRANG” topping the Billboard 200, the title track “SWIM” debuted at No. 1 on the Hot 100, making it their seventh song to top the chart, with 15.3 million official streams, 25.8 million radio airplay audience impressions, and 154,000 sales (digital and… Continue reading BTS’s “SWIM” Tops Billboard Charts Including Hot 100 + “ARIRANG” Dominates Global 200 The post BTS’s “SWIM” Tops Billboard Charts Including Hot 100 + “ARIRANG” Dominates Global 200 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "billboard",
-        "bts"
-      ]
-    },
-    {
-      "id": "447e4f2a5d133254",
-      "title": "2026 MAMA AWARDS Announces Dates And Venue",
-      "url": "https://www.soompi.com/article/1828870wpp/2026-mama-awards-announces-dates-and-venue",
-      "source": "Soompi",
-      "publishedAt": "2026-03-31T01:25:00.000Z",
-      "snippet": "Get ready to celebrate another year of K-pop with MAMA AWARDS! On March 31, CJ ENM announced that the 2026 MAMA AWARDS will take place on November 20 and 21 at the Kyocera Dome Osa...",
-      "description": "Get ready to celebrate another year of K-pop with MAMA AWARDS! On March 31, CJ ENM announced that the 2026 MAMA AWARDS will take place on November 20 and 21 at the Kyocera Dome Osaka in Osaka, Japan. The 2026 MAMA AWARDS will be streamed live worldwide via Mnet Plus, and with the foundation of… Continue reading 2026 MAMA AWARDS Announces Dates And Venue The post 2026 MAMA AWARDS Announces Dates And Venue appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "mnet"
-      ]
-    },
-    {
       "id": "b118dccb4e9b4139",
       "title": "Seventeen to host fan meetings in June",
       "url": "https://www.koreaherald.com/article/10706297",
@@ -444,6 +417,37 @@
       "tags": [
         "mini album",
         "album"
+      ]
+    },
+    {
+      "id": "60ef4cb7844ac484",
+      "title": "BTS’ Jin logs 1.2b Spotify streams with ‘Echo’",
+      "url": "https://www.koreaherald.com/article/10705416",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-30T01:57:44.000Z",
+      "snippet": "Jin of BTS reached 1.2 billion streams on Spotify with his second solo EP “Echo,” label Big Hit Music announced Monday. The EP debuted on Billboard 200 at No. 3 and, led by lead tr...",
+      "description": "Jin of BTS reached 1.2 billion streams on Spotify with his second solo EP “Echo,” label Big Hit Music announced Monday. The EP debuted on Billboard 200 at No. 3 and, led by lead track “Don’t Say You Love Me,” generated 1 billion streams in about seven months to become the most-streamed K-pop solo single on the platform last year. The single debuted on Billboard’s Hot 100 at No. 13 and on the UK Official Singles Top 100 at No. 10. Meanwhile, BTS on Friday released “Keep Swimming,” a remix of the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/30/news-p.v1.20260330.8a3d73519b604f13b882d17715b4a35f_T1.jpg",
+      "tags": [
+        "k-pop",
+        "billboard",
+        "bts"
+      ]
+    },
+    {
+      "id": "c10a7e480af5279a",
+      "title": "Illit&apos;s ‘Magnetic’ music video garners 300m views",
+      "url": "https://www.koreaherald.com/article/10705371",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-30T01:29:24.000Z",
+      "snippet": "Illit's debut music video \"Magnetic\" has surpassed 300 million YouTube views as of Sunday, agency Belift Lab said Monday. The video was unveiled in March 2024 for the main track of...",
+      "description": "Illit's debut music video \"Magnetic\" has surpassed 300 million YouTube views as of Sunday, agency Belift Lab said Monday. The video was unveiled in March 2024 for the main track of the group’s first EP “Super Real Me,” showing the goofy yet lovely sides of the five members. “Magnetic” entered Billboard’s Hot 100 at No. 91, becoming the first debut single from a K-pop group to enter the main songs chart. It did so barely three weeks after the quintet’s debut, a record in K-pop. The single swept a",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/30/news-p.v1.20260330.f8161ab0c3fe48718229f8c667b2aa64_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "music video",
+        "billboard"
       ]
     }
   ]
