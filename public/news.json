@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T22:25:32.904Z",
+  "generatedAt": "2026-04-02T23:28:45.954Z",
   "items": [
     {
       "id": "8f7803bbb8bffb00",
@@ -330,22 +330,6 @@
       ]
     },
     {
-      "id": "70c9436e16e27418",
-      "title": "Watch: BTS Excites With Cinematic MV Teaser For “2.0”",
-      "url": "https://www.soompi.com/article/1829094wpp/watch-bts-excites-with-cinematic-mv-teaser-for-2-0",
-      "source": "Soompi",
-      "publishedAt": "2026-03-31T15:24:23.000Z",
-      "snippet": "BTS is returning with a new music video! On April 1 at midnight KST, BTS released a music video teaser for “2.0,” one of the B-sides from their record–breaking new album “ARIRANG.”...",
-      "description": "BTS is returning with a new music video! On April 1 at midnight KST, BTS released a music video teaser for “2.0,” one of the B-sides from their record–breaking new album “ARIRANG.” Produced by Mike WiLL Made-It and Pluss, “2.0” includes lyrics penned by RM, j-hope, V, Jungkook, and Suga. The BTS members have described… Continue reading Watch: BTS Excites With Cinematic MV Teaser For “2.0” The post Watch: BTS Excites With Cinematic MV Teaser For “2.0” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "music video",
-        "mv",
-        "bts"
-      ]
-    },
-    {
       "id": "250324f82d893c5b",
       "title": "K-pop gears up for star-studded April comeback lineup",
       "url": "https://www.koreaherald.com/article/10706906",
@@ -450,6 +434,20 @@
         "album",
         "billboard",
         "bts"
+      ]
+    },
+    {
+      "id": "67313e36b81633d3",
+      "title": "Wonpil explores new sound, creative direction in ‘Unpiltered’",
+      "url": "https://www.koreaherald.com/article/10705900",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-30T08:26:21.000Z",
+      "snippet": "Day6’s Wonpil’s new solo EP, “Unpiltered,” marks a clear shift in his musical direction, as he experiments with sounds he had long wanted to try. His first solo EP, “Unpiltered” se...",
+      "description": "Day6’s Wonpil’s new solo EP, “Unpiltered,” marks a clear shift in his musical direction, as he experiments with sounds he had long wanted to try. His first solo EP, “Unpiltered” set to release at 6 p.m. Monday, marks his first solo release since 2022 LP “Pilmography.” While his previous work leaned more toward warmth and comfort, the new album reflects a broader and more experimental approach. Musically, “Unpiltered” marks a shift not only in tone, but in process. Wonpil said he has always liste",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/30/news-p.v1.20260328.e439db3d4bad45ed8ca36775f4f64eac_T1.jpg",
+      "tags": [
+        "album",
+        "day6"
       ]
     }
   ]
