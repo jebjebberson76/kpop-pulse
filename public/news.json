@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T17:24:17.519Z",
+  "generatedAt": "2026-04-04T18:32:13.501Z",
   "items": [
     {
       "id": "d3133e73f2ee6f46",
@@ -15,20 +15,6 @@
         "debut",
         "music video",
         "mv"
-      ]
-    },
-    {
-      "id": "0fd51408b989f597",
-      "title": "Are BTS’s Jungkook And aespa’s Winter’s Dating Rumors True?",
-      "url": "https://www.koreaboo.com/stories/bts-jungkook-dating-aespa-winter-rumors/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-04T06:09:58.000Z",
-      "snippet": "Based on the \"evidence,\" opinions are divided.",
-      "description": "Based on the \"evidence,\" opinions are divided.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "aespa"
       ]
     },
     {
@@ -451,6 +437,21 @@
         "album",
         "billboard",
         "bts"
+      ]
+    },
+    {
+      "id": "b118dccb4e9b4139",
+      "title": "Seventeen to host fan meetings in June",
+      "url": "https://www.koreaherald.com/article/10706297",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-03-31T01:24:59.000Z",
+      "snippet": "Seventeen will host two fan meetups this summer in Incheon, agency Pledis Entertainment announced Monday. The promotional poster for the group's 10th fan meeting features the bandm...",
+      "description": "Seventeen will host two fan meetups this summer in Incheon, agency Pledis Entertainment announced Monday. The promotional poster for the group's 10th fan meeting features the bandmates in a fantasy-like station, ready to take fans to “Carat Land” by steam engine. Carat is the name of their fandom community and Carat Land, their fan meetups. The event will be held at the same venue where the group will perform the final concerts for “New_” on April 4 and 5. The world tour began in September last",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/03/31/news-p.v1.20260331.aac13c4ec7f14ae2a99cbac36d653db1_T1.jpg",
+      "tags": [
+        "world tour",
+        "fan meeting",
+        "seventeen"
       ]
     }
   ]
