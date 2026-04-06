@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T14:08:53.050Z",
+  "generatedAt": "2026-04-06T15:39:58.055Z",
   "items": [
     {
       "id": "02703400c9bde689",
@@ -304,22 +304,6 @@
       ]
     },
     {
-      "id": "42c3dddddac2f379",
-      "title": "Watch: BTS Takes 7th Win For “SWIM” On “Music Bank”; Performances By N.Flying, Kep1er, And More",
-      "url": "https://www.soompi.com/article/1830096wpp/watch-bts-takes-7th-win-for-swim-on-music-bank-performances-by-n-flying-kep1er-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-04-03T13:05:27.000Z",
-      "snippet": "BTS has taken their seventh win for “SWIM”! On the April 3 episode of “Music Bank,” the candidates for first place were BTS’s “SWIM” and ITZY’s Yuna‘s “Ice Cream.” BTS ultimately t...",
-      "description": "BTS has taken their seventh win for “SWIM”! On the April 3 episode of “Music Bank,” the candidates for first place were BTS’s “SWIM” and ITZY’s Yuna‘s “Ice Cream.” BTS ultimately took the prize with a total of 9,477 points. Congratulations to BTS! Watch the winner announcement below! Performers on today’s show included ITZY’s Yuna, Red Velvet’s Irene, Kep1er, N.Flying, PENTAGON’s… Continue reading Watch: BTS Takes 7th Win For “SWIM” On “Music Bank”; Performances By N.Flying, Kep1er, And More The post Watch: BTS Takes 7th Win For “SWIM” On “Music Bank”; Performances By N.Flying, Kep1er, And Mor...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music bank",
-        "bts",
-        "red velvet",
-        "itzy"
-      ]
-    },
-    {
       "id": "23b677137e939705",
       "title": "T.O.P drops ‘Another Dimension’ ahead of Big Bang’s Coachella anniversary stage",
       "url": "https://www.koreaherald.com/article/10709552",
@@ -447,6 +431,20 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/02/news-p.v1.20260402.8feeed4bbff5431a8a24a241d12f632d_T1.jpg",
       "tags": [
         "album",
+        "billboard"
+      ]
+    },
+    {
+      "id": "a8fee7813092e139",
+      "title": "Katseye to drop single ahead of Coachella debut",
+      "url": "https://www.koreaherald.com/article/10708368",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-02T01:26:05.000Z",
+      "snippet": "Katseye will release the single “Pinky Up” on April 9, its labels Hybe and Geffen Records announced Wednesday. The single drops two days before it is poised to take the Coachella V...",
+      "description": "Katseye will release the single “Pinky Up” on April 9, its labels Hybe and Geffen Records announced Wednesday. The single drops two days before it is poised to take the Coachella Valley Music and Arts Festival stage for the first time. The group has landed three entries on Billboard’s Hot 100 so far: its previous single, “Internet Girl,” debuted at No. 29 and logged four weeks and “Gabriela” and “Gnarly,” main tracks from its second EP, spent 28 and 13 weeks, respectively, peaking at No. 21 and",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/02/news-p.v1.20260402.380413ee10954aa096cd4f554660be1e_T1.jpg",
+      "tags": [
+        "debut",
         "billboard"
       ]
     }
