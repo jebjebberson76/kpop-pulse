@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T21:37:04.054Z",
+  "generatedAt": "2026-04-07T22:31:50.907Z",
   "items": [
     {
       "id": "95a36fd2ad0287bf",
@@ -67,7 +67,7 @@
       "publishedAt": "2026-04-07T15:28:48.000Z",
       "snippet": "BTS has returned with a spectacular new music video! On April 8 at midnight KST, BTS released the music video for “Hooligan,” a fan-favorite B-side from their new album “ARIRANG.”...",
       "description": "BTS has returned with a spectacular new music video! On April 8 at midnight KST, BTS released the music video for “Hooligan,” a fan-favorite B-side from their new album “ARIRANG.” A rebellious, high-energy track that was co-written by RM, j-hope, and Suga, “Hooligan” showcases a very different side of the group from their dreamy, chart-topping… Continue reading Watch: BTS Is Back With Epic MV For “Hooligan” The post Watch: BTS Is Back With Epic MV For “Hooligan” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/04/07081610/BTS_518a7b.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "music video",
@@ -91,6 +91,20 @@
       ]
     },
     {
+      "id": "b8417509a31089af",
+      "title": "Latest “Proof” Of BTS’s Jungkook and aespa Winter’s Alleged Relationship Sparks Fury",
+      "url": "https://www.koreaboo.com/news/latest-proof-btss-jungkook-aespa-winters-alleged-relationship-sparks-fury/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-07T09:29:04.000Z",
+      "snippet": "The latest speculation started during a recent BTS interview.",
+      "description": "The latest speculation started during a recent BTS interview.",
+      "image": "https://image.koreaboo.com/2026/04/JungkookWintercookie-FI.jpg",
+      "tags": [
+        "bts",
+        "aespa"
+      ]
+    },
+    {
       "id": "15f1b37066ec2abf",
       "title": "Watch: YOUNG POSSE Radiates Youthful Energy In MV For “we don’t go to bed tonight” Comeback",
       "url": "https://www.soompi.com/article/1831091wpp/watch-young-posse-radiates-youthful-energy-in-mv-for-we-dont-go-to-bed-tonight-comeback",
@@ -103,20 +117,6 @@
         "comeback",
         "music video",
         "mv"
-      ]
-    },
-    {
-      "id": "b8417509a31089af",
-      "title": "Latest “Proof” Of BTS’s Jungkook and aespa Winter’s Alleged Relationship Sparks Fury",
-      "url": "https://www.koreaboo.com/news/latest-proof-btss-jungkook-aespa-winters-alleged-relationship-sparks-fury/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-07T09:29:04.000Z",
-      "snippet": "The latest speculation started during a recent BTS interview.",
-      "description": "The latest speculation started during a recent BTS interview.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "aespa"
       ]
     },
     {
