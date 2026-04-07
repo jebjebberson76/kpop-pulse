@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T18:54:40.773Z",
+  "generatedAt": "2026-04-07T19:53:29.332Z",
   "items": [
     {
       "id": "e726f10dec4cc2db",
@@ -356,21 +356,6 @@
       ]
     },
     {
-      "id": "18dc634679e9bf5d",
-      "title": "Watch: BTS Achieves Music Show Grand Slam With 9th Win For “SWIM” On “Inkigayo”; Performances By Irene, Yuna, And More",
-      "url": "https://www.soompi.com/article/1830400wpp/watch-bts-achieves-music-show-grand-slam-with-9th-win-for-swim-on-inkigayo-performances-by-irene-yuna-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-04-05T14:52:17.000Z",
-      "snippet": "BTS has has wrapped up a perfect week of music show wins with a ninth trophy for “SWIM”! On the April 5 episode of SBS’s “Inkigayo,” the candidates for first place were BTS’s “SWIM...",
-      "description": "BTS has has wrapped up a perfect week of music show wins with a ninth trophy for “SWIM”! On the April 5 episode of SBS’s “Inkigayo,” the candidates for first place were BTS’s “SWIM,” BTS’s “Body to Body,” and IVE’s “BANG BANG.” BTS ultimately took the win with a total of 9,422 points—meaning that the… Continue reading Watch: BTS Achieves Music Show Grand Slam With 9th Win For “SWIM” On “Inkigayo”; Performances By Irene, Yuna, And More The post Watch: BTS Achieves Music Show Grand Slam With 9th Win For “SWIM” On “Inkigayo”; Performances By Irene, Yuna, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "inkigayo",
-        "bts",
-        "ive"
-      ]
-    },
-    {
       "id": "7b249752674b8e35",
       "title": "The playbook behind BTS’ ‘Arirang’: 3 strategies reshaping K-pop’s global reach",
       "url": "https://www.koreaherald.com/article/10710231",
@@ -441,6 +426,20 @@
       "tags": [
         "mini album",
         "album"
+      ]
+    },
+    {
+      "id": "9aaa1a1755c5c694",
+      "title": "Mamamoo unveils world tour plans",
+      "url": "https://www.koreaherald.com/article/10709481",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-03T02:57:58.000Z",
+      "snippet": "Mamamoo announced the destinations for its international tour, which will begin in June, via agency RBW Entertainment Friday. The group of four will kick off the tour with three sh...",
+      "description": "Mamamoo announced the destinations for its international tour, which will begin in June, via agency RBW Entertainment Friday. The group of four will kick off the tour with three shows in Seoul starting June 19. It will be followed by four stops in Southeast Asia, and then the US leg, which includes seven cities. In October, the quartet will resume the tour in Hong Kong and more shows will be added later. The tour is part of its plans to celebrate the 12th anniversary of Mamamoo's debut. Before l",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/03/news-p.v1.20260403.ed758d4b162b4e91a0ae666c48412fef_T1.jpg",
+      "tags": [
+        "debut",
+        "world tour"
       ]
     }
   ]
