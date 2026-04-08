@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T13:07:05.798Z",
+  "generatedAt": "2026-04-08T15:03:54.957Z",
   "items": [
     {
       "id": "bec9b4bb59d6d010",
@@ -47,20 +47,6 @@
         "album",
         "music video",
         "mv"
-      ]
-    },
-    {
-      "id": "acfa61fa35e8904c",
-      "title": "Male K-Pop Idol Suspends Activities Following Attitude Controversies",
-      "url": "https://www.koreaboo.com/news/male-kpop-idol-suspends-activities-following-attitude-controversies/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-08T09:11:26.000Z",
-      "snippet": "His agency issued a statement.",
-      "description": "His agency issued a statement.",
-      "image": "https://image.koreaboo.com/2026/04/kimgeonwoo-fi.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -116,7 +102,7 @@
       "publishedAt": "2026-04-07T20:30:09.000Z",
       "snippet": "BLACKPINK’s Jennie and Tame Impala are soaring to new heights on Billboard’s Hot 100 with their hit remix of “Dracula”! On April 7 local time, Billboard revealed that Jennie and Ta...",
       "description": "BLACKPINK’s Jennie and Tame Impala are soaring to new heights on Billboard’s Hot 100 with their hit remix of “Dracula”! On April 7 local time, Billboard revealed that Jennie and Tame Impala’s collab version of “Dracula” had risen to a new peak of No. 18 on the Hot 100, Billboard’s weekly ranking of the most… Continue reading Jennie And Tame Impala’s “Dracula” Remix Becomes Both Singers’ First Top 20 Hit On Billboard 200 The post Jennie And Tame Impala’s “Dracula” Remix Becomes Both Singers’ First Top 20 Hit On Billboard 200 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/07132644/Tame-Impala-Jennie.jpg",
       "tags": [
         "billboard",
         "blackpink"
@@ -258,12 +244,12 @@
     },
     {
       "id": "e640dffff864902f",
-      "title": "Update: NEXZ Reveals Comeback Schedule For “Mmchk”",
+      "title": "Update: NEXZ Reveals Track List For “Mmchk”",
       "url": "https://www.soompi.com/article/1830803wpp/watch-nexz-reveals-comeback-date-with-mmchk-trailer",
       "source": "Soompi",
       "publishedAt": "2026-04-06T14:34:13.000Z",
-      "snippet": "Updated April 8 KST: NEXZ has released a timetable for their upcoming comeback with “Mmchk”! Updated April 7 KST: NEXZ has revealed the online cover image for their upcoming single...",
-      "description": "Updated April 8 KST: NEXZ has released a timetable for their upcoming comeback with “Mmchk”! Updated April 7 KST: NEXZ has revealed the online cover image for their upcoming single album “Mmchk”! Original Article: JYP Entertainment’s global boy group NEXZ is gearing up for their return! On April 6, a trailer was unveiled for the… Continue reading Update: NEXZ Reveals Comeback Schedule For “Mmchk” The post Update: NEXZ Reveals Comeback Schedule For “Mmchk” appeared first on Soompi.",
+      "snippet": "Updated April 8 KST: NEXZ has released the track list for their upcoming single album “Mmchk”! Updated April 8 KST: NEXZ has released a timetable for their upcoming comeback with “...",
+      "description": "Updated April 8 KST: NEXZ has released the track list for their upcoming single album “Mmchk”! Updated April 8 KST: NEXZ has released a timetable for their upcoming comeback with “Mmchk”! Updated April 7 KST: NEXZ has revealed the online cover image for their upcoming single album “Mmchk”! Original Article: JYP Entertainment’s global boy group… Continue reading Update: NEXZ Reveals Track List For “Mmchk” The post Update: NEXZ Reveals Track List For “Mmchk” appeared first on Soompi.",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
@@ -444,6 +430,20 @@
         "k-pop",
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "23b677137e939705",
+      "title": "T.O.P drops ‘Another Dimension’ ahead of Big Bang’s Coachella anniversary stage",
+      "url": "https://www.koreaherald.com/article/10709552",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-03T05:15:59.000Z",
+      "snippet": "T.O.P has made a long-awaited return with his first full-length album, released Friday. It marks his first solo release in 13 years since “Doom Dada.” The rapper released “Another...",
+      "description": "T.O.P has made a long-awaited return with his first full-length album, released Friday. It marks his first solo release in 13 years since “Doom Dada.” The rapper released “Another Dimension” along with the music video for one of its two main tracks, “Desperado.” “Desperado” delivers a candid and direct portrayal of love, with a minimalist music video that focuses on the track’s intense mood and T.O.P’s nuanced emotional expression. “For almost 10 years, I focused solely on making music,” T.O.P s",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/03/news-p.v1.20260403.315e0d5b4c694d058705bdb722600ed9_T1.png",
+      "tags": [
+        "album",
+        "music video"
       ]
     }
   ]
