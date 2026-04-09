@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-09T08:15:49.404Z",
+  "generatedAt": "2026-04-09T10:06:48.384Z",
   "items": [
+    {
+      "id": "748dbe90a577150d",
+      "title": "Rain or shine, Army gathers in Goyang ahead of BTS’ long-awaited return",
+      "url": "https://www.koreaherald.com/article/10713933",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-09T09:05:43.000Z",
+      "snippet": "GOYANG, Gyeonggi Province — Hours before BTS took the stage for its world tour “Arirang,” its first concert in four years, thousands of fans had already gathered outside Goyang Sta...",
+      "description": "GOYANG, Gyeonggi Province — Hours before BTS took the stage for its world tour “Arirang,” its first concert in four years, thousands of fans had already gathered outside Goyang Stadium, filling the rainy grounds with anticipation. By early Thursday afternoon, the area surrounding the venue was lined with Army — many dressed in purple rain jackets and holding Army Bomb light sticks — posing for photos in front of a towering world tour poster. Despite the cold drizzle, the mood remained upbeat, wi",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/09/news-p.v1.20260409.6669da3488f1470fb2fc528270ac9994_T1.jpg",
+      "tags": [
+        "world tour",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "661218f99a62e13d",
       "title": "BTS’s Jimin Shows Concern For Fans Before Concert, Triggers Massive Response",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-04-09T07:19:21.000Z",
       "snippet": "ARMYs are always on his mind.",
       "description": "ARMYs are always on his mind.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/04/post6-2026-04-09T161810.140.jpg",
       "tags": [
         "concert",
         "bts"
@@ -97,7 +112,7 @@
       "publishedAt": "2026-04-08T10:03:54.000Z",
       "snippet": "T.O.P has unveiled the music video for “Studio54”! On April 8 at 6 p.m. KST, T.O.P released the music video for “Studio54,” one of the double title tracks from his first full-lengt...",
       "description": "T.O.P has unveiled the music video for “Studio54”! On April 8 at 6 p.m. KST, T.O.P released the music video for “Studio54,” one of the double title tracks from his first full-length solo album “ANOTHER DIMENSION.” Starring Nana, “Studio54” reinterprets the stylish sensibility of 1980s house music through T.O.P’s distinct musical color. The music video… Continue reading Watch: T.O.P Breaks Free And Embraces Madness In “Studio54” MV With Nana The post Watch: T.O.P Breaks Free And Embraces Madness In “Studio54” MV With Nana appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/04/08030348/top-nana.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "music video",
@@ -303,36 +318,6 @@
       ]
     },
     {
-      "id": "15f1b37066ec2abf",
-      "title": "Watch: YOUNG POSSE Radiates Youthful Energy In MV For “we don’t go to bed tonight” Comeback",
-      "url": "https://www.soompi.com/article/1831091wpp/watch-young-posse-radiates-youthful-energy-in-mv-for-we-dont-go-to-bed-tonight-comeback",
-      "source": "Soompi",
-      "publishedAt": "2026-04-07T09:29:04.000Z",
-      "snippet": "YOUNG POSSE has returned with a new single! On April 7 at 6 p.m. KST, the girl group released “we don’t go to bed tonight” along with the music video. “we don’t go to bed tonight”...",
-      "description": "YOUNG POSSE has returned with a new single! On April 7 at 6 p.m. KST, the girl group released “we don’t go to bed tonight” along with the music video. “we don’t go to bed tonight” is a digicore genre song about staying up all night to have a good time. All members participated in… Continue reading Watch: YOUNG POSSE Radiates Youthful Energy In MV For “we don’t go to bed tonight” Comeback The post Watch: YOUNG POSSE Radiates Youthful Energy In MV For “we don’t go to bed tonight” Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "music video",
-        "mv"
-      ]
-    },
-    {
-      "id": "7488d4b903b9a08f",
-      "title": "Watch: Super Junior’s Donghae Wishes You A “Good Day (Feat. Jay Park, 1iL)” In MV For Solo Pre-Release Track",
-      "url": "https://www.soompi.com/article/1831090wpp/watch-super-juniors-donghae-wishes-you-a-good-day-feat-jay-park-1il-in-mv-for-solo-pre-release-track",
-      "source": "Soompi",
-      "publishedAt": "2026-04-07T09:26:07.000Z",
-      "snippet": "Super Junior’s Donghae is here with new solo music! On April 7 at 6 p.m. KST, Donghae unveiled his pre-release track “Good Day” (Feat. Jay Park , 1iL) ahead of the release of his f...",
-      "description": "Super Junior’s Donghae is here with new solo music! On April 7 at 6 p.m. KST, Donghae unveiled his pre-release track “Good Day” (Feat. Jay Park , 1iL) ahead of the release of his first full-length solo album “ALIVE.” “ALIVE” is an album that captures his time until now and the story going forward. The… Continue reading Watch: Super Junior’s Donghae Wishes You A “Good Day (Feat. Jay Park, 1iL)” In MV For Solo Pre-Release Track The post Watch: Super Junior’s Donghae Wishes You A “Good Day (Feat. Jay Park, 1iL)” In MV For Solo Pre-Release Track appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "mv",
-        "super junior"
-      ]
-    },
-    {
       "id": "7a31311dba1b2e3c",
       "title": "BTS’ ‘Swim’ knocked down to No. 2 on Billboard’s Hot 100",
       "url": "https://www.koreaherald.com/article/10711491",
@@ -446,6 +431,22 @@
       "tags": [
         "k-pop",
         "album"
+      ]
+    },
+    {
+      "id": "aed5a198435f4475",
+      "title": "BTS’ ‘Arirang’ tops Billboard 200 for second consecutive week, a K-pop first",
+      "url": "https://www.koreaherald.com/article/10710758",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-06T02:48:10.000Z",
+      "snippet": "BTS’ fifth album has topped the Billboard 200 albums chart for the second consecutive week, becoming the first K-pop album to achieve the feat. According to a chart preview release...",
+      "description": "BTS’ fifth album has topped the Billboard 200 albums chart for the second consecutive week, becoming the first K-pop album to achieve the feat. According to a chart preview released by Billboard on Sunday, “Arirang” remained at No. 1 on the main albums chart, surpassing new releases including Ye’s “Bully,” which debuted at No. 2, and Melanie Martinez’s “Hades” at No. 3. BTS’ latest achievement marks the group’s seventh No. 1 album on the Billboard 200. The Billboard 200 ranks albums based on a c",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.540076cffcc4442698189eb2d3526215_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "billboard",
+        "bts"
       ]
     }
   ]
