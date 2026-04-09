@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-09T15:16:14.587Z",
+  "generatedAt": "2026-04-09T17:00:17.834Z",
   "items": [
+    {
+      "id": "92f3dcef1a03de78",
+      "title": "All K-Celebrities Spotted At BTS’s First “ARIRANG” Tour Concert In Seoul",
+      "url": "https://www.koreaboo.com/news/k-celebrities-spotted-bts-first-arirang-tour-concert-seoul/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-09T16:41:31.000Z",
+      "snippet": "Peers and juniors, all showed up to support!",
+      "description": "Peers and juniors, all showed up to support!",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "f854bdb2a8a346a6",
       "title": "Watch: BTS Takes 11th Win For “SWIM” And Triple Crown On “M Countdown”; Performances By Hwasa, Dayoung, And More",
@@ -39,7 +53,7 @@
       "publishedAt": "2026-04-09T07:19:21.000Z",
       "snippet": "ARMYs are always on his mind.",
       "description": "ARMYs are always on his mind.",
-      "image": "https://image.koreaboo.com/2026/04/post6-2026-04-09T161810.140.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts"
@@ -111,7 +125,7 @@
       "publishedAt": "2026-04-08T12:53:20.000Z",
       "snippet": "BTS has won their tenth music show trophy for “SWIM”! On the April 8 episode of “Show Champion,” the candidates for first place were BTS’s “SWIM,” Red Velvet’s Irene‘s “Biggest Fan...",
       "description": "BTS has won their tenth music show trophy for “SWIM”! On the April 8 episode of “Show Champion,” the candidates for first place were BTS’s “SWIM,” Red Velvet’s Irene‘s “Biggest Fan,” DAY6’s Wonpil‘s “Highs and Lows,” Jang Haneum’s “WANNA,” and Kep1er’s “KILLA (Face the other me).” The trophy ultimately went to BTS! This is the third time… Continue reading Watch: BTS Takes 10th Win And Triple Crown For “SWIM” On “Show Champion”; Performances By Kino, n.SSign, And More The post Watch: BTS Takes 10th Win And Triple Crown For “SWIM” On “Show Champion”; Performances By Kino, n.SSign, And More appea...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/08055309/bts-0404-26.jpg",
       "tags": [
         "show champion",
         "bts",
@@ -431,22 +445,6 @@
       "tags": [
         "k-pop",
         "album"
-      ]
-    },
-    {
-      "id": "aed5a198435f4475",
-      "title": "BTS’ ‘Arirang’ tops Billboard 200 for second consecutive week, a K-pop first",
-      "url": "https://www.koreaherald.com/article/10710758",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-06T02:48:10.000Z",
-      "snippet": "BTS’ fifth album has topped the Billboard 200 albums chart for the second consecutive week, becoming the first K-pop album to achieve the feat. According to a chart preview release...",
-      "description": "BTS’ fifth album has topped the Billboard 200 albums chart for the second consecutive week, becoming the first K-pop album to achieve the feat. According to a chart preview released by Billboard on Sunday, “Arirang” remained at No. 1 on the main albums chart, surpassing new releases including Ye’s “Bully,” which debuted at No. 2, and Melanie Martinez’s “Hades” at No. 3. BTS’ latest achievement marks the group’s seventh No. 1 album on the Billboard 200. The Billboard 200 ranks albums based on a c",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.540076cffcc4442698189eb2d3526215_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "billboard",
-        "bts"
       ]
     }
   ]
