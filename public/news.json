@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T04:42:35.660Z",
+  "generatedAt": "2026-04-10T06:28:51.874Z",
   "items": [
     {
       "id": "4b4443894a50dab5",
@@ -83,21 +83,6 @@
       "image": "/public/placeholder-news.svg",
       "tags": [
         "world tour",
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "605278015e6a33d1",
-      "title": "Female 4th Gen Idol’s Appearance At BTS’s Concert Sparks Dating Rumors With V",
-      "url": "https://www.koreaboo.com/news/female-4th-gen-idols-appearance-btss-concert-sparks-dating-rumors-v-ive-wonyoung/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-09T17:06:49.000Z",
-      "snippet": "They had previous rumors circulate.",
-      "description": "They had previous rumors circulate.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
         "concert",
         "bts"
       ]
@@ -444,6 +429,22 @@
       "tags": [
         "k-pop",
         "album"
+      ]
+    },
+    {
+      "id": "aed5a198435f4475",
+      "title": "BTS’ ‘Arirang’ tops Billboard 200 for second consecutive week, a K-pop first",
+      "url": "https://www.koreaherald.com/article/10710758",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-06T02:48:10.000Z",
+      "snippet": "BTS’ fifth album has topped the Billboard 200 albums chart for the second consecutive week, becoming the first K-pop album to achieve the feat. According to a chart preview release...",
+      "description": "BTS’ fifth album has topped the Billboard 200 albums chart for the second consecutive week, becoming the first K-pop album to achieve the feat. According to a chart preview released by Billboard on Sunday, “Arirang” remained at No. 1 on the main albums chart, surpassing new releases including Ye’s “Bully,” which debuted at No. 2, and Melanie Martinez’s “Hades” at No. 3. BTS’ latest achievement marks the group’s seventh No. 1 album on the Billboard 200. The Billboard 200 ranks albums based on a c",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.540076cffcc4442698189eb2d3526215_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "billboard",
+        "bts"
       ]
     }
   ]
