@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-04-11T12:41:27.394Z",
+  "generatedAt": "2026-04-11T13:51:02.167Z",
   "items": [
+    {
+      "id": "fdf2b2271bcf13ce",
+      "title": "Legendary K-Pop Idol Reveals Fall From 11th Storey Apartment",
+      "url": "https://www.koreaboo.com/news/legendary-kpop-idol-reveals-fall-11th-storey-apartment/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-11T13:38:46.000Z",
+      "snippet": "He survived the fall.",
+      "description": "He survived the fall.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "94b572fbf2cb9601",
+      "title": "Massive Theft Reported At BTS’s Seoul Concert Venue",
+      "url": "https://www.koreaboo.com/news/theft-bts-concert-venue-goyang-stadium/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-11T13:09:54.000Z",
+      "snippet": "Police have launched a manhunt.",
+      "description": "Police have launched a manhunt.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "655b670f6ba479f7",
       "title": "Bang Si Hyuk Accused Of “Sabotaging” BTS After “ARIRANG” Concert In Seoul",
@@ -414,34 +442,6 @@
       "tags": [
         "idol",
         "nct"
-      ]
-    },
-    {
-      "id": "04b8e6d459cc5e4b",
-      "title": "Billlie to bring out 1st LP next month",
-      "url": "https://www.koreaherald.com/article/10710807",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-06T03:12:41.000Z",
-      "snippet": "Girl group Billlie is poised to release its first studio album in May, according to Mystic Story on Monday. “The Collective Soul and Unconscious: Chapter Two” is a follow-up effort...",
-      "description": "Girl group Billlie is poised to release its first studio album in May, according to Mystic Story on Monday. “The Collective Soul and Unconscious: Chapter Two” is a follow-up effort to second EP “The Collective Soul and Unconscious: Chapter One,” which included the hit song “GingaMingaYo.” The seven-piece girl group dropped the single “Cloud Palace — False Awakening” ahead of the album release in January. In November last year, attendees at a fan meeting event got a first listen of the song. The",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.7b2e0ed599f747e19bc926700bfb9bb4_T1.jpg",
-      "tags": [
-        "album",
-        "fan meeting"
-      ]
-    },
-    {
-      "id": "66516c580241cc64",
-      "title": "T.O.P proves himself strong with 1st solo LP",
-      "url": "https://www.koreaherald.com/article/10710797",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-06T03:01:52.000Z",
-      "snippet": "T.O.P's first solo full-length album reaffirmed his strength across music charts and platforms. His LP “Another Dimension,” released April 3, generated approximately 1.47 million s...",
-      "description": "T.O.P's first solo full-length album reaffirmed his strength across music charts and platforms. His LP “Another Dimension,” released April 3, generated approximately 1.47 million streams on Spotify on the day of release, the most for an album released this year from a K-pop solo artist. It is the first K-pop solo album this year to surpass 1 million streams on the platform. The 11-track set topped the iTunes Top Albums Chart in 15 regions, ranking No. 3 on iTunes Albums Chart Worldwide and hitti",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.cd5add106bbd41439e0c49b3f86a3bf8_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album"
       ]
     }
   ]
