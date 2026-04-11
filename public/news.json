@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T09:33:52.409Z",
+  "generatedAt": "2026-04-11T10:27:42.364Z",
   "items": [
     {
       "id": "655b670f6ba479f7",
@@ -41,21 +41,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "bef272e8bf9a3800",
-      "title": "EXO’s Live Vocals Without CBX Flamed During First World Tour Concert",
-      "url": "https://www.koreaboo.com/news/exos-live-vocals-without-cbx-flamed-first-world-tour-concert/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-10T21:50:04.000Z",
-      "snippet": "They performed many of their older hits.",
-      "description": "They performed many of their older hits.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "world tour",
-        "concert",
-        "exo"
       ]
     },
     {
@@ -443,6 +428,20 @@
       "tags": [
         "idol",
         "nct"
+      ]
+    },
+    {
+      "id": "04b8e6d459cc5e4b",
+      "title": "Billlie to bring out 1st LP next month",
+      "url": "https://www.koreaherald.com/article/10710807",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-06T03:12:41.000Z",
+      "snippet": "Girl group Billlie is poised to release its first studio album in May, according to Mystic Story on Monday. “The Collective Soul and Unconscious: Chapter Two” is a follow-up effort...",
+      "description": "Girl group Billlie is poised to release its first studio album in May, according to Mystic Story on Monday. “The Collective Soul and Unconscious: Chapter Two” is a follow-up effort to second EP “The Collective Soul and Unconscious: Chapter One,” which included the hit song “GingaMingaYo.” The seven-piece girl group dropped the single “Cloud Palace — False Awakening” ahead of the album release in January. In November last year, attendees at a fan meeting event got a first listen of the song. The",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.7b2e0ed599f747e19bc926700bfb9bb4_T1.jpg",
+      "tags": [
+        "album",
+        "fan meeting"
       ]
     }
   ]
