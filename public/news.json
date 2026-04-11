@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T06:56:33.664Z",
+  "generatedAt": "2026-04-11T07:47:46.227Z",
   "items": [
     {
       "id": "655b670f6ba479f7",
@@ -115,20 +115,6 @@
       "tags": [
         "idol",
         "comeback"
-      ]
-    },
-    {
-      "id": "82819b1584c01991",
-      "title": "Santos Bravos sets sights on global stage with Latin pop–K-pop fusion",
-      "url": "https://www.koreaherald.com/article/10714814",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-10T09:52:11.000Z",
-      "snippet": "Latin American boy band Santos Bravos is aiming to move beyond regional recognition, positioning itself as a global act by blending Latin pop with K-pop’s training system and produ...",
-      "description": "Latin American boy band Santos Bravos is aiming to move beyond regional recognition, positioning itself as a global act by blending Latin pop with K-pop’s training system and production model. Formed through a reality series under Hybe Latin America, the quintet — Drew, Alejandro, Kaue, Gabi and Kenneth — debuted in Mexico in October after undergoing K-pop-style training as part of Hybe’s “multihome, multigenre” strategy led by Chairman Bang Si-hyuk. Since its debut, Santos Bravos has drawn atte",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/10/news-p.v1.20260410.ad39cdac199b4f61a5337339cc12e94d_T1.png",
-      "tags": [
-        "k-pop",
-        "debut"
       ]
     },
     {
@@ -441,6 +427,20 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-a.v1.20260406.bec8f5ee10f247f6b7fb5ed5bd3000cc_T1.jpg",
       "tags": [
         "k-pop",
+        "idol",
+        "nct"
+      ]
+    },
+    {
+      "id": "225226f729b112bf",
+      "title": "Ten of NCT to leave SM following Mark’s departure",
+      "url": "https://www.koreaherald.com/article/10711078",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-06T07:55:47.000Z",
+      "snippet": "Ten of NCT and WayV has ended his exclusive contract with SM Entertainment as of Monday, the agency confirmed. “After in-depth discussions with Ten regarding his future activities,...",
+      "description": "Ten of NCT and WayV has ended his exclusive contract with SM Entertainment as of Monday, the agency confirmed. “After in-depth discussions with Ten regarding his future activities, we have agreed to conclude his exclusive contract as of April 8,” SM Entertainment said in a statement. “We will continue to coordinate so that Ten can participate in WayV and NCT group activities in the future.” The Thai idol’s future participation in NCT and WayV activities are expected to be arranged on a case-by-c",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.28e23cef3e8d471aad11f0f270397a55_T1.jpg",
+      "tags": [
         "idol",
         "nct"
       ]
