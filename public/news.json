@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T10:27:42.364Z",
+  "generatedAt": "2026-04-11T11:25:01.147Z",
   "items": [
     {
       "id": "655b670f6ba479f7",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-04-11T04:36:12.000Z",
       "snippet": "He had a say in almost everything.",
       "description": "He had a say in almost everything.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/04/bts-bsh.jpg",
       "tags": [
         "concert",
         "bts"
@@ -27,20 +27,6 @@
       "tags": [
         "idol",
         "bts"
-      ]
-    },
-    {
-      "id": "0eef237058653004",
-      "title": "Newlywed Actor Reveals How He Won Over His K-Pop Idol Wife 10 Years Younger",
-      "url": "https://www.koreaboo.com/news/juwan-girls-day-minah-newlywed-actor-won-idol-wife-heart/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-10T22:22:16.000Z",
-      "snippet": "How cute!",
-      "description": "How cute!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -139,7 +125,7 @@
       "publishedAt": "2026-04-09T12:45:44.000Z",
       "snippet": "BTS has won their eleventh music show trophy for “SWIM”! On the April 9 episode of the Mnet music show, the candidates for first place were BTS’s “SWIM” and Kep1er’s “KILLA (Face t...",
       "description": "BTS has won their eleventh music show trophy for “SWIM”! On the April 9 episode of the Mnet music show, the candidates for first place were BTS’s “SWIM” and Kep1er’s “KILLA (Face the other me).” BTS ultimately took the prize with a total of 10,052 points. This is the third time that “SWIM” has taken… Continue reading Watch: BTS Takes 11th Win For “SWIM” And Triple Crown On “M Countdown”; Performances By Hwasa, Dayoung, And More The post Watch: BTS Takes 11th Win For “SWIM” And Triple Crown On “M Countdown”; Performances By Hwasa, Dayoung, And More appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/04/09054535/bts-0326.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mnet",
         "m countdown",
@@ -442,6 +428,20 @@
       "tags": [
         "album",
         "fan meeting"
+      ]
+    },
+    {
+      "id": "66516c580241cc64",
+      "title": "T.O.P proves himself strong with 1st solo LP",
+      "url": "https://www.koreaherald.com/article/10710797",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-06T03:01:52.000Z",
+      "snippet": "T.O.P's first solo full-length album reaffirmed his strength across music charts and platforms. His LP “Another Dimension,” released April 3, generated approximately 1.47 million s...",
+      "description": "T.O.P's first solo full-length album reaffirmed his strength across music charts and platforms. His LP “Another Dimension,” released April 3, generated approximately 1.47 million streams on Spotify on the day of release, the most for an album released this year from a K-pop solo artist. It is the first K-pop solo album this year to surpass 1 million streams on the platform. The 11-track set topped the iTunes Top Albums Chart in 15 regions, ranking No. 3 on iTunes Albums Chart Worldwide and hitti",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.cd5add106bbd41439e0c49b3f86a3bf8_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album"
       ]
     }
   ]
