@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T13:51:02.167Z",
+  "generatedAt": "2026-04-11T14:31:06.403Z",
   "items": [
     {
       "id": "fdf2b2271bcf13ce",
@@ -23,20 +23,6 @@
       "publishedAt": "2026-04-11T13:09:54.000Z",
       "snippet": "Police have launched a manhunt.",
       "description": "Police have launched a manhunt.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "655b670f6ba479f7",
-      "title": "Bang Si Hyuk Accused Of “Sabotaging” BTS After “ARIRANG” Concert In Seoul",
-      "url": "https://www.koreaboo.com/news/bang-si-hyuk-accused-sabotaging-bts-after-arirang-concert-in-seoul/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-11T04:36:12.000Z",
-      "snippet": "He had a say in almost everything.",
-      "description": "He had a say in almost everything.",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
@@ -442,6 +428,20 @@
       "tags": [
         "idol",
         "nct"
+      ]
+    },
+    {
+      "id": "04b8e6d459cc5e4b",
+      "title": "Billlie to bring out 1st LP next month",
+      "url": "https://www.koreaherald.com/article/10710807",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-06T03:12:41.000Z",
+      "snippet": "Girl group Billlie is poised to release its first studio album in May, according to Mystic Story on Monday. “The Collective Soul and Unconscious: Chapter Two” is a follow-up effort...",
+      "description": "Girl group Billlie is poised to release its first studio album in May, according to Mystic Story on Monday. “The Collective Soul and Unconscious: Chapter Two” is a follow-up effort to second EP “The Collective Soul and Unconscious: Chapter One,” which included the hit song “GingaMingaYo.” The seven-piece girl group dropped the single “Cloud Palace — False Awakening” ahead of the album release in January. In November last year, attendees at a fan meeting event got a first listen of the song. The",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.7b2e0ed599f747e19bc926700bfb9bb4_T1.jpg",
+      "tags": [
+        "album",
+        "fan meeting"
       ]
     }
   ]
