@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-04-12T17:28:55.770Z",
+  "generatedAt": "2026-04-12T18:38:04.631Z",
   "items": [
+    {
+      "id": "643bb9afb0e2d567",
+      "title": "Active K-Pop Idol Sneakily Applies For Dating Show Behind Everyone’s Backs",
+      "url": "https://www.koreaboo.com/news/active-kpop-idol-sneakily-applies-dating-show-behind-everyones-backs/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-12T18:04:52.000Z",
+      "snippet": "She wouldn't be the first idol.",
+      "description": "She wouldn't be the first idol.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "6ff36c0c60879119",
+      "title": "KickFlip Achieves Their Highest 1st-Week Sales Yet With “My First Kick”",
+      "url": "https://www.soompi.com/article/1832371wpp/jyps-kickflip-achieves-their-highest-1st-week-sales-yet-with-my-first-kick",
+      "source": "Soompi",
+      "publishedAt": "2026-04-12T17:47:23.000Z",
+      "snippet": "KickFlip has set a new personal record with their latest release! Last week, the rookie boy group from JYP Entertainment made their comeback with their new mini album “My First Kic...",
+      "description": "KickFlip has set a new personal record with their latest release! Last week, the rookie boy group from JYP Entertainment made their comeback with their new mini album “My First Kick” and its upbeat title track “Eye-Poppin’” on April 6. Hanteo Chart has now reported that KickFlip achieved the highest first-week sales of their career… Continue reading KickFlip Achieves Their Highest 1st-Week Sales Yet With “My First Kick” The post KickFlip Achieves Their Highest 1st-Week Sales Yet With “My First Kick” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/12104108/KickFlip_d3f551.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album"
+      ]
+    },
     {
       "id": "97872d99cca74be1",
       "title": "ENHYPEN, BTS, P1Harmony, ITZY’s Yuna, Stray Kids, ATEEZ, NewJeans, CORTIS, And IVE Sweep Top Spots On Billboard World Albums Chart",
@@ -57,7 +86,7 @@
       "publishedAt": "2026-04-12T14:29:13.000Z",
       "snippet": "The venue was filled with stars galore!",
       "description": "The venue was filled with stars galore!",
-      "image": "https://image.koreaboo.com/2026/04/bts-day-3-2-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts"
@@ -85,7 +114,7 @@
       "publishedAt": "2026-04-12T07:16:56.000Z",
       "snippet": "We love to see it!",
       "description": "We love to see it!",
-      "image": "https://image.koreaboo.com/2026/04/post5-2026-04-12T161105.384.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "bts"
@@ -99,7 +128,7 @@
       "publishedAt": "2026-04-12T05:20:37.000Z",
       "snippet": "BTS’s latest album has already gone silver in the United Kingdom! On April 10 local time, the British Phonographic Industry (BPI) announced that BTS’s new album “ARIRANG” had recei...",
       "description": "BTS’s latest album has already gone silver in the United Kingdom! On April 10 local time, the British Phonographic Industry (BPI) announced that BTS’s new album “ARIRANG” had received an official silver BRIT certification, making it their 14th album to achieve the feat. According to the BPI’s certification thresholds, albums are certified silver at 60,000… Continue reading BTS’s “ARIRANG” Becomes Their 14th Album To Be Certified BRIT Silver In UK The post BTS’s “ARIRANG” Becomes Their 14th Album To Be Certified BRIT Silver In UK appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/11221801/BTS_8b8688.jpg",
       "tags": [
         "album",
         "bts"
@@ -414,35 +443,6 @@
         "world tour",
         "concert",
         "seventeen"
-      ]
-    },
-    {
-      "id": "51a9ba2db3ad9795",
-      "title": "What’s driving the recent wave of K-pop idol departures",
-      "url": "https://www.koreaherald.com/article/10711130",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-06T08:50:14.000Z",
-      "snippet": "A recent wave of departures by popular idols — from Heeseung of Enhypen to Mark and Ten of NCT — has surprised fans, with multiple members leaving their groups within a single mont...",
-      "description": "A recent wave of departures by popular idols — from Heeseung of Enhypen to Mark and Ten of NCT — has surprised fans, with multiple members leaving their groups within a single month. Industry insiders, however, say such moves are not unusual, particularly among idols in the later stages of their careers. They point to a combination of artistic ambition, contract cycles and the growing financial independence enabled by social media. Heeseung announced on March 10 that he would leave Enhypen and t",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-a.v1.20260406.bec8f5ee10f247f6b7fb5ed5bd3000cc_T1.jpg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "nct"
-      ]
-    },
-    {
-      "id": "225226f729b112bf",
-      "title": "Ten of NCT to leave SM following Mark’s departure",
-      "url": "https://www.koreaherald.com/article/10711078",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-06T07:55:47.000Z",
-      "snippet": "Ten of NCT and WayV has ended his exclusive contract with SM Entertainment as of Monday, the agency confirmed. “After in-depth discussions with Ten regarding his future activities,...",
-      "description": "Ten of NCT and WayV has ended his exclusive contract with SM Entertainment as of Monday, the agency confirmed. “After in-depth discussions with Ten regarding his future activities, we have agreed to conclude his exclusive contract as of April 8,” SM Entertainment said in a statement. “We will continue to coordinate so that Ten can participate in WayV and NCT group activities in the future.” The Thai idol’s future participation in NCT and WayV activities are expected to be arranged on a case-by-c",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.28e23cef3e8d471aad11f0f270397a55_T1.jpg",
-      "tags": [
-        "idol",
-        "nct"
       ]
     }
   ]
