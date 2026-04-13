@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-13T13:09:58.591Z",
+  "generatedAt": "2026-04-13T15:10:51.968Z",
   "items": [
+    {
+      "id": "ff511565a4329b68",
+      "title": "The Most Unlikely Guests Spotted At BTS’s “ARIRANG” Concert In Goyang",
+      "url": "https://www.koreaboo.com/news/monks-bts-concert-unlikely-surprise-guests-goyang-fans-seoul/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-13T13:44:26.000Z",
+      "snippet": "They're going viral now.",
+      "description": "They're going viral now.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "3fe43d3a3d68c058",
       "title": "i-dle Confirmed To Make Summer Comeback",
@@ -422,21 +436,6 @@
       "tags": [
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "4a9164e8c6115c3c",
-      "title": "EXO thanks fans on 14th debut anniversary",
-      "url": "https://www.koreaherald.com/article/10712596",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-08T02:46:52.000Z",
-      "snippet": "EXO celebrated its 14th debut anniversary Wednesday, expressing gratitude towards fans via label SM Entertainment. “We cannot believe it has been 14 years,” said the bandmates. Loo...",
-      "description": "EXO celebrated its 14th debut anniversary Wednesday, expressing gratitude towards fans via label SM Entertainment. “We cannot believe it has been 14 years,” said the bandmates. Looking back over their career, they highlighted moments spent with their fans as the most meaningful, adding that the atmosphere they felt at every performance and the way the fans looked at them made Exo what it is today. Meanwhile, the group's upcoming concert tour, “Exo Planet #6 - EXhOrizon,” begins Friday in Seoul.",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/08/news-p.v1.20260408.ad6e055c05254f48bbf9cde9c73f007c_T1.jpg",
-      "tags": [
-        "debut",
-        "concert",
-        "exo"
       ]
     }
   ]
