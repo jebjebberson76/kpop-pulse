@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-12T23:28:00.447Z",
+  "generatedAt": "2026-04-13T02:02:23.042Z",
   "items": [
+    {
+      "id": "e20dc43a62a77d1a",
+      "title": "NCT’s Taeyong teams up with Anderson Paak",
+      "url": "https://www.koreaherald.com/article/10715674",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-13T01:33:06.000Z",
+      "snippet": "Taeyong of NCT will release a new single featuring Anderson Paak on April 17, label SM Entertainment announced Monday. The two musicians collaborated on “Rock Solid,” a hip-hop tun...",
+      "description": "Taeyong of NCT will release a new single featuring Anderson Paak on April 17, label SM Entertainment announced Monday. The two musicians collaborated on “Rock Solid,” a hip-hop tune mixing Taeyong’s powerful rapping and Paak’s dynamic flow leaning on drum beats. The single will also be a taste of Taeyong’s first solo album set to release in May. On Saturday, Taeyong concluded his first solo tour in Asia in Kuala Lumpur. Under the title, “TY Track - Remastered,” he performed nine shows across six",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/13/news-p.v1.20260413.5ce56ddd8543432689887ed7e4c3fd09_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
+      ]
+    },
     {
       "id": "f7a981d70350f1c4",
       "title": "BTS&apos; claims 3rd week at No. 1 on Billboard 200 with &apos;Arirang,&apos; a first in K-pop",
@@ -121,34 +135,6 @@
         "inkigayo",
         "bts",
         "ive"
-      ]
-    },
-    {
-      "id": "a71ee3d38e0ed5ce",
-      "title": "All Celebrities Spotted At BTS’s Third “ARIRANG” Concert At Goyang Stadium",
-      "url": "https://www.koreaboo.com/news/celebrities-spotted-bts-third-arirang-concert-goyang-stadium/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-12T14:29:13.000Z",
-      "snippet": "The venue was filled with stars galore!",
-      "description": "The venue was filled with stars galore!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "9b1f58f9698b45d4",
-      "title": "Female K-Pop Idol Teases With Butt Dance Video And Bikini Photos",
-      "url": "https://www.koreaboo.com/news/female-idol-teases-butt-dance-bikini/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-12T11:19:46.000Z",
-      "snippet": "She's having fun!",
-      "description": "She's having fun!",
-      "image": "https://storage.googleapis.com/koreaboo-cdn/2026/04/AOA-Jimin-4.mp4",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -445,6 +431,20 @@
         "album",
         "billboard",
         "bts"
+      ]
+    },
+    {
+      "id": "02703400c9bde689",
+      "title": "KickFlip wants eyes on it with 4th EP ‘My First Kick’",
+      "url": "https://www.koreaherald.com/article/10711142",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-06T09:09:00.000Z",
+      "snippet": "Boy band KickFlip returned Monday with its fourth EP, “My First Kick,” leaning further into the bright, unruly energy the group has been building since its debut into a bolder coll...",
+      "description": "Boy band KickFlip returned Monday with its fourth EP, “My First Kick,” leaning further into the bright, unruly energy the group has been building since its debut into a bolder collective statement. At a showcase in eastern Seoul, KickFlip introduced the seven-track album as a release built around “firsts,” from entering their 20s to taking on new musical and performance challenges. The album is led by the lead track “Eye-Poppin',\" a hyper-punk dance song that channels an aggressive, cheeky kind",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/06/news-p.v1.20260406.412f30bd5bfb458d9ccf36e994400fe0_T1.jpg",
+      "tags": [
+        "debut",
+        "album"
       ]
     }
   ]
