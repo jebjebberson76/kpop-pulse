@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-13T17:59:02.473Z",
+  "generatedAt": "2026-04-13T19:17:56.427Z",
   "items": [
+    {
+      "id": "a28470b8ec762fda",
+      "title": "3rd Gen K-Pop Idol Calls Out “Weird” Behavior",
+      "url": "https://www.koreaboo.com/news/got7-bambam-ai-thats-weird-tweet/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-13T19:01:40.000Z",
+      "snippet": "Just...don't do it?",
+      "description": "Just...don't do it?",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "c7c4a60c21731206",
       "title": "NCT Wish’s Comeback Slammed For Plagiarizing RIIZE",
@@ -423,20 +437,6 @@
         "world tour",
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "da755c2b810cd41b",
-      "title": "AI glasses, robot concerts: Galaxy Corp.’s K-pop experiment",
-      "url": "https://www.koreaherald.com/article/10713647",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-09T05:15:04.000Z",
-      "snippet": "Galaxy Corp., best known as G-Dragon's agency, hopes to introduce what it calls the first K-pop-dedicated AI glasses by the end of this year, alongside a robot-based concert venue...",
-      "description": "Galaxy Corp., best known as G-Dragon's agency, hopes to introduce what it calls the first K-pop-dedicated AI glasses by the end of this year, alongside a robot-based concert venue in Seoul, according to founder Choi Yong-ho. Choi on Wednesday outlined the company’s broader ambition to position itself as an “entertainment technology” firm through a slate of new initiatives. “To demonstrate that we are an enter-tech company, we will introduce AI glasses in collaboration with artists,” Choi said du",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/09/news-p.v1.20260409.f67bde5c135d4edd80374c69d83c8ce0_T1.jpg",
-      "tags": [
-        "k-pop",
-        "concert"
       ]
     }
   ]
