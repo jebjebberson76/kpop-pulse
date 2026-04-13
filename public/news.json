@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T20:46:32.973Z",
+  "generatedAt": "2026-04-13T21:41:12.246Z",
   "items": [
     {
       "id": "a28470b8ec762fda",
@@ -38,20 +38,6 @@
       "publishedAt": "2026-04-13T15:26:03.000Z",
       "snippet": "Like father, like son!",
       "description": "Like father, like son!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "cdf1cbc993d2369a",
-      "title": "“Embarrassing” Behavior In Front Of Jungkook At BTS “ARIRANG” Concert Gets Put On Blast",
-      "url": "https://www.koreaboo.com/news/bts-jungkook-fans-barricade-reaction-phones-arirang-concert-goyang/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-13T14:26:29.000Z",
-      "snippet": "\"None of you deserve it.\"",
-      "description": "\"None of you deserve it.\"",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
@@ -436,6 +422,20 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/09/news-p.v1.20260409.f67bde5c135d4edd80374c69d83c8ce0_T1.jpg",
       "tags": [
         "k-pop",
+        "concert"
+      ]
+    },
+    {
+      "id": "82b94fe1a471bac1",
+      "title": "Enhypen’s Seoul show sells out",
+      "url": "https://www.koreaherald.com/article/10713570",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-09T03:12:32.000Z",
+      "snippet": "Tickets for Enhypen’s Seoul concert sold out through an exclusive offering to fans, agency Belift Lab said Thursday. The group is slated to go live for three shows next month, whic...",
+      "description": "Tickets for Enhypen’s Seoul concert sold out through an exclusive offering to fans, agency Belift Lab said Thursday. The group is slated to go live for three shows next month, which will kick off world tour “Blood Saga.” It will be livestreamed as well for those who could not secure tickets for the shows. The forthcoming concert trip will have 30 shows spread across 21 cities. It will mark the group's first standalone shows in Latin America, held in Sao Paulo, Lima and Mexico City, followed by v",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/09/news-p.v1.20260409.6047267a068345e7b7046ce4dcc6bf0e_T1.jpg",
+      "tags": [
+        "world tour",
         "concert"
       ]
     }
