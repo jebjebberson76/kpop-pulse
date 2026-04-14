@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-14T11:53:51.821Z",
+  "generatedAt": "2026-04-14T13:12:12.026Z",
   "items": [
+    {
+      "id": "4713549dbc7f6685",
+      "title": "BTS’s Controversial Concert And BIGBANG’s “Coachella” Performance Spark Heated Debate",
+      "url": "https://www.koreaboo.com/news/bts-controversial-concert-bigbang-coachella-performance-spark-heated-debate/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-14T11:56:53.000Z",
+      "snippet": "\"How is this supposed to be promoting national prestige?”",
+      "description": "\"How is this supposed to be promoting national prestige?”",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "cabaf6d87d3904e2",
       "title": "BTS’s Concert Reveals Huge Flaw In Korea’s Concert System",
@@ -427,20 +441,6 @@
         "mini album",
         "album",
         "billboard"
-      ]
-    },
-    {
-      "id": "7d3c5a60ccce1633",
-      "title": "Shinee’s Taemin poised to make history at Coachella",
-      "url": "https://www.koreaherald.com/article/10714500",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-10T03:14:01.000Z",
-      "snippet": "Taemin of Shinee is ready to make his historic solo debut at Coachella Valley Music and Arts Festival on Saturday. He will take to the Mojave Stage at the festival held in Californ...",
-      "description": "Taemin of Shinee is ready to make his historic solo debut at Coachella Valley Music and Arts Festival on Saturday. He will take to the Mojave Stage at the festival held in California, US, as the first-ever Korean male solo performer. Acknowledging that he is feeling “honored and grateful” to be part of the lineup, the veteran musician told Jennifer Hudson on her show earlier this month: “There is a saying in Korea, ‘Big opportunities come three times in life’ … and this is one of them.” During t",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/10/news-p.v1.20260410.32d3f19e37c6453482e85254fc0b3ac2_T1.jpg",
-      "tags": [
-        "debut",
-        "shinee"
       ]
     }
   ]
