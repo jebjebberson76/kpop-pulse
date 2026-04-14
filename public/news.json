@@ -1,32 +1,18 @@
 {
-  "generatedAt": "2026-04-14T06:27:44.193Z",
+  "generatedAt": "2026-04-14T08:23:13.741Z",
   "items": [
     {
-      "id": "4809d365b5177df4",
-      "title": "Taemin takes the stage for solo Coachella debut",
-      "url": "https://www.koreaherald.com/article/10716969",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-14T05:23:39.000Z",
-      "snippet": "Taemin of Shinee delivered a commanding solo performance at Coachella Valley Music and Arts Festival, becoming the first Korean male solo artist to perform an official solo set at...",
-      "description": "Taemin of Shinee delivered a commanding solo performance at Coachella Valley Music and Arts Festival, becoming the first Korean male solo artist to perform an official solo set at the global music event. Taking the Mojave stage, Taemin led a roughly 50-minute set that highlighted both his artistic identity and stagecraft. The performance opened with a striking visual sequence, as Taemin emerged from a large egg-shaped structure — a symbolic representation of breaking free from imposed constraint",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.a9bbacd0f63b453c9afc3d69c6e7177b_T1.jpg",
+      "id": "82bdb6ad44468924",
+      "title": "Famous Chef Lee Yeon Bok Reviews BTS’s Concert As Someone In Their 60s",
+      "url": "https://www.koreaboo.com/news/famous-chef-lee-yeon-bok-reviews-bts-concert-60s/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-14T08:19:26.000Z",
+      "snippet": "Chef Lee Yeon Bok, a master of Chinese cuisine, was deeply moved after personally attending a BTS concert. On the 14th, Lee Yeon Bok shared his impressions on social media…",
+      "description": "Chef Lee Yeon Bok, a master of Chinese cuisine, was deeply moved after personally attending a BTS concert. On the 14th, Lee Yeon Bok shared his impressions on social media…",
+      "image": "/public/placeholder-news.svg",
       "tags": [
-        "debut",
-        "shinee"
-      ]
-    },
-    {
-      "id": "873cc2a56a5467c6",
-      "title": "Ex–Super Junior member Kang In credited with saving comedian Lee Jin-ho",
-      "url": "https://www.koreaherald.com/article/10716817",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-14T03:25:44.000Z",
-      "snippet": "Kang In, a former member of the K-pop group Super Junior, is reported to have been the first to call emergency services after comedian Lee Jin-ho collapsed from a cerebral hemorrha...",
-      "description": "Kang In, a former member of the K-pop group Super Junior, is reported to have been the first to call emergency services after comedian Lee Jin-ho collapsed from a cerebral hemorrhage. According to local media reports on Tuesday, he was on the phone with Lee on April 1 when Lee began to lose consciousness. Sensing the urgency, Kang In quickly called emergency services. When responders arrived, they found Lee collapsed and transported him to a hospital. Lee, after receiving care in the intensive c",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.e220bd8d01394dba95113c156c00b3b5_T1.jpg",
-      "tags": [
-        "k-pop",
-        "super junior"
+        "concert",
+        "bts"
       ]
     },
     {
@@ -44,6 +30,49 @@
         "album",
         "music video",
         "nmixx"
+      ]
+    },
+    {
+      "id": "60525927e0cb2968",
+      "title": "TXT’s 8th EP sells 1M in a day",
+      "url": "https://www.koreaherald.com/article/10716794",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-14T02:46:07.000Z",
+      "snippet": "Tomorrow X Together released its eighth EP “7th Year: A Moment of Stillness in the Thorns” on Monday, selling more than 1.35 million copies that day, said label Big Hit Music citin...",
+      "description": "Tomorrow X Together released its eighth EP “7th Year: A Moment of Stillness in the Thorns” on Monday, selling more than 1.35 million copies that day, said label Big Hit Music citing a local tally. The mini album is the group’s seventh consecutive million-seller. All albums, except for its first, \"minisode 2: Thursday’s Child,\" achieved the feat in one day. The new EP's lead track “Stick With You” debuted on Melon’s Top 100 at No. 34 and climbed up to No. 18 on Tuesday. The six-track EP topped th",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.abba113b2d484bcabab07ed606a96ef3_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "melon"
+      ]
+    },
+    {
+      "id": "fd6887e9696ce992",
+      "title": "NewJeans members spotted in Copenhagen: report",
+      "url": "https://www.koreaherald.com/article/10716776",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-14T02:39:38.000Z",
+      "snippet": "Haerin and Hyein of NewJeans were seen in Copenhagen, local media reported Tuesday, adding Hani had accompanied them as well. A social media post from China with a picture of the t...",
+      "description": "Haerin and Hyein of NewJeans were seen in Copenhagen, local media reported Tuesday, adding Hani had accompanied them as well. A social media post from China with a picture of the two holding cameras began circulating on Sunday, prompting speculations that the group is preparing for a comeback. Agency Ador confirmed that members of the group are visiting Denmark along with staff but did not provide specifics. In November last year, Haerin and Hyein chose to reverse their decisions to part ways wi",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.73ac2d080a27480584610f4997de7f8c_T1.jpg",
+      "tags": [
+        "comeback",
+        "newjeans"
+      ]
+    },
+    {
+      "id": "a6bcc34781da9e57",
+      "title": "Ex-Super Junior Kang In to release single after 7-year hiatus",
+      "url": "https://www.koreaherald.com/article/10716740",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-14T02:29:56.000Z",
+      "snippet": "Kang In, formerly of Super Junior, has announced a return to music with a new release. The 41-year-old singer shared the news via his YouTube channel on Monday, speaking about his...",
+      "description": "Kang In, formerly of Super Junior, has announced a return to music with a new release. The 41-year-old singer shared the news via his YouTube channel on Monday, speaking about his upcoming digital single, “Love Is Pain.” “It’s been a long time since I last greeted you,” Kang In said in the video. “Thankfully, I was able to start a fan meeting tour this year, beginning in the Philippines.” He added that while the song has not been fully finalized, he had the chance to perform it for fans during t",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260407.4830413de7e04bef8b24acdcd73a11dc_T1.jpg",
+      "tags": [
+        "fan meeting",
+        "super junior"
       ]
     },
     {
@@ -75,6 +104,21 @@
         "music video",
         "billboard",
         "stray kids"
+      ]
+    },
+    {
+      "id": "a2f1ff10d68650ee",
+      "title": "Seventeen to host fan meetings in Japan",
+      "url": "https://www.koreaherald.com/article/10716623",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-14T01:42:04.000Z",
+      "snippet": "Seventeen will head over to Japan next month to meet with fans, Pledis Entertainment announced Tuesday. The group will meet and greet fans for two days each in Tokyo and Osaka for...",
+      "description": "Seventeen will head over to Japan next month to meet with fans, Pledis Entertainment announced Tuesday. The group will meet and greet fans for two days each in Tokyo and Osaka for the event titled “Yakusoku,” promising fans to be with them forever. The four fan meetings will be held at Tokyo Dome and Kyocera Dome, respectively, on May 13-14 and 23-24. In Korea, the group will host one meetup in June in Incheon, where the boy band held its encore show for the world tour “New_,” drawing a total au",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.1a24a26b920142029c5cbcc17564ec37_T1.jpg",
+      "tags": [
+        "world tour",
+        "fan meeting",
+        "seventeen"
       ]
     },
     {
@@ -357,34 +401,6 @@
       ]
     },
     {
-      "id": "467f5560efb364c6",
-      "title": "Watch: BTS Takes 12th Win For “SWIM” On “Music Core”; Performances By Hwasa, Dayoung, KISS OF LIFE, And More",
-      "url": "https://www.soompi.com/article/1832222wpp/watch-bts-takes-12th-win-for-swim-on-music-core-performances-by-hwasa-dayoung-kiss-of-life-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-04-11T23:34:23.000Z",
-      "snippet": "BTS has claimed a 12th music show trophy for “SWIM”! On the April 11 episode of MBC’s “Music Core,” the candidates for first place were BTS’s “SWIM,” DAY6’s Wonpil’s “Highs and Low...",
-      "description": "BTS has claimed a 12th music show trophy for “SWIM”! On the April 11 episode of MBC’s “Music Core,” the candidates for first place were BTS’s “SWIM,” DAY6’s Wonpil’s “Highs and Lows,” and Hearts2Hearts’ “RUDE!” BTS ultimately took the win with a total of 8,532 points. Congratulations to BTS! Watch a clip of the winner… Continue reading Watch: BTS Takes 12th Win For “SWIM” On “Music Core”; Performances By Hwasa, Dayoung, KISS OF LIFE, And More The post Watch: BTS Takes 12th Win For “SWIM” On “Music Core”; Performances By Hwasa, Dayoung, KISS OF LIFE, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "day6"
-      ]
-    },
-    {
-      "id": "d04d589eaa25eb10",
-      "title": "April Boy Group Brand Reputation Rankings Announced",
-      "url": "https://www.soompi.com/article/1832162wpp/april-boy-group-brand-reputation-rankings-announced-8",
-      "source": "Soompi",
-      "publishedAt": "2026-04-11T02:45:23.000Z",
-      "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
-      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from March 11 to April 11. BTS topped this month’s list with a staggering… Continue reading April Boy Group Brand Reputation Rankings Announced The post April Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
-      ]
-    },
-    {
       "id": "82819b1584c01991",
       "title": "Santos Bravos sets sights on global stage with Latin pop–K-pop fusion",
       "url": "https://www.koreaherald.com/article/10714814",
@@ -425,20 +441,6 @@
       "tags": [
         "debut",
         "shinee"
-      ]
-    },
-    {
-      "id": "d0922c70adb67681",
-      "title": "NCT launches project to celebrate 10th year",
-      "url": "https://www.koreaherald.com/article/10714337",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-10T01:53:45.000Z",
-      "snippet": "NCT announced its initiative to mark its tenth debut anniversary via its label SM Entertainment on Thursday. Under the catchphrase “Everything, All at Once, Neo,” the group signale...",
-      "description": "NCT announced its initiative to mark its tenth debut anniversary via its label SM Entertainment on Thursday. Under the catchphrase “Everything, All at Once, Neo,” the group signaled the launch of the project, starting with a new logo and a website listing a plan for the next year. A \"Neo Ground\" pop-up store to commemorate the milestone will run from May 15-23, and a “Neo Dimension” exhibition will be held in the third quarter. Subunits will keep charting their own paths: NCT 127 and Way V each",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/10/news-p.v1.20260410.37c46790069d48ceb01c990420d48eb5_T1.jpg",
-      "tags": [
-        "debut",
-        "nct"
       ]
     }
   ]
