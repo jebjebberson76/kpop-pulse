@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T13:09:45.993Z",
+  "generatedAt": "2026-04-15T15:01:19.760Z",
   "items": [
     {
       "id": "8b6a72c58d8a481b",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-04-15T11:37:11.000Z",
       "snippet": "\"How bad of a singer are you...\"",
       "description": "\"How bad of a singer are you...\"",
-      "image": "https://image.koreaboo.com/2026/04/jiminrehearsal-FI.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts"
@@ -28,20 +28,6 @@
         "music video",
         "mv",
         "blackpink"
-      ]
-    },
-    {
-      "id": "a0b093eac36f94d6",
-      "title": "IU Surprises With Behind-The-Scenes Story Of Attending TWICE And EXO D.O.’s Concerts",
-      "url": "https://www.koreaboo.com/news/iu-surprises-behind-scenes-story-twice-exo-do-kyungsoo-concerts/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-15T07:17:36.000Z",
-      "snippet": "Singer and actress IU revealed a behind-the-scene story of her attending fellow artists’ concerts. On the 14th, IU appeared on the web variety show Salon Drip alongside actors Byun...",
-      "description": "Singer and actress IU revealed a behind-the-scene story of her attending fellow artists’ concerts. On the 14th, IU appeared on the web variety show Salon Drip alongside actors Byun Woo…",
-      "image": "https://image.koreaboo.com/2026/04/IU.jpg",
-      "tags": [
-        "twice",
-        "exo"
       ]
     },
     {
@@ -126,7 +112,7 @@
       "publishedAt": "2026-04-14T22:55:36.000Z",
       "snippet": "Circle Chart (formerly known as Gaon Chart) has revealed its latest monthly and weekly chart rankings! Monthly Album Chart BTS achieved a double crown on this month’s Circle charts...",
       "description": "Circle Chart (formerly known as Gaon Chart) has revealed its latest monthly and weekly chart rankings! Monthly Album Chart BTS achieved a double crown on this month’s Circle charts, topping both the overall physical album chart and the social chart for March. BTS swept three of the top four spots on the monthly album chart… Continue reading BTS, Hearts2Hearts, Red Velvet’s Irene, DAY6’s Wonpil, SHINee’s Onew, And More Top Circle Monthly And Weekly Charts The post BTS, Hearts2Hearts, Red Velvet’s Irene, DAY6’s Wonpil, SHINee’s Onew, And More Top Circle Monthly And Weekly Charts appeared first o...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/14153812/BTS-Hearts2Hearts-Irene-Wonpil.jpg",
       "tags": [
         "album",
         "gaon",
@@ -144,7 +130,7 @@
       "publishedAt": "2026-04-14T21:14:34.000Z",
       "snippet": "TXT’s latest comeback is off to a strong start! On April 13 at 6 p.m. KST, TXT made their highly-anticipated return with their new mini album “7TH YEAR: A Moment of Stillness in th...",
       "description": "TXT’s latest comeback is off to a strong start! On April 13 at 6 p.m. KST, TXT made their highly-anticipated return with their new mini album “7TH YEAR: A Moment of Stillness in the Thorns” and its title track “Stick With You.” According to Hanteo Chart, by the end of the following day, “7TH YEAR:… Continue reading TXT Surpasses 1.5 Million Sales In 2 Days + Tops Global Charts With “7TH YEAR: A Moment Of Stillness In The Thorns” The post TXT Surpasses 1.5 Million Sales In 2 Days + Tops Global Charts With “7TH YEAR: A Moment Of Stillness In The Thorns” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/14141202/TXT.jpg",
       "tags": [
         "comeback",
         "mini album",
@@ -441,6 +427,20 @@
       "tags": [
         "billboard",
         "seventeen"
+      ]
+    },
+    {
+      "id": "e20dc43a62a77d1a",
+      "title": "NCT’s Taeyong teams up with Anderson Paak",
+      "url": "https://www.koreaherald.com/article/10715674",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-13T01:33:06.000Z",
+      "snippet": "Taeyong of NCT will release a new single featuring Anderson Paak on April 17, label SM Entertainment announced Monday. The two musicians collaborated on “Rock Solid,” a hip-hop tun...",
+      "description": "Taeyong of NCT will release a new single featuring Anderson Paak on April 17, label SM Entertainment announced Monday. The two musicians collaborated on “Rock Solid,” a hip-hop tune mixing Taeyong’s powerful rapping and Paak’s dynamic flow leaning on drum beats. The single will also be a taste of Taeyong’s first solo album set to release in May. On Saturday, Taeyong concluded his first solo tour in Asia in Kuala Lumpur. Under the title, “TY Track - Remastered,” he performed nine shows across six",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/13/news-p.v1.20260413.5ce56ddd8543432689887ed7e4c3fd09_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
       ]
     }
   ]
