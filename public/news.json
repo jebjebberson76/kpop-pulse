@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T18:02:06.975Z",
+  "generatedAt": "2026-04-15T19:58:49.882Z",
   "items": [
     {
       "id": "b1a64b9b23ee45fd",
@@ -41,24 +41,10 @@
       "publishedAt": "2026-04-15T15:19:30.000Z",
       "snippet": "Should we riot?",
       "description": "Should we riot?",
-      "image": "https://image.koreaboo.com/2026/04/jk-bang-chan.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "bts",
         "stray kids"
-      ]
-    },
-    {
-      "id": "8b6a72c58d8a481b",
-      "title": "BTS’s Jimin Torn Apart For “Shockingly Lip Syncing” Even During Concert Rehearsals",
-      "url": "https://www.koreaboo.com/news/bts-jimin-torn-apart-shockingly-lip-syncing-even-concert-rehearsals/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-15T11:37:11.000Z",
-      "snippet": "\"How bad of a singer are you...\"",
-      "description": "\"How bad of a singer are you...\"",
-      "image": "https://image.koreaboo.com/2026/04/jiminrehearsal-FI.jpg",
-      "tags": [
-        "concert",
-        "bts"
       ]
     },
     {
@@ -98,7 +84,7 @@
       "publishedAt": "2026-04-15T05:11:21.000Z",
       "snippet": "BTS has made another impressive YouTube achievement! On April 15 at approximately 1 p.m. KST, the group’s music video for “SWIM” surpassed 100 million views. This means that it too...",
       "description": "BTS has made another impressive YouTube achievement! On April 15 at approximately 1 p.m. KST, the group’s music video for “SWIM” surpassed 100 million views. This means that it took approximately 26 days since the music video’s release on March 20 at 1 p.m. KST to achieve the feat, also making “SWIM” the first K-pop… Continue reading BTS’s “SWIM” Becomes 1st K-Pop MV Of 2026 To Hit 100 Million Views The post BTS’s “SWIM” Becomes 1st K-Pop MV Of 2026 To Hit 100 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/14220805/bts-1-.jpeg",
       "tags": [
         "k-pop",
         "music video",
@@ -143,7 +129,7 @@
       "publishedAt": "2026-04-14T23:54:53.000Z",
       "snippet": "BTS continues to reign over multiple Billboard charts with their latest album! This past weekend, Billboard announced that BTS’s studio album “ARIRANG” was now spending a historic...",
       "description": "BTS continues to reign over multiple Billboard charts with their latest album! This past weekend, Billboard announced that BTS’s studio album “ARIRANG” was now spending a historic third week at No. 1 on the Billboard 200, which ranks the most popular albums in the United States. On April 14 local time, Billboard went on to… Continue reading BTS Tops 7 Billboard Charts + Lands 6 Songs On Hot 100 For 3rd Week In A Row The post BTS Tops 7 Billboard Charts + Lands 6 Songs On Hot 100 For 3rd Week In A Row appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/14165058/BTS_ef3fc9.jpg",
       "tags": [
         "album",
         "billboard",
@@ -444,6 +430,20 @@
       "tags": [
         "debut",
         "concert"
+      ]
+    },
+    {
+      "id": "ab7e9df4c9aeae0b",
+      "title": "Seventeen’s DK, Seungkwan put out new single",
+      "url": "https://www.koreaherald.com/article/10715880",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-13T02:46:01.000Z",
+      "snippet": "DK and Seungkwan of Seventeen are releasing a new single, “Feel Me,” on Monday, according to agency Pledis Entertainment. The new love song forms part of NHN Bugs’ singles project....",
+      "description": "DK and Seungkwan of Seventeen are releasing a new single, “Feel Me,” on Monday, according to agency Pledis Entertainment. The new love song forms part of NHN Bugs’ singles project. Seungkwan contributed lyrics to the track, which confesses feelings of destiny. The duo subunit was formed in January and released its first EP “Serenade.” The six-track set fronted by “Blue,” sold over 520,000 copies in the first week and entered the Billboard 200 at No. 195. It topped the iTunes Top Albums chart in",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/13/news-p.v1.20260413.c5583f022c7f4fa7b762f506dd587764_T1.jpg",
+      "tags": [
+        "billboard",
+        "seventeen"
       ]
     }
   ]
