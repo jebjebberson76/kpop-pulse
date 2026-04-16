@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T07:22:35.621Z",
+  "generatedAt": "2026-04-16T09:12:01.883Z",
   "items": [
     {
       "id": "97bcbab4d750448c",
@@ -342,23 +342,6 @@
       ]
     },
     {
-      "id": "cc1faf584424c967",
-      "title": "NMIXX Announces Comeback With 5th EP “Heavy Serenade”",
-      "url": "https://www.soompi.com/article/1832810wpp/nmixx-announces-comeback-with-5th-ep-heavy-serenade",
-      "source": "Soompi",
-      "publishedAt": "2026-04-14T03:07:45.000Z",
-      "snippet": "NMIXX is returning with new music! On April 14, the girl group announced their comeback with a schedule for their upcoming mini album “Heavy Serenade.” A pre-release track titled “...",
-      "description": "NMIXX is returning with new music! On April 14, the girl group announced their comeback with a schedule for their upcoming mini album “Heavy Serenade.” A pre-release track titled “Crescendo” will be unveiled on April 28, and the “Heavy Serenade” album along with the music video for the title track of the same name will… Continue reading NMIXX Announces Comeback With 5th EP “Heavy Serenade” The post NMIXX Announces Comeback With 5th EP “Heavy Serenade” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album",
-        "music video",
-        "nmixx"
-      ]
-    },
-    {
       "id": "60525927e0cb2968",
       "title": "TXT’s 8th EP sells 1M in a day",
       "url": "https://www.koreaherald.com/article/10716794",
@@ -446,6 +429,20 @@
         "album",
         "billboard",
         "bts"
+      ]
+    },
+    {
+      "id": "cbaa80ca3d6fa1fe",
+      "title": "Le Sserafim to return with second studio album next month",
+      "url": "https://www.koreaherald.com/article/10715972",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-13T05:19:41.000Z",
+      "snippet": "Le Sserafim will return with its second full-length album, “Pureflow pt.1,” on May 22. The group announced the release Monday via Weverse, Hybe’s superfan platform, confirming that...",
+      "description": "Le Sserafim will return with its second full-length album, “Pureflow pt.1,” on May 22. The group announced the release Monday via Weverse, Hybe’s superfan platform, confirming that the upcoming album follows its 2023 release “Unforgiven.” “'Pureflow pt.1’ explores the members’ journey of growth as they confront and embrace their fears,” Source Music said in a statement. “While the group’s earlier message centered on strength through fearlessness, the new album shifts toward a more nuanced theme",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/13/news-p.v1.20260413.341a80cecdf24fcb9f98fae419c5d074_T1.png",
+      "tags": [
+        "album",
+        "le sserafim"
       ]
     }
   ]
