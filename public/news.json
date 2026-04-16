@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-04-16T19:03:05.361Z",
+  "generatedAt": "2026-04-16T20:41:33.089Z",
   "items": [
-    {
-      "id": "5fea280d429509fb",
-      "title": "BTS’s RM “Clocks” A Fan Talking About His Leg Injury On Social Media",
-      "url": "https://www.koreaboo.com/news/bts-rm-clocks-fan-talking-leg-injury-social-media/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-16T15:02:47.000Z",
-      "snippet": "The post was poking fun at his performance during the first concert.",
-      "description": "The post was poking fun at his performance during the first concert.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
-      ]
-    },
     {
       "id": "1394d3188cd32767",
       "title": "Watch: KISS OF LIFE Takes 1st Win For “Who is she” On “M Countdown”; Performances By TXT, MODYSSEY, And More",
@@ -441,6 +427,21 @@
         "music video",
         "billboard",
         "stray kids"
+      ]
+    },
+    {
+      "id": "a2f1ff10d68650ee",
+      "title": "Seventeen to host fan meetings in Japan",
+      "url": "https://www.koreaherald.com/article/10716623",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-14T01:42:04.000Z",
+      "snippet": "Seventeen will head over to Japan next month to meet with fans, Pledis Entertainment announced Tuesday. The group will meet and greet fans for two days each in Tokyo and Osaka for...",
+      "description": "Seventeen will head over to Japan next month to meet with fans, Pledis Entertainment announced Tuesday. The group will meet and greet fans for two days each in Tokyo and Osaka for the event titled “Yakusoku,” promising fans to be with them forever. The four fan meetings will be held at Tokyo Dome and Kyocera Dome, respectively, on May 13-14 and 23-24. In Korea, the group will host one meetup in June in Incheon, where the boy band held its encore show for the world tour “New_,” drawing a total au",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.1a24a26b920142029c5cbcc17564ec37_T1.jpg",
+      "tags": [
+        "world tour",
+        "fan meeting",
+        "seventeen"
       ]
     }
   ]
