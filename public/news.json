@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T20:28:42.381Z",
+  "generatedAt": "2026-04-18T21:27:51.035Z",
   "items": [
     {
       "id": "799d3aef672d5e02",
@@ -28,20 +28,6 @@
       "tags": [
         "idol",
         "blackpink"
-      ]
-    },
-    {
-      "id": "bdf4eb161ceb7ec4",
-      "title": "POLL: Who Is BTS’s Best Dancer At The “ARIRANG” World Tour? Vote Now!",
-      "url": "https://www.koreaboo.com/polls/bts-best-dancer-arirang-world-tour-concerts-poll-vote-now/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-18T16:50:20.000Z",
-      "snippet": "Vote for your #1 in this new poll.",
-      "description": "Vote for your #1 in this new poll.",
-      "image": "https://image.koreaboo.com/2026/04/jimin-hope.jpg",
-      "tags": [
-        "world tour",
-        "bts"
       ]
     },
     {
@@ -81,7 +67,7 @@
       "publishedAt": "2026-04-17T01:42:49.000Z",
       "snippet": "BABYMONSTER has reached a new YouTube milestone! On April 17 at approximately 8 a.m. KST, the girl group’s music video for “SHEESH” surpassed 400 million views, meaning that it too...",
       "description": "BABYMONSTER has reached a new YouTube milestone! On April 17 at approximately 8 a.m. KST, the girl group’s music video for “SHEESH” surpassed 400 million views, meaning that it took approximately two years, 16 months, and eight hours to achieve the feat since the music video’s release on April 1, 2024 at midnight KST. “SHEESH”… Continue reading BABYMONSTER’s “SHEESH” Becomes Their 1st MV To Surpass 400 Million Views The post BABYMONSTER’s “SHEESH” Becomes Their 1st MV To Surpass 400 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/16184154/babymonster-sheesh-.png",
       "tags": [
         "music video",
         "mv"
@@ -438,6 +424,23 @@
       "tags": [
         "fan meeting",
         "super junior"
+      ]
+    },
+    {
+      "id": "4091640d5f076dbc",
+      "title": "Stray Kids ‘Do It’ music video tops 100m views",
+      "url": "https://www.koreaherald.com/article/10716636",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-14T01:47:30.000Z",
+      "snippet": "The music video for Stray Kids 2025 hit “Do It” exceeded 100 million views on YouTube as of Monday, according to JYP Entertainment. It became the octet’s 19th music video to reach...",
+      "description": "The music video for Stray Kids 2025 hit “Do It” exceeded 100 million views on YouTube as of Monday, according to JYP Entertainment. It became the octet’s 19th music video to reach the milestone. “Do It” is the focus track from the eponymous mixtape, which made a chart-topping debut on the Billboard 200. The five-track set was the group’s eighth consecutive album to enter the main albums chart at the top spot. Meanwhile, the band spent four days with fans through a fan meetup in Incheon. The grou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260414.23e1f9285f044f8fa90600bd9c46354e_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "music video",
+        "billboard",
+        "stray kids"
       ]
     }
   ]
