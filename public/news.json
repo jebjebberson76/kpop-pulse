@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-19T12:44:32.490Z",
+  "generatedAt": "2026-04-19T13:56:13.960Z",
   "items": [
+    {
+      "id": "c3910b1321e92051",
+      "title": "United States Request HYBE Bang Si Hyuk’s Travel Ban Be Lifted Due To BTS’s World Tour",
+      "url": "https://www.koreaboo.com/news/united-states-request-hybe-bang-si-hyuks-travel-ban-lifted-due-bts-world-tour/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-19T12:59:38.000Z",
+      "snippet": "BTS's upcoming world tour was cited as the key reason for the request.",
+      "description": "BTS's upcoming world tour was cited as the key reason for the request.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "world tour",
+        "bts"
+      ]
+    },
     {
       "id": "31df434b29589e93",
       "title": "Former ADOR Male Trainee Makes Debut, Gains Attention For Being NewJeans’ Minji Lookalike",
@@ -424,21 +438,6 @@
         "world tour",
         "fan meeting",
         "seventeen"
-      ]
-    },
-    {
-      "id": "d0e9dccbf159af86",
-      "title": "BTS&apos; &apos;Swim&apos; slips to No. 5 on Billboard singles chart",
-      "url": "https://www.koreaherald.com/article/10716398",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-13T23:23:25.000Z",
-      "snippet": "\"Swim,\" the lead track from BTS' fifth studio album, \"Arirang,\" has landed at No. 5 on the US Billboard's main singles chart. The upbeat alternative pop track fell three spots from...",
-      "description": "\"Swim,\" the lead track from BTS' fifth studio album, \"Arirang,\" has landed at No. 5 on the US Billboard's main singles chart. The upbeat alternative pop track fell three spots from the previous week on the Billboard Hot 100 for the week of April 18, according to a Billboard preview released Monday (US time). The song, however, led digital song sales for the third week, with 24,000 downloads sold. Meanwhile, the 14-track album ruled the Billboard 200 albums chart for three consecutive weeks, maki",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/14/news-p.v1.20260413.05f15fcc2ed74c00b8e6e90965fce9f5_T1.jpg",
-      "tags": [
-        "album",
-        "billboard",
-        "bts"
       ]
     }
   ]
