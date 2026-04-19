@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-04-19T08:44:32.367Z",
+  "generatedAt": "2026-04-19T09:40:25.502Z",
   "items": [
-    {
-      "id": "2732e61b56fd9087",
-      "title": "NCT Wish to open new musical chapter with first LP ‘Ode to Love’",
-      "url": "https://www.koreaherald.com/article/10720451",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-19T07:44:03.000Z",
-      "snippet": "NCT Wish shared details of its upcoming first LP, “Ode to Love,” during a press conference held Sunday at KSPO Dome in southern Seoul, marking the final day of the boy group's thre...",
-      "description": "NCT Wish shared details of its upcoming first LP, “Ode to Love,” during a press conference held Sunday at KSPO Dome in southern Seoul, marking the final day of the boy group's three-day series of encore concerts. The sextet — Sion, Riku, Yushi, Jaehee, Ryo and Sakuya — is set to release the 10-track album Monday, led by the title track of the same name. Built on a New UK garage-based dance-pop sound, “Ode to Love” carries a message of warmth and kindness in a “cold world,” while maintaining the",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/19/news-p.v1.20260419.16422508be4b457398a6453260a37435_T1.jpg",
-      "tags": [
-        "album",
-        "nct"
-      ]
-    },
     {
       "id": "c8ec9461e2c65328",
       "title": "Female K-Pop Idol Gets Hit On By Every Boy Group",
@@ -23,7 +9,7 @@
       "publishedAt": "2026-04-19T06:40:38.000Z",
       "snippet": "A K-Pop girl group idol confessed that she received a lot of advances. On the 18th, MBC’s The Manager aired, featuring Lee Jooyeon and Yang Sang Guk. Jun Hyun Moo…",
       "description": "A K-Pop girl group idol confessed that she received a lot of advances. On the 18th, MBC’s The Manager aired, featuring Lee Jooyeon and Yang Sang Guk. Jun Hyun Moo…",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/04/Lee-Jooyeon-FI-2.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -59,6 +45,20 @@
       ]
     },
     {
+      "id": "ac90546b47880218",
+      "title": "TXT sweeps charts in Korea, Japan with 8th EP",
+      "url": "https://www.koreaherald.com/article/10719521",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-17T01:50:57.000Z",
+      "snippet": "Tomorrow X Together’s eighth EP “7th Year: A Moment of Stillness in the Thorns” is enjoying chart success at home and in Japan, according to label Big Hit Music. The mini album lan...",
+      "description": "Tomorrow X Together’s eighth EP “7th Year: A Moment of Stillness in the Thorns” is enjoying chart success at home and in Japan, according to label Big Hit Music. The mini album landed atop Oricon’s Daily Album Ranking and ranked No. 2 on the following day. The six-track EP is also the group's seventh consecutive million-selling album, with more than 1.35 million copies sold on its release day. Focus track “Stick With You” topped Bugs’ real-time and daily songs charts and LINE Music’s daily songs",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/17/news-p.v1.20260417.5a0a0456ccd1416293ba5bdf0d2a81e2_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
+      ]
+    },
+    {
       "id": "d81d6af123fab07b",
       "title": "BABYMONSTER’s “SHEESH” Becomes Their 1st MV To Surpass 400 Million Views",
       "url": "https://www.soompi.com/article/1833802wpp/babymonsters-sheesh-becomes-their-1st-mv-to-surpass-400-million-views",
@@ -70,6 +70,21 @@
       "tags": [
         "music video",
         "mv"
+      ]
+    },
+    {
+      "id": "75af829add38ca68",
+      "title": "Katseye to roll out 3rd EP in August",
+      "url": "https://www.koreaherald.com/article/10719475",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-17T01:22:41.000Z",
+      "snippet": "Katseye is set to release its third EP “Wild” on Aug. 14, agency Hybe X Geffen Records announced Thursday. The mini album will follow over a year since the previous EP, “Beautiful...",
+      "description": "Katseye is set to release its third EP “Wild” on Aug. 14, agency Hybe X Geffen Records announced Thursday. The mini album will follow over a year since the previous EP, “Beautiful Chaos.” The five-track set was a breakout hit, generating 1 billion streams on Spotify in less than five months and ranking among the top ten in the US in terms of CD sales in 2025. The second EP peaked at No. 4 on Billboard 200 logging 41 weeks on the chart; “Gabriela” and “Gnarly” charted 28 and 13 weeks on its Hot 1",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/17/news-p.v1.20260417.b5cc143749e7456ab195953b2deff655_T1.png",
+      "tags": [
+        "mini album",
+        "album",
+        "billboard"
       ]
     },
     {
@@ -95,7 +110,7 @@
       "publishedAt": "2026-04-16T12:21:59.000Z",
       "snippet": "KISS OF LIFE has won their first music show trophy for “Who is she”! On the April 16 episode of the Mnet music show, the candidates for first place were AKMU’s “Joy, Sorrow, A Beau...",
       "description": "KISS OF LIFE has won their first music show trophy for “Who is she”! On the April 16 episode of the Mnet music show, the candidates for first place were AKMU’s “Joy, Sorrow, A Beautiful Heart” and KISS OF LIFE’s “Who is she.” KISS OF LIFE ultimately took the prize with a total of 8,884… Continue reading Watch: KISS OF LIFE Takes 1st Win For “Who is she” On “M Countdown”; Performances By TXT, MODYSSEY, And More The post Watch: KISS OF LIFE Takes 1st Win For “Who is she” On “M Countdown”; Performances By TXT, MODYSSEY, And More appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/04/16052152/kiss-of-life-m-countdown.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mnet",
         "m countdown"
@@ -191,24 +206,6 @@
       "tags": [
         "k-pop",
         "blackpink"
-      ]
-    },
-    {
-      "id": "b1a64b9b23ee45fd",
-      "title": "Stray Kids, BLACKPINK, IVE, ATEEZ, NewJeans, NCT JNJM, And More Earn Circle Triple Million And Platinum Certifications",
-      "url": "https://www.soompi.com/article/1833500wpp/stray-kids-blackpink-ive-ateez-newjeans-nct-jnjm-and-more-earn-circle-triple-million-and-platinum-certifications",
-      "source": "Soompi",
-      "publishedAt": "2026-04-15T17:58:32.000Z",
-      "snippet": "Circle Chart (formerly known as Gaon Chart) has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certi...",
-      "description": "Circle Chart (formerly known as Gaon Chart) has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certification system for album sales, song downloads, and online streaming. Starting with music released on or after January 1, 2018, Circle Chart now certifies albums platinum once they reach… Continue reading Stray Kids, BLACKPINK, IVE, ATEEZ, NewJeans, NCT JNJM, And More Earn Circle Triple Million And Platinum Certifications The post Stray Kids, BLACKPINK, IVE, ATEEZ, NewJeans, NCT JNJM, And More Earn Circle Triple Mil...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "gaon",
-        "circle chart",
-        "blackpink",
-        "stray kids",
-        "newjeans"
       ]
     },
     {
