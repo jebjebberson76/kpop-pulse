@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T17:58:43.433Z",
+  "generatedAt": "2026-04-20T19:10:25.169Z",
   "items": [
     {
       "id": "54acebaefc2e5170",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-04-20T16:41:53.000Z",
       "snippet": "Their mutual friend said \"I do\" to his wife.",
       "description": "Their mutual friend said \"I do\" to his wife.",
-      "image": "https://image.koreaboo.com/2026/04/wedding-lee-dong-wook-wife-son-married.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -28,20 +28,6 @@
         "comeback",
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "44fad5f88f68f2d4",
-      "title": "“Proof” BTS’s Jungkook and aespa’s Winter Are Together In Japan Triggers Heated Debate Amid Dating Rumors",
-      "url": "https://www.koreaboo.com/news/proof-bts-jungkook-aespa-winter-together-in-japan-triggers-heated-debate-amid-dating-rumors/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-20T10:56:01.000Z",
-      "snippet": "Leaked flight information has sparked speculation.",
-      "description": "Leaked flight information has sparked speculation.",
-      "image": "https://image.koreaboo.com/2026/04/jungkookWinterJapan-FI.jpg",
-      "tags": [
-        "bts",
-        "aespa"
       ]
     },
     {
@@ -139,7 +125,7 @@
       "publishedAt": "2026-04-19T22:41:05.000Z",
       "snippet": "Get ready for a fun episode of “Amazing Saturday” with several idol guests! The popular tvN variety show has revealed a sneak peek of its upcoming episode, which will feature TWS’s...",
       "description": "Get ready for a fun episode of “Amazing Saturday” with several idol guests! The popular tvN variety show has revealed a sneak peek of its upcoming episode, which will feature TWS’s Dohoon, NCT WISH’s Sion, KickFlip’s Kyehoon, and KiiiKiii’s Kya as guests. In the new preview, Dohoon shows off his cute side with his famous… Continue reading Watch: TWS’s Dohoon, NCT’s Sion, KickFlip’s Kyehoon, And KiiiKiii’s Kya Charm In “Amazing Saturday” Preview The post Watch: TWS’s Dohoon, NCT’s Sion, KickFlip’s Kyehoon, And KiiiKiii’s Kya Charm In “Amazing Saturday” Preview appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/19153933/Dohoon-Sion-Kyehoon-Kya.jpg",
       "tags": [
         "idol",
         "nct"
@@ -153,7 +139,7 @@
       "publishedAt": "2026-04-19T20:22:30.000Z",
       "snippet": "BTS’s latest album continues to make history on the Billboard 200! On April 19 local time, Billboard announced that after three weeks at No. 1, BTS’s album “ARIRANG” had ranked No....",
       "description": "BTS’s latest album continues to make history on the Billboard 200! On April 19 local time, Billboard announced that after three weeks at No. 1, BTS’s album “ARIRANG” had ranked No. 3 in its fourth consecutive week on the Top 200 Albums chart, which ranks the most popular albums in the United States. “ARIRANG,” which… Continue reading BTS’s “ARIRANG” Makes Billboard 200 History As 1st Album By Korean Artist To Spend 4 Weeks In Top 3 The post BTS’s “ARIRANG” Makes Billboard 200 History As 1st Album By Korean Artist To Spend 4 Weeks In Top 3 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/19132131/BTS_189730.jpg",
       "tags": [
         "album",
         "billboard",
@@ -442,6 +428,20 @@
       "tags": [
         "comeback",
         "newjeans"
+      ]
+    },
+    {
+      "id": "fc0566e31cbe1c38",
+      "title": "Illit floats free-spirited teaser for 4th EP",
+      "url": "https://www.koreaherald.com/article/10717801",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-15T03:03:44.000Z",
+      "snippet": "Illit revealed its rebellious side in the concept visualizers for its fourth EP “Mamihlapinatapai,” released through agency Belift Lab on Wednesday. In the teaser, titled “Free Rid...",
+      "description": "Illit revealed its rebellious side in the concept visualizers for its fourth EP “Mamihlapinatapai,” released through agency Belift Lab on Wednesday. In the teaser, titled “Free Rider,” the five members narrate: “Rather than worrying with my eyes open, I’ll just savor the moment with my eyes closed. Today, I’m in ‘free rider’ mode.” The new batch of photographs and trailer video will be followed by a medley of highlights from the mini album in the lead up to its April 30 release. Separately, the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/15/news-p.v1.20260415.a476d26326cb430ea398014390249958_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
       ]
     }
   ]
