@@ -1,32 +1,75 @@
 {
-  "generatedAt": "2026-04-20T07:55:35.944Z",
+  "generatedAt": "2026-04-20T09:52:53.544Z",
   "items": [
     {
-      "id": "6ab62cadb7ce3d6b",
-      "title": "BLACKPINK Lisa “Coachella” Appearance Triggers Major Backlash Towards Idol",
-      "url": "https://www.koreaboo.com/news/blackpink-lisa-coachella-appearance-triggers-major-backlash-towards-idol/",
+      "id": "e8bbe4119bd0d7b0",
+      "title": "NewJeans’ Rumored Comeback Date Sparks Heated Debate",
+      "url": "https://www.koreaboo.com/news/newjeans-rumored-comeback-date-sparks-heated-debate/",
       "source": "Koreaboo",
-      "publishedAt": "2026-04-20T06:40:19.000Z",
-      "snippet": "\"Stop wasting money...\"",
-      "description": "\"Stop wasting money...\"",
-      "image": "https://image.koreaboo.com/2026/04/FD2870-7.jpg",
+      "publishedAt": "2026-04-20T09:42:55.000Z",
+      "snippet": "\"NewJeans are going to need to show something truly groundbreaking.\"",
+      "description": "\"NewJeans are going to need to show something truly groundbreaking.\"",
+      "image": "/public/placeholder-news.svg",
       "tags": [
-        "idol",
-        "blackpink"
+        "comeback",
+        "newjeans"
       ]
     },
     {
-      "id": "345f7f173c3a509c",
-      "title": "K-Pop Idol Gets Candid About Her Past Public Relationship And Breakup",
-      "url": "https://www.koreaboo.com/news/kpop-idol-gets-candid-past-public-relationship-breakup/",
+      "id": "3c331da0c966b8fa",
+      "title": "Viral Post Of “Sexy” IVE’s Wonyoung Photos Hit With Mixed Reactions",
+      "url": "https://www.koreaboo.com/news/viral-post-sexy-ive-wonyoung-photos-mixed-reactions/",
       "source": "Koreaboo",
-      "publishedAt": "2026-04-20T05:34:01.000Z",
-      "snippet": "She let it all out.",
-      "description": "She let it all out.",
-      "image": "https://image.koreaboo.com/2026/04/JAMIE-FI.jpg",
+      "publishedAt": "2026-04-20T09:00:10.000Z",
+      "snippet": "Many thought it was harassing the idol.",
+      "description": "Many thought it was harassing the idol.",
+      "image": "/public/placeholder-news.svg",
       "tags": [
-        "k-pop",
-        "idol"
+        "idol",
+        "ive"
+      ]
+    },
+    {
+      "id": "7c1c516428e9b60b",
+      "title": "Big Bang announces 20th anniversary world tour to kick off in August",
+      "url": "https://www.koreaherald.com/article/10721426",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-20T08:30:04.000Z",
+      "snippet": "Big Bang is set to launch a global tour in August to mark its 20th debut anniversary, the group revealed during its performance at the Coachella Valley Music and Arts Festival. The...",
+      "description": "Big Bang is set to launch a global tour in August to mark its 20th debut anniversary, the group revealed during its performance at the Coachella Valley Music and Arts Festival. The group took the stage at Coachella’s Outdoor Theatre in Indio, California, marking its second appearance at this year’s festival following its earlier set on April 12. As the members exchanged ending remarks with the audience, G-Dragon announced the upcoming tour. “Big Bang’s 20th anniversary world tour will begin this",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/20/news-p.v1.20260420.b6b629c148724ca2a0836835757064ae_T1.jpg",
+      "tags": [
+        "debut",
+        "world tour"
+      ]
+    },
+    {
+      "id": "0e2cd41ce99431f6",
+      "title": "BTS Jungkook’s Difference In Reactions To Crowds In Korea And Japan Spark Heated Debate",
+      "url": "https://www.koreaboo.com/news/difference-in-bts-jungkook-reaction-crowds-in-japan-v-korea-viral/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-20T08:25:44.000Z",
+      "snippet": "Where do you stand on the concert culture?",
+      "description": "Where do you stand on the concert culture?",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "ba1d923d005635ab",
+      "title": "Exclusive: CORTIS Talks About Their Inspirations And Forming Their Identity Through Honest Music At Press Showcase For “GREENGREEN”",
+      "url": "https://www.soompi.com/article/1834449wpp/exclusive-cortis-talks-about-their-inspirations-and-forming-their-identity-through-honest-music-at-press-showcase-for-greengreen",
+      "source": "Soompi",
+      "publishedAt": "2026-04-20T08:15:10.000Z",
+      "snippet": "CORTIS is gearing up for their highly-anticipated comeback! On April 20, CORTIS held the press showcase for their second mini album “GREENGREEN.” In the Q&A session at their press...",
+      "description": "CORTIS is gearing up for their highly-anticipated comeback! On April 20, CORTIS held the press showcase for their second mini album “GREENGREEN.” In the Q&A session at their press showcase, the members emphasized being honest and raw in expressing themselves for their latest album—discussing how they’ve grown through the comeback while experimenting with different sounds… Continue reading Exclusive: CORTIS Talks About Their Inspirations And Forming Their Identity Through Honest Music At Press Showcase For “GREENGREEN” The post Exclusive: CORTIS Talks About Their Inspirations And Forming Their...",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/20003253/%EC%BD%94%EB%A5%B4%ED%8B%B0%EC%8A%A4_%ED%8F%AC%ED%86%A0%EC%9B%94_%EB%8B%A8%EC%B2%B41.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album"
       ]
     },
     {
@@ -124,7 +167,7 @@
       "publishedAt": "2026-04-19T17:34:43.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on April 18! ENHYPEN’s latest mini album “THE SIN : VANISH” held onto its spot at No. 1 in its 12th week on Billb...",
       "description": "Billboard has published its World Albums chart for the week ending on April 18! ENHYPEN’s latest mini album “THE SIN : VANISH” held onto its spot at No. 1 in its 12th week on Billboard’s World Albums chart, while the group’s 2024 album “ROMANCE : UNTOLD” climbed back up to No. 21 in its 91st… Continue reading ENHYPEN, BTS, Stray Kids, T.O.P, CORTIS, P1Harmony, ATEEZ, And NewJeans Sweep Top Spots On Billboard World Albums Chart The post ENHYPEN, BTS, Stray Kids, T.O.P, CORTIS, P1Harmony, ATEEZ, And NewJeans Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/19102917/ENHYPEN-BTS-Stray-Kids-T.O.P.jpg",
       "tags": [
         "mini album",
         "album",
@@ -296,20 +339,6 @@
       ]
     },
     {
-      "id": "d81d6af123fab07b",
-      "title": "BABYMONSTER’s “SHEESH” Becomes Their 1st MV To Surpass 400 Million Views",
-      "url": "https://www.soompi.com/article/1833802wpp/babymonsters-sheesh-becomes-their-1st-mv-to-surpass-400-million-views",
-      "source": "Soompi",
-      "publishedAt": "2026-04-17T01:42:49.000Z",
-      "snippet": "BABYMONSTER has reached a new YouTube milestone! On April 17 at approximately 8 a.m. KST, the girl group’s music video for “SHEESH” surpassed 400 million views, meaning that it too...",
-      "description": "BABYMONSTER has reached a new YouTube milestone! On April 17 at approximately 8 a.m. KST, the girl group’s music video for “SHEESH” surpassed 400 million views, meaning that it took approximately two years, 16 months, and eight hours to achieve the feat since the music video’s release on April 1, 2024 at midnight KST. “SHEESH”… Continue reading BABYMONSTER’s “SHEESH” Becomes Their 1st MV To Surpass 400 Million Views The post BABYMONSTER’s “SHEESH” Becomes Their 1st MV To Surpass 400 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music video",
-        "mv"
-      ]
-    },
-    {
       "id": "75af829add38ca68",
       "title": "Katseye to roll out 3rd EP in August",
       "url": "https://www.koreaherald.com/article/10719475",
@@ -414,34 +443,6 @@
       "tags": [
         "k-pop",
         "blackpink"
-      ]
-    },
-    {
-      "id": "74ff30dabd313664",
-      "title": "NewJeans members spotted in Denmark, fueling comeback speculation",
-      "url": "https://www.koreaherald.com/article/10717884",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-15T05:17:37.000Z",
-      "snippet": "Speculation over a possible comeback by NewJeans has emerged after members Haerin, Hyein and Hanni were spotted with staff at a shop in Copenhagen, Denmark. Their agency, Ador, con...",
-      "description": "Speculation over a possible comeback by NewJeans has emerged after members Haerin, Hyein and Hanni were spotted with staff at a shop in Copenhagen, Denmark. Their agency, Ador, confirmed the trip Wednesday but declined to provide further details. “It is true that NewJeans members visited Copenhagen, Denmark, with staff,” Ador said. “We ask for your understanding that it is difficult to confirm specific schedules or whether filming is taking place at this time.” Photos released alongside eyewitne",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/15/news-p.v1.20260415.9b836e2242b84089b74a381fe299c06e_T1.png",
-      "tags": [
-        "comeback",
-        "newjeans"
-      ]
-    },
-    {
-      "id": "fc0566e31cbe1c38",
-      "title": "Illit floats free-spirited teaser for 4th EP",
-      "url": "https://www.koreaherald.com/article/10717801",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-15T03:03:44.000Z",
-      "snippet": "Illit revealed its rebellious side in the concept visualizers for its fourth EP “Mamihlapinatapai,” released through agency Belift Lab on Wednesday. In the teaser, titled “Free Rid...",
-      "description": "Illit revealed its rebellious side in the concept visualizers for its fourth EP “Mamihlapinatapai,” released through agency Belift Lab on Wednesday. In the teaser, titled “Free Rider,” the five members narrate: “Rather than worrying with my eyes open, I’ll just savor the moment with my eyes closed. Today, I’m in ‘free rider’ mode.” The new batch of photographs and trailer video will be followed by a medley of highlights from the mini album in the lead up to its April 30 release. Separately, the",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/15/news-p.v1.20260415.a476d26326cb430ea398014390249958_T1.jpg",
-      "tags": [
-        "mini album",
-        "album"
       ]
     }
   ]
