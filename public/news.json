@@ -1,32 +1,20 @@
 {
-  "generatedAt": "2026-04-21T13:19:36.079Z",
+  "generatedAt": "2026-04-21T15:06:15.899Z",
   "items": [
     {
-      "id": "516c9eb75696fa51",
-      "title": "aespa’s Giselle Bashed For Totally Unrecognizable Visuals For New Album",
-      "url": "https://www.koreaboo.com/news/aespa-giselle-visuals-bashed-upcoming-new-album/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-21T08:54:38.000Z",
-      "snippet": "Netizens were in shock.",
-      "description": "Netizens were in shock.",
-      "image": "/public/placeholder-news.svg",
+      "id": "8874eeaa6d64ddea",
+      "title": "NCT WISH Soars Past 1 Million 1st-Day Sales For 1st Time + Hits Career High On Melon Top 100 With “Ode To Love”",
+      "url": "https://www.soompi.com/article/1834910wpp/nct-wish-soars-past-1-million-1st-day-sales-for-1st-time-hits-career-high-on-melon-top-100-with-ode-to-love",
+      "source": "Soompi",
+      "publishedAt": "2026-04-21T14:17:12.000Z",
+      "snippet": "Just one day into their comeback, NCT WISH has already achieved multiple career highs with their new album! On April 20 at 6 p.m. KST, NCT’s youngest unit made their highly-anticip...",
+      "description": "Just one day into their comeback, NCT WISH has already achieved multiple career highs with their new album! On April 20 at 6 p.m. KST, NCT’s youngest unit made their highly-anticipated comeback with their first full-length album “Ode to Love” and its title track of the same name. According to Hanteo Chart, “Ode to Love”… Continue reading NCT WISH Soars Past 1 Million 1st-Day Sales For 1st Time + Hits Career High On Melon Top 100 With “Ode To Love” The post NCT WISH Soars Past 1 Million 1st-Day Sales For 1st Time + Hits Career High On Melon Top 100 With “Ode To Love” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/21071238/NCT-WISH.jpg",
       "tags": [
+        "comeback",
         "album",
-        "aespa"
-      ]
-    },
-    {
-      "id": "831b5ba4bdb6659d",
-      "title": "BTS Jungkook’s New Comments About Being A “Solo Pop Star” Spark Major Backlash",
-      "url": "https://www.koreaboo.com/news/bts-jungkooks-comments-solo-pop-star-spark-major-backlash/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-21T08:25:27.000Z",
-      "snippet": "It links to the controversy surrounding English in the album.",
-      "description": "It links to the controversy surrounding English in the album.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts"
+        "melon",
+        "nct"
       ]
     },
     {
@@ -258,7 +246,7 @@
       "publishedAt": "2026-04-19T22:41:05.000Z",
       "snippet": "Get ready for a fun episode of “Amazing Saturday” with several idol guests! The popular tvN variety show has revealed a sneak peek of its upcoming episode, which will feature TWS’s...",
       "description": "Get ready for a fun episode of “Amazing Saturday” with several idol guests! The popular tvN variety show has revealed a sneak peek of its upcoming episode, which will feature TWS’s Dohoon, NCT WISH’s Sion, KickFlip’s Kyehoon, and KiiiKiii’s Kya as guests. In the new preview, Dohoon shows off his cute side with his famous… Continue reading Watch: TWS’s Dohoon, NCT’s Sion, KickFlip’s Kyehoon, And KiiiKiii’s Kya Charm In “Amazing Saturday” Preview The post Watch: TWS’s Dohoon, NCT’s Sion, KickFlip’s Kyehoon, And KiiiKiii’s Kya Charm In “Amazing Saturday” Preview appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/04/19153933/Dohoon-Sion-Kyehoon-Kya.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "nct"
@@ -441,6 +429,21 @@
         "mini album",
         "album",
         "billboard"
+      ]
+    },
+    {
+      "id": "97bcbab4d750448c",
+      "title": "From lore to real life: K-pop’s concept shift",
+      "url": "https://www.koreaherald.com/article/10718924",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-16T06:18:29.000Z",
+      "snippet": "The way K-pop is consumed has continued to evolve in distinct ways, often shaped by its core audience of young, highly engaged fans. Industry insiders say boy groups, which once le...",
+      "description": "The way K-pop is consumed has continued to evolve in distinct ways, often shaped by its core audience of young, highly engaged fans. Industry insiders say boy groups, which once leaned heavily on elaborate fictional universes to build fan engagement, are now shifting toward more grounded and relatable concepts. Acts such as BTS, Seventeen and Tomorrow X Together have long incorporated overarching narratives into their releases, encouraging fans to piece together clues across extended videos and",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/16/news-p.v1.20260416.e976e0cdd7be4b308d91789d884b88ab_T1.jpg",
+      "tags": [
+        "k-pop",
+        "bts",
+        "seventeen"
       ]
     }
   ]
