@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-04-20T23:36:53.630Z",
+  "generatedAt": "2026-04-21T01:58:42.485Z",
   "items": [
+    {
+      "id": "2b7824ca14bf7a78",
+      "title": "BTS stays among top 10 on Billboard’s Hot 100",
+      "url": "https://www.koreaherald.com/article/10721870",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-21T01:41:43.000Z",
+      "snippet": "BTS is spending its fourth week on Billboard’s Hot 100 at No. 10 with “Swim,” according to the chart preview published Tuesday. The main track from the group's fifth studio album “...",
+      "description": "BTS is spending its fourth week on Billboard’s Hot 100 at No. 10 with “Swim,” according to the chart preview published Tuesday. The main track from the group's fifth studio album “Arirang” fell five rungs from the previous week, after having made a chart-topping debut on the rankings. It was the band’s seventh song overall to occupy the top spot on the main songs chart and sixth to debut at the top. The single has charted four weeks at No. 1 on both the Billboard Global 200 and Billboard Global",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/21/news-p.v1.20260421.b2ec80d79e164f5ca16a3460ba1ba2ce_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "billboard",
+        "bts"
+      ]
+    },
     {
       "id": "54acebaefc2e5170",
       "title": "Lee Dong Wook And His Son Attend A Wedding With A Top K-Pop Idol",
@@ -9,7 +25,7 @@
       "publishedAt": "2026-04-20T16:41:53.000Z",
       "snippet": "Their mutual friend said \"I do\" to his wife.",
       "description": "Their mutual friend said \"I do\" to his wife.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/04/wedding-lee-dong-wook-wife-son-married.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -154,7 +170,7 @@
       "publishedAt": "2026-04-19T20:22:30.000Z",
       "snippet": "BTS’s latest album continues to make history on the Billboard 200! On April 19 local time, Billboard announced that after three weeks at No. 1, BTS’s album “ARIRANG” had ranked No....",
       "description": "BTS’s latest album continues to make history on the Billboard 200! On April 19 local time, Billboard announced that after three weeks at No. 1, BTS’s album “ARIRANG” had ranked No. 3 in its fourth consecutive week on the Top 200 Albums chart, which ranks the most popular albums in the United States. “ARIRANG,” which… Continue reading BTS’s “ARIRANG” Makes Billboard 200 History As 1st Album By Korean Artist To Spend 4 Weeks In Top 3 The post BTS’s “ARIRANG” Makes Billboard 200 History As 1st Album By Korean Artist To Spend 4 Weeks In Top 3 appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/04/19132131/BTS_189730.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "billboard",
@@ -429,20 +445,6 @@
       "tags": [
         "k-pop",
         "blackpink"
-      ]
-    },
-    {
-      "id": "74ff30dabd313664",
-      "title": "NewJeans members spotted in Denmark, fueling comeback speculation",
-      "url": "https://www.koreaherald.com/article/10717884",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-15T05:17:37.000Z",
-      "snippet": "Speculation over a possible comeback by NewJeans has emerged after members Haerin, Hyein and Hanni were spotted with staff at a shop in Copenhagen, Denmark. Their agency, Ador, con...",
-      "description": "Speculation over a possible comeback by NewJeans has emerged after members Haerin, Hyein and Hanni were spotted with staff at a shop in Copenhagen, Denmark. Their agency, Ador, confirmed the trip Wednesday but declined to provide further details. “It is true that NewJeans members visited Copenhagen, Denmark, with staff,” Ador said. “We ask for your understanding that it is difficult to confirm specific schedules or whether filming is taking place at this time.” Photos released alongside eyewitne",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/15/news-p.v1.20260415.9b836e2242b84089b74a381fe299c06e_T1.png",
-      "tags": [
-        "comeback",
-        "newjeans"
       ]
     }
   ]
