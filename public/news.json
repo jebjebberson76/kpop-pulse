@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T01:57:24.018Z",
+  "generatedAt": "2026-04-22T04:46:03.024Z",
   "items": [
     {
       "id": "abf63dc6427f112f",
@@ -38,24 +38,10 @@
       "publishedAt": "2026-04-21T23:53:29.000Z",
       "snippet": "But they got through it together!",
       "description": "But they got through it together!",
-      "image": "https://image.koreaboo.com/2026/04/song-jieun-marriage-struggle-fi.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "0180eb36c79e2f94",
-      "title": "OG SM Entertainment Idol Reveals Why He “F*cking Hated” Super Junior’s Kim Heechul",
-      "url": "https://www.koreaboo.com/news/brian-ftts-hated-super-jurnior-heechul-sm-entertainment-trainee/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-21T22:32:25.000Z",
-      "snippet": "What was the beef about?",
-      "description": "What was the beef about?",
-      "image": "https://image.koreaboo.com/2026/04/Brian-kim-heechul-beef-fi.jpg",
-      "tags": [
-        "idol",
-        "super junior"
       ]
     },
     {
@@ -111,7 +97,7 @@
       "publishedAt": "2026-04-21T14:17:12.000Z",
       "snippet": "Just one day into their comeback, NCT WISH has already achieved multiple career highs with their new album! On April 20 at 6 p.m. KST, NCT’s youngest unit made their highly-anticip...",
       "description": "Just one day into their comeback, NCT WISH has already achieved multiple career highs with their new album! On April 20 at 6 p.m. KST, NCT’s youngest unit made their highly-anticipated comeback with their first full-length album “Ode to Love” and its title track of the same name. According to Hanteo Chart, “Ode to Love”… Continue reading NCT WISH Soars Past 1 Million 1st-Day Sales For 1st Time + Hits Career High On Melon Top 100 With “Ode To Love” The post NCT WISH Soars Past 1 Million 1st-Day Sales For 1st Time + Hits Career High On Melon Top 100 With “Ode To Love” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/21071238/NCT-WISH.jpg",
       "tags": [
         "comeback",
         "album",
@@ -149,6 +135,51 @@
       ]
     },
     {
+      "id": "2b4d9eb718b3709b",
+      "title": "NCT Wish’s 1st album instant million-seller",
+      "url": "https://www.koreaherald.com/article/10722093",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-21T03:13:23.000Z",
+      "snippet": "NCT Wish’s first full-length album sold over a million copies — 1.28 million — on its release day, label SM Entertainment announced Tuesday. “Ode to Love” is the third million-sell...",
+      "description": "NCT Wish’s first full-length album sold over a million copies — 1.28 million — on its release day, label SM Entertainment announced Tuesday. “Ode to Love” is the third million-selling set from the NCT subunit, following its second EP “poppop” and third EP “Color,” both from last year. The new album's title track climbed to No. 3 on Melon’s Top 100 after debuting atop its Hot 100. All ten tracks from the set made major Korean music charts. The album comes on the heels of the six-piece act’s inter",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/21/news-p.v1.20260421.4bf78a0a78584c6ba0645ca45dc13038_T1.jpg",
+      "tags": [
+        "album",
+        "melon",
+        "nct"
+      ]
+    },
+    {
+      "id": "dd8022c2c041e364",
+      "title": "TXT renews record streak on Oricon chart",
+      "url": "https://www.koreaherald.com/article/10722091",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-21T03:10:16.000Z",
+      "snippet": "Tomorrow X Together’s eighth EP, “7th Year: A Moment of Stillness in the Thorns,” headed straight to the top of Oricon’s Weekly Album Ranking. It is the group’s 14th consecutive al...",
+      "description": "Tomorrow X Together’s eighth EP, “7th Year: A Moment of Stillness in the Thorns,” headed straight to the top of Oricon’s Weekly Album Ranking. It is the group’s 14th consecutive album to top the Japanese chart, extending its own record for placing the most records in the No. 1 spot for an international artist, label Big Hit Music said Tuesday. The six-track mini album topped Oricon’s Daily Album Ranking twice, while lead single “Stick With You” spent four days at No. 1 on LINE Music’s daily song",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/21/news-p.v1.20260421.e4de47b304e2431b976fccb899bf8496_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "twice"
+      ]
+    },
+    {
+      "id": "b4b0a8ccba837fa9",
+      "title": "Aespa announces 25-city world tour",
+      "url": "https://www.koreaherald.com/article/10722078",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-21T02:41:26.000Z",
+      "snippet": "Aespa will launch an international tour with 25 stops, the group's label SM Entertainment announced Tuesday. Under the title “Synk: _ae-_,” the tour will kick off Aug. 7. with two...",
+      "description": "Aespa will launch an international tour with 25 stops, the group's label SM Entertainment announced Tuesday. Under the title “Synk: _ae-_,” the tour will kick off Aug. 7. with two shows in Seoul. After a visit to Taipei, the group will fly around Latin and North America for the remainder of 2026. In January next year, aespa will tour Europe showcasing new material from its second album, “Lemonade,” which will be released on May 29. Meanwhile, the four members will perform at Tokyo Dome this week",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/21/news-p.v1.20260421.e11de1c856e842d7b955f9a594bd84f5_T1.jpg",
+      "tags": [
+        "album",
+        "world tour",
+        "aespa"
+      ]
+    },
+    {
       "id": "2b7824ca14bf7a78",
       "title": "BTS stays among top 10 on Billboard’s Hot 100",
       "url": "https://www.koreaherald.com/article/10721870",
@@ -172,7 +203,7 @@
       "publishedAt": "2026-04-20T12:00:00.000Z",
       "snippet": "xikers is gearing up for their return! On April 21, a teaser was revealed announcing the group’s seventh mini album “ROUTE ZERO : The ORA.” The album is set to be released on May 1...",
       "description": "xikers is gearing up for their return! On April 21, a teaser was revealed announcing the group’s seventh mini album “ROUTE ZERO : The ORA.” The album is set to be released on May 19 at 6 p.m. KST. Check out the teaser below: The post xikers Drops Comeback Date With Teaser For “ROUTE ZERO : The ORA” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/20085452/xikers.jpeg",
       "tags": [
         "comeback",
         "mini album",
@@ -338,35 +369,6 @@
       "tags": [
         "debut",
         "album"
-      ]
-    },
-    {
-      "id": "4c0c2892bde54c81",
-      "title": "Watch: TWS’s Dohoon, NCT’s Sion, KickFlip’s Kyehoon, And KiiiKiii’s Kya Charm In “Amazing Saturday” Preview",
-      "url": "https://www.soompi.com/article/1834369wpp/watch-twss-dohoon-ncts-sion-kickflips-kyehoon-and-kiiikiiis-kya-charm-in-amazing-saturday-preview",
-      "source": "Soompi",
-      "publishedAt": "2026-04-19T22:41:05.000Z",
-      "snippet": "Get ready for a fun episode of “Amazing Saturday” with several idol guests! The popular tvN variety show has revealed a sneak peek of its upcoming episode, which will feature TWS’s...",
-      "description": "Get ready for a fun episode of “Amazing Saturday” with several idol guests! The popular tvN variety show has revealed a sneak peek of its upcoming episode, which will feature TWS’s Dohoon, NCT WISH’s Sion, KickFlip’s Kyehoon, and KiiiKiii’s Kya as guests. In the new preview, Dohoon shows off his cute side with his famous… Continue reading Watch: TWS’s Dohoon, NCT’s Sion, KickFlip’s Kyehoon, And KiiiKiii’s Kya Charm In “Amazing Saturday” Preview The post Watch: TWS’s Dohoon, NCT’s Sion, KickFlip’s Kyehoon, And KiiiKiii’s Kya Charm In “Amazing Saturday” Preview appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "nct"
-      ]
-    },
-    {
-      "id": "13c15e8fbc530f6e",
-      "title": "BTS’s “ARIRANG” Makes Billboard 200 History As 1st Album By Korean Artist To Spend 4 Weeks In Top 3",
-      "url": "https://www.soompi.com/article/1834365wpp/btss-arirang-makes-billboard-200-history-as-1st-album-by-korean-artist-to-spend-4-weeks-in-top-3",
-      "source": "Soompi",
-      "publishedAt": "2026-04-19T20:22:30.000Z",
-      "snippet": "BTS’s latest album continues to make history on the Billboard 200! On April 19 local time, Billboard announced that after three weeks at No. 1, BTS’s album “ARIRANG” had ranked No....",
-      "description": "BTS’s latest album continues to make history on the Billboard 200! On April 19 local time, Billboard announced that after three weeks at No. 1, BTS’s album “ARIRANG” had ranked No. 3 in its fourth consecutive week on the Top 200 Albums chart, which ranks the most popular albums in the United States. “ARIRANG,” which… Continue reading BTS’s “ARIRANG” Makes Billboard 200 History As 1st Album By Korean Artist To Spend 4 Weeks In Top 3 The post BTS’s “ARIRANG” Makes Billboard 200 History As 1st Album By Korean Artist To Spend 4 Weeks In Top 3 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "billboard",
-        "bts"
       ]
     },
     {
