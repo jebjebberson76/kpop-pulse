@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-23T09:20:16.380Z",
+  "generatedAt": "2026-04-23T11:01:37.757Z",
   "items": [
+    {
+      "id": "6002bf5b760c4cf2",
+      "title": "Difference In Reactions To BTS’s Jungkook And BLACKPINK’s Jennie Triggers Heated Debate",
+      "url": "https://www.koreaboo.com/news/difference-reactions-bts-jungkook-blackpink-jennie-triggers-swearing-heated-debate/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-23T10:15:06.000Z",
+      "snippet": "A new photo of Jennie sparked the discussion.",
+      "description": "A new photo of Jennie sparked the discussion.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
     {
       "id": "24287de769be83c1",
       "title": "Fifth-Gen Female Idol Achieves Massive Feat “Practically Unheard Of” In K-Pop",
@@ -426,21 +440,6 @@
         "debut",
         "album",
         "aespa"
-      ]
-    },
-    {
-      "id": "cac311a47377b2a3",
-      "title": "NCT Wish closes tour with youthful energy, opens door to next chapter",
-      "url": "https://www.koreaherald.com/article/10721119",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-20T04:48:59.000Z",
-      "snippet": "Dressed in all white and rising from the center of a star-shaped stage, NCT Wish opened the final night of its “Into the Wish: Our Wish” encore concert at Kspo Dome in southern Seo...",
-      "description": "Dressed in all white and rising from the center of a star-shaped stage, NCT Wish opened the final night of its “Into the Wish: Our Wish” encore concert at Kspo Dome in southern Seoul on Sunday with the clean, bright visual that has come to define the group. Beyond the polished staging, the night carried a deeper meaning: the finale of a six-month tour and the threshold of a new era, coming just a day before the release of its first album, “Ode to Love.” While the show looked back on the journey",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/20/news-p.v1.20260420.b5c7155c07f84e0cb6a5bb866be2caa3_T1.jpg",
-      "tags": [
-        "album",
-        "concert",
-        "nct"
       ]
     }
   ]
