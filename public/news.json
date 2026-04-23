@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T15:46:32.188Z",
+  "generatedAt": "2026-04-23T17:13:00.212Z",
   "items": [
     {
       "id": "f49aee9cd2a2679f",
@@ -28,20 +28,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "6002bf5b760c4cf2",
-      "title": "Difference In Reactions To BTS’s Jungkook And BLACKPINK’s Jennie Triggers Heated Debate",
-      "url": "https://www.koreaboo.com/news/difference-reactions-bts-jungkook-blackpink-jennie-triggers-swearing-heated-debate/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-23T10:15:06.000Z",
-      "snippet": "A new photo of Jennie sparked the discussion.",
-      "description": "A new photo of Jennie sparked the discussion.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "blackpink"
       ]
     },
     {
@@ -437,6 +423,21 @@
       "tags": [
         "mini album",
         "album"
+      ]
+    },
+    {
+      "id": "c17fdfa5c3eb9219",
+      "title": "BTS to take &apos;The City&apos; project to Las Vegas and Busan",
+      "url": "https://www.koreaherald.com/article/10720996",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-20T02:32:24.000Z",
+      "snippet": "K-pop supergroup BTS' large-scale cultural program \"The City\" will return to Las Vegas next month and Busan in June to celebrate the group's stops there for the ongoing world tour,...",
+      "description": "K-pop supergroup BTS' large-scale cultural program \"The City\" will return to Las Vegas next month and Busan in June to celebrate the group's stops there for the ongoing world tour, the group's agency, BigHit Music, said Monday. \"The City\" project debuted during the band's \"Permission to Dance on Stage\" tour in Las Vegas in 2022 to boost the festive mood, illuminating the city's major landmarks in purple, the signature color of its global fandom, ARMY. The project also features various BTS-themed",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/20/news-p.v1.20260420.d3fa3321c8094bea8fff02667b63127a_T1.jpg",
+      "tags": [
+        "k-pop",
+        "world tour",
+        "bts"
       ]
     }
   ]
