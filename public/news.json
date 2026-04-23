@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T17:13:00.212Z",
+  "generatedAt": "2026-04-23T18:59:36.488Z",
   "items": [
     {
       "id": "f49aee9cd2a2679f",
@@ -14,20 +14,6 @@
         "mnet",
         "m countdown",
         "nct"
-      ]
-    },
-    {
-      "id": "2f91a5aa7ff26f64",
-      "title": "Female K-Pop Idol Speaks Out On Dating Rumors With Famous Soloist",
-      "url": "https://www.koreaboo.com/news/female-kpop-idol-dating-rumors-famous-soloist/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-23T11:59:15.000Z",
-      "snippet": "She tells all.",
-      "description": "She tells all.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -438,6 +424,21 @@
         "k-pop",
         "world tour",
         "bts"
+      ]
+    },
+    {
+      "id": "e62f0c9beb411c0d",
+      "title": "Seventeen garners 100m Spotify streams with ‘Thunder’",
+      "url": "https://www.koreaherald.com/article/10720987",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-20T02:29:04.000Z",
+      "snippet": "Seventeen's “Thunder” reached 100 million plays on Spotify on Saturday, agency Pledis Entertainment said Monday. It is the group’s 20th song to reach the 100 million mark, includin...",
+      "description": "Seventeen's “Thunder” reached 100 million plays on Spotify on Saturday, agency Pledis Entertainment said Monday. It is the group’s 20th song to reach the 100 million mark, including singles from its subunits. The electronic dance tune is the lead single from fifth full album “Happy Burstday,” which was released in May 2025. The album celebrating its 10th year sold over 2 million copies on the day of release and entered Billboard 200 at No. 2. The single notched No. 1 spot on all major music char",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/20/news-p.v1.20260420.9f9d7c0a6a3b4d4da5d4efdd4b3729ed_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "seventeen"
       ]
     }
   ]
