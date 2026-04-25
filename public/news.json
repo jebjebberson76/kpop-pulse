@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T10:37:24.128Z",
+  "generatedAt": "2026-04-25T11:33:54.795Z",
   "items": [
     {
       "id": "6f506c1d10f329d6",
@@ -45,20 +45,6 @@
         "debut",
         "album",
         "nct"
-      ]
-    },
-    {
-      "id": "cc920afac11a99d1",
-      "title": "K-Pop Idol’s “Controversial” Husband Turns To Working Gigs After Losing His Job To Scandal",
-      "url": "https://www.koreaboo.com/news/moonone-koyote-shinji-controversial-fiance-work-gigs-after-scandal/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-25T01:37:49.000Z",
-      "snippet": "Here's what the idol wife had to say about it.",
-      "description": "Here's what the idol wife had to say about it.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -440,6 +426,22 @@
         "album",
         "world tour",
         "aespa"
+      ]
+    },
+    {
+      "id": "2b7824ca14bf7a78",
+      "title": "BTS stays among top 10 on Billboard’s Hot 100",
+      "url": "https://www.koreaherald.com/article/10721870",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-21T01:41:43.000Z",
+      "snippet": "BTS is spending its fourth week on Billboard’s Hot 100 at No. 10 with “Swim,” according to the chart preview published Tuesday. The main track from the group's fifth studio album “...",
+      "description": "BTS is spending its fourth week on Billboard’s Hot 100 at No. 10 with “Swim,” according to the chart preview published Tuesday. The main track from the group's fifth studio album “Arirang” fell five rungs from the previous week, after having made a chart-topping debut on the rankings. It was the band’s seventh song overall to occupy the top spot on the main songs chart and sixth to debut at the top. The single has charted four weeks at No. 1 on both the Billboard Global 200 and Billboard Global",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/21/news-p.v1.20260421.b2ec80d79e164f5ca16a3460ba1ba2ce_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "billboard",
+        "bts"
       ]
     }
   ]
