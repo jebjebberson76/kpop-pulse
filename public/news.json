@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T10:39:08.475Z",
+  "generatedAt": "2026-04-26T11:34:44.066Z",
   "items": [
     {
       "id": "da76ee0a3f390bfb",
@@ -41,20 +41,6 @@
       "tags": [
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "29a7e9b48a271435",
-      "title": "Mnet Accused Of Manipulating Audience Reaction To BTS",
-      "url": "https://www.koreaboo.com/news/mnet-accused-manipulating-audience-reaction-bts/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-26T01:43:25.000Z",
-      "snippet": "The reaction was actually to a girl group.",
-      "description": "The reaction was actually to a girl group.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mnet",
-        "bts"
       ]
     },
     {
@@ -434,6 +420,21 @@
       "tags": [
         "k-pop",
         "debut"
+      ]
+    },
+    {
+      "id": "4a67306109496521",
+      "title": "Cortis gets bolder with &apos;RedRed&apos;",
+      "url": "https://www.koreaherald.com/article/10722219",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-21T05:46:57.000Z",
+      "snippet": "Cortis returned Monday with prerelease track “RedRed,” showcasing a bolder, more self-defined musical identity ahead of its upcoming second EP. Dubbed a “young creator crew,” the B...",
+      "description": "Cortis returned Monday with prerelease track “RedRed,” showcasing a bolder, more self-defined musical identity ahead of its upcoming second EP. Dubbed a “young creator crew,” the BigHit Music act has distinguished itself by taking part in all aspects of production — from songwriting and choreography to video direction — setting it apart from typical rookie groups. The boy group debuted last year as a junior act following BTS and Tomorrow X Together. It quickly drew attention with its debut album",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/21/news-p.v1.20260421.63f9a3ecaa1449b0afd94f706e7b08ea_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "bts"
       ]
     }
   ]
