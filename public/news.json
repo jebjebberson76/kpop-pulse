@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T10:56:11.554Z",
+  "generatedAt": "2026-04-27T12:18:34.878Z",
   "items": [
     {
       "id": "2c3cfa8b31e0c7f4",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-04-27T10:35:18.000Z",
       "snippet": "She clarified.",
       "description": "She clarified.",
-      "image": "https://image.koreaboo.com/2026/04/Rainbow-Woori-FI-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -23,7 +23,7 @@
       "publishedAt": "2026-04-27T10:15:45.000Z",
       "snippet": "\"Matching couple item...\"",
       "description": "\"Matching couple item...\"",
-      "image": "https://image.koreaboo.com/2026/04/winterairportJK-FI.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "bts",
         "aespa"
@@ -41,20 +41,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "62c02c3141d653a7",
-      "title": "BTS Jimin’s Vocals Criticized In Viral Clips From Recent Show — Sparks Anger",
-      "url": "https://www.koreaboo.com/news/bts-jimin-vocals-criticized-in-viral-clips-recent-show-sparks-anger/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-27T08:20:05.000Z",
-      "snippet": "Netizens defended the idol.",
-      "description": "Netizens defended the idol.",
-      "image": "https://image.koreaboo.com/2026/04/FD2870-13.jpg",
-      "tags": [
-        "idol",
-        "bts"
       ]
     },
     {
@@ -154,7 +140,7 @@
       "publishedAt": "2026-04-26T21:26:23.000Z",
       "snippet": "Super Junior’s Donghae has achieved an impressive feat with his new solo album! Last week, Donghae released his first-ever solo album “ALIVE,” along with the music video for title...",
       "description": "Super Junior’s Donghae has achieved an impressive feat with his new solo album! Last week, Donghae released his first-ever solo album “ALIVE,” along with the music video for title track “HAErise,” on April 20. According to Hanteo Chart, “ALIVE” sold an impressive total of 172,903 copies in the first week of its release (April 20… Continue reading Donghae Achieves Highest 1st-Week Sales Of Any Solo Album By A Super Junior Member With “ALIVE” The post Donghae Achieves Highest 1st-Week Sales Of Any Solo Album By A Super Junior Member With “ALIVE” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/26142539/Donghae.jpg",
       "tags": [
         "album",
         "music video",
@@ -169,7 +155,7 @@
       "publishedAt": "2026-04-26T19:07:43.000Z",
       "snippet": "NCT WISH is soaring to new heights with their latest comeback! Last week, NCT’s youngest unit made their return with their first full-length album “Ode to Love” on April 20. By the...",
       "description": "NCT WISH is soaring to new heights with their latest comeback! Last week, NCT’s youngest unit made their return with their first full-length album “Ode to Love” on April 20. By the end of the day, “Ode to Love” had already sold over 1.2 million copies, making it NCT WISH’s first album ever to surpass… Continue reading NCT WISH Smashes Their 1st-Week Sales Record With “Ode To Love” The post NCT WISH Smashes Their 1st-Week Sales Record With “Ode To Love” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/26113244/NCT-WISH-1.jpg",
       "tags": [
         "comeback",
         "album",
@@ -184,7 +170,7 @@
       "publishedAt": "2026-04-26T18:00:31.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on April 25! Seven months after its release, CORTIS topped the World Albums chart for the first time with their d...",
       "description": "Billboard has published its World Albums chart for the week ending on April 25! Seven months after its release, CORTIS topped the World Albums chart for the first time with their debut EP “COLOR OUTSIDE THE LINES,” which rose to No. 1 in its 32nd week. ENHYPEN’s latest mini album “THE SIN : VANISH” stayed… Continue reading CORTIS, ENHYPEN, BTS, TXT, Stray Kids, NewJeans, ATEEZ, And P1Harmony Sweep Top Spots On Billboard World Albums Chart The post CORTIS, ENHYPEN, BTS, TXT, Stray Kids, NewJeans, ATEEZ, And P1Harmony Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/26105420/CORTIS-ENHYPEN-BTS-TXT.jpg",
       "tags": [
         "debut",
         "mini album",
@@ -441,6 +427,24 @@
       "tags": [
         "debut",
         "mnet"
+      ]
+    },
+    {
+      "id": "58d8f32865e417a5",
+      "title": "Major K-pop girl group comeback showdown set for May",
+      "url": "https://www.koreaherald.com/article/10725010",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-24T05:04:07.000Z",
+      "snippet": "May is shaping up to be a highly competitive month for K-pop, with leading girl groups from the industry’s four major agencies — JYP Entertainment, SM Entertainment, YG Entertainme...",
+      "description": "May is shaping up to be a highly competitive month for K-pop, with leading girl groups from the industry’s four major agencies — JYP Entertainment, SM Entertainment, YG Entertainment and Hybe — all returning with new releases. Acts including Babymonster, Nmixx, Itzy, Le Sserafim, Aespa and I.O.I are set to roll out new music in quick succession, each bringing distinct concepts and strategies that have drawn global attention. Kicking off the lineup, Babymonster will release its third EP “Choom” o",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260424.73054d1bf8dd478f8e5f6cd093f745a0_T1.png",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "aespa",
+        "le sserafim",
+        "itzy",
+        "nmixx"
       ]
     }
   ]
