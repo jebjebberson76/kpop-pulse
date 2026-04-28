@@ -1,10 +1,81 @@
 {
-  "generatedAt": "2026-04-27T23:45:29.795Z",
+  "generatedAt": "2026-04-28T02:13:48.134Z",
   "items": [
     {
-      "id": "d88b515bf1539365",
+      "id": "fa9ea5649ba1afba",
+      "title": "Le Sserafim teams up with Roblox, logs 700m on Spotify",
+      "url": "https://www.koreaherald.com/article/10727147",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T02:04:27.000Z",
+      "snippet": "Le Sserafim has taken over the Roblox Seoul map in partnership with the global game platform, according to its agency Source Music on Tuesday. Fans will be able to practice the cho...",
+      "description": "Le Sserafim has taken over the Roblox Seoul map in partnership with the global game platform, according to its agency Source Music on Tuesday. Fans will be able to practice the choreography to “Celebration,” a prerelease track from the group's second full-length album, “Pureflow pt. 1.” Fans can also join the avatars of the five members on stage in one of the platform’s most popular games, Berry Ave. “Celebration” was unveiled Friday, well ahead of the album due out on May 22. Four remix version",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.cff2a9a676e74679b8fae2856182d819_T1.jpg",
+      "tags": [
+        "album",
+        "le sserafim"
+      ]
+    },
+    {
+      "id": "2226a7aeca635da4",
+      "title": "Cortis breaks into Spotify’ Top 100 with 2nd EP prerelease",
+      "url": "https://www.koreaherald.com/article/10727130",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T01:54:29.000Z",
+      "snippet": "Cortis ranked among the top 100 on Spotify’s Daily Top Songs Global with “RedRed,” label Big Hit Music said Tuesday, citing the ranking dated April 26. The rookie group entered the...",
+      "description": "Cortis ranked among the top 100 on Spotify’s Daily Top Songs Global with “RedRed,” label Big Hit Music said Tuesday, citing the ranking dated April 26. The rookie group entered the chart at No. 184 last week before leaping to No. 98, garnering approximately 1.9 million streams Sunday. “RedRed” is the prerelease track from its upcoming second EP, “GreenGreen.” It was dropped on April 20, ahead of the full album release slated for May 4. The mini album has received more than 2.12 million preorders",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.1b99dc9c617b4f1daa24a2fe30385802_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
+      ]
+    },
+    {
+      "id": "b40800d57098b163",
+      "title": "BTS&apos; &apos;Arirang&apos; album certified platinum in France",
+      "url": "https://www.koreaherald.com/article/10727110",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T01:43:16.000Z",
+      "snippet": "K-pop megastars BTS' latest album, \"Arirang,\" has been certified \"platinum\" by a major French recording industry association, the group's agency said Tuesday. The South Korean grou...",
+      "description": "K-pop megastars BTS' latest album, \"Arirang,\" has been certified \"platinum\" by a major French recording industry association, the group's agency said Tuesday. The South Korean group's fifth studio album received the certification from the National Syndicate of Phonographic Publishing for achieving 100,000 sales units across physical copies, downloads and streams, according to BigHit Music. The milestone came just a month after BTS earned a \"gold\" certification in France for the studio album, six",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.a6878df8c599499daa5ee42f623f9038_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "4414a07eb48786f9",
+      "title": "K-pop album exports top $100m for first time in Q1",
+      "url": "https://www.koreaherald.com/article/10727002",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T00:36:03.000Z",
+      "snippet": "South Korea's exports of K-pop albums hit a record high of $120 million in the first quarter of this year, customs data showed Tuesday. Outbound shipments of K-pop albums surged 15...",
+      "description": "South Korea's exports of K-pop albums hit a record high of $120 million in the first quarter of this year, customs data showed Tuesday. Outbound shipments of K-pop albums surged 159 percent from a year earlier in the January–March period, marking the first time quarterly exports have exceeded $100 million, according to the Korea Customs Service. Quarterly exports have set consecutive records since the third quarter of 2025, the agency said. The KCS attributed the increase to the global expansion",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.6d70a416c7aa4269946c852ebea7b108_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album"
+      ]
+    },
+    {
+      "id": "82323929053e57ee",
+      "title": "Former Top K-Pop Idol Admits To Going Broke, Struggling With Employment",
+      "url": "https://www.koreaboo.com/news/former-top-kpop-idol-admits-going-broke-struggling-employment-baby-j-jewelry/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-27T23:50:00.000Z",
+      "snippet": "She was a part of a legendary group.",
+      "description": "She was a part of a legendary group.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "b579532def47a703",
       "title": "BTS’s Jungkook Saves Rookie Idol From Potentially Awkward Interaction With Another HYBE Boy Group",
-      "url": "https://www.koreaboo.com/stories/btss-jungkook-saves-rookie-idol-potentially-awkward-interaction-another-hybe-boy-group/",
+      "url": "https://www.koreaboo.com/news/bts-jungkook-saves-rookie-idol-potentially-awkward-interaction-txt/",
       "source": "Koreaboo",
       "publishedAt": "2026-04-27T23:34:10.000Z",
       "snippet": "\"Gun to your head...\"",
@@ -369,79 +440,6 @@
         "debut",
         "album",
         "nct"
-      ]
-    },
-    {
-      "id": "82f55fbbc6639a33",
-      "title": "Watch: TXT Takes 3rd Win For “Stick With You” On “Music Bank”; Performances By LE SSERAFIM,  UNCHILD, And More",
-      "url": "https://www.soompi.com/article/1835915wpp/watch-txt-takes-3rd-win-for-stick-with-you-on-music-bank-performances-by-le-sserafim-unchild-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-04-24T12:08:55.000Z",
-      "snippet": "TXT has won their third music show trophy for “Stick With You”! On the April 24 episode of “Music Bank,” the candidates for first place were TXT’s “Stick With You” and PLAVE’s “Bor...",
-      "description": "TXT has won their third music show trophy for “Stick With You”! On the April 24 episode of “Music Bank,” the candidates for first place were TXT’s “Stick With You” and PLAVE’s “Born Savage.” TXT ultimately took the prize with a total of 10,515 points. Congratulations to TXT! Watch the winner announcement and encore below! Performers on… Continue reading Watch: TXT Takes 3rd Win For “Stick With You” On “Music Bank”; Performances By LE SSERAFIM, UNCHILD, And More The post Watch: TXT Takes 3rd Win For “Stick With You” On “Music Bank”; Performances By LE SSERAFIM, UNCHILD, And More appeared first...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music bank",
-        "le sserafim"
-      ]
-    },
-    {
-      "id": "729354736fe2c48b",
-      "title": "“Music Bank In Barcelona” Announces Park Bo Gum As MC + Star-Studded Performer Lineup",
-      "url": "https://www.soompi.com/article/1835910wpp/music-bank-in-barcelona-announces-park-bo-gum-as-mc-star-studded-performer-lineup",
-      "source": "Soompi",
-      "publishedAt": "2026-04-24T10:40:26.000Z",
-      "snippet": "“Music Bank” is heading to Barcelona! On April 24, the show unveiled the MC and performer lineup for its upcoming special “Music Bank in Barcelona.” Park Bo Gum has been confirmed...",
-      "description": "“Music Bank” is heading to Barcelona! On April 24, the show unveiled the MC and performer lineup for its upcoming special “Music Bank in Barcelona.” Park Bo Gum has been confirmed as the host, while the performance lineup includes ENHYPEN, ATEEZ, CORTIS, NCT WISH, ALPHA DRIVE ONE, NMIXX, and xikers. The event is set to… Continue reading “Music Bank In Barcelona” Announces Park Bo Gum As MC + Star-Studded Performer Lineup The post “Music Bank In Barcelona” Announces Park Bo Gum As MC + Star-Studded Performer Lineup appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music bank",
-        "nct",
-        "nmixx"
-      ]
-    },
-    {
-      "id": "e6bcea3ee5dc2d66",
-      "title": "RIIZE Confirms June Comeback Date",
-      "url": "https://www.soompi.com/article/1835906wpp/riize-confirms-june-comeback-date",
-      "source": "Soompi",
-      "publishedAt": "2026-04-24T09:42:20.000Z",
-      "snippet": "RIIZE is set to make a comeback with a new album this June! On April 24, EDaily reported that RIIZE will release their second mini album on June 15. In response to the report, thei...",
-      "description": "RIIZE is set to make a comeback with a new album this June! On April 24, EDaily reported that RIIZE will release their second mini album on June 15. In response to the report, their agency SM Entertainment confirmed, “RIIZE will be releasing their second mini album on June 15. Details regarding the promotional schedule… Continue reading RIIZE Confirms June Comeback Date The post RIIZE Confirms June Comeback Date appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album",
-        "riize"
-      ]
-    },
-    {
-      "id": "73d9eb005c62d631",
-      "title": "Lucas parts ways with SM Entertainment",
-      "url": "https://www.koreaherald.com/article/10725134",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-24T07:03:19.000Z",
-      "snippet": "Lucas, a former member of NCT, has ended his exclusive contract with SM Entertainment, the agency announced Friday. In a statement released via global fan community Weverse, SM Ent...",
-      "description": "Lucas, a former member of NCT, has ended his exclusive contract with SM Entertainment, the agency announced Friday. In a statement released via global fan community Weverse, SM Entertainment said its contract with the artist “officially concluded as of April 24.” “We sincerely thank fans for the great love and support they have shown Lucas,” the agency said. “We will cherish the time we have shared with Lucas, from his trainee days to his various activities following his debut, and we will suppo",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/24/news-p.v1.20260424.fc861f83c85948e582e1f8b5a27cb8ce_T1.png",
-      "tags": [
-        "debut",
-        "nct"
-      ]
-    },
-    {
-      "id": "d15e4bd7c823bfac",
-      "title": "‘Boys II Planet’ duo Chuei Liyu, Kang Woojin to debut as Flare U",
-      "url": "https://www.koreaherald.com/article/10725099",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-24T06:34:26.000Z",
-      "snippet": "Chuei Liyu and Kang Woojin, former contestants on Mnet’s survival program “Boys II Planet,” are set to debut as the new boy duo Flare U. The pair opened official social media chann...",
-      "description": "Chuei Liyu and Kang Woojin, former contestants on Mnet’s survival program “Boys II Planet,” are set to debut as the new boy duo Flare U. The pair opened official social media channels Friday, unveiling the group’s name along with a logo trailer video and teaser images. According to FNC Entertainment, the name Flare U represents the moment when two distinct lights — as represented by Chuei and Kang — come together to form a single, brighter glow. It also reflects the idea that their synergy becom",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/24/news-p.v1.20260424.9463663910754151a0ebe91ff1257c43_T1.png",
-      "tags": [
-        "debut",
-        "mnet"
       ]
     }
   ]
