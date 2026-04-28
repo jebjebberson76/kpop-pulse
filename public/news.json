@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T17:41:47.682Z",
+  "generatedAt": "2026-04-28T19:24:19.932Z",
   "items": [
     {
       "id": "dca0e8e67bdb4342",
@@ -55,20 +55,6 @@
       "tags": [
         "world tour",
         "concert"
-      ]
-    },
-    {
-      "id": "5013d164ffbbfc64",
-      "title": "aespa’s Ningning And RIIZE Wonbin’s Relationship “Proof” Triggers Scathing Reactions",
-      "url": "https://www.koreaboo.com/news/riize-wonbin-aespa-ningning-relationship-proof-triggers-scathing-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-28T10:42:59.000Z",
-      "snippet": "A viral post has became a hot topic.",
-      "description": "A viral post has became a hot topic.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "aespa",
-        "riize"
       ]
     },
     {
@@ -437,6 +423,20 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/26/news-p.v1.20260426.b3d1544be88f45df937157f0ba95d6c6_T1.jpg",
       "tags": [
         "world tour",
+        "bts"
+      ]
+    },
+    {
+      "id": "5762f54042a43ec5",
+      "title": "BTS’s “SWIM” Rises To New Peak On Billboard’s Pop Radio Airplay Chart + Tops Global 200 For 4th Week",
+      "url": "https://www.soompi.com/article/1836136wpp/btss-swim-rises-to-new-peak-on-billboards-pop-radio-airplay-chart-tops-global-200-for-4th-week",
+      "source": "Soompi",
+      "publishedAt": "2026-04-26T03:48:01.000Z",
+      "snippet": "BTS’s latest hit is on the rise on U.S. radio! This week, BTS’s title track “SWIM” climbed to a new peak of No. 13 in its fourth week on Billboard’s Pop Airplay chart, which measur...",
+      "description": "BTS’s latest hit is on the rise on U.S. radio! This week, BTS’s title track “SWIM” climbed to a new peak of No. 13 in its fourth week on Billboard’s Pop Airplay chart, which measures weekly plays on mainstream Top 40 radio stations across the United States. “SWIM” also continued to top multiple Billboard charts,… Continue reading BTS’s “SWIM” Rises To New Peak On Billboard’s Pop Radio Airplay Chart + Tops Global 200 For 4th Week The post BTS’s “SWIM” Rises To New Peak On Billboard’s Pop Radio Airplay Chart + Tops Global 200 For 4th Week appeared first on Soompi.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "billboard",
         "bts"
       ]
     }
