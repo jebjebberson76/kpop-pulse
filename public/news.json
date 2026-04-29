@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-29T21:56:32.484Z",
+  "generatedAt": "2026-04-29T22:53:51.083Z",
   "items": [
+    {
+      "id": "010bd4c76fa89bd8",
+      "title": "BTS’s US Concert Audience Sparks Intense Reactions In Korea",
+      "url": "https://www.koreaboo.com/news/bts-us-concert-audience-sparks-intense-reactions-korea/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-04-29T22:04:58.000Z",
+      "snippet": "The faces say it all.",
+      "description": "The faces say it all.",
+      "image": "https://image.koreaboo.com/2026/04/bts-tampa.jpg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "d4f322710fb86fd1",
       "title": "TXT, AKMU, And BTS Earn Double Crowns On Circle Weekly Charts",
@@ -96,7 +110,7 @@
       "publishedAt": "2026-04-29T02:37:18.000Z",
       "snippet": "SM Entertainment has released an official statement following the court’s final ruling against the malicious YouTuber Sojang. Previously on April 22, the 14th Civil Division of the...",
       "description": "SM Entertainment has released an official statement following the court’s final ruling against the malicious YouTuber Sojang. Previously on April 22, the 14th Civil Division of the Seoul District Court ruled that the operator of Sojang infringed upon the personality rights of the members of EXO, Red Velvet, and aespa by producing and posting videos… Continue reading SM Entertainment Wins Lawsuit Against Malicious YouTuber Sojang For Defamation Of EXO, Red Velvet, And aespa The post SM Entertainment Wins Lawsuit Against Malicious YouTuber Sojang For Defamation Of EXO, Red Velvet, And aespa appe...",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/01/19232218/sm-entertainment.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "aespa",
         "exo",
@@ -416,22 +430,6 @@
         "debut",
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "ff7f8e4ea79f9ade",
-      "title": "TXT, BTS both land in Billboard 200&apos;s top 5",
-      "url": "https://www.koreaherald.com/article/10725878",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-26T23:07:55.000Z",
-      "snippet": "K-pop boy group Tomorrow X Together debuted at No. 3 on the Billboard 200 with their latest album, \"7th Year: A Moment of Stillness in the Thorns.\" The album eared 69,000 equivalen...",
-      "description": "K-pop boy group Tomorrow X Together debuted at No. 3 on the Billboard 200 with their latest album, \"7th Year: A Moment of Stillness in the Thorns.\" The album eared 69,000 equivalent album units in its first week, according to a chart preview released Sunday (US time), marking the group's eighth top 10 entry on the main albums chart. It placed behind country singer Ella Langley's \"Dandelion\" and Morgan Wallen's \"I'm the Problem.\" Meanwhile, BTS' latest album, \"Arirang,\" placed No. 4 with 62,000 e",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/rcv.YNA.20260413.PYH2026041312350001300_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "billboard",
-        "bts"
       ]
     }
   ]
