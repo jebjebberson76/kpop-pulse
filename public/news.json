@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T15:06:12.090Z",
+  "generatedAt": "2026-04-29T17:20:58.695Z",
   "items": [
     {
       "id": "3b8361cac531f3bd",
@@ -13,20 +13,6 @@
       "tags": [
         "album",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "4ba56b9bdc08f030",
-      "title": "Top Male Idol Shows Off Close Bond With BLACKPINK’s Jennie In “Date” Video — Sparking Shock",
-      "url": "https://www.koreaboo.com/news/male-idol-woodz-shows-close-friendship-blackpink-jennie-date-video-shock/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-29T11:05:17.000Z",
-      "snippet": "He even shared the story of how they met.",
-      "description": "He even shared the story of how they met.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
       ]
     },
     {
@@ -429,6 +415,22 @@
         "album",
         "billboard",
         "bts"
+      ]
+    },
+    {
+      "id": "40dec7240ac5560b",
+      "title": "K-pop&apos;s obsession with house music",
+      "url": "https://www.koreaherald.com/article/10725763",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-26T08:35:34.000Z",
+      "snippet": "Electronic dance music has been a go-to for K-pop for over a decade: think Psy's \"Gangnam Style,\" f(x)'s \"4 Walls\" and SHINee's \"View.\" The trend resurged last year and has continu...",
+      "description": "Electronic dance music has been a go-to for K-pop for over a decade: think Psy's \"Gangnam Style,\" f(x)'s \"4 Walls\" and SHINee's \"View.\" The trend resurged last year and has continued into 2026 with no signs of slowing, particularly among girl groups. The standout subgenre is house music. Aespa's \"Supernova\" and \"Whiplash,\" Le Sserafim's \"Crazy\" and Hearts2Hearts' \"Focus\" all drew on house influences. The wave continued this year with Starship Entertainment act KiiiKiii's \"404 (New Era),\" which t",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/26/news-p.v1.20260426.194df8f73db344fc855be58205df240c_T1.jpg",
+      "tags": [
+        "k-pop",
+        "aespa",
+        "le sserafim",
+        "shinee"
       ]
     }
   ]
