@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-04-30T10:48:56.672Z",
+  "generatedAt": "2026-04-30T12:10:41.723Z",
   "items": [
-    {
-      "id": "2104c48f092ddca6",
-      "title": "BLACKPINK Jennie’s Recent Actions In New Video Linked To Dating Rumors With BTS’s V",
-      "url": "https://www.koreaboo.com/news/blackpink-jennie-actions-male-idol-dating-rumors-bts-v/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-30T09:40:12.000Z",
-      "snippet": "Netizens thought it wasn't just a coincidence.",
-      "description": "Netizens thought it wasn't just a coincidence.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "blackpink"
-      ]
-    },
     {
       "id": "d4f322710fb86fd1",
       "title": "TXT, AKMU, And BTS Earn Double Crowns On Circle Weekly Charts",
@@ -427,6 +413,21 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.5b069ef5d75f47ee9d6657564285285f_T1.jpg",
       "tags": [
         "comeback",
+        "mini album",
+        "album"
+      ]
+    },
+    {
+      "id": "e96eba186234b7e4",
+      "title": "And2ble to debut on May 26",
+      "url": "https://www.koreaherald.com/article/10726119",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T01:35:41.000Z",
+      "snippet": "And2ble will release its first mini album “Sequence 01: Curiosity” on May 26, agency YH Entertainment announced Monday. On Friday, the final installment of the introductory teaser...",
+      "description": "And2ble will release its first mini album “Sequence 01: Curiosity” on May 26, agency YH Entertainment announced Monday. On Friday, the final installment of the introductory teaser videos was unveiled. In the final trailer, a tremor of violin sounds breaks the silence, awakening member Zhang Hao. He, along with three former members of Zerobaseone and a new member, formed And2ble. It will debut eight days after the reorganized Zerobaseone, also as a five-member act, which is set to release its six",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.602332799c454b68a4c23e36e2710e49_T1.jpg",
+      "tags": [
+        "debut",
         "mini album",
         "album"
       ]
