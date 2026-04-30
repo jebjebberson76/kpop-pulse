@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-04-30T02:24:18.567Z",
+  "generatedAt": "2026-04-30T05:52:27.706Z",
   "items": [
-    {
-      "id": "010bd4c76fa89bd8",
-      "title": "BTS’s US Concert Audience Sparks Intense Reactions In Korea",
-      "url": "https://www.koreaboo.com/news/bts-us-concert-audience-sparks-intense-reactions-korea/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-29T22:04:58.000Z",
-      "snippet": "The faces say it all.",
-      "description": "The faces say it all.",
-      "image": "https://image.koreaboo.com/2026/04/bts-tampa.jpg",
-      "tags": [
-        "concert",
-        "bts"
-      ]
-    },
     {
       "id": "d4f322710fb86fd1",
       "title": "TXT, AKMU, And BTS Earn Double Crowns On Circle Weekly Charts",
@@ -44,6 +30,20 @@
       "tags": [
         "album",
         "le sserafim"
+      ]
+    },
+    {
+      "id": "78ce31c178a146b6",
+      "title": "Cravity reflect on growth, future as ‘Redefine’ marks new chapter",
+      "url": "https://www.koreaherald.com/article/10727783",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-29T10:00:00.000Z",
+      "snippet": "With its eighth EP “Redefine,” Cravity turns inward, using a six-track release to explore growth, uncertainty and the process of redefining itself. Fronted by the track “Awake,” th...",
+      "description": "With its eighth EP “Redefine,” Cravity turns inward, using a six-track release to explore growth, uncertainty and the process of redefining itself. Fronted by the track “Awake,” the album reflects both a creative shift and a transitional moment for the group. The album comes at a meaningful point for Cravity. With the group now six years into their career and contract renewal decisions approaching, Wonjin said the members had discussed the future before preparing the comeback. “We talked about c",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/29/news-p.v1.20260428.31128c05c3b540cdbd6e66131f9482d7_T1.jpg",
+      "tags": [
+        "comeback",
+        "album"
       ]
     },
     {
@@ -111,7 +111,7 @@
       "publishedAt": "2026-04-29T02:37:18.000Z",
       "snippet": "SM Entertainment has released an official statement following the court’s final ruling against the malicious YouTuber Sojang. Previously on April 22, the 14th Civil Division of the...",
       "description": "SM Entertainment has released an official statement following the court’s final ruling against the malicious YouTuber Sojang. Previously on April 22, the 14th Civil Division of the Seoul District Court ruled that the operator of Sojang infringed upon the personality rights of the members of EXO, Red Velvet, and aespa by producing and posting videos… Continue reading SM Entertainment Wins Lawsuit Against Malicious YouTuber Sojang For Defamation Of EXO, Red Velvet, And aespa The post SM Entertainment Wins Lawsuit Against Malicious YouTuber Sojang For Defamation Of EXO, Red Velvet, And aespa appe...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/01/19232218/sm-entertainment.jpeg",
       "tags": [
         "aespa",
         "exo",
