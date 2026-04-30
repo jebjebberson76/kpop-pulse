@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T19:09:35.512Z",
+  "generatedAt": "2026-04-30T20:53:20.884Z",
   "items": [
     {
       "id": "538c32cb90bf2ccc",
@@ -13,20 +13,6 @@
       "tags": [
         "comeback",
         "newjeans"
-      ]
-    },
-    {
-      "id": "a623528ed5df7927",
-      "title": "Active K-Pop Idol Spills On The Pregnancy Ban And How Her Fellow Member Broke The Clause",
-      "url": "https://www.koreaboo.com/news/active-kpop-idol-spills-pregnancy-ban-member-broke-clause/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-04-30T15:37:55.000Z",
-      "snippet": "A female K-Pop idol recently expressed dissatisfaction with a fellow member’s pregnancy, telling everyone about the pregnancy ban clause in their contracts. On the 28th, a video ti...",
-      "description": "A female K-Pop idol recently expressed dissatisfaction with a fellow member’s pregnancy, telling everyone about the pregnancy ban clause in their contracts. On the 28th, a video titled “Hyunyoung’s mental…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -426,6 +412,21 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.5b069ef5d75f47ee9d6657564285285f_T1.jpg",
       "tags": [
         "comeback",
+        "mini album",
+        "album"
+      ]
+    },
+    {
+      "id": "e96eba186234b7e4",
+      "title": "And2ble to debut on May 26",
+      "url": "https://www.koreaherald.com/article/10726119",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T01:35:41.000Z",
+      "snippet": "And2ble will release its first mini album “Sequence 01: Curiosity” on May 26, agency YH Entertainment announced Monday. On Friday, the final installment of the introductory teaser...",
+      "description": "And2ble will release its first mini album “Sequence 01: Curiosity” on May 26, agency YH Entertainment announced Monday. On Friday, the final installment of the introductory teaser videos was unveiled. In the final trailer, a tremor of violin sounds breaks the silence, awakening member Zhang Hao. He, along with three former members of Zerobaseone and a new member, formed And2ble. It will debut eight days after the reorganized Zerobaseone, also as a five-member act, which is set to release its six",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.602332799c454b68a4c23e36e2710e49_T1.jpg",
+      "tags": [
+        "debut",
         "mini album",
         "album"
       ]
