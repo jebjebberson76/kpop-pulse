@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T16:38:40.048Z",
+  "generatedAt": "2026-05-02T17:38:50.771Z",
   "items": [
     {
       "id": "40b0c885284903bc",
@@ -13,20 +13,6 @@
       "tags": [
         "album",
         "newjeans"
-      ]
-    },
-    {
-      "id": "0245e9927d35bb50",
-      "title": "BTS’s V And IVE Wonyoung’s Dating Rumors Trigger “Age Gap” Backlash",
-      "url": "https://www.koreaboo.com/news/bts-v-ive-jang-wonyoung-dating-rumors-trigger-age-gap-backlash/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-02T09:02:09.000Z",
-      "snippet": "\"Think about their age difference...\"",
-      "description": "\"Think about their age difference...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "ive"
       ]
     },
     {
@@ -430,6 +416,21 @@
         "album",
         "melon",
         "nct"
+      ]
+    },
+    {
+      "id": "982f0d8a6f4c875c",
+      "title": "BoyNextDoor to return in June with 1st LP: report",
+      "url": "https://www.koreaherald.com/article/10726136",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T01:44:16.000Z",
+      "snippet": "BoyNextDoor is gearing up for a June comeback and will drop a prerelease from its first studio album in May, according to a local media report Monday. The album will come about eig...",
+      "description": "BoyNextDoor is gearing up for a June comeback and will drop a prerelease from its first studio album in May, according to a local media report Monday. The album will come about eight months after the group's fifth EP, “The Action.” The last mini album sold more than 1 million copies, as did the two preceding sets, EPs “19.99” and “No Genre.” The main track “Hollywood Action” won three first-place trophies on domestic television music chart shows. In February, they released a live album recording",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.5b069ef5d75f47ee9d6657564285285f_T1.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album"
       ]
     }
   ]
