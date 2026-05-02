@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T11:38:59.949Z",
+  "generatedAt": "2026-05-02T12:54:33.133Z",
   "items": [
     {
       "id": "0245e9927d35bb50",
@@ -37,20 +37,6 @@
       "publishedAt": "2026-05-02T00:36:42.000Z",
       "snippet": "\"Am I the only one getting older here?!\"",
       "description": "\"Am I the only one getting older here?!\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "86b873cc3347b4bc",
-      "title": "K-Pop Idol’s Star Ex-Husband Reveals New Ideal Type For The First Time Since High-Profile Divorce",
-      "url": "https://www.koreaboo.com/news/hwang-jae-gyun-kpop-idols-ex-husband-moving-talking-new-ideal-type/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-01T23:13:12.000Z",
-      "snippet": "Moving on.",
-      "description": "Moving on.",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
@@ -429,6 +415,20 @@
       "tags": [
         "comeback",
         "newjeans"
+      ]
+    },
+    {
+      "id": "a054f597277ff654",
+      "title": "TVXQ marks Japan debut anniversary with 130,000 fans",
+      "url": "https://www.koreaherald.com/article/10726268",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T02:27:33.000Z",
+      "snippet": "TVXQ drew a crowd of 130,000 fans over two shows at Nissan Stadium in Japan, where it celebrated the 20th anniversary of its Japanese debut. Held on Saturday and Sunday, the shows...",
+      "description": "TVXQ drew a crowd of 130,000 fans over two shows at Nissan Stadium in Japan, where it celebrated the 20th anniversary of its Japanese debut. Held on Saturday and Sunday, the shows had added significance: TVXQ became the first and most frequent overseas act to perform at Nissan Stadium, having first taken the stage there in 2013 and 2018. Located in Yokohama, Nissan Stadium is Japan’s largest-capacity stadium and hosts major international sporting events as well as high-attendance concerts. Throu",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.a962f4c9b94044a686a7a5b299533d55_T1.jpg",
+      "tags": [
+        "debut",
+        "tvxq"
       ]
     }
   ]
