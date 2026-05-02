@@ -1,18 +1,32 @@
 {
-  "generatedAt": "2026-05-02T17:38:50.771Z",
+  "generatedAt": "2026-05-02T18:47:42.320Z",
   "items": [
     {
-      "id": "40b0c885284903bc",
-      "title": "ILLIT “Shades” NewJeans In New Album Content, Deletes It Abruptly",
-      "url": "https://www.koreaboo.com/news/illit-shade-newjeans-new-album-promo-quickly-deleted/",
+      "id": "03b48da1d44827df",
+      "title": "K-Pop Idol’s Biggest Hit Song Revealed To Have Been Rejected By Another Group First",
+      "url": "https://www.koreaboo.com/news/kim-jongkook-hit-song-loveable-rejected-japanese-girl-group-first-joo-younghoon/",
       "source": "Koreaboo",
-      "publishedAt": "2026-05-02T13:54:42.000Z",
-      "snippet": "They mentioned the plagiarism issue directly.",
-      "description": "They mentioned the plagiarism issue directly.",
-      "image": "/public/placeholder-news.svg",
+      "publishedAt": "2026-05-02T18:22:46.000Z",
+      "snippet": "Fate works in mysterious ways!",
+      "description": "Fate works in mysterious ways!",
+      "image": "https://image.koreaboo.com/2026/05/Kim-jongkook-loveable-origin-fi.jpg",
       "tags": [
-        "album",
-        "newjeans"
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "089e323cedb0c068",
+      "title": "Female K-Pop Idol Shocks With Toned Figure",
+      "url": "https://www.koreaboo.com/news/female-kpop-idol-shocks-toned-figure/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-02T17:42:33.000Z",
+      "snippet": "Wow.",
+      "description": "Wow.",
+      "image": "https://storage.googleapis.com/koreaboo-cdn/2026/05/Jewelry-Jihyun-1.mp4",
+      "tags": [
+        "k-pop",
+        "idol"
       ]
     },
     {
@@ -81,7 +95,7 @@
       "publishedAt": "2026-05-01T01:08:38.000Z",
       "snippet": "CORTIS has won the first music show trophy of their career! On the April 30 episode of the Mnet music show, the candidates for first place were NCT WISH’s “Ode to Love” and CORTIS’...",
       "description": "CORTIS has won the first music show trophy of their career! On the April 30 episode of the Mnet music show, the candidates for first place were NCT WISH’s “Ode to Love” and CORTIS’s “REDRED.” CORTIS ultimately took the prize with a total of 8,902 points, marking their first-ever win on a music show. Congratulations… Continue reading Watch: CORTIS Takes 1st-Ever Win On “M Countdown” With “REDRED”; Performances By ILLIT, KATSEYE, And More The post Watch: CORTIS Takes 1st-Ever Win On “M Countdown” With “REDRED”; Performances By ILLIT, KATSEYE, And More appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/04/30180143/CORTIS_e4cd70.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mnet",
         "m countdown",
@@ -416,21 +430,6 @@
         "album",
         "melon",
         "nct"
-      ]
-    },
-    {
-      "id": "982f0d8a6f4c875c",
-      "title": "BoyNextDoor to return in June with 1st LP: report",
-      "url": "https://www.koreaherald.com/article/10726136",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-27T01:44:16.000Z",
-      "snippet": "BoyNextDoor is gearing up for a June comeback and will drop a prerelease from its first studio album in May, according to a local media report Monday. The album will come about eig...",
-      "description": "BoyNextDoor is gearing up for a June comeback and will drop a prerelease from its first studio album in May, according to a local media report Monday. The album will come about eight months after the group's fifth EP, “The Action.” The last mini album sold more than 1 million copies, as did the two preceding sets, EPs “19.99” and “No Genre.” The main track “Hollywood Action” won three first-place trophies on domestic television music chart shows. In February, they released a live album recording",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.5b069ef5d75f47ee9d6657564285285f_T1.jpg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
       ]
     }
   ]
