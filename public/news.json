@@ -1,62 +1,6 @@
 {
-  "generatedAt": "2026-05-02T02:05:55.079Z",
+  "generatedAt": "2026-05-02T05:30:45.829Z",
   "items": [
-    {
-      "id": "1f2f8c67aa8bd4ed",
-      "title": "K-Pop Idol Confirms Husband’s Emergency Brain Surgery, Reveals His Condition",
-      "url": "https://www.koreaboo.com/news/narsha-brown-eyed-girls-husband-hwang-taekyung-brain-surgery-updates/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-02T01:01:40.000Z",
-      "snippet": "Wishing him a speedy recovery!",
-      "description": "Wishing him a speedy recovery!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "e5667774d2caf44a",
-      "title": "K-Pop Idol Shocks Fans By Looking Exactly The Same In Photoshoot 14 Years Later",
-      "url": "https://www.koreaboo.com/news/wonder-girls-ahn-sohee-kpop-idol-shocks-fans-iconic-ohboy-photoshoot-14-years-later/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-02T00:36:42.000Z",
-      "snippet": "\"Am I the only one getting older here?!\"",
-      "description": "\"Am I the only one getting older here?!\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "86b873cc3347b4bc",
-      "title": "K-Pop Idol’s Star Ex-Husband Reveals New Ideal Type For The First Time Since High-Profile Divorce",
-      "url": "https://www.koreaboo.com/news/hwang-jae-gyun-kpop-idols-ex-husband-moving-talking-new-ideal-type/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-01T23:13:12.000Z",
-      "snippet": "Moving on.",
-      "description": "Moving on.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "794ef24e1838fe42",
-      "title": "Popular K-Pop Idol Expresses Disappointment Over Current Greeting Culture In The Industry",
-      "url": "https://www.koreaboo.com/news/popular-kpop-idol-expresses-disappointment-current-greeting-culture-in-industry/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-01T15:43:08.000Z",
-      "snippet": "Things have changed.",
-      "description": "Things have changed.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
     {
       "id": "20775a4d28f61343",
       "title": "Watch: NCT WISH Takes 1st Win For “Ode to Love” On “Music Bank”; Performances By TWS, ILLIT, CRAVITY, And More",
@@ -276,34 +220,6 @@
       ]
     },
     {
-      "id": "8471c06f9ec8b88e",
-      "title": "&TEAM Breaks 1st-Week Sales Record As “We On Fire” Sells Over 1.2 Million Copies",
-      "url": "https://www.soompi.com/article/1836859wpp/team-breaks-1st-week-sales-record-as-we-on-fire-sells-over-1-2-million-copies",
-      "source": "Soompi",
-      "publishedAt": "2026-04-28T21:57:57.000Z",
-      "snippet": "&TEAM has achieved a career high with their latest comeback! Last week, &TEAM released their new Japanese EP “We on Fire” and its title track of the same name on April 21. By the e...",
-      "description": "&TEAM has achieved a career high with their latest comeback! Last week, &TEAM released their new Japanese EP “We on Fire” and its title track of the same name on April 21. By the end of the day, the EP had already sold over 1 million copies, making it the first Japanese album ever to… Continue reading &TEAM Breaks 1st-Week Sales Record As “We On Fire” Sells Over 1.2 Million Copies The post &TEAM Breaks 1st-Week Sales Record As “We On Fire” Sells Over 1.2 Million Copies appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album"
-      ]
-    },
-    {
-      "id": "85681979775ca0c1",
-      "title": "TWS’s “NO TRAGEDY” Takes Just 1 Day To Break Their Previous Album’s Total Sales Record",
-      "url": "https://www.soompi.com/article/1836851wpp/twss-no-tragedy-takes-just-1-day-to-break-their-previous-albums-total-sales-record",
-      "source": "Soompi",
-      "publishedAt": "2026-04-28T21:34:24.000Z",
-      "snippet": "It took TWS just one day to smash their personal sales record with their latest release! On April 27, TWS made their return with their new mini album “NO TRAGEDY” and its upbeat ti...",
-      "description": "It took TWS just one day to smash their personal sales record with their latest release! On April 27, TWS made their return with their new mini album “NO TRAGEDY” and its upbeat title track “You, You.” According to Hanteo Chart, “NO TRAGEDY” sold an impressive total of 833,138 copies on its first day of… Continue reading TWS’s “NO TRAGEDY” Takes Just 1 Day To Break Their Previous Album’s Total Sales Record The post TWS’s “NO TRAGEDY” Takes Just 1 Day To Break Their Previous Album’s Total Sales Record appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album"
-      ]
-    },
-    {
       "id": "770896e9e637e1f0",
       "title": "Enhypen adds third Mexico City show as demand surges",
       "url": "https://www.koreaherald.com/article/10727761",
@@ -429,6 +345,92 @@
         "k-pop",
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "4414a07eb48786f9",
+      "title": "K-pop album exports top $100m for first time in Q1",
+      "url": "https://www.koreaherald.com/article/10727002",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T00:36:03.000Z",
+      "snippet": "South Korea's exports of K-pop albums hit a record high of $120 million in the first quarter of this year, customs data showed Tuesday. Outbound shipments of K-pop albums surged 15...",
+      "description": "South Korea's exports of K-pop albums hit a record high of $120 million in the first quarter of this year, customs data showed Tuesday. Outbound shipments of K-pop albums surged 159 percent from a year earlier in the January–March period, marking the first time quarterly exports have exceeded $100 million, according to the Korea Customs Service. Quarterly exports have set consecutive records since the third quarter of 2025, the agency said. The KCS attributed the increase to the global expansion",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.6d70a416c7aa4269946c852ebea7b108_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album"
+      ]
+    },
+    {
+      "id": "897c3e08cbf07f8e",
+      "title": "NCT’s Taeyong to release first LP &apos;Wyld&apos;",
+      "url": "https://www.koreaherald.com/article/10726396",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T04:24:22.000Z",
+      "snippet": "Taeyong of NCT is set to expand his solo career with the release of his first LP, “Wyld,” on May 18. According to SM Entertainment, “Wyld” will consist of 10 tracks, led by the tit...",
+      "description": "Taeyong of NCT is set to expand his solo career with the release of his first LP, “Wyld,” on May 18. According to SM Entertainment, “Wyld” will consist of 10 tracks, led by the title track. “Wyld” holds particular significance for Taeyong, as he took part in writing the lyrics for all tracks and composing for nine of them, while also contributing to the album’s overall production. The new album is “expected to reflect a more introspective and refined artistic identity, highlighting Taeyong’s gro",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.4839a839503045758713f0a63356382a_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
+      ]
+    },
+    {
+      "id": "bca7f45a3ad99f3d",
+      "title": "NewJeans&apos; recent activities raise comeback speculations",
+      "url": "https://www.koreaherald.com/article/10726301",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T02:35:20.000Z",
+      "snippet": "What appears to be a scheduler for a recording studio in Copenhagen circulated online, further fueling speculation that NewJeans is preparing to return. The document included the n...",
+      "description": "What appears to be a scheduler for a recording studio in Copenhagen circulated online, further fueling speculation that NewJeans is preparing to return. The document included the name of the group's agency, Ador, booking sessions for five days earlier in April. Around the same time, Haerin and Hyein were spotted at a store in the Danish capital, and Hani was said to have accompanied the two. Ador confirmed that the three visited the city on Monday, adding that “the visit was part of a preproduct",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.e388c4d2a90c4473a941816fd80561c9_T1.jpg",
+      "tags": [
+        "comeback",
+        "newjeans"
+      ]
+    },
+    {
+      "id": "a054f597277ff654",
+      "title": "TVXQ marks Japan debut anniversary with 130,000 fans",
+      "url": "https://www.koreaherald.com/article/10726268",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T02:27:33.000Z",
+      "snippet": "TVXQ drew a crowd of 130,000 fans over two shows at Nissan Stadium in Japan, where it celebrated the 20th anniversary of its Japanese debut. Held on Saturday and Sunday, the shows...",
+      "description": "TVXQ drew a crowd of 130,000 fans over two shows at Nissan Stadium in Japan, where it celebrated the 20th anniversary of its Japanese debut. Held on Saturday and Sunday, the shows had added significance: TVXQ became the first and most frequent overseas act to perform at Nissan Stadium, having first taken the stage there in 2013 and 2018. Located in Yokohama, Nissan Stadium is Japan’s largest-capacity stadium and hosts major international sporting events as well as high-attendance concerts. Throu",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.a962f4c9b94044a686a7a5b299533d55_T1.jpg",
+      "tags": [
+        "debut",
+        "tvxq"
+      ]
+    },
+    {
+      "id": "c0cac32691a4e4ca",
+      "title": "NCT Wish’s 1st LP sells career-high 1.8m",
+      "url": "https://www.koreaherald.com/article/10726224",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T02:16:45.000Z",
+      "snippet": "NCT Wish logged over 1.82 million units sold in the first week with its first full album “Ode to Love,” label SM Entertainment said Monday. The subunit recorded its career-best fir...",
+      "description": "NCT Wish logged over 1.82 million units sold in the first week with its first full album “Ode to Love,” label SM Entertainment said Monday. The subunit recorded its career-best first-week sales with its third consecutive million-selling album, surpassing sales of its second EP “Poppop,” and its third EP “Color.” The LP sold 1 million copies on the day of release. The title track peaked at No. 3 on Melon’s Top 100, after debuting atop its Hot 100 chart. Meanwhile, the exhibition “Love Wish Be Ins",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.37da74a89c7047a3afb6dcf733881288_T1.jpg",
+      "tags": [
+        "album",
+        "melon",
+        "nct"
+      ]
+    },
+    {
+      "id": "982f0d8a6f4c875c",
+      "title": "BoyNextDoor to return in June with 1st LP: report",
+      "url": "https://www.koreaherald.com/article/10726136",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T01:44:16.000Z",
+      "snippet": "BoyNextDoor is gearing up for a June comeback and will drop a prerelease from its first studio album in May, according to a local media report Monday. The album will come about eig...",
+      "description": "BoyNextDoor is gearing up for a June comeback and will drop a prerelease from its first studio album in May, according to a local media report Monday. The album will come about eight months after the group's fifth EP, “The Action.” The last mini album sold more than 1 million copies, as did the two preceding sets, EPs “19.99” and “No Genre.” The main track “Hollywood Action” won three first-place trophies on domestic television music chart shows. In February, they released a live album recording",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.5b069ef5d75f47ee9d6657564285285f_T1.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album"
       ]
     }
   ]
