@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-02T18:47:42.320Z",
+  "generatedAt": "2026-05-02T19:49:56.002Z",
   "items": [
+    {
+      "id": "4c62c39346f2a294",
+      "title": "Once-Divorced K-Pop Idol’s LA Wedding Announcement Unveils His Stunning Wife",
+      "url": "https://www.koreaboo.com/news/nrg-moon-sunghoon-kpop-idol-la-wedding-announcement-unveils-stunning-wife/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-02T19:00:34.000Z",
+      "snippet": "Congratulations to the beautiful couple!",
+      "description": "Congratulations to the beautiful couple!",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "03b48da1d44827df",
       "title": "K-Pop Idol’s Biggest Hit Song Revealed To Have Been Rejected By Another Group First",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-05-02T18:22:46.000Z",
       "snippet": "Fate works in mysterious ways!",
       "description": "Fate works in mysterious ways!",
-      "image": "https://image.koreaboo.com/2026/05/Kim-jongkook-loveable-origin-fi.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -95,7 +109,7 @@
       "publishedAt": "2026-05-01T01:08:38.000Z",
       "snippet": "CORTIS has won the first music show trophy of their career! On the April 30 episode of the Mnet music show, the candidates for first place were NCT WISH’s “Ode to Love” and CORTIS’...",
       "description": "CORTIS has won the first music show trophy of their career! On the April 30 episode of the Mnet music show, the candidates for first place were NCT WISH’s “Ode to Love” and CORTIS’s “REDRED.” CORTIS ultimately took the prize with a total of 8,902 points, marking their first-ever win on a music show. Congratulations… Continue reading Watch: CORTIS Takes 1st-Ever Win On “M Countdown” With “REDRED”; Performances By ILLIT, KATSEYE, And More The post Watch: CORTIS Takes 1st-Ever Win On “M Countdown” With “REDRED”; Performances By ILLIT, KATSEYE, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/04/30180143/CORTIS_e4cd70.jpg",
       "tags": [
         "mnet",
         "m countdown",
@@ -415,21 +429,6 @@
       "tags": [
         "debut",
         "tvxq"
-      ]
-    },
-    {
-      "id": "c0cac32691a4e4ca",
-      "title": "NCT Wish’s 1st LP sells career-high 1.8m",
-      "url": "https://www.koreaherald.com/article/10726224",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-27T02:16:45.000Z",
-      "snippet": "NCT Wish logged over 1.82 million units sold in the first week with its first full album “Ode to Love,” label SM Entertainment said Monday. The subunit recorded its career-best fir...",
-      "description": "NCT Wish logged over 1.82 million units sold in the first week with its first full album “Ode to Love,” label SM Entertainment said Monday. The subunit recorded its career-best first-week sales with its third consecutive million-selling album, surpassing sales of its second EP “Poppop,” and its third EP “Color.” The LP sold 1 million copies on the day of release. The title track peaked at No. 3 on Melon’s Top 100, after debuting atop its Hot 100 chart. Meanwhile, the exhibition “Love Wish Be Ins",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.37da74a89c7047a3afb6dcf733881288_T1.jpg",
-      "tags": [
-        "album",
-        "melon",
-        "nct"
       ]
     }
   ]
