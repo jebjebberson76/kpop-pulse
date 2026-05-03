@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T22:33:55.932Z",
+  "generatedAt": "2026-05-03T23:37:08.120Z",
   "items": [
     {
       "id": "d5ce67f3648dcc48",
@@ -148,20 +148,6 @@
       "tags": [
         "debut",
         "billboard"
-      ]
-    },
-    {
-      "id": "9955010f8c0c06d7",
-      "title": "POLL: Who Is The Best Female K-Pop Idol Dancer Of 2026? Vote Now!",
-      "url": "https://www.koreaboo.com/polls/poll-best-female-kpop-idol-dancer-2026-vote-now/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-03T04:02:02.000Z",
-      "snippet": "Let your voice be heard in this new K-Pop poll.",
-      "description": "Let your voice be heard in this new K-Pop poll.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -433,6 +419,21 @@
       "tags": [
         "mini album",
         "album"
+      ]
+    },
+    {
+      "id": "b40800d57098b163",
+      "title": "BTS&apos; &apos;Arirang&apos; album certified platinum in France",
+      "url": "https://www.koreaherald.com/article/10727110",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T01:43:16.000Z",
+      "snippet": "K-pop megastars BTS' latest album, \"Arirang,\" has been certified \"platinum\" by a major French recording industry association, the group's agency said Tuesday. The South Korean grou...",
+      "description": "K-pop megastars BTS' latest album, \"Arirang,\" has been certified \"platinum\" by a major French recording industry association, the group's agency said Tuesday. The South Korean group's fifth studio album received the certification from the National Syndicate of Phonographic Publishing for achieving 100,000 sales units across physical copies, downloads and streams, according to BigHit Music. The milestone came just a month after BTS earned a \"gold\" certification in France for the studio album, six",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.a6878df8c599499daa5ee42f623f9038_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "bts"
       ]
     }
   ]
