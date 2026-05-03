@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T09:16:48.131Z",
+  "generatedAt": "2026-05-03T10:48:16.599Z",
   "items": [
     {
       "id": "02f8fc7a663c7c4c",
@@ -94,20 +94,6 @@
       "snippet": "Fate works in mysterious ways!",
       "description": "Fate works in mysterious ways!",
       "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "089e323cedb0c068",
-      "title": "Female K-Pop Idol Shocks With Toned Figure",
-      "url": "https://www.koreaboo.com/news/female-kpop-idol-shocks-toned-figure/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-02T17:42:33.000Z",
-      "snippet": "Wow.",
-      "description": "Wow.",
-      "image": "https://storage.googleapis.com/koreaboo-cdn/2026/05/Jewelry-Jihyun-1.mp4",
       "tags": [
         "k-pop",
         "idol"
@@ -232,20 +218,6 @@
       ]
     },
     {
-      "id": "3b8361cac531f3bd",
-      "title": "Watch: LE SSERAFIM Takes Headbanging Seriously In New “CELEBRATION” Dance Practice Videos",
-      "url": "https://www.soompi.com/article/1837083wpp/watch-le-sserafim-takes-headbanging-seriously-in-new-celebration-dance-practice-videos",
-      "source": "Soompi",
-      "publishedAt": "2026-04-29T13:28:45.000Z",
-      "snippet": "LE SSERAFIM has shared a closer look at the intense choreography for their new single! On April 29, LE SSERAFIM released the “Moving version” of their dance practice video for “CEL...",
-      "description": "LE SSERAFIM has shared a closer look at the intense choreography for their new single! On April 29, LE SSERAFIM released the “Moving version” of their dance practice video for “CELEBRATION,” the lead single off their upcoming album “PUREFLOW.” In contrast to the group’s previously released “Fix version” dance practice video, which offered a full… Continue reading Watch: LE SSERAFIM Takes Headbanging Seriously In New “CELEBRATION” Dance Practice Videos The post Watch: LE SSERAFIM Takes Headbanging Seriously In New “CELEBRATION” Dance Practice Videos appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "le sserafim"
-      ]
-    },
-    {
       "id": "78ce31c178a146b6",
       "title": "Cravity reflect on growth, future as ‘Redefine’ marks new chapter",
       "url": "https://www.koreaherald.com/article/10727783",
@@ -257,20 +229,6 @@
       "tags": [
         "comeback",
         "album"
-      ]
-    },
-    {
-      "id": "e103a2f882008720",
-      "title": "THE BOYZ’s Q, Lee Jin Hyuk, Hwang Ji Ah, And More Confirmed For New Idol Drama “My Idol, My Debut”",
-      "url": "https://www.soompi.com/article/1836966wpp/the-boyzs-q-lee-jin-hyuk-hwang-ji-ah-and-more-confirmed-for-new-idol-drama-my-idol-my-debut",
-      "source": "Soompi",
-      "publishedAt": "2026-04-29T09:19:13.000Z",
-      "snippet": "MBC Plus’s upcoming drama “My Idol, My Debut” has announced its cast lineup including THE BOYZ’s Q, Lee Jin Hyuk, Lee Jin Kyu, Lee Ho Hyun, Hwang Ji Ah, WOOAH’s Nana, tripleS’s Kae...",
-      "description": "MBC Plus’s upcoming drama “My Idol, My Debut” has announced its cast lineup including THE BOYZ’s Q, Lee Jin Hyuk, Lee Jin Kyu, Lee Ho Hyun, Hwang Ji Ah, WOOAH’s Nana, tripleS’s Kaede, and AISA! “My Idol, My Debut” is a time-slip coming-of-age story about a passionate fan who travels eight years into the past… Continue reading THE BOYZ’s Q, Lee Jin Hyuk, Hwang Ji Ah, And More Confirmed For New Idol Drama “My Idol, My Debut” The post THE BOYZ’s Q, Lee Jin Hyuk, Hwang Ji Ah, And More Confirmed For New Idol Drama “My Idol, My Debut” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "debut"
       ]
     },
     {
@@ -428,6 +386,48 @@
         "k-pop",
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "4414a07eb48786f9",
+      "title": "K-pop album exports top $100m for first time in Q1",
+      "url": "https://www.koreaherald.com/article/10727002",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T00:36:03.000Z",
+      "snippet": "South Korea's exports of K-pop albums hit a record high of $120 million in the first quarter of this year, customs data showed Tuesday. Outbound shipments of K-pop albums surged 15...",
+      "description": "South Korea's exports of K-pop albums hit a record high of $120 million in the first quarter of this year, customs data showed Tuesday. Outbound shipments of K-pop albums surged 159 percent from a year earlier in the January–March period, marking the first time quarterly exports have exceeded $100 million, according to the Korea Customs Service. Quarterly exports have set consecutive records since the third quarter of 2025, the agency said. The KCS attributed the increase to the global expansion",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.6d70a416c7aa4269946c852ebea7b108_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album"
+      ]
+    },
+    {
+      "id": "897c3e08cbf07f8e",
+      "title": "NCT’s Taeyong to release first LP &apos;Wyld&apos;",
+      "url": "https://www.koreaherald.com/article/10726396",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T04:24:22.000Z",
+      "snippet": "Taeyong of NCT is set to expand his solo career with the release of his first LP, “Wyld,” on May 18. According to SM Entertainment, “Wyld” will consist of 10 tracks, led by the tit...",
+      "description": "Taeyong of NCT is set to expand his solo career with the release of his first LP, “Wyld,” on May 18. According to SM Entertainment, “Wyld” will consist of 10 tracks, led by the title track. “Wyld” holds particular significance for Taeyong, as he took part in writing the lyrics for all tracks and composing for nine of them, while also contributing to the album’s overall production. The new album is “expected to reflect a more introspective and refined artistic identity, highlighting Taeyong’s gro",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.4839a839503045758713f0a63356382a_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
+      ]
+    },
+    {
+      "id": "bca7f45a3ad99f3d",
+      "title": "NewJeans&apos; recent activities raise comeback speculations",
+      "url": "https://www.koreaherald.com/article/10726301",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T02:35:20.000Z",
+      "snippet": "What appears to be a scheduler for a recording studio in Copenhagen circulated online, further fueling speculation that NewJeans is preparing to return. The document included the n...",
+      "description": "What appears to be a scheduler for a recording studio in Copenhagen circulated online, further fueling speculation that NewJeans is preparing to return. The document included the name of the group's agency, Ador, booking sessions for five days earlier in April. Around the same time, Haerin and Hyein were spotted at a store in the Danish capital, and Hani was said to have accompanied the two. Ador confirmed that the three visited the city on Monday, adding that “the visit was part of a preproduct",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.e388c4d2a90c4473a941816fd80561c9_T1.jpg",
+      "tags": [
+        "comeback",
+        "newjeans"
       ]
     }
   ]
