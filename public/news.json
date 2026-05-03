@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T11:36:51.181Z",
+  "generatedAt": "2026-05-03T12:54:44.509Z",
   "items": [
     {
       "id": "02f8fc7a663c7c4c",
@@ -79,20 +79,6 @@
       "publishedAt": "2026-05-02T19:00:34.000Z",
       "snippet": "Congratulations to the beautiful couple!",
       "description": "Congratulations to the beautiful couple!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "03b48da1d44827df",
-      "title": "K-Pop Idol’s Biggest Hit Song Revealed To Have Been Rejected By Another Group First",
-      "url": "https://www.koreaboo.com/news/kim-jongkook-hit-song-loveable-rejected-japanese-girl-group-first-joo-younghoon/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-02T18:22:46.000Z",
-      "snippet": "Fate works in mysterious ways!",
-      "description": "Fate works in mysterious ways!",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
@@ -428,6 +414,20 @@
       "tags": [
         "comeback",
         "newjeans"
+      ]
+    },
+    {
+      "id": "a054f597277ff654",
+      "title": "TVXQ marks Japan debut anniversary with 130,000 fans",
+      "url": "https://www.koreaherald.com/article/10726268",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-27T02:27:33.000Z",
+      "snippet": "TVXQ drew a crowd of 130,000 fans over two shows at Nissan Stadium in Japan, where it celebrated the 20th anniversary of its Japanese debut. Held on Saturday and Sunday, the shows...",
+      "description": "TVXQ drew a crowd of 130,000 fans over two shows at Nissan Stadium in Japan, where it celebrated the 20th anniversary of its Japanese debut. Held on Saturday and Sunday, the shows had added significance: TVXQ became the first and most frequent overseas act to perform at Nissan Stadium, having first taken the stage there in 2013 and 2018. Located in Yokohama, Nissan Stadium is Japan’s largest-capacity stadium and hosts major international sporting events as well as high-attendance concerts. Throu",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/27/news-p.v1.20260427.a962f4c9b94044a686a7a5b299533d55_T1.jpg",
+      "tags": [
+        "debut",
+        "tvxq"
       ]
     }
   ]
