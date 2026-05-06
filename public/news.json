@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-06T17:25:04.928Z",
+  "generatedAt": "2026-05-06T19:27:09.719Z",
   "items": [
+    {
+      "id": "da1932a73f7c60e6",
+      "title": "Outrage Erupts At BTS’s Mexico Concert",
+      "url": "https://www.koreaboo.com/news/bts-mexico-concert-merch-resellers-viral-video-world-tour/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-06T18:41:18.000Z",
+      "snippet": "\"...witnessing a daylight robbery in real time.\"",
+      "description": "\"...witnessing a daylight robbery in real time.\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "3e3c239c0b63320d",
       "title": "MAMAMOO Drops 1st Teaser For Full-Group Comeback With “4WARD”",
@@ -420,20 +434,6 @@
       "tags": [
         "comeback",
         "album"
-      ]
-    },
-    {
-      "id": "195e9637ad0b04dc",
-      "title": "Is NewJeans returning as a trio?",
-      "url": "https://www.koreaherald.com/article/10727503",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-28T06:21:47.000Z",
-      "snippet": "NewJeans has begun preparations for a comeback, but without member Minji, raising questions about the group’s future lineup. Ador confirmed Tuesday that members Hyein, Haerin and H...",
-      "description": "NewJeans has begun preparations for a comeback, but without member Minji, raising questions about the group’s future lineup. Ador confirmed Tuesday that members Hyein, Haerin and Hanni recently traveled to Copenhagen for music production. Minji, however, was not part of the trip, fueling speculation that the group could return as a trio. The five-member group has been largely inactive following a prolonged legal dispute with its agency. In November 2024, the members notified Ador of contract ter",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.96a6bac68db942198780d3f5b68de9cf_T1.jpg",
-      "tags": [
-        "comeback",
-        "newjeans"
       ]
     }
   ]
