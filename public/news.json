@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T13:49:20.305Z",
+  "generatedAt": "2026-05-07T16:01:56.944Z",
   "items": [
     {
       "id": "1d2143fd792260e8",
@@ -24,20 +24,6 @@
       "snippet": "Get well soon.",
       "description": "Get well soon.",
       "image": "https://storage.googleapis.com/koreaboo-cdn/2026/05/Super-Junior-Leeteuk-1.mp4",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "4fe8de6560c802c0",
-      "title": "“Chaebol Heiress” K-Pop Idol Goes Viral For Unexpected Spending Habits",
-      "url": "https://www.koreaboo.com/news/allday-project-annie-spotted-economy-class/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-07T10:54:51.000Z",
-      "snippet": "Humble queen.",
-      "description": "Humble queen.",
-      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -166,16 +152,15 @@
     },
     {
       "id": "c8aff6a87fd1d803",
-      "title": "LE SSERAFIM Reveals Comeback Schedule For New Album “PUREFLOW” And Title Track “BOOMPALA”",
+      "title": "Update: LE SSERAFIM Previews Upcoming Title Track “BOOMPALA” With New Teaser",
       "url": "https://www.soompi.com/article/1838271wpp/le-sserafim-reveals-comeback-schedule-for-new-album-pureflow-and-title-track-boompala",
       "source": "Soompi",
       "publishedAt": "2026-05-05T15:17:48.000Z",
-      "snippet": "LE SSERAFIM has revealed what fans can look forward to in the weeks leading up to their comeback! On May 6 at midnight KST, LE SSERAFIM released a detailed promotion schedule outli...",
-      "description": "LE SSERAFIM has revealed what fans can look forward to in the weeks leading up to their comeback! On May 6 at midnight KST, LE SSERAFIM released a detailed promotion schedule outlining the teasers they have in store for their upcoming full-length album “PUREFLOW” pt.1 and its title track “BOOMPALA.” After pre-releasing their lead single… Continue reading LE SSERAFIM Reveals Comeback Schedule For New Album “PUREFLOW” And Title Track “BOOMPALA” The post LE SSERAFIM Reveals Comeback Schedule For New Album “PUREFLOW” And Title Track “BOOMPALA” appeared first on Soompi.",
+      "snippet": "Updated May 8 KST: A teaser video has been released for LE SSERAFIM’s upcoming title track “BOOMPALA”! Original Article: LE SSERAFIM has revealed what fans can look forward to in t...",
+      "description": "Updated May 8 KST: A teaser video has been released for LE SSERAFIM’s upcoming title track “BOOMPALA”! Original Article: LE SSERAFIM has revealed what fans can look forward to in the weeks leading up to their comeback! On May 6 at midnight KST, LE SSERAFIM released a detailed promotion schedule outlining the teasers they have… Continue reading Update: LE SSERAFIM Previews Upcoming Title Track “BOOMPALA” With New Teaser The post Update: LE SSERAFIM Previews Upcoming Title Track “BOOMPALA” With New Teaser appeared first on Soompi.",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
-        "album",
         "le sserafim"
       ]
     },
@@ -435,6 +420,20 @@
       "tags": [
         "world tour",
         "concert"
+      ]
+    },
+    {
+      "id": "30f140d328024cce",
+      "title": "82Major leans into maturity, self-produced identity with ‘FeelM’",
+      "url": "https://www.koreaherald.com/article/10727682",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-28T08:51:55.000Z",
+      "snippet": "Boy group 82Major returned with a more refined and self-defined sound, unveiling its fifth EP “FeelM” at a media showcase Tuesday in Seoul. The six-member group — Seongil, Yechan,...",
+      "description": "Boy group 82Major returned with a more refined and self-defined sound, unveiling its fifth EP “FeelM” at a media showcase Tuesday in Seoul. The six-member group — Seongil, Yechan, Seongmo, Seongbin, Seokjoon and Dogyun — introduced the album at Yes24 Wanderloch Hall, marking its first comeback since its 2025 EP “Trophy.” “FeelM,” a combination of the words “feel” and “film,” captures a range of emotional moments as if they were scenes from a movie. Member Dogyun said the album was designed to pr",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/28/news-p.v1.20260428.52023aac39d04c078e6920fa03e80961_T1.jpg",
+      "tags": [
+        "comeback",
+        "album"
       ]
     }
   ]
