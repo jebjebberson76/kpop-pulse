@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-08T20:51:52.985Z",
+  "generatedAt": "2026-05-08T21:53:44.719Z",
   "items": [
+    {
+      "id": "a1de2fea337a2bcb",
+      "title": "BLACKPINK Lisa’s Latest News Hit With Backlash From Non-K-Pop Fans And More",
+      "url": "https://www.koreaboo.com/news/blackpink-lisa-latest-news-hit-backlash-non-kpop-fans/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-08T21:33:30.000Z",
+      "snippet": "Fans have pushed back against the criticism.",
+      "description": "Fans have pushed back against the criticism.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "blackpink"
+      ]
+    },
     {
       "id": "faf64ed56e007336",
       "title": "BOYNEXTDOOR Announces Comeback Date With Teaser For 1st Studio Album “HOME”",
@@ -418,21 +432,6 @@
       "tags": [
         "k-pop",
         "nct"
-      ]
-    },
-    {
-      "id": "2ae463ea4116dfcd",
-      "title": "Big Hit Music artists dominate global charts led by BTS, TXT",
-      "url": "https://www.koreaherald.com/article/10728519",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-29T06:02:45.000Z",
-      "snippet": "Artists under Big Hit Music are continuing to flourish on global music charts, led by BTS and Tomorrow X Together. According to the latest Billboard charts dated May 2, BTS’ fifth...",
-      "description": "Artists under Big Hit Music are continuing to flourish on global music charts, led by BTS and Tomorrow X Together. According to the latest Billboard charts dated May 2, BTS’ fifth studio album “Arirang” maintained a strong presence across major rankings. Its main track “Swim” ranked No. 2 on the Global Excl. US chart and No. 3 on the Global 200, extending its run in the top three to five consecutive weeks. All 13 vocal tracks from the album — excluding the sixth track, “No. 29,” which features t",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/29/news-p.v1.20260429.84fb19e3c18d4468bed9083d475e5056_T1.jpg",
-      "tags": [
-        "album",
-        "billboard",
-        "bts"
       ]
     }
   ]
