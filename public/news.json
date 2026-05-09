@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-09T16:43:59.474Z",
+  "generatedAt": "2026-05-09T17:43:05.887Z",
   "items": [
+    {
+      "id": "1b9dce17c060fac4",
+      "title": "Imagine A K-Pop Idol Watching Your Street Dance Cover Live And In-Person — And It’s Not Even Their Song",
+      "url": "https://www.koreaboo.com/stories/imagine-kpop-idol-watching-street-dance-cover-live-in-person-not-even-song/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-09T17:30:12.000Z",
+      "snippet": "He watched like a proud father.",
+      "description": "He watched like a proud father.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "df1b4b39bc1ca599",
       "title": "New BTS’s Jungkook Video “Confirms” Alleged Couple Tattoo With aespa’s Winter",
@@ -417,20 +431,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/30/news-p.v1.20260430.168b6b5ccc2a42ad9c08c58cf204c433_T1.jpg",
       "tags": [
         "mini album",
-        "album"
-      ]
-    },
-    {
-      "id": "87f3431df6b2929c",
-      "title": "Alpha Drive One to drop single, EP",
-      "url": "https://www.koreaherald.com/article/10729194",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-04-30T02:16:04.000Z",
-      "snippet": "Alpha Drive One will bring out a single in May, which will be a prologue from second EP due out in August, the group's agency WakeOne Entertainment said Thursday. A teaser clip for...",
-      "description": "Alpha Drive One will bring out a single in May, which will be a prologue from second EP due out in August, the group's agency WakeOne Entertainment said Thursday. A teaser clip for single “No School Tomorrow” delivered the news inspired by weather forecast, hinting at the song's theme of early summer vibes. The single will come out n May 26 marking the first “comeback” from the group, which debuted in January. Its first album was EP “Euphoria,” a six-track effort that sold more than 1.4 million",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/30/news-p.v1.20260430.8c9ca1514b7d47a286e954d79ef451b0_T1.jpg",
-      "tags": [
-        "comeback",
         "album"
       ]
     }
