@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T08:08:26.187Z",
+  "generatedAt": "2026-05-10T10:07:29.378Z",
   "items": [
     {
       "id": "c2c03695a8daabbc",
@@ -37,20 +37,6 @@
       "publishedAt": "2026-05-09T18:08:49.000Z",
       "snippet": "#1 won by a landslide.",
       "description": "#1 won by a landslide.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "1b9dce17c060fac4",
-      "title": "Imagine A K-Pop Idol Watching Your Street Dance Cover Live And In-Person — And It’s Not Even Their Song",
-      "url": "https://www.koreaboo.com/stories/imagine-kpop-idol-watching-street-dance-cover-live-in-person-not-even-song/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-09T17:30:12.000Z",
-      "snippet": "He watched like a proud father.",
-      "description": "He watched like a proud father.",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
@@ -97,6 +83,20 @@
       "tags": [
         "comeback",
         "album"
+      ]
+    },
+    {
+      "id": "13de9289a6838733",
+      "title": "J-pop gains traction among young Korean listeners",
+      "url": "https://www.koreaherald.com/article/10734054",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-08T07:57:43.000Z",
+      "snippet": "When Japanese girl group Cutie Street appeared on Mnet’s music program “M Countdown” in March, performing its viral song “Can’t We Just be Cute?” the response was immediate. While...",
+      "description": "When Japanese girl group Cutie Street appeared on Mnet’s music program “M Countdown” in March, performing its viral song “Can’t We Just be Cute?” the response was immediate. While appearances by Japanese artists on Korean music programs are no longer unusual, the eight-member group drew particular attention for its unapologetically cute concept, complete with pastel-colored outfits, bubbly choreography and exaggerated styling. The performance video has since surpassed 11 million views on YouTube",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/08/news-p.v1.20260508.11f6158649ef460c85ee72c90431cd2b_T1.jpg",
+      "tags": [
+        "mnet",
+        "m countdown"
       ]
     },
     {
