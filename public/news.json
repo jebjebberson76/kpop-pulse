@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T23:40:01.089Z",
+  "generatedAt": "2026-05-10T02:23:49.426Z",
   "items": [
     {
       "id": "61c00ec8b9878f29",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-05-09T18:08:49.000Z",
       "snippet": "#1 won by a landslide.",
       "description": "#1 won by a landslide.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/05/kpop-best-singer-2026-poll.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -23,7 +23,7 @@
       "publishedAt": "2026-05-09T17:30:12.000Z",
       "snippet": "He watched like a proud father.",
       "description": "He watched like a proud father.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/04/Untitled-design-19.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -122,7 +122,7 @@
       "publishedAt": "2026-05-07T22:55:14.000Z",
       "snippet": "CORTIS has won the second music show trophy of their career! The May 7 episode of Mnet’s “M Countdown” was a special episode with replays of past performances instead of the usual...",
       "description": "CORTIS has won the second music show trophy of their career! The May 7 episode of Mnet’s “M Countdown” was a special episode with replays of past performances instead of the usual live broadcast. At the end of the show, it was announced that this week’s candidates for first place were ILLIT’s “It’s Me” and… Continue reading Watch: CORTIS Takes 2nd Win For “REDRED” On “M Countdown” The post Watch: CORTIS Takes 2nd Win For “REDRED” On “M Countdown” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/07155350/CORTIS_029191.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mnet",
         "m countdown"
@@ -136,7 +136,7 @@
       "publishedAt": "2026-05-07T09:12:37.000Z",
       "snippet": "YUHZ has made their long-awaited debut! An eight-member group formed through the survival program “B:MY BOYZ,” YUHZ released their debut single “Orange Record” along with the music...",
       "description": "YUHZ has made their long-awaited debut! An eight-member group formed through the survival program “B:MY BOYZ,” YUHZ released their debut single “Orange Record” along with the music video for the title track on May 7 at 6 p.m. KST. A pop song with an energetic sound, “Rush Rush” expresses the determination to move forward without… Continue reading Watch: “B:MY BOYZ” Group YUHZ Is Ready To “Rush Rush” To Your Heart In Bubbly Debut MV The post Watch: “B:MY BOYZ” Group YUHZ Is Ready To “Rush Rush” To Your Heart In Bubbly Debut MV appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/07021158/vlcsnap-2026-05-07-18h08m14s134.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "debut",
         "music video",
@@ -201,36 +201,6 @@
         "album",
         "billboard",
         "bts"
-      ]
-    },
-    {
-      "id": "3e3c239c0b63320d",
-      "title": "MAMAMOO Drops 1st Teaser For Full-Group Comeback With “4WARD”",
-      "url": "https://www.soompi.com/article/1838654wpp/mamamoo-drops-1st-teaser-for-full-group-comeback-with-4ward",
-      "source": "Soompi",
-      "publishedAt": "2026-05-06T15:38:34.000Z",
-      "snippet": "Get ready for MAMAMOO’s long-awaited return as a full group! On May 7 at midnight KST, MAMAMOO unveiled the first teaser for their upcoming four-member comeback. RBW previously con...",
-      "description": "Get ready for MAMAMOO’s long-awaited return as a full group! On May 7 at midnight KST, MAMAMOO unveiled the first teaser for their upcoming four-member comeback. RBW previously confirmed last year that MAMAMOO would be releasing a new album as a full group in June, in addition to embarking on a world tour. Check out… Continue reading MAMAMOO Drops 1st Teaser For Full-Group Comeback With “4WARD” The post MAMAMOO Drops 1st Teaser For Full-Group Comeback With “4WARD” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album",
-        "world tour"
-      ]
-    },
-    {
-      "id": "8a6734cdd5faccf8",
-      "title": "Watch: TREASURE Teases Hip Hop Comeback With Trailer For “NEW WAV”",
-      "url": "https://www.soompi.com/article/1838651wpp/watch-treasure-teases-hip-hop-comeback-with-trailer-for-new-wav",
-      "source": "Soompi",
-      "publishedAt": "2026-05-06T15:18:28.000Z",
-      "snippet": "TREASURE has kicked off the countdown to their June comeback! On May 7 at midnight KST, TREASURE released a comeback trailer for their fourth mini album “NEW WAV.” As previously an...",
-      "description": "TREASURE has kicked off the countdown to their June comeback! On May 7 at midnight KST, TREASURE released a comeback trailer for their fourth mini album “NEW WAV.” As previously announced by YG Entertainment founder Yang Hyun Suk, TREASURE’s upcoming mini album will be rooted in the hip hop genre, marking the start of a… Continue reading Watch: TREASURE Teases Hip Hop Comeback With Trailer For “NEW WAV” The post Watch: TREASURE Teases Hip Hop Comeback With Trailer For “NEW WAV” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
       ]
     },
     {
@@ -431,6 +401,34 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/04/30/news-p.v1.20260430.168b6b5ccc2a42ad9c08c58cf204c433_T1.jpg",
       "tags": [
         "mini album",
+        "album"
+      ]
+    },
+    {
+      "id": "87f3431df6b2929c",
+      "title": "Alpha Drive One to drop single, EP",
+      "url": "https://www.koreaherald.com/article/10729194",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-30T02:16:04.000Z",
+      "snippet": "Alpha Drive One will bring out a single in May, which will be a prologue from second EP due out in August, the group's agency WakeOne Entertainment said Thursday. A teaser clip for...",
+      "description": "Alpha Drive One will bring out a single in May, which will be a prologue from second EP due out in August, the group's agency WakeOne Entertainment said Thursday. A teaser clip for single “No School Tomorrow” delivered the news inspired by weather forecast, hinting at the song's theme of early summer vibes. The single will come out n May 26 marking the first “comeback” from the group, which debuted in January. Its first album was EP “Euphoria,” a six-track effort that sold more than 1.4 million",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/30/news-p.v1.20260430.8c9ca1514b7d47a286e954d79ef451b0_T1.jpg",
+      "tags": [
+        "comeback",
+        "album"
+      ]
+    },
+    {
+      "id": "78ce31c178a146b6",
+      "title": "Cravity reflect on growth, future as ‘Redefine’ marks new chapter",
+      "url": "https://www.koreaherald.com/article/10727783",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-04-29T10:00:00.000Z",
+      "snippet": "With its eighth EP “Redefine,” Cravity turns inward, using a six-track release to explore growth, uncertainty and the process of redefining itself. Fronted by the track “Awake,” th...",
+      "description": "With its eighth EP “Redefine,” Cravity turns inward, using a six-track release to explore growth, uncertainty and the process of redefining itself. Fronted by the track “Awake,” the album reflects both a creative shift and a transitional moment for the group. The album comes at a meaningful point for Cravity. With the group now six years into their career and contract renewal decisions approaching, Wonjin said the members had discussed the future before preparing the comeback. “We talked about c",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/04/29/news-p.v1.20260428.31128c05c3b540cdbd6e66131f9482d7_T1.jpg",
+      "tags": [
+        "comeback",
         "album"
       ]
     }
