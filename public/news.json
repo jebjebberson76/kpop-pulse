@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-10T10:07:29.378Z",
+  "generatedAt": "2026-05-10T11:44:03.359Z",
   "items": [
+    {
+      "id": "1c9821b6e772575c",
+      "title": "BTS V and IVE Wonyoung’s “Lovestagram” Post Triggers Scathing Reactions",
+      "url": "https://www.koreaboo.com/news/bts-v-ive-wonyoung-several-lovestagram-post-triggers-scathing-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-10T10:17:01.000Z",
+      "snippet": "The two stars have sparked dating rumors once again.",
+      "description": "The two stars have sparked dating rumors once again.",
+      "image": "https://image.koreaboo.com/2026/05/wonyoungVLovestagram-FI.jpg",
+      "tags": [
+        "bts",
+        "ive"
+      ]
+    },
     {
       "id": "c2c03695a8daabbc",
       "title": "Lisa joins 2026 World Cup opening lineup alongside Katy Perry",
@@ -27,20 +41,6 @@
       "tags": [
         "le sserafim",
         "nmixx"
-      ]
-    },
-    {
-      "id": "61c00ec8b9878f29",
-      "title": "The Best Male K-Pop Idol Vocalists Of 2026, Ranked",
-      "url": "https://www.koreaboo.com/lists/kpop-idol-best-male-singer-vocalist-poll-ranking/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-09T18:08:49.000Z",
-      "snippet": "#1 won by a landslide.",
-      "description": "#1 won by a landslide.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -152,7 +152,7 @@
       "publishedAt": "2026-05-07T22:55:14.000Z",
       "snippet": "CORTIS has won the second music show trophy of their career! The May 7 episode of Mnet’s “M Countdown” was a special episode with replays of past performances instead of the usual...",
       "description": "CORTIS has won the second music show trophy of their career! The May 7 episode of Mnet’s “M Countdown” was a special episode with replays of past performances instead of the usual live broadcast. At the end of the show, it was announced that this week’s candidates for first place were ILLIT’s “It’s Me” and… Continue reading Watch: CORTIS Takes 2nd Win For “REDRED” On “M Countdown” The post Watch: CORTIS Takes 2nd Win For “REDRED” On “M Countdown” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/07155350/CORTIS_029191.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mnet",
         "m countdown"
