@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-11T10:31:12.464Z",
+  "generatedAt": "2026-05-11T13:41:09.760Z",
   "items": [
+    {
+      "id": "d4e9feab3a29b49a",
+      "title": "Popular Idol’s “Shameless” Comeback After Injection Scandal Sparks Heated Reactions",
+      "url": "https://www.koreaboo.com/news/popular-idol-shameless-comeback-after-injection-scandal-sparks-heated-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-11T11:48:56.000Z",
+      "snippet": "Not everyone is happy about it.",
+      "description": "Not everyone is happy about it.",
+      "image": "https://image.koreaboo.com/2026/05/keyReturn-FI.jpg",
+      "tags": [
+        "idol",
+        "comeback"
+      ]
+    },
     {
       "id": "13ccf0de0a31806d",
       "title": "SBS “K-EXPO Inkigayo In Paris” Unveils First Artist Lineup",
@@ -14,20 +28,6 @@
         "inkigayo",
         "nct",
         "shinee"
-      ]
-    },
-    {
-      "id": "ebd3c00df9859347",
-      "title": "Criticism Of BTS Jungkook’s Brand Deal Sparks Scathing Backlash About Idol’s Personality",
-      "url": "https://www.koreaboo.com/news/criticism-bts-jungkooks-brand-deals-sparks-scathing-backlash-personality/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-11T09:50:36.000Z",
-      "snippet": "It included mentions of past controversies.",
-      "description": "It included mentions of past controversies.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
       ]
     },
     {
@@ -56,21 +56,6 @@
       "tags": [
         "comeback",
         "blackpink"
-      ]
-    },
-    {
-      "id": "07111a917766ab3c",
-      "title": "NCT Member’s New Album Teaser Bashed For Allegedly Copying BTS’s “Swim”",
-      "url": "https://www.koreaboo.com/news/nct-taeyong-new-album-similar-bts-swim-controversy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-11T05:47:31.000Z",
-      "snippet": "What are your thoughts?",
-      "description": "What are your thoughts?",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "bts",
-        "nct"
       ]
     },
     {
@@ -172,7 +157,7 @@
       "publishedAt": "2026-05-10T20:30:56.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on May 9! TXT’s latest mini album “7TH YEAR: A Moment of Stillness in the Thorns” spent its second consecutive we...",
       "description": "Billboard has published its World Albums chart for the week ending on May 9! TXT’s latest mini album “7TH YEAR: A Moment of Stillness in the Thorns” spent its second consecutive week at No. 1 on the World Albums chart, in addition to remaining on the Billboard 200 at No. 98. BTS landed a total… Continue reading TXT, BTS, ENHYPEN, CORTIS, NewJeans, Stray Kids, And ATEEZ Sweep Top Spots On Billboard World Albums Chart The post TXT, BTS, ENHYPEN, CORTIS, NewJeans, Stray Kids, And ATEEZ Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/10132329/TXT-BTS-ENHYPEN-CORTIS.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -444,6 +429,21 @@
         "mini album",
         "album",
         "melon"
+      ]
+    },
+    {
+      "id": "3537af956471a716",
+      "title": "BTS’ Jungkook scores 7b Spotify streams of solo set",
+      "url": "https://www.koreaherald.com/article/10732627",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-07T01:16:43.000Z",
+      "snippet": "Jungkook of BTS has garnered 7 billion plays on Spotify from his first solo album, “Golden,” according to label Big Hit Music on Thursday. The album is the first-ever solo album fr...",
+      "description": "Jungkook of BTS has garnered 7 billion plays on Spotify from his first solo album, “Golden,” according to label Big Hit Music on Thursday. The album is the first-ever solo album from an Asian artist to reach the milestone on the platform, achieving the feat in record time for a studio album from an Asian act overall, at 904 days. The LP debuted on Billboard 200 at No. 2 and charted for 25 weeks, selling over 2 million copies in its first week. The 11-track set was listed among the \"Top 20 Albums",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/07/news-p.v1.20260507.a028fe74220f4840bca7360bcefe4fd9_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "bts"
       ]
     }
   ]
