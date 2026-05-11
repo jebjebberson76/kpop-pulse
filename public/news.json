@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T23:43:25.294Z",
+  "generatedAt": "2026-05-11T02:33:12.755Z",
   "items": [
     {
       "id": "b196a1a3bcba9ab7",
@@ -42,7 +42,7 @@
       "publishedAt": "2026-05-10T20:02:40.000Z",
       "snippet": "His group were known for their “beastly image.”",
       "description": "His group were known for their “beastly image.”",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/05/IMG_7863.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -85,7 +85,7 @@
       "publishedAt": "2026-05-10T15:51:34.000Z",
       "snippet": "Mark your calendars for SHINee’s return! On May 11 at midnight KST, SHINee released a fun teaser film creatively announcing their schedule for their upcoming comeback with “Atmos.”...",
       "description": "Mark your calendars for SHINee’s return! On May 11 at midnight KST, SHINee released a fun teaser film creatively announcing their schedule for their upcoming comeback with “Atmos.” SHINee will release their sixth mini album “Atmos” on June 1 at 6 p.m. KST, the day after they wrap up their three-night concert “SHINee WORLD VIII:… Continue reading Watch: SHINee Announces June Comeback Schedule With Fun Teaser Film For “Atmos” The post Watch: SHINee Announces June Comeback Schedule With Fun Teaser Film For “Atmos” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/10084747/SHINee.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "mini album",
@@ -122,6 +122,20 @@
       "tags": [
         "inkigayo",
         "nct"
+      ]
+    },
+    {
+      "id": "2dcbc91637a84f8f",
+      "title": "NewJeans face new plagiarism lawsuit over &apos;How Sweet&apos;",
+      "url": "https://www.koreaherald.com/article/10734630",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-10T08:20:03.000Z",
+      "snippet": "NewJeans are embroiled in another plagiarism dispute, this time over their 2024 single \"How Sweet.\" According to Billboard on Friday, NewJeans, its agency Ador and parent company H...",
+      "description": "NewJeans are embroiled in another plagiarism dispute, this time over their 2024 single \"How Sweet.\" According to Billboard on Friday, NewJeans, its agency Ador and parent company Hybe have been sued in the US over alleged copyright infringement. Four songwriters, including Audrey Armacost, filed the lawsuit claiming that NewJeans' \"How Sweet\" copied elements from their demo track \"One of a Kind.\" The plaintiffs are seeking royalty compensation from both the group and the agency. According to the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/10/news-p.v1.20260510.54b591b747d543ac99fceaea7b1a8c6d_T1.jpg",
+      "tags": [
+        "billboard",
+        "newjeans"
       ]
     },
     {
@@ -426,20 +440,6 @@
         "mini album",
         "album",
         "day6"
-      ]
-    },
-    {
-      "id": "d8c02a294e8f6616",
-      "title": "TWS’s 5th EP sells 1.1m in 1 week",
-      "url": "https://www.koreaherald.com/article/10730721",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-05-04T02:11:35.000Z",
-      "snippet": "TWS sold more than 1.11 million copies of its fifth EP in one week, hitting a career high, according to agency Pledis Entertainment on Monday. The EP “No Tragedy” was released on A...",
-      "description": "TWS sold more than 1.11 million copies of its fifth EP in one week, hitting a career high, according to agency Pledis Entertainment on Monday. The EP “No Tragedy” was released on April 27 and sold over 830,000 units on the day of release, surpassing those of TWS' previous endeavors. The mini album reached the 1 million units threshold in four days, becoming the two-year-old group’s first million-selling set. The main track “You, You” entered all major music charts at home, and the supporting mus",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/04/news-p.v1.20260504.32a6e333c8674d68ac2485ac6caea270_T1.jpg",
-      "tags": [
-        "mini album",
-        "album"
       ]
     }
   ]
