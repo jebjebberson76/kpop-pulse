@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T09:30:32.463Z",
+  "generatedAt": "2026-05-12T11:48:09.405Z",
   "items": [
     {
       "id": "fd1f33c2fc9dfb67",
@@ -330,20 +330,6 @@
       ]
     },
     {
-      "id": "6c7af94889967d00",
-      "title": "NewJeans Sued For Alleged Plagiarism + ADOR Responds",
-      "url": "https://www.soompi.com/article/1839570wpp/newjeans-sued-for-alleged-plagiarism-ador-responds",
-      "source": "Soompi",
-      "publishedAt": "2026-05-09T06:26:28.000Z",
-      "snippet": "ADOR has officially commented on NewJeans being hit with a lawsuit for alleged plagiarism. On May 8 local time, Billboard reported that four songwriters—Audrey Armacost, Aidan Rodr...",
-      "description": "ADOR has officially commented on NewJeans being hit with a lawsuit for alleged plagiarism. On May 8 local time, Billboard reported that four songwriters—Audrey Armacost, Aidan Rodriguez, Adam Gokcebay, and Michael Campanelli—had sued the NewJeans members, their agency ADOR, and its parent company HYBE over purported similarities between NewJeans’ 2024 hit “How Sweet” and a… Continue reading NewJeans Sued For Alleged Plagiarism + ADOR Responds The post NewJeans Sued For Alleged Plagiarism + ADOR Responds appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "billboard",
-        "newjeans"
-      ]
-    },
-    {
       "id": "13de9289a6838733",
       "title": "J-pop gains traction among young Korean listeners",
       "url": "https://www.koreaherald.com/article/10734054",
@@ -445,6 +431,21 @@
         "mini album",
         "album",
         "melon"
+      ]
+    },
+    {
+      "id": "3537af956471a716",
+      "title": "BTS’ Jungkook scores 7b Spotify streams of solo set",
+      "url": "https://www.koreaherald.com/article/10732627",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-07T01:16:43.000Z",
+      "snippet": "Jungkook of BTS has garnered 7 billion plays on Spotify from his first solo album, “Golden,” according to label Big Hit Music on Thursday. The album is the first-ever solo album fr...",
+      "description": "Jungkook of BTS has garnered 7 billion plays on Spotify from his first solo album, “Golden,” according to label Big Hit Music on Thursday. The album is the first-ever solo album from an Asian artist to reach the milestone on the platform, achieving the feat in record time for a studio album from an Asian act overall, at 904 days. The LP debuted on Billboard 200 at No. 2 and charted for 25 weeks, selling over 2 million copies in its first week. The 11-track set was listed among the \"Top 20 Albums",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/07/news-p.v1.20260507.a028fe74220f4840bca7360bcefe4fd9_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "bts"
       ]
     }
   ]
