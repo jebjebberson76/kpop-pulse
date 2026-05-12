@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-12T22:53:36.062Z",
+  "generatedAt": "2026-05-12T23:53:57.365Z",
   "items": [
+    {
+      "id": "558d297728101310",
+      "title": "K-Pop Idol Makes Money For The First Time Years After Debuting",
+      "url": "https://www.koreaboo.com/news/oh-girl-mimi-kpop-idol-makes-money-first-time-years-after-debuting/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-12T23:47:39.000Z",
+      "snippet": "She was \"in the negatives\" until then.",
+      "description": "She was \"in the negatives\" until then.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "f2a12c67e527e865",
       "title": "BTS Earns Circle Quadruple Million Certification + P1Harmony, HUNTR/X, And DK Go Platinum",
@@ -433,20 +447,6 @@
         "mini album",
         "album",
         "melon"
-      ]
-    },
-    {
-      "id": "d0709ea0b89ee4b6",
-      "title": "Hybe launches new girl group label ABD",
-      "url": "https://www.koreaherald.com/article/10733600",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-05-08T01:43:23.000Z",
-      "snippet": "Hybe has launched a new label specializing in girl groups, further expanding its multi-label system as the company prepares to debut another rookie act later this year. On Friday,...",
-      "description": "Hybe has launched a new label specializing in girl groups, further expanding its multi-label system as the company prepares to debut another rookie act later this year. On Friday, the company announced that it established a new label called ABD. The name stands for “A Bold Dream,” reflecting the label’s goal of pursuing creative ideas that go beyond conventional boundaries while expanding new areas of K-pop through music-focused content and artist development. The label will be led by Noh Ji-won",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/08/news-p.v1.20260508.c4f8e23cce2442e08709a4e1aaf0c6a3_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut"
       ]
     }
   ]
