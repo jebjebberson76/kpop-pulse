@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-05-13T11:57:44.925Z",
+  "generatedAt": "2026-05-13T14:34:35.781Z",
   "items": [
-    {
-      "id": "7a909b126f2ba14d",
-      "title": "Canceled K-Pop Music Show Makes Surprise Comeback After Lengthy Time Off-Air",
-      "url": "https://www.koreaboo.com/news/canceled-music-show-makes-surprise-comeback-after-lengthy-time-off-air/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-13T11:05:13.000Z",
-      "snippet": "Here's everything that's changed.",
-      "description": "Here's everything that's changed.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "comeback"
-      ]
-    },
-    {
-      "id": "8a25fecf677bbe56",
-      "title": "Alleged Link Between BTS Jungkook’s Latest Instagram Post And aespa’s Winter Spark Major Reactions",
-      "url": "https://www.koreaboo.com/news/allegations-bts-jungkook-instagram-linked-aespa-winter/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-13T10:55:16.000Z",
-      "snippet": "Netizens were quick to debunk it.",
-      "description": "Netizens were quick to debunk it.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "aespa"
-      ]
-    },
-    {
-      "id": "dd741deb2931ad31",
-      "title": "aespa’s Winter Embroiled In Major Controversy For Video Of Idol Eating",
-      "url": "https://www.koreaboo.com/news/aespa-winter-controversy-video-eating/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-13T09:25:32.000Z",
-      "snippet": "\"Starving for male attention...\"",
-      "description": "\"Starving for male attention...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "aespa"
-      ]
-    },
     {
       "id": "625e23f99f33c1b6",
       "title": "Watch: FLARE U Finds Their “WAY 2 U” In Lovable And Youthful Debut MV",
@@ -221,20 +179,6 @@
       ]
     },
     {
-      "id": "d7a7d8d0fcbc50e3",
-      "title": "Update: IDID Reveals Comeback Schedule For “FLY!”",
-      "url": "https://www.soompi.com/article/1840210wpp/watch-idid-announces-comeback-date-with-trailer-for-single-album-fly",
-      "source": "Soompi",
-      "publishedAt": "2026-05-11T14:41:55.000Z",
-      "snippet": "Updated May 12 KST: IDID has released a schedule for their upcoming return with their new single album “FLY!” Original Article: IDID is gearing up for their return! On May 11, a tr...",
-      "description": "Updated May 12 KST: IDID has released a schedule for their upcoming return with their new single album “FLY!” Original Article: IDID is gearing up for their return! On May 11, a trailer film titled “DIARY” was revealed announcing IDID’s upcoming comeback. The boy group’s new single album “FLY!” is set to be released on… Continue reading Update: IDID Reveals Comeback Schedule For “FLY!” The post Update: IDID Reveals Comeback Schedule For “FLY!” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album"
-      ]
-    },
-    {
       "id": "13ccf0de0a31806d",
       "title": "SBS “K-EXPO Inkigayo In Paris” Unveils First Artist Lineup",
       "url": "https://www.soompi.com/article/1840159wpp/sbs-k-expo-inkigayo-in-paris-unveils-first-artist-lineup",
@@ -290,22 +234,6 @@
         "album",
         "concert",
         "nct"
-      ]
-    },
-    {
-      "id": "e1a8c03f27c48687",
-      "title": "Watch: SEVENTEEN’s Dino Confirmed To Make Solo Debut As His Alter Ego Picheolin",
-      "url": "https://www.soompi.com/article/1839946wpp/watch-seventeens-dino-confirmed-to-make-solo-debut-as-his-alter-ego-picheolin",
-      "source": "Soompi",
-      "publishedAt": "2026-05-11T02:41:57.000Z",
-      "snippet": "SEVENTEEN’s Dino will be making his highly-anticipated debut as Picheolin! On May 11, PLEDIS Entertainment announced that Picheolin will release his first mini album “吉BOARD” on Au...",
-      "description": "SEVENTEEN’s Dino will be making his highly-anticipated debut as Picheolin! On May 11, PLEDIS Entertainment announced that Picheolin will release his first mini album “吉BOARD” on August 3. The album name reinterprets the 1990s Korean street culture term “gilboard” by combining the Chinese character “吉” meaning “good fortune” with the English word “BOARD” to convey… Continue reading Watch: SEVENTEEN’s Dino Confirmed To Make Solo Debut As His Alter Ego Picheolin The post Watch: SEVENTEEN’s Dino Confirmed To Make Solo Debut As His Alter Ego Picheolin appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album",
-        "seventeen"
       ]
     },
     {
@@ -439,6 +367,20 @@
         "mini album",
         "album",
         "melon"
+      ]
+    },
+    {
+      "id": "d0709ea0b89ee4b6",
+      "title": "Hybe launches new girl group label ABD",
+      "url": "https://www.koreaherald.com/article/10733600",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-08T01:43:23.000Z",
+      "snippet": "Hybe has launched a new label specializing in girl groups, further expanding its multi-label system as the company prepares to debut another rookie act later this year. On Friday,...",
+      "description": "Hybe has launched a new label specializing in girl groups, further expanding its multi-label system as the company prepares to debut another rookie act later this year. On Friday, the company announced that it established a new label called ABD. The name stands for “A Bold Dream,” reflecting the label’s goal of pursuing creative ideas that go beyond conventional boundaries while expanding new areas of K-pop through music-focused content and artist development. The label will be led by Noh Ji-won",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/08/news-p.v1.20260508.c4f8e23cce2442e08709a4e1aaf0c6a3_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut"
       ]
     }
   ]
