@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T04:38:23.284Z",
+  "generatedAt": "2026-05-14T07:38:10.470Z",
   "items": [
     {
       "id": "07d5a16dba888479",
@@ -23,7 +23,7 @@
       "publishedAt": "2026-05-14T03:27:54.000Z",
       "snippet": "He's just being himself!",
       "description": "He's just being himself!",
-      "image": "https://image.koreaboo.com/2026/05/post2-2026-05-14T122611.290.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts"
@@ -110,7 +110,7 @@
       "publishedAt": "2026-05-13T09:13:42.000Z",
       "snippet": "FLARE U Is here with their highly-anticipated debut! FLARE U is a new duo consisting of former “BOYS II PLANET” contestants Chuei Li Yu and Kang Woo Jin. On May 13, FLARE U unveile...",
       "description": "FLARE U Is here with their highly-anticipated debut! FLARE U is a new duo consisting of former “BOYS II PLANET” contestants Chuei Li Yu and Kang Woo Jin. On May 13, FLARE U unveiled their first mini album “YOUTH ERROR” along with the music video for the title track “WAY 2 U.” “WAY 2 U”… Continue reading Watch: FLARE U Finds Their “WAY 2 U” In Lovable And Youthful Debut MV The post Watch: FLARE U Finds Their “WAY 2 U” In Lovable And Youthful Debut MV appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/05/13021124/flare-u-1-.png",
       "tags": [
         "debut",
         "mini album",
@@ -324,21 +324,6 @@
       ]
     },
     {
-      "id": "13ccf0de0a31806d",
-      "title": "SBS “K-EXPO Inkigayo In Paris” Unveils First Artist Lineup",
-      "url": "https://www.soompi.com/article/1840159wpp/sbs-k-expo-inkigayo-in-paris-unveils-first-artist-lineup",
-      "source": "Soompi",
-      "publishedAt": "2026-05-11T10:20:48.000Z",
-      "snippet": "SBS’s “K-EXPO Inkigayo in Paris” has revealed its first lineup of performers! On May 11, SBS announced that SHINee’s Taemin and NCT WISH will be joining the lineup for “K-EXPO Inki...",
-      "description": "SBS’s “K-EXPO Inkigayo in Paris” has revealed its first lineup of performers! On May 11, SBS announced that SHINee’s Taemin and NCT WISH will be joining the lineup for “K-EXPO Inkigayo in Paris,” a special event commemorating the 140th anniversary of diplomatic relations between Korea and France. The event is set to take place on… Continue reading SBS “K-EXPO Inkigayo In Paris” Unveils First Artist Lineup The post SBS “K-EXPO Inkigayo In Paris” Unveils First Artist Lineup appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "inkigayo",
-        "nct",
-        "shinee"
-      ]
-    },
-    {
       "id": "f1939f6eb2c63c84",
       "title": "YG gears up for milestone year with Big Bang, Blackpink anniversaries",
       "url": "https://www.koreaherald.com/article/10735483",
@@ -439,6 +424,20 @@
         "album",
         "billboard",
         "bts"
+      ]
+    },
+    {
+      "id": "2dcbc91637a84f8f",
+      "title": "NewJeans face new plagiarism lawsuit over &apos;How Sweet&apos;",
+      "url": "https://www.koreaherald.com/article/10734630",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-10T08:20:03.000Z",
+      "snippet": "NewJeans are embroiled in another plagiarism dispute, this time over their 2024 single \"How Sweet.\" According to Billboard on Friday, NewJeans, its agency Ador and parent company H...",
+      "description": "NewJeans are embroiled in another plagiarism dispute, this time over their 2024 single \"How Sweet.\" According to Billboard on Friday, NewJeans, its agency Ador and parent company Hybe have been sued in the US over alleged copyright infringement. Four songwriters, including Audrey Armacost, filed the lawsuit claiming that NewJeans' \"How Sweet\" copied elements from their demo track \"One of a Kind.\" The plaintiffs are seeking royalty compensation from both the group and the agency. According to the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/10/news-p.v1.20260510.54b591b747d543ac99fceaea7b1a8c6d_T1.jpg",
+      "tags": [
+        "billboard",
+        "newjeans"
       ]
     }
   ]
