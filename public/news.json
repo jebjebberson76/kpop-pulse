@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-14T07:38:10.470Z",
+  "generatedAt": "2026-05-14T10:09:16.073Z",
   "items": [
+    {
+      "id": "ee6b4141844d931b",
+      "title": "BTS And BLACKPINK Lisa’s “2026 FIFA World Cup” Announcements Triggers Major Dispute",
+      "url": "https://www.koreaboo.com/news/bts-blackpink-lisa-world-cup-announcements-spark/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-14T09:00:23.000Z",
+      "snippet": "Fans have been battling about wording.",
+      "description": "Fans have been battling about wording.",
+      "image": "https://image.koreaboo.com/2026/05/FD2870-14.jpg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
     {
       "id": "07d5a16dba888479",
       "title": "Close Your Eyes to sing ‘Pose’ in Spanish",
@@ -13,20 +27,6 @@
       "tags": [
         "debut",
         "concert"
-      ]
-    },
-    {
-      "id": "6e18d789a8c31963",
-      "title": "BTS V’s Unexpected Behavior During Concert Triggers Massive Response",
-      "url": "https://www.koreaboo.com/news/member-reactions-bts-v-eating-hot-dog-concert-goes-viral/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-14T03:27:54.000Z",
-      "snippet": "He's just being himself!",
-      "description": "He's just being himself!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
       ]
     },
     {
@@ -110,7 +110,7 @@
       "publishedAt": "2026-05-13T09:13:42.000Z",
       "snippet": "FLARE U Is here with their highly-anticipated debut! FLARE U is a new duo consisting of former “BOYS II PLANET” contestants Chuei Li Yu and Kang Woo Jin. On May 13, FLARE U unveile...",
       "description": "FLARE U Is here with their highly-anticipated debut! FLARE U is a new duo consisting of former “BOYS II PLANET” contestants Chuei Li Yu and Kang Woo Jin. On May 13, FLARE U unveiled their first mini album “YOUTH ERROR” along with the music video for the title track “WAY 2 U.” “WAY 2 U”… Continue reading Watch: FLARE U Finds Their “WAY 2 U” In Lovable And Youthful Debut MV The post Watch: FLARE U Finds Their “WAY 2 U” In Lovable And Youthful Debut MV appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/13021124/flare-u-1-.png",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "debut",
         "mini album",
@@ -281,20 +281,6 @@
       ]
     },
     {
-      "id": "fd1f33c2fc9dfb67",
-      "title": "fromis_9 Confirmed To Make July Comeback With Full-Length Album",
-      "url": "https://www.soompi.com/article/1840416wpp/fromis_9-confirmed-to-make-july-comeback-with-full-length-album",
-      "source": "Soompi",
-      "publishedAt": "2026-05-12T08:12:44.000Z",
-      "snippet": "fromis_9 will be making a comeback this summer! On May 12, OSEN reported that fromis_9 is preparing for a comeback in July. In response to the report, the group’s agency ASND share...",
-      "description": "fromis_9 will be making a comeback this summer! On May 12, OSEN reported that fromis_9 is preparing for a comeback in July. In response to the report, the group’s agency ASND shared, “fromis_9 will be making a comeback with a full-length album in July. Since they are returning with a studio album for the first… Continue reading fromis_9 Confirmed To Make July Comeback With Full-Length Album The post fromis_9 Confirmed To Make July Comeback With Full-Length Album appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album"
-      ]
-    },
-    {
       "id": "b441635d6d0ee8f8",
       "title": "BTS draws 150,000 fans in Mexico City, fuels &apos;BTSnomics&apos;",
       "url": "https://www.koreaherald.com/article/10736241",
@@ -438,6 +424,20 @@
       "tags": [
         "billboard",
         "newjeans"
+      ]
+    },
+    {
+      "id": "c2c03695a8daabbc",
+      "title": "Lisa joins 2026 World Cup opening lineup alongside Katy Perry",
+      "url": "https://www.koreaherald.com/article/10734543",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-10T05:07:38.000Z",
+      "snippet": "Blackpink's Lisa will take the stage at the 2026 FIFA World Cup opening ceremony in the US next month, becoming the first female artist from a K-pop group to perform at the event....",
+      "description": "Blackpink's Lisa will take the stage at the 2026 FIFA World Cup opening ceremony in the US next month, becoming the first female artist from a K-pop group to perform at the event. According to The Athletic on Friday, the Thai singer has signed a performance agreement with FIFA for the tournament's opening festivities. She is expected to appear ahead of the US-Paraguay match at SoFi Stadium in Los Angeles on June 12, alongside Katy Perry, Future and DJ Sanjoy. Her appearance will mark the second",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/10/news-p.v1.20260510.4ffcc00a73bf4823b6946ab5603d234e_T1.jpg",
+      "tags": [
+        "k-pop",
+        "blackpink"
       ]
     }
   ]
