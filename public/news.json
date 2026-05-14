@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-13T22:59:29.508Z",
+  "generatedAt": "2026-05-14T00:05:50.408Z",
   "items": [
+    {
+      "id": "62ba543b8d36a4b2",
+      "title": "May Idol Group Brand Reputation Rankings Announced",
+      "url": "https://www.soompi.com/article/1840959wpp/may-idol-group-brand-reputation-rankings-announced-7",
+      "source": "Soompi",
+      "publishedAt": "2026-05-13T23:42:22.000Z",
+      "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for all idol groups! The rankings were determined through an analysis of the consumer par...",
+      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for all idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community awareness indexes of various idol groups, using big data collected from April 14 to May 14. BTS held onto their spot at the… Continue reading May Idol Group Brand Reputation Rankings Announced The post May Idol Group Brand Reputation Rankings Announced appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/05/13163400/BTS-IVE-BLACKPINK.jpg",
+      "tags": [
+        "idol",
+        "bts"
+      ]
+    },
     {
       "id": "a0d3e77c74dcc503",
       "title": "“KPop Demon Hunters” Announces Live Concert Tour",
@@ -126,7 +140,7 @@
       "publishedAt": "2026-05-12T21:08:43.000Z",
       "snippet": "Circle Chart (formerly known as Gaon Chart) has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certi...",
       "description": "Circle Chart (formerly known as Gaon Chart) has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certification system for album sales, song downloads, and online streaming. Starting with music released on or after January 1, 2018, Circle Chart now certifies albums platinum once they reach… Continue reading BTS Earns Circle Quadruple Million Certification + P1Harmony, HUNTR/X, And DK Go Platinum The post BTS Earns Circle Quadruple Million Certification + P1Harmony, HUNTR/X, And DK Go Platinum appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/12140409/BTS-P1Harmony-HUNTRIX.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "gaon",
@@ -425,20 +439,6 @@
         "mini album",
         "album",
         "melon"
-      ]
-    },
-    {
-      "id": "d0709ea0b89ee4b6",
-      "title": "Hybe launches new girl group label ABD",
-      "url": "https://www.koreaherald.com/article/10733600",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-05-08T01:43:23.000Z",
-      "snippet": "Hybe has launched a new label specializing in girl groups, further expanding its multi-label system as the company prepares to debut another rookie act later this year. On Friday,...",
-      "description": "Hybe has launched a new label specializing in girl groups, further expanding its multi-label system as the company prepares to debut another rookie act later this year. On Friday, the company announced that it established a new label called ABD. The name stands for “A Bold Dream,” reflecting the label’s goal of pursuing creative ideas that go beyond conventional boundaries while expanding new areas of K-pop through music-focused content and artist development. The label will be led by Noh Ji-won",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/08/news-p.v1.20260508.c4f8e23cce2442e08709a4e1aaf0c6a3_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut"
       ]
     }
   ]
