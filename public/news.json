@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-14T15:14:15.447Z",
+  "generatedAt": "2026-05-14T17:44:03.913Z",
   "items": [
+    {
+      "id": "81afdc2e9d3bd89b",
+      "title": "SEVENTEEN Dino’s Solo Debut Sparks Backlash And Protests",
+      "url": "https://www.koreaboo.com/news/seventeen-dino-solo-debut-sparks-backlash-protests/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-14T16:02:23.000Z",
+      "snippet": "Some think the protest plans have gone too far.",
+      "description": "Some think the protest plans have gone too far.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "debut",
+        "seventeen"
+      ]
+    },
     {
       "id": "bf37d5dfc919cc74",
       "title": "BTS Jimin’s Unfair Treatment And Disrespect During “ARIRANG” World Tour Incites Fury",
@@ -424,23 +438,6 @@
       "tags": [
         "fan meeting",
         "seventeen"
-      ]
-    },
-    {
-      "id": "97bc8a460b191252",
-      "title": "BTS extends Billboard 200 stay to 7 weeks",
-      "url": "https://www.koreaherald.com/article/10734954",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-05-11T01:12:26.000Z",
-      "snippet": "The fifth studio album from BTS is charting seven weeks on Billboard 200 at No. 7, slipping two rungs from the previous week, according to the chart preview published Sunday in the...",
-      "description": "The fifth studio album from BTS is charting seven weeks on Billboard 200 at No. 7, slipping two rungs from the previous week, according to the chart preview published Sunday in the US. LP “Arirang” made a No. 1 debut on the main albums chart and held on to the top spot for two more weeks, a first-ever for a K-pop album. It ranked No. 3 and No. 4, respectively, on the following weeks. The album reclaimed the top spot on Spotify’s Weekly Top Albums Global and the main track “Swim” is sitting at No",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/11/news-p.v1.20260511.fa16186101c3492fb68ec80b715d50c5_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut",
-        "album",
-        "billboard",
-        "bts"
       ]
     }
   ]
