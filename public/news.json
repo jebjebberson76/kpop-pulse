@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T17:30:23.142Z",
+  "generatedAt": "2026-05-18T19:28:37.406Z",
   "items": [
     {
       "id": "082cacbdfc35f3c6",
@@ -13,20 +13,6 @@
       "tags": [
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "71d06ddaa7ea52a1",
-      "title": "aespa Hit With Accusations Of Plagiarising LE SSERAFIM",
-      "url": "https://www.koreaboo.com/news/aespa-hit-accusations-plagiarising-le-sserafim/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-18T12:18:51.000Z",
-      "snippet": "Fans did not hold back...",
-      "description": "Fans did not hold back...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "aespa",
-        "le sserafim"
       ]
     },
     {
@@ -440,6 +426,21 @@
       "tags": [
         "debut",
         "world tour"
+      ]
+    },
+    {
+      "id": "8d08e45d9b0189ca",
+      "title": "BTS reclaims Billboard Global chart, Jungkook logs 300m on Spotify with ‘My Time’",
+      "url": "https://www.koreaherald.com/article/10737004",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-13T02:31:49.000Z",
+      "snippet": "BTS returned to the No. 1 spot on Billboard’s Global Excl. US chart, after a week one rung below, with “Swim,” according to the latest chart dated May 16. The lead single from the...",
+      "description": "BTS returned to the No. 1 spot on Billboard’s Global Excl. US chart, after a week one rung below, with “Swim,” according to the latest chart dated May 16. The lead single from the band’s fifth studio album “Arirang” sat at No. 2 on the Global 200 and climbed back up two rungs to No. 30 on the Hot 100, tallying seven weeks on the main songs chart. The album slid down two rungs to No. 7 on Billboard 200, sitting among the top 10 for seven weeks straight, including three atop the ranking. Separatel",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/13/news-p.v1.20260513.1b482a1265614341a1cb9575711e7b4b_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "bts"
       ]
     }
   ]
