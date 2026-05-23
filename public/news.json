@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T03:40:13.185Z",
+  "generatedAt": "2026-05-23T06:29:50.580Z",
   "items": [
     {
       "id": "6711a46538affc63",
@@ -11,21 +11,6 @@
       "description": "The situation has struck many as odd.",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "idol",
-        "debut"
-      ]
-    },
-    {
-      "id": "bc502ebcccf5ca7b",
-      "title": "K-Pop Idol Drops To 38 KG To Meet Abusive “Hell Company’s” Demands For Debut",
-      "url": "https://www.koreaboo.com/news/kpop-idol-drops-38-kg-meet-abusive-hell-companys-demands-debut/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-22T22:09:12.000Z",
-      "snippet": "She stated that she still experienced side effects.",
-      "description": "She stated that she still experienced side effects.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
         "idol",
         "debut"
       ]
