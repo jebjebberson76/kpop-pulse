@@ -1,32 +1,46 @@
 {
-  "generatedAt": "2026-05-25T07:07:30.456Z",
+  "generatedAt": "2026-05-25T11:47:05.525Z",
   "items": [
     {
-      "id": "1faa4f4ce4cbce59",
-      "title": "Are BTS’s V And BLACKPINK’s Jennie’s Dating Rumors True?",
-      "url": "https://www.koreaboo.com/stories/bts-v-taehyung-dating-blackpink-jennie-rumors/",
+      "id": "47bcef19638bd289",
+      "title": "BTS Fan Suffers Assault, Bullying, And Threats During “Horrifying” Concert",
+      "url": "https://www.koreaboo.com/news/bts-fan-suffers-assault-bullying-threats-horrifying-concert/",
       "source": "Koreaboo",
-      "publishedAt": "2026-05-25T05:26:27.000Z",
-      "snippet": "Based on the \"evidence,\" opinions are the divided.",
-      "description": "Based on the \"evidence,\" opinions are the divided.",
+      "publishedAt": "2026-05-25T10:15:12.000Z",
+      "snippet": "Fellow fans were gobsmacked at the story.",
+      "description": "Fellow fans were gobsmacked at the story.",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "bts",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "0a85c46a90d08b34",
+      "title": "BLACKPINK’s Friendship Defies Rumors Of Discord",
+      "url": "https://www.koreaboo.com/news/blackpink-friendship-defies-rumors-discord/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-25T08:50:23.000Z",
+      "snippet": "BLACKPINK member Jisoo proudly showed her unwavering love for her members even after 10 years since debut. On the 24th, Jisoo posted several photos on her social media account with...",
+      "description": "BLACKPINK member Jisoo proudly showed her unwavering love for her members even after 10 years since debut. On the 24th, Jisoo posted several photos on her social media account with…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "debut",
         "blackpink"
       ]
     },
     {
-      "id": "26e9b62c5e5ad287",
-      "title": "BTS Jungkook’s Recent Update Sparks Shift In Dating Rumors With aespa’s Winter",
-      "url": "https://www.koreaboo.com/news/bts-jungkook-recent-update-sparks-shift-in-dating-rumors-aespas-winter/",
+      "id": "cd2eed0157999ad8",
+      "title": "Top Girl Group Idol Divulges The Story Behind Her Fainting On Stage",
+      "url": "https://www.koreaboo.com/news/top-girl-group-idol-divulges-story-behind-fainting-stage/",
       "source": "Koreaboo",
-      "publishedAt": "2026-05-24T23:26:54.000Z",
-      "snippet": "It has been a topic of discussion for months.",
-      "description": "It has been a topic of discussion for months.",
+      "publishedAt": "2026-05-25T08:24:50.000Z",
+      "snippet": "A top girl group K-Pop idol revealed a behind-the-scenes story about fainting while on stage performing, an incident that shocked all viewers and fans at the time. Recently, a vide...",
+      "description": "A top girl group K-Pop idol revealed a behind-the-scenes story about fainting while on stage performing, an incident that shocked all viewers and fans at the time. Recently, a video…",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "bts",
-        "aespa"
+        "k-pop",
+        "idol"
       ]
     },
     {
@@ -219,6 +233,24 @@
       "tags": [
         "idol",
         "stray kids"
+      ]
+    },
+    {
+      "id": "23254c2151f4d3ca",
+      "title": "Arte Museum launches immersive BTS exhibition inspired by &apos;Arirang&apos;",
+      "url": "https://www.koreaherald.com/article/10743484",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-22T02:23:26.000Z",
+      "snippet": "Arte Museum Las Vegas has opened “BTS The City Arirang” as an official partner of the K pop company Hybe’s project “The City,” a citywide fan experience program connecting concerts...",
+      "description": "Arte Museum Las Vegas has opened “BTS The City Arirang” as an official partner of the K pop company Hybe’s project “The City,” a citywide fan experience program connecting concerts and events across cities, coinciding with BTS' world tour. The immersive art museum, operated by D’strict, unveiled the exhibition “Arte Museum X BTS The City Arirang” on Wednesday ahead of BTS' concert in the city Saturday. The exhibition centers on BTS’ fifth studio album “Arirang,” which topped both the Billboard 2",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/25/news-p.v1.20260522.deadf1ce887e40f292a62f2c7c5da1f6_T1.png",
+      "tags": [
+        "k pop",
+        "album",
+        "billboard",
+        "world tour",
+        "concert",
+        "bts"
       ]
     },
     {
