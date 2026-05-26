@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T15:34:19.945Z",
+  "generatedAt": "2026-05-26T18:19:29.423Z",
   "items": [
     {
       "id": "c7211735346b5a56",
@@ -9,38 +9,10 @@
       "publishedAt": "2026-05-26T13:59:54.000Z",
       "snippet": "Her comment has sparked fiery discourse about K-Pop's beauty culture.",
       "description": "Her comment has sparked fiery discourse about K-Pop's beauty culture.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/05/yoo-yeonjung.jpg",
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "38ad54cab961c06d",
-      "title": "aespa’s Winter Seemingly Caught Breaking Advertising Laws",
-      "url": "https://www.koreaboo.com/news/aespa-winter-caught-breaking-advertisement-laws/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-26T11:40:45.000Z",
-      "snippet": "Netizens jumped to the idol's defence.",
-      "description": "Netizens jumped to the idol's defence.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "aespa"
-      ]
-    },
-    {
-      "id": "8dce532fe048c41e",
-      "title": "BTS’s V Reignites Dating Rumors With BLACKPINK’s Jennie During The “American Music Awards”",
-      "url": "https://www.koreaboo.com/news/bts-v-reignites-dating-rumors-blackpink-jennie-american-music-awards/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-26T10:41:11.000Z",
-      "snippet": "A video has sparked massive speculation.",
-      "description": "A video has sparked massive speculation.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "blackpink"
       ]
     },
     {
@@ -244,7 +216,7 @@
       "publishedAt": "2026-05-24T23:05:21.000Z",
       "snippet": "BTS’s “ARIRANG” has extended its own record on the Billboard 200! On May 24 local time, Billboard announced that BTS’s latest album “ARIRANG” had ranked No. 10 in its ninth consecu...",
       "description": "BTS’s “ARIRANG” has extended its own record on the Billboard 200! On May 24 local time, Billboard announced that BTS’s latest album “ARIRANG” had ranked No. 10 in its ninth consecutive week on the Top 200 Albums chart, which ranks the most popular albums in the United States. “ARIRANG” is now the first album by… Continue reading BTS’s “ARIRANG” Becomes 1st Album By Korean Artist To Spend 9 Weeks In Top 10 Of Billboard 200 The post BTS’s “ARIRANG” Becomes 1st Album By Korean Artist To Spend 9 Weeks In Top 10 Of Billboard 200 appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/24160243/BTS_8a8439.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "billboard",
@@ -444,6 +416,35 @@
         "mini album",
         "album",
         "billboard"
+      ]
+    },
+    {
+      "id": "ce583d7117d954b9",
+      "title": "No longer fearless, Le Sserafim comes back stronger",
+      "url": "https://www.koreaherald.com/article/10743063",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-21T23:00:00.000Z",
+      "snippet": "Le Sserafim is returning with its second LP, this time revisiting the very idea that defined its debut. The girl group releases its second LP “Pureflow Pt. 1” on Friday. Led by the...",
+      "description": "Le Sserafim is returning with its second LP, this time revisiting the very idea that defined its debut. The girl group releases its second LP “Pureflow Pt. 1” on Friday. Led by the lead track “Boompala,” the 11-track album captures the group’s shift from declaring itself “fearless” to acknowledging fear as part of growth. Ahead of the album's release, four members held a round interview on Monday at a cafe in Seongdong-gu, eastern Seoul. Leader Chaewon was unable to attend, as she is recovering",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/21/news-p.v1.20260521.aa753cb9977c404bb11cc442a38905ae_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "le sserafim"
+      ]
+    },
+    {
+      "id": "870beb1b0544475e",
+      "title": "BTS to livestream Busan concert in theaters worldwide",
+      "url": "https://www.koreaherald.com/article/10743054",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-21T08:19:18.000Z",
+      "snippet": "BTS’ upcoming Busan concert will be broadcast live in movie theaters around the world through a global live viewing event on June 13, Big Hit Music announced Thursday. According to...",
+      "description": "BTS’ upcoming Busan concert will be broadcast live in movie theaters around the world through a global live viewing event on June 13, Big Hit Music announced Thursday. According to the group’s agency, the second day of BTS’ “Arirang” performances in Busan will be livestreamed, allowing fans around the world to experience the performance in real time through large cinema screens and immersive sound systems. The live viewing event will take place in some 3,800 theaters across more than 80 countrie",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/21/news-p.v1.20260521.64d753824aae44ba808fe899d5f7ba3a_T1.jpeg",
+      "tags": [
+        "concert",
+        "bts"
       ]
     }
   ]
