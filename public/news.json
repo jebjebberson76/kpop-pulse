@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T09:11:33.964Z",
+  "generatedAt": "2026-05-30T11:14:57.248Z",
   "items": [
     {
       "id": "c55754aeba3384e1",
@@ -14,20 +14,6 @@
         "comeback",
         "album",
         "aespa"
-      ]
-    },
-    {
-      "id": "4355d51b5df24e90",
-      "title": "OG K-Pop Idol From YG Entertainment Spotted Now Living A Completely Different Life",
-      "url": "https://www.koreaboo.com/news/1tym-oh-jinhwan-yg-entertainment-idol-spotted-now-living-completely-different-life/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-30T03:12:27.000Z",
-      "snippet": "Where is he now?",
-      "description": "Where is he now?",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -444,6 +430,21 @@
         "mini album",
         "album",
         "shinee"
+      ]
+    },
+    {
+      "id": "b4f71745f1b1134d",
+      "title": "Stray Kids marks 40m albums sold",
+      "url": "https://www.koreaherald.com/article/10756029",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-26T02:45:26.000Z",
+      "snippet": "Stray Kids has sold more than 40 million albums as of April, label JYP Entertainment announced Tuesday, citing a local tally. The group has released 19 albums in Korea, from its pr...",
+      "description": "Stray Kids has sold more than 40 million albums as of April, label JYP Entertainment announced Tuesday, citing a local tally. The group has released 19 albums in Korea, from its pre-debut album “Mixtape” in 2018 to the “Do It” mixtape released in November 2025. In Japan, the group has released nine albums, from its first best-of album, “SKZ2020,” to its third EP in the country, “Hollow,” released June 2025. Overall, the group's third studio album “5-Star” (2023) logged the most sales at 5.3 mill",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/26/news-p.v1.20260526.f574fa77a16b41a3b841e0e1751e0c63_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "stray kids"
       ]
     }
   ]
