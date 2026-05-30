@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-05-30T20:48:26.912Z",
+  "generatedAt": "2026-05-30T21:54:25.671Z",
   "items": [
+    {
+      "id": "f539e78a28476f24",
+      "title": "AI Slop Or Malicious? M Countdown’s “Mega Concert” Promo Material Raises Serious Questions",
+      "url": "https://www.koreaboo.com/news/ai-slop-malicious-m-countdown-mega-concert-promo-raises-questions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-30T21:10:40.000Z",
+      "snippet": "\"...what are they even doing at work?\"",
+      "description": "\"...what are they even doing at work?\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "m countdown",
+        "concert"
+      ]
+    },
+    {
+      "id": "90c54a93f9a4bc46",
+      "title": "Former K-Pop Idol Finds New Life After Learning About His Group’s Disbandment The Day It Happened",
+      "url": "https://www.koreaboo.com/news/myteen-choi-eunsoo-day-disbandment-new-life/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-30T20:51:20.000Z",
+      "snippet": "Where is he now?",
+      "description": "Where is he now?",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "f3821adcb02396ad",
       "title": "The Shocking Amount Of Money Needed To Book K-Pop Idols Of Different Tiers For School Festivals",
@@ -413,37 +441,6 @@
       "tags": [
         "k-pop",
         "music video"
-      ]
-    },
-    {
-      "id": "4f5584e7a38a0667",
-      "title": "Twice wins best female K-pop artist at AMAs",
-      "url": "https://www.koreaherald.com/article/10756191",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-05-26T05:24:33.000Z",
-      "snippet": "Twice won best female K-pop artist at the 52nd American Music Awards on Monday, adding another major US accolade to the group’s growing list of achievements. The group beat fellow...",
-      "description": "Twice won best female K-pop artist at the 52nd American Music Awards on Monday, adding another major US accolade to the group’s growing list of achievements. The group beat fellow nominees Aespa, Blackpink, Illit and Le Sserafim in one of the ceremony’s most closely watched categories. Monday’s win marked Twice’s first trophy at the AMAs, though it was nominated in 2022. Following the win, the group shared a message through its official X account, thanking their fans, known as Once. “Thank you s",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/26/news-p.v1.20260526.6ea99fee81c741e8a336095a178692aa_T1.jpg",
-      "tags": [
-        "k-pop",
-        "blackpink",
-        "twice",
-        "aespa",
-        "le sserafim"
-      ]
-    },
-    {
-      "id": "0ffb92b83b35d48a",
-      "title": "BTS wins artist of the year at American Music Awards",
-      "url": "https://www.koreaherald.com/article/10756050",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-05-26T02:55:16.000Z",
-      "snippet": "BTS won artist of the year at the 52nd American Music Awards on Monday, marking the group’s second victory in the ceremony’s top category. The group received the award after return...",
-      "description": "BTS won artist of the year at the 52nd American Music Awards on Monday, marking the group’s second victory in the ceremony’s top category. The group received the award after returning as a full group earlier this year with its fifth studio album, “Arirang,” following the completion of all seven members’ military service. BTS claimed the award over fellow nominees including Taylor Swift, Bruno Mars, Bad Bunny and Lady Gaga, underscoring the group’s continued global influence. The win also marked",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/26/news-p.v1.20260526.a356a9c2e98b46bb81a9abcb76689aac_T1.jpg",
-      "tags": [
-        "album",
-        "bts"
       ]
     }
   ]
