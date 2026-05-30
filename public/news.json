@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-29T23:07:14.181Z",
+  "generatedAt": "2026-05-30T02:31:19.764Z",
   "items": [
+    {
+      "id": "3b7ba5e6e8469eab",
+      "title": "Beloved SEVENTEEN Member’s Solo Debut Faces Backlash Even Before Release",
+      "url": "https://www.koreaboo.com/news/seventeen-dino-pi-cheolin-solo-album-debut-faces-backlash-even-before-release/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-29T23:25:12.000Z",
+      "snippet": "There's a significant divide between his concept and fan expectations.",
+      "description": "There's a significant divide between his concept and fan expectations.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "debut",
+        "seventeen"
+      ]
+    },
     {
       "id": "1cbf983a91cc7519",
       "title": "K-Fans, I-Fans Demand For K-Pop Idol To Be Kicked Out Of Popular Group",
@@ -43,34 +57,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "4fec498b4e812ac7",
-      "title": "NDA-Related Activity At Recent BTS Concert Sparks Major Controversy",
-      "url": "https://www.koreaboo.com/news/bts-controversy-nda-concert/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-29T14:20:05.000Z",
-      "snippet": "ARMYs were not impressed.",
-      "description": "ARMYs were not impressed.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "2ca46f8c2d9b621b",
-      "title": "Red Velvet’s Wendy Makes An Unexpected Hand Gesture While Taking Press Photos — Here’s Why",
-      "url": "https://www.koreaboo.com/news/red-velvet-wendy-unexpected-hand-gesture-press-photos/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-29T14:04:07.000Z",
-      "snippet": "Red Velvet’s Wendy drew attention with a response born from her years of experience as an idol. Wendy attended the grand opening event of a brand held at the flagship…",
-      "description": "Red Velvet’s Wendy drew attention with a response born from her years of experience as an idol. Wendy attended the grand opening event of a brand held at the flagship…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "red velvet"
       ]
     },
     {
@@ -442,6 +428,20 @@
         "twice",
         "aespa",
         "le sserafim"
+      ]
+    },
+    {
+      "id": "0ffb92b83b35d48a",
+      "title": "BTS wins artist of the year at American Music Awards",
+      "url": "https://www.koreaherald.com/article/10756050",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-26T02:55:16.000Z",
+      "snippet": "BTS won artist of the year at the 52nd American Music Awards on Monday, marking the group’s second victory in the ceremony’s top category. The group received the award after return...",
+      "description": "BTS won artist of the year at the 52nd American Music Awards on Monday, marking the group’s second victory in the ceremony’s top category. The group received the award after returning as a full group earlier this year with its fifth studio album, “Arirang,” following the completion of all seven members’ military service. BTS claimed the award over fellow nominees including Taylor Swift, Bruno Mars, Bad Bunny and Lady Gaga, underscoring the group’s continued global influence. The win also marked",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/26/news-p.v1.20260526.a356a9c2e98b46bb81a9abcb76689aac_T1.jpg",
+      "tags": [
+        "album",
+        "bts"
       ]
     }
   ]
