@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-31T06:57:45.300Z",
+  "generatedAt": "2026-05-31T09:46:56.970Z",
   "items": [
+    {
+      "id": "b7b73eeb265bab47",
+      "title": "aespa Blasted By Koreans For NewJeans Shoutout In “Lemonade”",
+      "url": "https://www.koreaboo.com/news/aespa-blasted-koreans-newjeans-shoutout-in-lemonade/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-05-31T09:32:03.000Z",
+      "snippet": "“Why would aespa do that?\"",
+      "description": "“Why would aespa do that?\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "newjeans",
+        "aespa"
+      ]
+    },
     {
       "id": "9db7da8d9b61ec18",
       "title": "CORTIS, &TEAM, NMIXX, BTS, TXT, ILLIT, Stray Kids, ENHYPEN, And NewJeans Sweep Top Spots On Billboard World Albums Chart",
@@ -45,49 +59,6 @@
       "tags": [
         "k-pop",
         "nmixx"
-      ]
-    },
-    {
-      "id": "f539e78a28476f24",
-      "title": "AI Slop Or Malicious? M Countdown’s “Mega Concert” Promo Material Raises Serious Questions",
-      "url": "https://www.koreaboo.com/news/ai-slop-malicious-m-countdown-mega-concert-promo-raises-questions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-30T21:10:40.000Z",
-      "snippet": "\"...what are they even doing at work?\"",
-      "description": "\"...what are they even doing at work?\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "m countdown",
-        "concert"
-      ]
-    },
-    {
-      "id": "90c54a93f9a4bc46",
-      "title": "Former K-Pop Idol Finds New Life After Learning About His Group’s Disbandment The Day It Happened",
-      "url": "https://www.koreaboo.com/news/myteen-choi-eunsoo-day-disbandment-new-life/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-30T20:51:20.000Z",
-      "snippet": "Where is he now?",
-      "description": "Where is he now?",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "f3821adcb02396ad",
-      "title": "The Shocking Amount Of Money Needed To Book K-Pop Idols Of Different Tiers For School Festivals",
-      "url": "https://www.koreaboo.com/news/shocking-amount-money-kpop-idols-tiers-school-festivals/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-05-30T17:22:47.000Z",
-      "snippet": "As the university festival season heats up, the competition to book popular idol groups is becoming increasingly fierce. According to Money Today on the 30th, the festival budgets...",
-      "description": "As the university festival season heats up, the competition to book popular idol groups is becoming increasingly fierce. According to Money Today on the 30th, the festival budgets of major…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "k pop",
-        "idol"
       ]
     },
     {
@@ -445,6 +416,35 @@
         "twice",
         "aespa",
         "le sserafim"
+      ]
+    },
+    {
+      "id": "0ffb92b83b35d48a",
+      "title": "BTS wins artist of the year at American Music Awards",
+      "url": "https://www.koreaherald.com/article/10756050",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-26T02:55:16.000Z",
+      "snippet": "BTS won artist of the year at the 52nd American Music Awards on Monday, marking the group’s second victory in the ceremony’s top category. The group received the award after return...",
+      "description": "BTS won artist of the year at the 52nd American Music Awards on Monday, marking the group’s second victory in the ceremony’s top category. The group received the award after returning as a full group earlier this year with its fifth studio album, “Arirang,” following the completion of all seven members’ military service. BTS claimed the award over fellow nominees including Taylor Swift, Bruno Mars, Bad Bunny and Lady Gaga, underscoring the group’s continued global influence. The win also marked",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/26/news-p.v1.20260526.a356a9c2e98b46bb81a9abcb76689aac_T1.jpg",
+      "tags": [
+        "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "6ea3799446ddd6cb",
+      "title": "Shinee gears up to drop 6th EP",
+      "url": "https://www.koreaherald.com/article/10756041",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-26T02:51:14.000Z",
+      "snippet": "Shinee whetted fans’ appetite for its forthcoming sixth EP “Atmos,” uploading teaser photographs via label SM Entertainment on Tuesday. The four-member act will release the album,...",
+      "description": "Shinee whetted fans’ appetite for its forthcoming sixth EP “Atmos,” uploading teaser photographs via label SM Entertainment on Tuesday. The four-member act will release the album, themed on feelings rooted in love, on Monday. It will do so with six tracks, including the main track of the same title and “Still Raining,” an R&B pop tune hinted at by one of the teaaser pictures. The mini album is its first endeavor in about a year to feature all members, after single “Poet | Artist,” which marked t",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/26/news-p.v1.20260526.4cdf7e24754d41ad8c3010345486055a_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "shinee"
       ]
     }
   ]
