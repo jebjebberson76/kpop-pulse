@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-06-01T11:14:55.456Z",
+  "generatedAt": "2026-06-01T17:23:31.546Z",
   "items": [
-    {
-      "id": "e7d76bd89db085c9",
-      "title": "BTS V’s Actions During New Vlog Reignite Dating Rumors With BLACKPINK’ Jennie",
-      "url": "https://www.koreaboo.com/news/bts-v-vlog-linked-blackpink-jennie-dating-rumors/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-01T10:05:12.000Z",
-      "snippet": "\"He did it intentionally...\"",
-      "description": "\"He did it intentionally...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "897b72f1d312e5cb",
-      "title": "Top Female Idol Brutally Criticized After Accusations Of Copying BLACKPINK’s Rosé",
-      "url": "https://www.koreaboo.com/news/top-female-idol-criticism-accused-copying-blackpink-rose/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-01T09:20:24.000Z",
-      "snippet": "\"P*ssing me off...\"",
-      "description": "\"P*ssing me off...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "c9881e55fca48c29",
-      "title": "HYBE Female Idol Sparks Heartbreak After Crying During Now-Deleted “Inkigayo” Performance",
-      "url": "https://www.koreaboo.com/news/hybe-female-idol-sparks-heartbreak-after-crying-now-deleted-inkigayo-performance/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-01T08:05:56.000Z",
-      "snippet": "\"What's wrong...\"",
-      "description": "\"What's wrong...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "inkigayo"
-      ]
-    },
     {
       "id": "011d061b5bc229ee",
       "title": "StayC readies for June comeback",
@@ -135,13 +93,13 @@
     },
     {
       "id": "64f3b3abba62fcfa",
-      "title": "Watch: Hearts2Hearts Announces June Comeback Date With Summery Teaser For “Lemon Tang”",
+      "title": "Update: Hearts2Hearts Shares Schedule Poster For “Lemon Tang” Comeback",
       "url": "https://www.soompi.com/article/1844857wpp/watch-hearts2hearts-announces-june-comeback-date-with-summery-teaser-for-lemon-tang",
       "source": "Soompi",
       "publishedAt": "2026-05-31T15:28:04.000Z",
-      "snippet": "Hearts2Hearts is coming back! On June 1 at midnight KST, Hearts2Hearts officially announced their plans for a comeback later that month. The SM Entertainment rookie girl group will...",
-      "description": "Hearts2Hearts is coming back! On June 1 at midnight KST, Hearts2Hearts officially announced their plans for a comeback later that month. The SM Entertainment rookie girl group will be returning with their second mini album “Lemon Tang” on June 22 at 6 p.m. KST. Check out Hearts2Hearts’ first teaser for “Lemon Tang” below! The post Watch: Hearts2Hearts Announces June Comeback Date With Summery Teaser For “Lemon Tang” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/05/31082708/Hearts2Hearts.jpeg",
+      "snippet": "Updated June 2 KST: Hearts2Hearts has dropped a “LEMON SOLAR SYSTEM” clip and schedule poster for their upcoming mini album “Lemon Tang”! Original Article: Hearts2Hearts is coming...",
+      "description": "Updated June 2 KST: Hearts2Hearts has dropped a “LEMON SOLAR SYSTEM” clip and schedule poster for their upcoming mini album “Lemon Tang”! Original Article: Hearts2Hearts is coming back! On June 1 at midnight KST, Hearts2Hearts officially announced their plans for a comeback later in the month. The SM Entertainment rookie girl group will be returning… Continue reading Update: Hearts2Hearts Shares Schedule Poster For “Lemon Tang” Comeback The post Update: Hearts2Hearts Shares Schedule Poster For “Lemon Tang” Comeback appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/05/01082613/h2h-1.jpeg",
       "tags": [
         "comeback",
         "mini album",
@@ -444,6 +402,49 @@
         "mini album",
         "album",
         "music video"
+      ]
+    },
+    {
+      "id": "672d248e272d3717",
+      "title": "Seventeen marks 11th anniversary with donation for kids&apos; education in Laos",
+      "url": "https://www.koreaherald.com/article/10756925",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-27T02:33:44.000Z",
+      "snippet": "K-pop group Seventeen celebrated its 11th anniversary on Monday by making a donation to the Korean National Commission for UNESCO. The commission said Tuesday that the 13-member ac...",
+      "description": "K-pop group Seventeen celebrated its 11th anniversary on Monday by making a donation to the Korean National Commission for UNESCO. The commission said Tuesday that the 13-member act made the contribution in line with their debut date on May 26, and that the funds will be used for a scholarship program supporting lower secondary school enrollment in Laos. The amount was not disclosed. The scholarship program provides financial support for Lao students who have completed an accredited primary educ",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/27/news-p.v1.20260527.320fe8926c26440b886ca462266ca970_T1.jpeg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "seventeen"
+      ]
+    },
+    {
+      "id": "e517d20e44b759d7",
+      "title": "Alpha Drive One tops iTunes Chart with new single",
+      "url": "https://www.koreaherald.com/article/10756868",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-27T02:11:03.000Z",
+      "snippet": "Alpha Drive One topped the iTunes Top Songs chart in two regions and made the top five in six with its latest single, “OMG!,” agency WakeOne Entertainment announced Wednesday. The...",
+      "description": "Alpha Drive One topped the iTunes Top Songs chart in two regions and made the top five in six with its latest single, “OMG!,” agency WakeOne Entertainment announced Wednesday. The hip-hop/R&B tune filled with the energy of free-spirited youth also entered Line Music’s real-time charts at No. 2. The rookie boy group released the song Tuesday as part of its prologue single album, “No School Tomorrow.” The two-track release marks the group's first return since its debut and precedes the team’s seco",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/27/news-p.v1.20260527.2af7cd698ee74a83865e02343a3584c6_T1.jpg",
+      "tags": [
+        "debut",
+        "album"
+      ]
+    },
+    {
+      "id": "be19247278e93a33",
+      "title": "BTS turns Las Vegas red with ‘Arirang’ citywide takeover",
+      "url": "https://www.koreaherald.com/article/10756454",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-05-26T09:02:42.000Z",
+      "snippet": "BTS transformed Las Vegas into a massive red-hued celebration of “Arirang” ahead of the group’s concerts in the US city, launching a large-scale citywide campaign tied to its ongoi...",
+      "description": "BTS transformed Las Vegas into a massive red-hued celebration of “Arirang” ahead of the group’s concerts in the US city, launching a large-scale citywide campaign tied to its ongoing world tour. The group kicked off “BTS The City Arirang — Las Vegas” on May 20 ahead of its four concerts at Allegiant Stadium, held May 23-24 and 27-28. After turning the city purple during its 2022 Las Vegas concerts, BTS returned this year with a citywide takeover centered on red — the key color of its fifth studi",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/05/27/news-p.v1.20260526.9faebbfe7da544bfa44e465b9501c170_T1.jpg",
+      "tags": [
+        "world tour",
+        "bts"
       ]
     }
   ]
