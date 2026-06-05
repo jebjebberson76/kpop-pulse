@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-06-05T17:09:34.635Z",
+  "generatedAt": "2026-06-05T19:44:50.062Z",
   "items": [
+    {
+      "id": "d7eac37605f5da29",
+      "title": "K-Pop Idol Accused Of Shocking Airport Behavior Toward Flight Attendant In Viral Allegation",
+      "url": "https://www.koreaboo.com/news/kpop-idol-accused-shocking-airport-behavior-toward-flight-attendant-in-viral-allegation/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-05T19:24:24.000Z",
+      "snippet": "Idols can be difficult to deal with.",
+      "description": "Idols can be difficult to deal with.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "cf986700525affbb",
+      "title": "5th Gen K-Pop Idol Saves Fan From Being Jumped By Other Fans",
+      "url": "https://www.koreaboo.com/news/5th-gen-kpop-idol-saves-fan-jumped-fans/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-05T19:19:19.000Z",
+      "snippet": "Auto-translations can't be trusted.",
+      "description": "Auto-translations can't be trusted.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "03e9c9a9f3ad0641",
+      "title": "NewJeans’ “OMG” (Performance Ver. 1) Becomes Their 1st MV To Hit 400 Million Views",
+      "url": "https://www.soompi.com/article/1845853wpp/newjeans-omg-performance-ver-1-becomes-their-1st-mv-to-hit-400-million-views",
+      "source": "Soompi",
+      "publishedAt": "2026-06-05T17:09:54.000Z",
+      "snippet": "NewJeans has reached a new YouTube milestone! The girl group’s “OMG” (Performance ver. 1) music video surpassed 400 million views on June 6 at approximately 1 a.m. KST. This is abo...",
+      "description": "NewJeans has reached a new YouTube milestone! The girl group’s “OMG” (Performance ver. 1) music video surpassed 400 million views on June 6 at approximately 1 a.m. KST. This is about three years, five months, and two days since its release on January 3, 2023 at 8:30 p.m. KST. “OMG” (Performance ver. 1) is NewJeans’… Continue reading NewJeans’ “OMG” (Performance Ver. 1) Becomes Their 1st MV To Hit 400 Million Views The post NewJeans’ “OMG” (Performance Ver. 1) Becomes Their 1st MV To Hit 400 Million Views appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/05100943/vlcsnap-2026-06-06-02h01m43s485.jpg",
+      "tags": [
+        "music video",
+        "mv",
+        "newjeans"
+      ]
+    },
     {
       "id": "187037769f67260b",
       "title": "Watch: aespa Takes 1st Win For “WDA (Whole Different Animal)” On “Music Bank”; Performances By MAMAMOO, MEOVV, And More",
@@ -16,20 +59,6 @@
       ]
     },
     {
-      "id": "7e9830632822796f",
-      "title": "G-Dragon Slated For Activity Linked To “Dating Rumors” With BLACKPINK’s Jennie — Involving BTS’s V",
-      "url": "https://www.koreaboo.com/news/gdragons-slated-activity-dating-rumors-blackpinks-jennie-bts-v/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-05T11:30:28.000Z",
-      "snippet": "\"Obsessed attention seeker...\"",
-      "description": "\"Obsessed attention seeker...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "blackpink"
-      ]
-    },
-    {
       "id": "6b044492a829a33d",
       "title": "BIGBANG’s “LOSER” Becomes Their 3rd Group MV To Surpass 300 Million Views",
       "url": "https://www.soompi.com/article/1845841wpp/bigbangs-loser-becomes-their-3rd-group-mv-to-surpass-300-million-views",
@@ -41,20 +70,6 @@
       "tags": [
         "music video",
         "mv"
-      ]
-    },
-    {
-      "id": "7c32505550ae6dac",
-      "title": "“Almost Became A Monster” — Female K-Pop Idol Confesses To Celebrity Disease Experience",
-      "url": "https://www.koreaboo.com/news/almost-became-monster-female-kpop-idol-confesses-celebrity-disease-experience/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-05T09:54:03.000Z",
-      "snippet": "A female K-Pop idol candidly revealed her experience of having celebrity disease during her time in a girl group. On the 4th, a video titled “Obtained 11 Certificates… Why 4Minute’...",
-      "description": "A female K-Pop idol candidly revealed her experience of having celebrity disease during her time in a girl group. On the 4th, a video titled “Obtained 11 Certificates… Why 4Minute’s…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -109,7 +124,7 @@
       "publishedAt": "2026-06-04T12:52:12.000Z",
       "snippet": "Artists have lit up the stage at the “M Countdown X Mega Concert”! On June 4, Mnet aired the special broadcast of the “M Countdown X Mega Concert” in place of its regular live epis...",
       "description": "Artists have lit up the stage at the “M Countdown X Mega Concert”! On June 4, Mnet aired the special broadcast of the “M Countdown X Mega Concert” in place of its regular live episode of “M Countdown.” The large-scale music festival, a collaboration between “M Countdown” and Mega MGC Coffee, was pre-recorded at INSPIRE… Continue reading Watch: Performances From “M Countdown X Mega Concert” The post Watch: Performances From “M Countdown X Mega Concert” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/06/04055141/mega-concert.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mnet",
         "m countdown",
@@ -335,20 +350,6 @@
         "mini album",
         "album",
         "shinee"
-      ]
-    },
-    {
-      "id": "e0b3ad88e32438bc",
-      "title": "Watch: TREASURE Goes Hard In New Dance Performance Video For “IF I”",
-      "url": "https://www.soompi.com/article/1845300wpp/watch-treasure-goes-hard-in-new-dance-performance-video-for-if-i",
-      "source": "Soompi",
-      "publishedAt": "2026-06-02T15:28:01.000Z",
-      "snippet": "TREASURE has revealed the full choreography for their new song “IF I”! On June 3 at midnight KST, TREASURE released a dance performance video for “IF I,” the title track of their n...",
-      "description": "TREASURE has revealed the full choreography for their new song “IF I”! On June 3 at midnight KST, TREASURE released a dance performance video for “IF I,” the title track of their new mini album “NEW WAV.” As TREASURE has not yet performed “IF I” on stage or on music shows, the video marks fans’… Continue reading Watch: TREASURE Goes Hard In New Dance Performance Video For “IF I” The post Watch: TREASURE Goes Hard In New Dance Performance Video For “IF I” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album"
       ]
     },
     {
