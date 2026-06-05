@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T14:32:25.465Z",
+  "generatedAt": "2026-06-05T17:09:34.635Z",
   "items": [
     {
       "id": "187037769f67260b",
@@ -55,20 +55,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "8cfea939bd930921",
-      "title": "97-Liners BTS Jungkook And SEVENTEEN Mingyu’s Interaction Sparks Controversy At Calvin Klein Event",
-      "url": "https://www.koreaboo.com/news/bts-jungkook-seventeen-mingyu-calvin-klein-controversy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-05T09:45:09.000Z",
-      "snippet": "It became a toxic battle.",
-      "description": "It became a toxic battle.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "seventeen"
       ]
     },
     {
@@ -436,6 +422,21 @@
       "tags": [
         "album",
         "fan meeting"
+      ]
+    },
+    {
+      "id": "9fb42e084d5b4438",
+      "title": "Stray Kids hit milestones with ‘Miroh,’ ‘Easy’ music videos",
+      "url": "https://www.koreaherald.com/article/10760768",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-01T02:31:19.000Z",
+      "snippet": "Stray Kids reached 200 million views on YouTube with its “Miroh” music video as of May 29, said label JYP Entertainment on Sunday. It is the group’s ninth video to exceed the miles...",
+      "description": "Stray Kids reached 200 million views on YouTube with its “Miroh” music video as of May 29, said label JYP Entertainment on Sunday. It is the group’s ninth video to exceed the milestone. The group's music video for “Easy” reached 100 million the following day, becoming the 21st music video from Stray Kids to achieve the feat. “Miroh” is the main track from the group's fourth EP, “Cle 1: Miroh,” which was released in 2019. “Easy” is a B-side track from its first full-length album, “Go Live,” relea",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.5c18caa2b0f5454ab8a60104fed9b1c6_T1.jpg",
+      "tags": [
+        "album",
+        "music video",
+        "stray kids"
       ]
     }
   ]
