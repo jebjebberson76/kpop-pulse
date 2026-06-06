@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T09:20:55.805Z",
+  "generatedAt": "2026-06-06T11:19:15.534Z",
   "items": [
     {
       "id": "35fed16b3f761acb",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-06-06T07:47:16.000Z",
       "snippet": "Vote for V, Jurin, Wumuti, and more in this new K-Pop poll.",
       "description": "Vote for V, Jurin, Wumuti, and more in this new K-Pop poll.",
-      "image": "https://image.koreaboo.com/2026/06/kpop-poll-jurin-taehyung-wumuti.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -28,20 +28,6 @@
         "debut",
         "billboard",
         "aespa"
-      ]
-    },
-    {
-      "id": "cf7012a7bfab8475",
-      "title": "Troubled Idol’s New Agency Gets Involved In Messy 3 Billion Lawsuit",
-      "url": "https://www.koreaboo.com/news/yu-junwon-j1-fantasy-boys-pre-debut-member-new-agency-involved-lawsuit-phunky-studio/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-06T02:14:57.000Z",
-      "snippet": "Will he be able to debut with the new group as planned?",
-      "description": "Will he be able to debut with the new group as planned?",
-      "image": "https://image.koreaboo.com/2026/06/yu-junwon-new-agency-fi.jpg",
-      "tags": [
-        "idol",
-        "debut"
       ]
     },
     {
@@ -81,7 +67,7 @@
       "publishedAt": "2026-06-05T11:46:45.000Z",
       "snippet": "aespa has snatched their first music show win for “WDA (Whole Different Animal)” (featuring BIGBANG’s G-Dragon)! On the June 5 episode of “Music Bank,” the candidates for first pla...",
       "description": "aespa has snatched their first music show win for “WDA (Whole Different Animal)” (featuring BIGBANG’s G-Dragon)! On the June 5 episode of “Music Bank,” the candidates for first place were AND2BLE’s “Curious” and aespa’s “WDA (Whole Different Animal).” aespa ultimately took the prize with a total of 6,934 points. Congratulations to aespa! Watch the winner announcement below! Performers… Continue reading Watch: aespa Takes 1st Win For “WDA (Whole Different Animal)” On “Music Bank”; Performances By MAMAMOO, MEOVV, And More The post Watch: aespa Takes 1st Win For “WDA (Whole Different Animal)” On...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/05044112/aespa-music-bank.jpg",
       "tags": [
         "music bank",
         "aespa"
@@ -95,7 +81,7 @@
       "publishedAt": "2026-06-05T10:36:29.000Z",
       "snippet": "BIGBANG has achieved another YouTube milestone! On June 5 at approximately 7:13 p.m. KST, BIGBANG’s music video for “LOSER” surpassed 300 million views on YouTube. Originally relea...",
       "description": "BIGBANG has achieved another YouTube milestone! On June 5 at approximately 7:13 p.m. KST, BIGBANG’s music video for “LOSER” surpassed 300 million views on YouTube. Originally released on May 1, 2015 at 12 a.m. KST, “LOSER” reached the milestone after approximately 11 years, one month, and four days. “LOSER” is now BIGBANG’s third group music… Continue reading BIGBANG’s “LOSER” Becomes Their 3rd Group MV To Surpass 300 Million Views The post BIGBANG’s “LOSER” Becomes Their 3rd Group MV To Surpass 300 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/05033600/bigbang-loser.jpg",
       "tags": [
         "music video",
         "mv"
@@ -435,6 +421,21 @@
       "tags": [
         "comeback",
         "album"
+      ]
+    },
+    {
+      "id": "e6b2ac6ac8fd001e",
+      "title": "BTS brings back &apos;Run BTS,&apos; will officially release &apos;Come Over&apos; for Festa",
+      "url": "https://www.koreaherald.com/article/10760672",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-01T02:13:33.000Z",
+      "snippet": "BTS will bring back its popular variety series \"Run BTS\" and officially release \"Come Over\" as part of its annual Festa celebration marking the group's June 13 debut anniversary, a...",
+      "description": "BTS will bring back its popular variety series \"Run BTS\" and officially release \"Come Over\" as part of its annual Festa celebration marking the group's June 13 debut anniversary, according to a schedule unveiled Monday. Festa is BTS' annual festival commemorating its debut, featuring a mix of online and offline events. This year's celebration will coincide with the group's \"BTS World Tour ‘Arirang' in Busan\" concerts at Busan Asiad Main Stadium on June 12 and 13. The festivities will begin on Th",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/01/news-p.v1.20260601.7e4ee4b17caf4ec1ac0c16edc0ee8abb_T1.jpg",
+      "tags": [
+        "debut",
+        "world tour",
+        "bts"
       ]
     }
   ]
