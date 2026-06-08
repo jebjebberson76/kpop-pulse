@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-08T10:23:09.896Z",
+  "generatedAt": "2026-06-08T14:43:23.282Z",
   "items": [
+    {
+      "id": "f72b938f05dfbbc7",
+      "title": "Brutal Criticism Of Top K-Pop Visual Idol’s Vocals Triggers Heated Debate",
+      "url": "https://www.koreaboo.com/news/brrutal-criticism-top-kpop-visuals-vocals-heated-debate/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-08T14:00:03.000Z",
+      "snippet": "\"How did she even debut?!\"",
+      "description": "\"How did she even debut?!\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "debut"
+      ]
+    },
     {
       "id": "d64eebf354a1f2b4",
       "title": "Classic hits, pop anthems find new life as K-pop embraces sampling trend",
@@ -213,6 +228,20 @@
       ]
     },
     {
+      "id": "6c17414056880130",
+      "title": "Soompi’s K-Pop Music Chart 2026, June Week 1",
+      "url": "https://www.soompi.com/article/1846212wpp/soompis-k-pop-music-chart-2026-june-week-1",
+      "source": "Soompi",
+      "publishedAt": "2026-06-07T06:06:48.000Z",
+      "snippet": "The top three songs remain the same as last week. CORTIS’s “REDRED” repeats as the No. 1 song, making it its third week at the top. Congratulations to CORTIS! Holding steady at No....",
+      "description": "The top three songs remain the same as last week. CORTIS’s “REDRED” repeats as the No. 1 song, making it its third week at the top. Congratulations to CORTIS! Holding steady at No. 2 and 3, respectively, are ILLIT’s “It’s Me” and NMIXX’s “Heavy Serenade.” There is only one new song in the top 10… Continue reading Soompi’s K-Pop Music Chart 2026, June Week 1 The post Soompi’s K-Pop Music Chart 2026, June Week 1 appeared first on Soompi.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "nmixx"
+      ]
+    },
+    {
       "id": "e43ce17082740d6e",
       "title": "USPEER Announces Official Fandom Name",
       "url": "https://www.soompi.com/article/1845911wpp/uspeer-announces-official-fandom-name",
@@ -359,21 +388,6 @@
       ]
     },
     {
-      "id": "e2f2596adac15499",
-      "title": "Watch: Performances From “M Countdown X Mega Concert”",
-      "url": "https://www.soompi.com/article/1845713wpp/watch-performances-from-m-countdown-x-mega-concert",
-      "source": "Soompi",
-      "publishedAt": "2026-06-04T12:52:12.000Z",
-      "snippet": "Artists have lit up the stage at the “M Countdown X Mega Concert”! On June 4, Mnet aired the special broadcast of the “M Countdown X Mega Concert” in place of its regular live epis...",
-      "description": "Artists have lit up the stage at the “M Countdown X Mega Concert”! On June 4, Mnet aired the special broadcast of the “M Countdown X Mega Concert” in place of its regular live episode of “M Countdown.” The large-scale music festival, a collaboration between “M Countdown” and Mega MGC Coffee, was pre-recorded at INSPIRE… Continue reading Watch: Performances From “M Countdown X Mega Concert” The post Watch: Performances From “M Countdown X Mega Concert” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mnet",
-        "m countdown",
-        "concert"
-      ]
-    },
-    {
       "id": "835a515d822fce48",
       "title": "June to spotlight K-pop male acts in wave of comebacks",
       "url": "https://www.koreaherald.com/article/10763921",
@@ -429,21 +443,6 @@
       "tags": [
         "album",
         "world tour",
-        "bts"
-      ]
-    },
-    {
-      "id": "1de888f7fd4095c1",
-      "title": "Foreign hotel bookings in Busan surge ahead of BTS concert",
-      "url": "https://www.koreaherald.com/article/10762842",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-03T04:02:19.000Z",
-      "snippet": "The number of hotel reservations booked by foreign tourists in the southeastern port city of Busan rose sharply ahead of next week's concert by K-pop sensation BTS, industry source...",
-      "description": "The number of hotel reservations booked by foreign tourists in the southeastern port city of Busan rose sharply ahead of next week's concert by K-pop sensation BTS, industry sources said Wednesday. According to Hanwha Hotels & Resorts, foreigners accounted for 42 percent of the rooms booked at its Matie Osiria hotel in the port city from June 11 to 13, up sharply from 0.2 percent during the same period last year. BTS' performances in Busan will take place June 12-13. Hanwha Hotels added that the",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/03/rcv.YNA.20260531.PYH2026053109170005100_T1.jpg",
-      "tags": [
-        "k-pop",
-        "concert",
         "bts"
       ]
     }
