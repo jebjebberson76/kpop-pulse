@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-06-07T22:57:38.222Z",
+  "generatedAt": "2026-06-08T00:07:55.750Z",
   "items": [
+    {
+      "id": "0abe63b9ab650420",
+      "title": "Finding home: Inside BoyNextDoor&apos;s first LP",
+      "url": "https://www.koreaherald.com/article/10765537",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-07T23:00:00.000Z",
+      "snippet": "Three years after their debut, BoyNextDoor returns with the group's first LP — and with what the band says may be its most personal work yet. The six-member boy band releases its f...",
+      "description": "Three years after their debut, BoyNextDoor returns with the group's first LP — and with what the band says may be its most personal work yet. The six-member boy band releases its first LP, “Home,” on Monday, marking the first new effort since fifth EP “The Action.” The album traces the journey from the bandmates' trainee days to their present, bringing together stories of youth, family, fans, ambition and the memories that shaped them. “For a singer, releasing a full-length album feels symbolic,",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/08/news-p.v1.20260605.2f60067a4d804c64b47f425b8fb7e727_T1.jpg",
+      "tags": [
+        "debut",
+        "album"
+      ]
+    },
+    {
+      "id": "1725a5526f1eca32",
+      "title": "Watch: Secret Announces Comeback Date With Teaser For 1st Return In 12 Years",
+      "url": "https://www.soompi.com/article/1846081wpp/watch-secret-announces-comeback-date-with-teaser-for-1st-return-in-12-years",
+      "source": "Soompi",
+      "publishedAt": "2026-06-07T22:59:43.000Z",
+      "snippet": "After 12 long years, Secret is finally coming back! On June 8 at midnight KST, the iconic second-generation girl group officially announced the date and details of their long-await...",
+      "description": "After 12 long years, Secret is finally coming back! On June 8 at midnight KST, the iconic second-generation girl group officially announced the date and details of their long-awaited return. In what marks their first comeback in 12 years, Secret will be returning with the special mini album “Secret Flavor” on June 18 at 6… Continue reading Watch: Secret Announces Comeback Date With Teaser For 1st Return In 12 Years The post Watch: Secret Announces Comeback Date With Teaser For 1st Return In 12 Years appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/07155836/Secret.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album"
+      ]
+    },
     {
       "id": "488fbd7299fae9a2",
       "title": "Idol Who Survived 6 Audition Shows Reveals How He Felt Watching Wanna One Succeed",
@@ -114,7 +143,7 @@
       "publishedAt": "2026-06-07T16:18:11.000Z",
       "snippet": "AHOF has kicked off the countdown to their summer comeback! On June 8 at midnight KST, the “Universe League” group announced their plans to release a new single later this week. AH...",
       "description": "AHOF has kicked off the countdown to their summer comeback! On June 8 at midnight KST, the “Universe League” group announced their plans to release a new single later this week. AHOF will be returning with “Sugar High,” a pre-release single off their upcoming third mini album, on June 12 at 6 p.m. KST. The… Continue reading AHOF Announces Return With Pre-Release Single “Sugar High” The post AHOF Announces Return With Pre-Release Single “Sugar High” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/06/07091631/AHOF.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "mini album",
@@ -414,34 +443,6 @@
         "debut",
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "cd2c000f27daf699",
-      "title": "TWS to drop 2nd single in Japan in August",
-      "url": "https://www.koreaherald.com/article/10762177",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-02T02:16:39.000Z",
-      "snippet": "TWS will release its second physical single in Japan, “Soda Soda,” on Aug. 4, according to its agency Pledis Entertainment on Monday. The album will consist of three tracks and com...",
-      "description": "TWS will release its second physical single in Japan, “Soda Soda,” on Aug. 4, according to its agency Pledis Entertainment on Monday. The album will consist of three tracks and comes about a year after the group of six debuted in the country with the single “Nice to See You Again.” The previous single made a chart-topping debut on Oricon’s Weekly and Weekly Combined Single Rankings and reached over 250,000 shipments, certifying platinum from the Recording Industry Association of Japan. The upcom",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/02/news-a.v1.20260602.6546555a626b4c05bc4dfc894aa63460_T1.jpg",
-      "tags": [
-        "debut",
-        "album"
-      ]
-    },
-    {
-      "id": "04135ed790ea9599",
-      "title": "T.O.P to host fan meetup in Japan next month",
-      "url": "https://www.koreaherald.com/article/10762127",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-02T01:45:25.000Z",
-      "snippet": "T.O.P will meet and greet fans in Japan at a fan meeting slated to be held in Yokohama on July 9, his agency TopSpot Pictures announced Tuesday. The singer and actor invited member...",
-      "description": "T.O.P will meet and greet fans in Japan at a fan meeting slated to be held in Yokohama on July 9, his agency TopSpot Pictures announced Tuesday. The singer and actor invited members of his Japanese fandom community to the event that will accommodate approximately 10,000 with free admission, out of gratitude for supporting him through thick and thin. The singer and actor is expected to perform songs from his first solo studio album and first musical endeavor in 13 years, “Another Dimension,” whic",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/02/news-a.v1.20260602.7bd07c403c9445ce9f1b5ca58477dcfe_T1.jpg",
-      "tags": [
-        "album",
-        "fan meeting"
       ]
     }
   ]
