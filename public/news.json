@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-08T17:46:10.094Z",
+  "generatedAt": "2026-06-08T20:04:54.201Z",
   "items": [
+    {
+      "id": "18310b1a004241e8",
+      "title": "Disbanded 4th Gen K-Pop Group Sparks Comeback Rumors",
+      "url": "https://www.koreaboo.com/news/disbanded-4th-generation-kpop-boy-group-comeback-redebut-rebrand-rumors/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-08T18:17:36.000Z",
+      "snippet": "They dropped a major hint out of nowhere.",
+      "description": "They dropped a major hint out of nowhere.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "comeback"
+      ]
+    },
     {
       "id": "756680f8d2a23b5a",
       "title": "K-Pop Group’s Long-Awaited Comeback Pisses Off Fans",
@@ -428,21 +442,6 @@
       "tags": [
         "k-pop",
         "shinee"
-      ]
-    },
-    {
-      "id": "82df7130dc18dc1e",
-      "title": "Ive’s 4th Japanese album tops Oricon chart",
-      "url": "https://www.koreaherald.com/article/10763438",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-04T01:43:11.000Z",
-      "snippet": "Ive scored No. 1 on Oricon’s Weekly and Weekly Combined Album Rankings with its fourth album in Japan, “Lucid Dream,” its agency Starship Entertainment said Thursday, citing the ch...",
-      "description": "Ive scored No. 1 on Oricon’s Weekly and Weekly Combined Album Rankings with its fourth album in Japan, “Lucid Dream,” its agency Starship Entertainment said Thursday, citing the chart published Wednesday. This is the third time the group has topped the chart, and it did so with the highest weekly points for a female international artist this year. The mini album was released in May and consists of six tracks, three of which are new, including the title track. Meanwhile, the group is set to go li",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/04/news-p.v1.20260604.e7fa588223184163a16c8559c0b6c43a_T1.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "ive"
       ]
     }
   ]
