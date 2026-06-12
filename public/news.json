@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-12T21:49:46.993Z",
+  "generatedAt": "2026-06-12T23:10:40.323Z",
   "items": [
+    {
+      "id": "85a043a0c13fb97e",
+      "title": "From Topping Charts To Multiple Arrests: The Life And Death Of A Pre-Debut BTS Member",
+      "url": "https://www.koreaboo.com/news/topping-charts-multiple-arrests-life-death-pre-debut-bts-member/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-12T22:26:53.000Z",
+      "snippet": "The legal issues kept coming.",
+      "description": "The legal issues kept coming.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "debut",
+        "bts"
+      ]
+    },
     {
       "id": "b4918d8643ba7046",
       "title": "BTS’ Busan Concert Faces Massive Backlash Over Multiple Alleged Management Failures",
@@ -9,20 +23,6 @@
       "publishedAt": "2026-06-12T19:37:36.000Z",
       "snippet": "\"Chaos.\"",
       "description": "\"Chaos.\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "7b30519ee88cb688",
-      "title": "BTS Jungkook “Mad” Expression During Busan Concert Gains Attention Amid Show Controversy",
-      "url": "https://www.koreaboo.com/news/bts-jungkook-mad-expression-busan-concert-amid-controversy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-12T14:05:11.000Z",
-      "snippet": "\"Who made you angry?!\"",
-      "description": "\"Who made you angry?!\"",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
