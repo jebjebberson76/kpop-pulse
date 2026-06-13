@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-13T13:44:19.035Z",
+  "generatedAt": "2026-06-13T15:27:49.069Z",
   "items": [
+    {
+      "id": "2ad987b0460536e0",
+      "title": "BTS marks 13th anniversary with emotional Busan homecoming",
+      "url": "https://www.koreaherald.com/article/10771075",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-13T14:31:29.000Z",
+      "snippet": "BUSAN — BTS wrapped up a two-day concert in Busan on Saturday that felt less like another stop on its ongoing “Arirang” world tour and more like a homecoming years in the making. T...",
+      "description": "BUSAN — BTS wrapped up a two-day concert in Busan on Saturday that felt less like another stop on its ongoing “Arirang” world tour and more like a homecoming years in the making. The second and final night, held at Busan Asiad Main Stadium on the group’s 13th debut anniversary, June 13, drew approximately 110,000 fans. The sold-out two-day run attracted a combined audience of about 220,000. The concerts marked BTS’ first return to Busan since 2022’s “Yet To Come in Busan,” a performance remember",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/13/news-p.v1.20260613.19f4769e6fd14136b2f5321b0c88ae39_T1.jpg",
+      "tags": [
+        "debut",
+        "world tour",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "a5aa434c0ecb96bb",
       "title": "BOYNEXTDOOR’s “HOME” Becomes Their 4th Million-Seller Album",
@@ -438,20 +454,6 @@
         "k-pop",
         "bts",
         "blackpink"
-      ]
-    },
-    {
-      "id": "644fec30a7f6fc86",
-      "title": "BoyNextDoor’s 1st album sells half a million in 1 day",
-      "url": "https://www.koreaherald.com/article/10767331",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-09T03:49:50.000Z",
-      "snippet": "The first full album from BoyNextDoor sold close to 600,000 copies on the day of release, said agency KOZ Entertainment Tuesday, citing a local chart. The first-day sales results h...",
-      "description": "The first full album from BoyNextDoor sold close to 600,000 copies on the day of release, said agency KOZ Entertainment Tuesday, citing a local chart. The first-day sales results have raised expectations that the new album, “Home,” could become the group’s fourth consecutive million-selling set. Main track “Viral” claimed No. 5 spot on Melon’s Top 100 and all B-side tracks from the new album made the chart. The single topped the iTunes Top Songs chart in four regions, while the LP topped the iTu",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/09/news-a.v1.20260609.1c30a29431c34d84af9d3e900c83e90d_T1.jpg",
-      "tags": [
-        "album",
-        "melon"
       ]
     }
   ]
