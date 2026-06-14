@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-14T00:06:02.856Z",
+  "generatedAt": "2026-06-14T05:26:03.287Z",
   "items": [
+    {
+      "id": "e014a6d9ff38deac",
+      "title": "TREASURE’s “IF I” Becomes Fastest K-Pop MV Of 2026 To Hit 100 Million Views",
+      "url": "https://www.soompi.com/article/1847488wpp/treasures-if-i-becomes-fastest-k-pop-mv-of-2026-to-hit-100-million-views",
+      "source": "Soompi",
+      "publishedAt": "2026-06-14T03:28:42.000Z",
+      "snippet": "TREASURE’s latest music video has soared past 100 million views in less than two weeks! According to YG Entertainment, on June 13 at approximately 4:49 p.m. KST, TREASURE’s music v...",
+      "description": "TREASURE’s latest music video has soared past 100 million views in less than two weeks! According to YG Entertainment, on June 13 at approximately 4:49 p.m. KST, TREASURE’s music video for their new title track “IF I” surpassed 100 million views on YouTube. “IF I” is now the fastest K-pop music video of 2026 to… Continue reading TREASURE’s “IF I” Becomes Fastest K-Pop MV Of 2026 To Hit 100 Million Views The post TREASURE’s “IF I” Becomes Fastest K-Pop MV Of 2026 To Hit 100 Million Views appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/13202549/TREASURE_d7a66f.jpeg",
+      "tags": [
+        "k-pop",
+        "music video",
+        "mv"
+      ]
+    },
     {
       "id": "74d420fec07d580c",
       "title": "Watch: LE SSERAFIM, ILLIT, And KATSEYE Team Up For “ICONIC BY MISTAKE” Dance Practice Video",
@@ -13,22 +28,6 @@
       "tags": [
         "m countdown",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "2ad987b0460536e0",
-      "title": "BTS marks 13th anniversary with emotional Busan homecoming",
-      "url": "https://www.koreaherald.com/article/10771075",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-13T14:31:29.000Z",
-      "snippet": "BUSAN — BTS wrapped up a two-day concert in Busan on Saturday that felt less like another stop on its ongoing “Arirang” world tour and more like a homecoming years in the making. T...",
-      "description": "BUSAN — BTS wrapped up a two-day concert in Busan on Saturday that felt less like another stop on its ongoing “Arirang” world tour and more like a homecoming years in the making. The second and final night, held at Busan Asiad Main Stadium on the group’s 13th debut anniversary, June 13, drew approximately 110,000 fans. The sold-out two-day run attracted a combined audience of about 220,000. The concerts marked BTS’ first return to Busan since 2022’s “Yet To Come in Busan,” a performance remember",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/13/news-p.v1.20260613.19f4769e6fd14136b2f5321b0c88ae39_T1.jpg",
-      "tags": [
-        "debut",
-        "world tour",
-        "concert",
-        "bts"
       ]
     },
     {
@@ -113,7 +112,7 @@
       "publishedAt": "2026-06-12T05:43:53.000Z",
       "snippet": "The 2026 SBS Gayo Daejeon Summer has unveiled its first lineup of performers! On June 12, the annual music festival announced its first lineup of artists, including NCT’s Taeyong,...",
       "description": "The 2026 SBS Gayo Daejeon Summer has unveiled its first lineup of performers! On June 12, the annual music festival announced its first lineup of artists, including NCT’s Taeyong, DAY6’s Wonpil, ATEEZ, ZEROBASEONE, AND2BLE, RIIZE, NCT WISH, ALPHA DRIVE ONE, ALLDAY PROJECT, MEOVV, and Hearts2Hearts. Adding to the excitement, the event also teased that its… Continue reading 2026 SBS Gayo Daejeon Summer Announces 1st Artist Lineup The post 2026 SBS Gayo Daejeon Summer Announces 1st Artist Lineup appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/06/11224338/2026-sbs-gayo-daejeon-summer-lineup-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "nct",
         "day6",
@@ -226,6 +225,20 @@
       ]
     },
     {
+      "id": "3a6f05de84a11a3d",
+      "title": "BTS took a bold but necessary gamble with &apos;Swim,&apos; Karlsson says",
+      "url": "https://www.koreaherald.com/article/10769882",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-11T07:07:22.000Z",
+      "snippet": "Swedish songwriter and producer Alex Karlsson has spent more than a decade helping shape the sound of K-pop from behind the scenes. Since beginning his collaboration with SM Entert...",
+      "description": "Swedish songwriter and producer Alex Karlsson has spent more than a decade helping shape the sound of K-pop from behind the scenes. Since beginning his collaboration with SM Entertainment in 2013, Karlsson has infused elements of Swedish pop songwriting into numerous K-pop releases. His credits span some of the industry's biggest acts, including BTS' \"We Are Bulletproof: The Eternal,\" SuperM's \"Tiger Inside,\" Enhypen's \"Fever,\" Tomorrow X Together's \"Loser=Lover\" and Ateez's \"Bouncy (K-Hot Chill",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/11/news-p.v1.20260611.d4fe272e079448ff87b835005d76b2ba_T1.jpg",
+      "tags": [
+        "k-pop",
+        "bts"
+      ]
+    },
+    {
       "id": "336c70ae449f42ff",
       "title": "Gen Z American musician breathes new life into Korean classic ballad",
       "url": "https://www.koreaherald.com/article/10769500",
@@ -319,35 +332,6 @@
         "album",
         "circle chart",
         "bts",
-        "aespa"
-      ]
-    },
-    {
-      "id": "82a153cbcc6f2714",
-      "title": "Watch: LE SSERAFIM, ILLIT, And KATSEYE Drop Epic MV For Collab Single “ICONIC BY MISTAKE”",
-      "url": "https://www.soompi.com/article/1846860wpp/watch-le-sserafim-illit-and-katseye-drop-epic-mv-for-collab-single-iconic-by-mistake",
-      "source": "Soompi",
-      "publishedAt": "2026-06-10T15:24:52.000Z",
-      "snippet": "LE SSERAFIM, ILLIT, and KATSEYE have joined forces for an epic collaboration! On June 11 at midnight KST, the three girl groups pre-released the music video for their new digital s...",
-      "description": "LE SSERAFIM, ILLIT, and KATSEYE have joined forces for an epic collaboration! On June 11 at midnight KST, the three girl groups pre-released the music video for their new digital single “ICONIC BY MISTAKE.” Before the official release of “ICONIC BY MISTAKE” on June 12 at 1 p.m. KST, LE SSERAFIM, ILLIT, and KATSEYE will… Continue reading Watch: LE SSERAFIM, ILLIT, And KATSEYE Drop Epic MV For Collab Single “ICONIC BY MISTAKE” The post Watch: LE SSERAFIM, ILLIT, And KATSEYE Drop Epic MV For Collab Single “ICONIC BY MISTAKE” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music video",
-        "mv",
-        "le sserafim"
-      ]
-    },
-    {
-      "id": "810727b8de17feee",
-      "title": "Watch: tripleS Takes 1st Win For “Baby Flower” On “Show Champion”; Performances By FIFTY FIFTY, IDID, And More",
-      "url": "https://www.soompi.com/article/1846828wpp/watch-triples-takes-1st-win-for-baby-flower-on-show-champion-performances-by-fifty-fifty-idid-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-06-10T12:04:28.000Z",
-      "snippet": "tripleS has won their first music show trophy for “Baby Flower”! On the June 10 episode of “Show Champion,” the candidates for first place were aespa’s “LEMONADE,” tripleS’s “Baby...",
-      "description": "tripleS has won their first music show trophy for “Baby Flower”! On the June 10 episode of “Show Champion,” the candidates for first place were aespa’s “LEMONADE,” tripleS’s “Baby Flower,” FIFTY FIFTY’s “Like a Bubble,” TREASURE’s “IF I,” and I.O.I’s “Suddenly.” tripleS ultimately took the win. Congratulations to tripleS! Watch the winner announcement and encore… Continue reading Watch: tripleS Takes 1st Win For “Baby Flower” On “Show Champion”; Performances By FIFTY FIFTY, IDID, And More The post Watch: tripleS Takes 1st Win For “Baby Flower” On “Show Champion”; Performances By FIFTY FIFTY, I...",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "show champion",
         "aespa"
       ]
     },
@@ -453,6 +437,21 @@
         "k-pop",
         "debut",
         "album"
+      ]
+    },
+    {
+      "id": "bd97319b64e61714",
+      "title": "Beyond &apos;Dreamers&apos;: K-pop&apos;s soundtrack for 2026 FIFA World Cup",
+      "url": "https://www.koreaherald.com/article/10767618",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-09T08:33:02.000Z",
+      "snippet": "The FIFA World Cup is no longer an event enjoyed solely by soccer fans. Held once every four years, the tournament attracts billions of viewers worldwide and has long inspired musi...",
+      "description": "The FIFA World Cup is no longer an event enjoyed solely by soccer fans. Held once every four years, the tournament attracts billions of viewers worldwide and has long inspired musicians to release official FIFA anthems, national team songs and unofficial tributes. K-pop has become increasingly visible in that tradition. After BTS member Jungkook made history by performing the first FIFA World Cup anthem by a Korean artist with \"Dreamers\" at the 2022 Qatar World Cup, Blackpink's Lisa joined this",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/09/news-p.v1.20260609.51bcf32c5dcb4bcd90044f0d61fc5027_T1.jpg",
+      "tags": [
+        "k-pop",
+        "bts",
+        "blackpink"
       ]
     }
   ]
