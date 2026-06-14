@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T21:03:03.231Z",
+  "generatedAt": "2026-06-14T23:01:56.016Z",
   "items": [
     {
       "id": "de49a6a0a51e473d",
@@ -75,20 +75,6 @@
         "world tour",
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "6a57608d314b6759",
-      "title": "Legendary K-Pop Idol Finally Speaks Up Regarding Various Controversies",
-      "url": "https://www.koreaboo.com/news/kim-dong-wan-makes-remarks-past-mistakes-controversies/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-14T07:14:30.000Z",
-      "snippet": "He is reflecting on his actions.",
-      "description": "He is reflecting on his actions.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -449,6 +435,20 @@
       "tags": [
         "album",
         "music video"
+      ]
+    },
+    {
+      "id": "8c3964a11575ded3",
+      "title": "How Karina keeps her favorite stories close",
+      "url": "https://www.koreaherald.com/article/10768292",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-10T02:44:27.000Z",
+      "snippet": "For many travelers, a long-haul flight is for catching up on sleep or finally watching the movies they've been putting off. For Aespa's Karina, it is time to finish another book. T...",
+      "description": "For many travelers, a long-haul flight is for catching up on sleep or finally watching the movies they've been putting off. For Aespa's Karina, it is time to finish another book. The 26-year-old K-pop star is often spotted carrying an oversized bag. She has jokingly described herself as a \"bobusang,\" a term originally used for traveling peddlers but now referring to someone who carries everything they might need. And among the cosmetics and everyday essentials, one thing is almost always tucked",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/10/news-a.v1.20260610.59b5bac20c234328857df8827ee02ac2_T1.png",
+      "tags": [
+        "k-pop",
+        "aespa"
       ]
     }
   ]
