@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-06-14T05:26:03.287Z",
+  "generatedAt": "2026-06-14T09:22:26.443Z",
   "items": [
+    {
+      "id": "0544bb7bf34acf7c",
+      "title": "BTS transforms Busan into citywide festival with drone shows and fan events",
+      "url": "https://www.koreaherald.com/article/10771277",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-14T08:15:58.000Z",
+      "snippet": "BUSAN — Busan turned red for BTS over the weekend, as the city’s landmarks, beaches and night sky became part of a large-scale celebration marking the group’s first concert in the...",
+      "description": "BUSAN — Busan turned red for BTS over the weekend, as the city’s landmarks, beaches and night sky became part of a large-scale celebration marking the group’s first concert in the city in four years and its 13th debut anniversary. Through “BTS The City Arirang — Busan,” Korea's second-largest city was transformed into an extension of the group’s ongoing “Arirang” world tour. Gwangan Bridge, Busan Harbor Bridge and Suyeonggang Human Bridge were illuminated in red, the key color of BTS’ latest alb",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/14/news-p.v1.20260614.9545f3c241674bca9a18a00747494715_T1.jpg",
+      "tags": [
+        "debut",
+        "world tour",
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "6a57608d314b6759",
+      "title": "Legendary K-Pop Idol Finally Speaks Up Regarding Various Controversies",
+      "url": "https://www.koreaboo.com/news/kim-dong-wan-makes-remarks-past-mistakes-controversies/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-14T07:14:30.000Z",
+      "snippet": "He is reflecting on his actions.",
+      "description": "He is reflecting on his actions.",
+      "image": "https://image.koreaboo.com/2026/06/post6-2026-06-14T160935.558.jpg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "f5373454cc0dec18",
+      "title": "Watch: ILLIT Takes 3rd Win For “It’s Me” On “Inkigayo”; Performances By SHINee, BABYMONSTER, And More",
+      "url": "https://www.soompi.com/article/1847512wpp/watch-illit-takes-3rd-win-for-its-me-on-inkigayo-performances-by-shinee-babymonster-and-more",
+      "source": "Soompi",
+      "publishedAt": "2026-06-14T07:13:55.000Z",
+      "snippet": "ILLIT has won a third music show trophy for “It’s Me”! On the June 14 episode of SBS’s “Inkigayo,” the candidates for first place were I.O.I’s “Suddenly,” aespa’s “LEMONADE,” and I...",
+      "description": "ILLIT has won a third music show trophy for “It’s Me”! On the June 14 episode of SBS’s “Inkigayo,” the candidates for first place were I.O.I’s “Suddenly,” aespa’s “LEMONADE,” and ILLIT’s “It’s Me.” ILLIT ultimately took the win with a total of 5,168 points. Congratulations to ILLIT! Watch a clip of the winner announcement below:… Continue reading Watch: ILLIT Takes 3rd Win For “It’s Me” On “Inkigayo”; Performances By SHINee, BABYMONSTER, And More The post Watch: ILLIT Takes 3rd Win For “It’s Me” On “Inkigayo”; Performances By SHINee, BABYMONSTER, And More appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/14000536/ILLIT_66626a.jpeg",
+      "tags": [
+        "inkigayo",
+        "aespa",
+        "shinee"
+      ]
+    },
     {
       "id": "e014a6d9ff38deac",
       "title": "TREASURE’s “IF I” Becomes Fastest K-Pop MV Of 2026 To Hit 100 Million Views",
@@ -53,7 +98,7 @@
       "publishedAt": "2026-06-13T03:27:21.000Z",
       "snippet": "BTS is sweeping iTunes charts across the globe with their latest single! On June 12 at 1 p.m. KST, BTS officially released their song “Come Over” as a digital single. The song was...",
       "description": "BTS is sweeping iTunes charts across the globe with their latest single! On June 12 at 1 p.m. KST, BTS officially released their song “Come Over” as a digital single. The song was first included as a surprise track on the Deluxe Vinyl edition of their latest album “ARIRANG” back in April. Immediately upon its… Continue reading BTS Dominates iTunes Charts All Over The World With “Come Over” The post BTS Dominates iTunes Charts All Over The World With “Come Over” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/06/12202336/BTS_100f36.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "bts"
@@ -82,7 +127,7 @@
       "publishedAt": "2026-06-13T02:07:48.000Z",
       "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
       "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from May 13 to June 13. BTS held onto their spot at the top… Continue reading June Boy Group Brand Reputation Rankings Announced The post June Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/06/12190538/BTS-CORTIS-SEVENTEEN.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "bts"
@@ -318,24 +363,6 @@
       ]
     },
     {
-      "id": "fb658cf8958f80cd",
-      "title": "aespa, CORTIS, ALPHA DRIVE ONE, BTS, And ILLIT Top Circle Weekly Charts",
-      "url": "https://www.soompi.com/article/1846910wpp/aespa-cortis-alpha-drive-one-bts-and-illit-top-circle-weekly-charts",
-      "source": "Soompi",
-      "publishedAt": "2026-06-10T22:01:53.000Z",
-      "snippet": "Circle Chart has revealed its chart rankings for the week of May 24 to 30! Album Chart aespa topped this week’s physical album chart with their new album “LEMONADE,” which debuted...",
-      "description": "Circle Chart has revealed its chart rankings for the week of May 24 to 30! Album Chart aespa topped this week’s physical album chart with their new album “LEMONADE,” which debuted at No. 1. AND2BLE claimed two spots in this week’s top five with their debut mini album “Sequence 01: Curiosity.” The regular version of… Continue reading aespa, CORTIS, ALPHA DRIVE ONE, BTS, And ILLIT Top Circle Weekly Charts The post aespa, CORTIS, ALPHA DRIVE ONE, BTS, And ILLIT Top Circle Weekly Charts appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album",
-        "circle chart",
-        "bts",
-        "aespa"
-      ]
-    },
-    {
       "id": "66a2a6c286670e58",
       "title": "Why BTS is celebrating 13th anniversary in Busan",
       "url": "https://www.koreaherald.com/article/10768913",
@@ -422,36 +449,6 @@
         "album",
         "billboard",
         "bts"
-      ]
-    },
-    {
-      "id": "295a5750b37eb596",
-      "title": "Izna joins K-pop&apos;s house wave with new EP &apos;Set the Tempo’",
-      "url": "https://www.koreaherald.com/article/10767627",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-09T08:45:44.000Z",
-      "snippet": "Izna returned Monday with its third EP, \"Set the Tempo,\" led by house-inspired main track \"Metronome,\" as the group seeks to carve out its own identity amid a growing wave of house...",
-      "description": "Izna returned Monday with its third EP, \"Set the Tempo,\" led by house-inspired main track \"Metronome,\" as the group seeks to carve out its own identity amid a growing wave of house music influences in K-pop. Its new album continues the six-member group's ongoing narrative of self-definition. While its debut EP \"N/a\" challenged limits and second EP \"Not Just Pretty\" pushed beyond conventional ideas of beauty, the new release centers on the message that the group itself sets the standard rather th",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/09/news-p.v1.20260609.ad254224d24941b48fb843191afa61da_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut",
-        "album"
-      ]
-    },
-    {
-      "id": "bd97319b64e61714",
-      "title": "Beyond &apos;Dreamers&apos;: K-pop&apos;s soundtrack for 2026 FIFA World Cup",
-      "url": "https://www.koreaherald.com/article/10767618",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-09T08:33:02.000Z",
-      "snippet": "The FIFA World Cup is no longer an event enjoyed solely by soccer fans. Held once every four years, the tournament attracts billions of viewers worldwide and has long inspired musi...",
-      "description": "The FIFA World Cup is no longer an event enjoyed solely by soccer fans. Held once every four years, the tournament attracts billions of viewers worldwide and has long inspired musicians to release official FIFA anthems, national team songs and unofficial tributes. K-pop has become increasingly visible in that tradition. After BTS member Jungkook made history by performing the first FIFA World Cup anthem by a Korean artist with \"Dreamers\" at the 2022 Qatar World Cup, Blackpink's Lisa joined this",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/09/news-p.v1.20260609.51bcf32c5dcb4bcd90044f0d61fc5027_T1.jpg",
-      "tags": [
-        "k-pop",
-        "bts",
-        "blackpink"
       ]
     }
   ]
