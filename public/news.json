@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-15T15:39:10.287Z",
+  "generatedAt": "2026-06-15T19:39:44.550Z",
   "items": [
+    {
+      "id": "2f4a9b6d7115c751",
+      "title": "Former K-Pop Idol Reflects On Her Career",
+      "url": "https://www.koreaboo.com/news/former-kpop-idol-reflects-career/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-15T17:51:43.000Z",
+      "snippet": "A former idol recalled the difficult times during her career. Recently, OSEN met with a former idol at the plastic surgery clinic where she currently works in Gangnam, Seoul, for…",
+      "description": "A former idol recalled the difficult times during her career. Recently, OSEN met with a former idol at the plastic surgery clinic where she currently works in Gangnam, Seoul, for…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "3b78af11d673b0c7",
       "title": "TXT’s Yeonjun Announces Release Date For Solo Comeback Album “NO LABELS: PART 02”",
@@ -44,34 +58,6 @@
       "tags": [
         "bts",
         "blackpink"
-      ]
-    },
-    {
-      "id": "4015e12a1d758411",
-      "title": "aespa’s Winter Faces Brutal Criticism For Visuals In New Photos",
-      "url": "https://www.koreaboo.com/news/aespa-winter-visuals-criticized-photos/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-15T09:50:06.000Z",
-      "snippet": "The idol seems to be targeted.",
-      "description": "The idol seems to be targeted.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "aespa"
-      ]
-    },
-    {
-      "id": "e1fe1c4688c98941",
-      "title": "“Tears!” BTS’s Jungkook Sparks Heartbreak With Behavior During Recent Busan Concert",
-      "url": "https://www.koreaboo.com/news/viral-clip-jungkook-crying-sparks-heartbreak/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-15T09:40:27.000Z",
-      "snippet": "\"Stop making me cry...\"",
-      "description": "\"Stop making me cry...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
       ]
     },
     {
@@ -445,6 +431,20 @@
         "k-pop",
         "debut",
         "album",
+        "bts"
+      ]
+    },
+    {
+      "id": "3a6f05de84a11a3d",
+      "title": "BTS took a bold but necessary gamble with &apos;Swim,&apos; Karlsson says",
+      "url": "https://www.koreaherald.com/article/10769882",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-11T07:07:22.000Z",
+      "snippet": "Swedish songwriter and producer Alex Karlsson has spent more than a decade helping shape the sound of K-pop from behind the scenes. Since beginning his collaboration with SM Entert...",
+      "description": "Swedish songwriter and producer Alex Karlsson has spent more than a decade helping shape the sound of K-pop from behind the scenes. Since beginning his collaboration with SM Entertainment in 2013, Karlsson has infused elements of Swedish pop songwriting into numerous K-pop releases. His credits span some of the industry's biggest acts, including BTS' \"We Are Bulletproof: The Eternal,\" SuperM's \"Tiger Inside,\" Enhypen's \"Fever,\" Tomorrow X Together's \"Loser=Lover\" and Ateez's \"Bouncy (K-Hot Chill",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/11/news-p.v1.20260611.d4fe272e079448ff87b835005d76b2ba_T1.jpg",
+      "tags": [
+        "k-pop",
         "bts"
       ]
     }
