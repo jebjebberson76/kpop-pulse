@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-06-20T00:02:38.273Z",
+  "generatedAt": "2026-06-20T05:06:08.247Z",
   "items": [
+    {
+      "id": "3db271d0a3c1ef7c",
+      "title": "POLL: Which BTS Member Has The Strongest Aura?",
+      "url": "https://www.koreaboo.com/polls/poll-bts-member-strongest-aura-vote-now/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-06-20T03:25:06.000Z",
+      "snippet": "Vote for your #1 in this new K-Pop poll.",
+      "description": "Vote for your #1 in this new K-Pop poll.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "bts"
+      ]
+    },
+    {
+      "id": "d0a3aad052d85f4f",
+      "title": "TWICE’s “CHEER UP” Becomes Their 5th MV To Hit 600 Million Views",
+      "url": "https://www.soompi.com/article/1849051wpp/twices-cheer-up-becomes-their-5th-mv-to-hit-600-million-views",
+      "source": "Soompi",
+      "publishedAt": "2026-06-20T01:52:56.000Z",
+      "snippet": "TWICE has hit the 600 million mark on YouTube with one of their most iconic music videos! On the morning of June 20 KST, TWICE’s music video for their hit song “CHEER UP” surpassed...",
+      "description": "TWICE has hit the 600 million mark on YouTube with one of their most iconic music videos! On the morning of June 20 KST, TWICE’s music video for their hit song “CHEER UP” surpassed 600 million views on YouTube, making it the group’s fifth music video to achieve the feat after “TT,” “What is Love?”,… Continue reading TWICE’s “CHEER UP” Becomes Their 5th MV To Hit 600 Million Views The post TWICE’s “CHEER UP” Becomes Their 5th MV To Hit 600 Million Views appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/19185137/TWICE_1ccc9c.jpeg",
+      "tags": [
+        "music video",
+        "mv",
+        "twice"
+      ]
+    },
     {
       "id": "b95f1185cef1e00b",
       "title": "KATSEYE’s “Gnarly” Becomes Their 2nd MV To Hit 200 Million Views",
@@ -129,7 +158,7 @@
       "publishedAt": "2026-06-18T05:29:03.000Z",
       "snippet": "NMIXX’s Sullyoon will be temporarily performing seated due to health concerns. On June 18, JYP Entertainment announced Sullyoon had recently visited the hospital due to back pain....",
       "description": "NMIXX’s Sullyoon will be temporarily performing seated due to health concerns. On June 18, JYP Entertainment announced Sullyoon had recently visited the hospital due to back pain. According to the agency, Sullyoon “had been advised to avoid strenuous movements, including intense choreography,” and she will remain seated during NMIXX’s upcoming Singapore concert. The announcement follows… Continue reading NMIXX’s Sullyoon To Perform In Limited Capacity At “EPISODE 1: ZERO FRONTIER” In Singapore The post NMIXX’s Sullyoon To Perform In Limited Capacity At “EPISODE 1: ZERO FRONTIER” In Singapore a...",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/06/17215637/sullyoon.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "nmixx"
