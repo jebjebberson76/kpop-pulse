@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-23T13:38:40.625Z",
+  "generatedAt": "2026-06-23T16:23:32.143Z",
   "items": [
+    {
+      "id": "f16e848773b3f595",
+      "title": "Watch: Hearts2Hearts Wows With Perfect Synchronization In “Lemon Tang” Dance Practice Video",
+      "url": "https://www.soompi.com/article/1849875wpp/watch-hearts2hearts-wows-with-perfect-synchronization-in-lemon-tang-dance-practice-video",
+      "source": "Soompi",
+      "publishedAt": "2026-06-23T14:09:33.000Z",
+      "snippet": "Hearts2Hearts has shared a closer look at their latest choreography! On June 23, the rookie girl group from SM Entertainment released the official dance practice video for “Lemon T...",
+      "description": "Hearts2Hearts has shared a closer look at their latest choreography! On June 23, the rookie girl group from SM Entertainment released the official dance practice video for “Lemon Tang,” the title track of their new mini album of the same name, The new video offers a full view of the high-energy choreography for “Lemon Tang,”… Continue reading Watch: Hearts2Hearts Wows With Perfect Synchronization In “Lemon Tang” Dance Practice Video The post Watch: Hearts2Hearts Wows With Perfect Synchronization In “Lemon Tang” Dance Practice Video appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/23070806/Hearts2Hearts.jpg",
+      "tags": [
+        "mini album",
+        "album"
+      ]
+    },
     {
       "id": "818ced1b01370b96",
       "title": "Red Velvet Seulgi And EXO Kai’s “Awkward” Interaction Sparks Major Speculations",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-06-23T10:45:12.000Z",
       "snippet": "\"I wanna know the tea...\"",
       "description": "\"I wanna know the tea...\"",
-      "image": "https://image.koreaboo.com/2026/06/FD2870-4-16.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "exo",
         "red velvet"
@@ -256,15 +270,16 @@
     },
     {
       "id": "e011ddde0c076344",
-      "title": "Update: AHOF Drops Scheduler For “RUN TO YOU” Comeback",
+      "title": "Update: AHOF Reveals 1st Concept Photos For “RUN TO YOU” Comeback",
       "url": "https://www.soompi.com/article/1849316wpp/ahof-drops-1st-teaser-for-run-to-you-comeback",
       "source": "Soompi",
       "publishedAt": "2026-06-21T15:17:04.000Z",
-      "snippet": "Updated June 23 KST: A scheduler has been revealed for AHOF’s upcoming album “RUN TO YOU”! Original Article: AHOF has kicked off the countdown to their summer comeback! On June 22...",
-      "description": "Updated June 23 KST: A scheduler has been revealed for AHOF’s upcoming album “RUN TO YOU”! Original Article: AHOF has kicked off the countdown to their summer comeback! On June 22 at midnight KST, AHOF released their first teaser for their upcoming return next month. The “Universe League” boy group will be returning with their… Continue reading Update: AHOF Drops Scheduler For “RUN TO YOU” Comeback The post Update: AHOF Drops Scheduler For “RUN TO YOU” Comeback appeared first on Soompi.",
+      "snippet": "Updated June 24 KST: AHOF has released “HEART” concept photos for their upcoming mini album “RUN TO YOU”! Updated June 23 KST: A scheduler has been revealed for AHOF’s upcoming alb...",
+      "description": "Updated June 24 KST: AHOF has released “HEART” concept photos for their upcoming mini album “RUN TO YOU”! Updated June 23 KST: A scheduler has been revealed for AHOF’s upcoming album “RUN TO YOU”! Original Article: AHOF has kicked off the countdown to their summer comeback! On June 22 at midnight KST, AHOF released their… Continue reading Update: AHOF Reveals 1st Concept Photos For “RUN TO YOU” Comeback The post Update: AHOF Reveals 1st Concept Photos For “RUN TO YOU” Comeback appeared first on Soompi.",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
+        "mini album",
         "album"
       ]
     },
@@ -425,22 +440,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/06/18/news-p.v1.20260617.f795013be3c74ab4b00230526da0bfed_T1.jpg",
       "tags": [
         "k-pop",
-        "bts"
-      ]
-    },
-    {
-      "id": "8f6877b261a87e69",
-      "title": "BTS adds shows to world tour itinerary",
-      "url": "https://www.koreaherald.com/article/10774549",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-18T01:39:30.000Z",
-      "snippet": "BTS is adding one show each to planned stops in Jakarta and Bulacan, Philippines, as part of its ongoing “Arirang” world tour, its label Big Hit Music announced Wednesday. This exp...",
-      "description": "BTS is adding one show each to planned stops in Jakarta and Bulacan, Philippines, as part of its ongoing “Arirang” world tour, its label Big Hit Music announced Wednesday. This expands the list of shows to 88, further solidifying the tour as the largest ever for a K-pop group. The Indonesia concert is set for Dec. 26, 27 and 29, and the Bulacan show is slated for March 13, 14 and 16, 2027. BTS starts the European leg of the tour with shows in Madrid on June 26 and 27. The group will next make st",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/18/news-p.v1.20260618.6a355067d13a4f3596256d06b6a41388_T1.jpg",
-      "tags": [
-        "k-pop",
-        "world tour",
-        "concert",
         "bts"
       ]
     }
