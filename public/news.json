@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T20:29:24.027Z",
+  "generatedAt": "2026-06-24T22:10:35.886Z",
   "items": [
     {
       "id": "0f7515cb178a4bf5",
@@ -53,24 +53,10 @@
       "publishedAt": "2026-06-24T16:07:12.000Z",
       "snippet": "It has been a topic before.",
       "description": "It has been a topic before.",
-      "image": "https://image.koreaboo.com/2026/06/FEATURED-IMAGE-2026-06-24T110359.313.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "blackpink"
-      ]
-    },
-    {
-      "id": "c1d31aa649722fb9",
-      "title": "Gay Idol In Active K-Pop Group Speaks On Other Queer Idols, Hypocrisy, And More",
-      "url": "https://www.koreaboo.com/news/just-b-bain-gay-idol-pop-base-interview-hypocrisy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-24T14:38:59.000Z",
-      "snippet": "\"Queer artists have always existed.\"",
-      "description": "\"Queer artists have always existed.\"",
-      "image": "https://image.koreaboo.com/2026/06/bain.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -81,7 +67,7 @@
       "publishedAt": "2026-06-24T10:43:12.000Z",
       "snippet": "RIIZE has won their first music show trophy for “Do your dance“! On the June 24 episode of “Show Champion,” the candidates for first place were aespa’s “LEMONADE,” izna’s “METRONOM...",
       "description": "RIIZE has won their first music show trophy for “Do your dance“! On the June 24 episode of “Show Champion,” the candidates for first place were aespa’s “LEMONADE,” izna’s “METRONOME,” EPEX’s “ECHO,” RIIZE’s “Do your dance,” and ONF’s “Open The Door.” RIIZE ultimately took the win. Congratulations to RIIZE! Watch the winner announcement below: Performers… Continue reading Watch: RIIZE Takes 1st Win For “Do your dance” On “Show Champion”; Performances By ONF, EPEX, And More The post Watch: RIIZE Takes 1st Win For “Do your dance” On “Show Champion”; Performances By ONF, EPEX, And More appeared fi...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/24034247/riize-show-champion.jpg",
       "tags": [
         "show champion",
         "aespa",
@@ -126,7 +112,7 @@
       "publishedAt": "2026-06-24T06:20:38.000Z",
       "snippet": "BTS’s “Dynamite” has reached another impressive YouTube milestone! On June 24 at approximately 8 a.m. KST, the boy group’s music video for “Dynamite” surpassed 2.1 billion views, m...",
       "description": "BTS’s “Dynamite” has reached another impressive YouTube milestone! On June 24 at approximately 8 a.m. KST, the boy group’s music video for “Dynamite” surpassed 2.1 billion views, meaning that it took approximately five years, 10 months, two days, and 19 hours since its release on August 21, 2020 at 1 p.m. KST. It also only… Continue reading BTS’s “Dynamite” Becomes The First K-Pop Boy Group MV To Surpass 2.1 Billion Views The post BTS’s “Dynamite” Becomes The First K-Pop Boy Group MV To Surpass 2.1 Billion Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/06/23231556/bts-dynamite-%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8_%EB%8B%A4%EC%9D%B4%EB%84%88%EB%A7%88%EC%9D%B4%ED%8A%B8-1.jpg",
       "tags": [
         "k-pop",
         "music video",
@@ -436,6 +422,21 @@
         "album",
         "music video",
         "twice"
+      ]
+    },
+    {
+      "id": "7189ccdc7b3d85d0",
+      "title": "BTS returns to top 10 on Billboard 200",
+      "url": "https://www.koreaherald.com/article/10783672",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-22T02:04:47.000Z",
+      "snippet": "BTS' fifth full-length album climbed back up to No. 10 on the Billboard 200, according to the chart preview published Sunday in the US. The LP “Arirang” had fallen to No. 11 last w...",
+      "description": "BTS' fifth full-length album climbed back up to No. 10 on the Billboard 200, according to the chart preview published Sunday in the US. The LP “Arirang” had fallen to No. 11 last week but inched back up a rung, charting 11 weeks among the top ten in the 13th week on the main albums ranking. Meanwhile, the group's new single “Come Over” debuted at No. 52 on the UK Official Singles Top 100, at No. 20 on Spotify’s Weekly Top Songs Global, and at No. 1 on Oricon’s Weekly Digital Single Ranking. BTS",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/22/news-p.v1.20260622.b48740882caf45018782631381254f86_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "bts"
       ]
     }
   ]
