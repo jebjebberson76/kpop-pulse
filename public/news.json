@@ -1,36 +1,6 @@
 {
-  "generatedAt": "2026-06-30T03:31:24.343Z",
+  "generatedAt": "2026-06-30T07:44:09.797Z",
   "items": [
-    {
-      "id": "9bc57d23e45ebc6e",
-      "title": "BTS logs 3.8 billion streams with 5th LP, sets record with tour revenue",
-      "url": "https://www.koreaherald.com/article/10792820",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-30T02:22:33.000Z",
-      "snippet": "BTS amassed 3.8 billion plays across the world in eight weeks with its fifth studio album, “Arirang,” label Big Hit Music said Tuesday citing music data firm Luminate. Its ongoing...",
-      "description": "BTS amassed 3.8 billion plays across the world in eight weeks with its fifth studio album, “Arirang,” label Big Hit Music said Tuesday citing music data firm Luminate. Its ongoing concert trip, titled after the LP, has generated more than $200 million since the launch in April, selling more than 1.1 million tickets, according to Billboard. The music magazine published an article Monday in the US, reporting that the septet “beat the Rollin Stones’ seven-year boxscore record.” Raking in over $125",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/30/news-p.v1.20260630.cad5ab7bbdc94b1ab5716902e87f41dd_T1.jpg",
-      "tags": [
-        "album",
-        "billboard",
-        "concert",
-        "bts"
-      ]
-    },
-    {
-      "id": "931ba474380be22e",
-      "title": "Girl Group Member Reveals She’s Actually Married To An Idol Trainee",
-      "url": "https://www.koreaboo.com/news/laboum-haein-girl-group-member-reveals-shes-actually-married-idol-trainee/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-06-29T18:14:28.000Z",
-      "snippet": "Her love story comes with an unexpected K-Pop twist.",
-      "description": "Her love story comes with an unexpected K-Pop twist.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
     {
       "id": "44f7373f360ab87d",
       "title": "THE BOYZ’s Q, Hwang Ji Ah, And More Showcase Seamless Chemistry At “My Idol, My Debut” Script Reading",
@@ -131,6 +101,23 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/06/29/news-p.v1.20260629.d2ee9ff7dfca4291a4aaabc15b686771_T1.jpg",
       "tags": [
         "album",
+        "billboard"
+      ]
+    },
+    {
+      "id": "e9c2de0175462456",
+      "title": "Cortis garners 200m Spotify streams with ‘Go!’",
+      "url": "https://www.koreaherald.com/article/10791268",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-29T01:58:50.000Z",
+      "snippet": "Big Hit Music on Sunday announced that Cortis hit 200 million streams on Spotify with “Go!” This is the first song from the rookie boy band to achieve the feat. “Go!” is a B-side t...",
+      "description": "Big Hit Music on Sunday announced that Cortis hit 200 million streams on Spotify with “Go!” This is the first song from the rookie boy band to achieve the feat. “Go!” is a B-side track from the group's debut EP “Color Outside the Lines,” which rolled out in September last year. It was dropped ahead of the full album release, debuting on Melon’s Top 100 at No. 98 and on its Daily Songs Chart at No. 95. It was one of the best K-pop songs of the year selected by Billboard magazine and Spotify. The",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/29/news-p.v1.20260629.8641429f775545ce85d98b820c3e1019_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "album",
+        "melon",
         "billboard"
       ]
     },
@@ -342,20 +329,6 @@
       ]
     },
     {
-      "id": "3acfd97a4e3149ca",
-      "title": "ENHYPEN’s “Bite Me” Becomes Their 1st MV To Surpass 200 Million Views",
-      "url": "https://www.soompi.com/article/1850619wpp/enhypens-bite-me-becomes-their-1st-mv-to-surpass-200-million-views",
-      "source": "Soompi",
-      "publishedAt": "2026-06-26T08:17:17.000Z",
-      "snippet": "ENHYPEN has just hit the 200 million mark for the first time on YouTube! On June 26 at approximately 4:28 p.m. KST, ENHYPEN’s music video for “Bite Me” surpassed 200 million views...",
-      "description": "ENHYPEN has just hit the 200 million mark for the first time on YouTube! On June 26 at approximately 4:28 p.m. KST, ENHYPEN’s music video for “Bite Me” surpassed 200 million views on YouTube, making it their first-ever music video to do so. “Bite Me” was originally released on May 22, 2023 at 6 p.m. KST,… Continue reading ENHYPEN’s “Bite Me” Becomes Their 1st MV To Surpass 200 Million Views The post ENHYPEN’s “Bite Me” Becomes Their 1st MV To Surpass 200 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music video",
-        "mv"
-      ]
-    },
-    {
       "id": "e95b23334ecb2a8a",
       "title": "Big Bang’s August gig sells out in minutes",
       "url": "https://www.koreaherald.com/article/10789411",
@@ -439,6 +412,34 @@
       "tags": [
         "album",
         "music video"
+      ]
+    },
+    {
+      "id": "4f29a383656d3b68",
+      "title": "Kim Gun-mo returns with first new single in 10 years",
+      "url": "https://www.koreaherald.com/article/10788186",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-25T05:10:01.000Z",
+      "snippet": "Legendary singer-songwriter Kim Gun-mo will release a new digital single, \"How Far Are You?,\" on July 1, his first new song in a decade, his agency Guneum Company announced Thursda...",
+      "description": "Legendary singer-songwriter Kim Gun-mo will release a new digital single, \"How Far Are You?,\" on July 1, his first new song in a decade, his agency Guneum Company announced Thursday. The release is Kim's first since his 2016 EP \"50,\" which commemorated the 25th anniversary of his debut. \"How Far Are You?\" is a remake of the title track from Korean folk singer Jeon Young's 1977 debut album. For the first time in his career, Kim performs while playing the guitar himself, setting aside the piano pe",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/25/news-p.v1.20260625.96e2fdeedfb44866aeee7c5a6c49a576_T1.jpg",
+      "tags": [
+        "debut",
+        "album"
+      ]
+    },
+    {
+      "id": "3e3c4ebef2347d1c",
+      "title": "Le Sserafim goes platinum in Japan with ‘Crazy’",
+      "url": "https://www.koreaherald.com/article/10787879",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-25T02:01:18.000Z",
+      "snippet": "Le Sserafim earned platinum certification from the Recording Industry Association of Japan with “Crazy,” the group's agency Source Music said Thursday. “Crazy” is the title track f...",
+      "description": "Le Sserafim earned platinum certification from the Recording Industry Association of Japan with “Crazy,” the group's agency Source Music said Thursday. “Crazy” is the title track from Le Sserafim's fourth EP, which was released in 2024. It exceeded 100 million streams in the country, becoming the group’s sixth song to reach the milestone. The EDM tune spent two weeks on Billboard’s Hot 100, peaking at No. 76. The EP spent four weeks on Billboard 200, entering the chart at No. 7. Meanwhile, the g",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/25/news-p.v1.20260625.d058c7082a1c4fcfb286c54c380530e8_T1.jpg",
+      "tags": [
+        "billboard",
+        "le sserafim"
       ]
     }
   ]
