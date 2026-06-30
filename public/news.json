@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-29T23:57:03.343Z",
+  "generatedAt": "2026-06-30T03:31:24.343Z",
   "items": [
+    {
+      "id": "9bc57d23e45ebc6e",
+      "title": "BTS logs 3.8 billion streams with 5th LP, sets record with tour revenue",
+      "url": "https://www.koreaherald.com/article/10792820",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-06-30T02:22:33.000Z",
+      "snippet": "BTS amassed 3.8 billion plays across the world in eight weeks with its fifth studio album, “Arirang,” label Big Hit Music said Tuesday citing music data firm Luminate. Its ongoing...",
+      "description": "BTS amassed 3.8 billion plays across the world in eight weeks with its fifth studio album, “Arirang,” label Big Hit Music said Tuesday citing music data firm Luminate. Its ongoing concert trip, titled after the LP, has generated more than $200 million since the launch in April, selling more than 1.1 million tickets, according to Billboard. The music magazine published an article Monday in the US, reporting that the septet “beat the Rollin Stones’ seven-year boxscore record.” Raking in over $125",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/30/news-p.v1.20260630.cad5ab7bbdc94b1ab5716902e87f41dd_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "931ba474380be22e",
       "title": "Girl Group Member Reveals She’s Actually Married To An Idol Trainee",
@@ -423,20 +439,6 @@
       "tags": [
         "album",
         "music video"
-      ]
-    },
-    {
-      "id": "4f29a383656d3b68",
-      "title": "Kim Gun-mo returns with first new single in 10 years",
-      "url": "https://www.koreaherald.com/article/10788186",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-06-25T05:10:01.000Z",
-      "snippet": "Legendary singer-songwriter Kim Gun-mo will release a new digital single, \"How Far Are You?,\" on July 1, his first new song in a decade, his agency Guneum Company announced Thursda...",
-      "description": "Legendary singer-songwriter Kim Gun-mo will release a new digital single, \"How Far Are You?,\" on July 1, his first new song in a decade, his agency Guneum Company announced Thursday. The release is Kim's first since his 2016 EP \"50,\" which commemorated the 25th anniversary of his debut. \"How Far Are You?\" is a remake of the title track from Korean folk singer Jeon Young's 1977 debut album. For the first time in his career, Kim performs while playing the guitar himself, setting aside the piano pe",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/25/news-p.v1.20260625.96e2fdeedfb44866aeee7c5a6c49a576_T1.jpg",
-      "tags": [
-        "debut",
-        "album"
       ]
     }
   ]
