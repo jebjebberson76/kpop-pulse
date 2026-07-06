@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-07-06T05:04:20.742Z",
+  "generatedAt": "2026-07-06T10:01:58.881Z",
   "items": [
+    {
+      "id": "42cfba2169738735",
+      "title": "Viral Video Of BLACKPINK Lisa Related To “Nose Job” Criticism Triggers Divided Reactions",
+      "url": "https://www.koreaboo.com/news/viral-video-blackpink-lisa-nose-job-criticism-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-07-06T08:55:17.000Z",
+      "snippet": "Netizens defended the idol.",
+      "description": "Netizens defended the idol.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "19d3fe37a0c18339",
+      "title": "BLACKPINK Jennie’s “Embarrassing” Festival Performances Spark Major Controversy",
+      "url": "https://www.koreaboo.com/news/blackpink-jennie-embarrassing-festival-performances-spark-major-controversy/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-07-06T08:30:37.000Z",
+      "snippet": "\"How did she even debut?\"",
+      "description": "\"How did she even debut?\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "debut",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "23fffe6277357b65",
+      "title": "SEVENTEEN’s Jeonghan And Joshua Confirmed To Make Fall Unit Debut",
+      "url": "https://www.soompi.com/article/1852622wpp/seventeens-jeonghan-and-joshua-confirmed-to-make-fall-unit-debut",
+      "source": "Soompi",
+      "publishedAt": "2026-07-06T06:12:25.000Z",
+      "snippet": "SEVENTEEN’s Jeonghan and Joshua are teaming up for a new unit! On July 6, Xportsnews reported that Jeonghan and Joshua will be debuting as a new unit in October. In response to the...",
+      "description": "SEVENTEEN’s Jeonghan and Joshua are teaming up for a new unit! On July 6, Xportsnews reported that Jeonghan and Joshua will be debuting as a new unit in October. In response to the report, PLEDIS Entertainment told Dispatch, “Jeonghan and Joshua are preparing with the goal of making a unit debut in October.” This will… Continue reading SEVENTEEN’s Jeonghan And Joshua Confirmed To Make Fall Unit Debut The post SEVENTEEN’s Jeonghan And Joshua Confirmed To Make Fall Unit Debut appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/05224751/jeonghan-joshua-.jpg",
+      "tags": [
+        "debut",
+        "seventeen"
+      ]
+    },
     {
       "id": "c6277e594b685b5c",
       "title": "KARD To Disband Following Final Album And World Tour",
@@ -16,6 +58,38 @@
       ]
     },
     {
+      "id": "5549b512e40653e3",
+      "title": "Ateez tops Billboard 200 with 14th EP",
+      "url": "https://www.koreaherald.com/article/10799303",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-06T02:33:28.000Z",
+      "snippet": "Ateez made a chart-topping debut on Billboard 200 with its 14th EP, “Golden Hour: Part 5,” according to the chart preview released on Sunday in the US. The mini album is the eight...",
+      "description": "Ateez made a chart-topping debut on Billboard 200 with its 14th EP, “Golden Hour: Part 5,” according to the chart preview released on Sunday in the US. The mini album is the eight member act’s third effort to top the main albums chart, after second LP “The World Ep. Fin: Will” did in 2023 and 11th EP “Golden Hour: Part 2” in 2024. Ateez has the third most albums to claim the No. 1 spot on the chart among K-pop groups, after Stray Kids at eight and BTS at seven. The latest extended play is the ni",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-p.v1.20260706.8e2aceb1613947dc920b253f52a3b714_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "mini album",
+        "album",
+        "billboard",
+        "bts"
+      ]
+    },
+    {
+      "id": "494bda04d38baf81",
+      "title": "BTS fans protest Chile&apos;s block on concerts",
+      "url": "https://www.koreaherald.com/article/10799272",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-06T02:29:08.000Z",
+      "snippet": "Hundreds of BTS fans gathered in Chile on Sunday to protest the Chilean government's decision to halt the group's three scheduled \"Arirang\" world tour concerts in October. BTS' fan...",
+      "description": "Hundreds of BTS fans gathered in Chile on Sunday to protest the Chilean government's decision to halt the group's three scheduled \"Arirang\" world tour concerts in October. BTS' fandom, Army, demonstrated on the streets of Santiago, Chile, on Sunday, wearing purple outfits, waving purple balloons and holding picket signs. The protesters opposed the government's decision to cancel three concerts that were scheduled for October as a part of the group's \"Arirang\" world tour. BTS was scheduled to per",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/rcv.YNA.20260706.PEP20260706045801009_T1.jpg",
+      "tags": [
+        "world tour",
+        "bts"
+      ]
+    },
+    {
       "id": "7a0e64a2a9df5d30",
       "title": "Jennie headlines 2 major European music fests",
       "url": "https://www.koreaherald.com/article/10798967",
@@ -27,20 +101,6 @@
       "tags": [
         "k-pop",
         "blackpink"
-      ]
-    },
-    {
-      "id": "1e51bda4c900de56",
-      "title": "“Proof” Of Top K-Pop Idol Bringing Alleged Girlfriend  “On The Job” Goes Viral",
-      "url": "https://www.koreaboo.com/news/proof-top-kpop-idol-bringing-alleged-girlfriend-job-goes-viral/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-07-05T22:22:17.000Z",
-      "snippet": "He was previously involved in dating rumors recently.",
-      "description": "He was previously involved in dating rumors recently.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -114,7 +174,7 @@
       "publishedAt": "2026-07-05T15:22:50.000Z",
       "snippet": "The wait is nearly over! On July 6 at midnight KST, Red Velvet officially announced the date and details for their long-awaited comeback next month. The group will be returning wit...",
       "description": "The wait is nearly over! On July 6 at midnight KST, Red Velvet officially announced the date and details for their long-awaited comeback next month. The group will be returning with a new summer mini album, “Velvet Summer,” on August 3 at 6 p.m. KST. Check out Red Velvet’s first teaser video for “Velvet Summer”… Continue reading Watch: Red Velvet Announces Comeback Date With 1st Teaser For “Velvet Summer” The post Watch: Red Velvet Announces Comeback Date With 1st Teaser For “Velvet Summer” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/05081940/Red-Velvet.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "mini album",
@@ -163,6 +223,20 @@
       "tags": [
         "world tour",
         "ive"
+      ]
+    },
+    {
+      "id": "3f32cb41819bac63",
+      "title": "Soompi’s K-Pop Music Chart 2026, July Week 1",
+      "url": "https://www.soompi.com/article/1852602wpp/soompis-k-pop-music-chart-2026-july-week-1",
+      "source": "Soompi",
+      "publishedAt": "2026-07-05T04:55:53.000Z",
+      "snippet": "CORTIS’s “REDRED” reclaims the top spot this week, making it the song’s fourth week overall at No. 1. Congratulations to CORTIS! aespa’s “LEMONADE” is down one spot to No. 2 this w...",
+      "description": "CORTIS’s “REDRED” reclaims the top spot this week, making it the song’s fourth week overall at No. 1. Congratulations to CORTIS! aespa’s “LEMONADE” is down one spot to No. 2 this week. Holding steady at No. 3 is ILLIT’s “It’s Me.” There are no new songs in the top 10 this week. About the Soompi… Continue reading Soompi’s K-Pop Music Chart 2026, July Week 1 The post Soompi’s K-Pop Music Chart 2026, July Week 1 appeared first on Soompi.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "aespa"
       ]
     },
     {
@@ -234,20 +308,6 @@
         "world tour",
         "concert",
         "bts"
-      ]
-    },
-    {
-      "id": "c85a1152039d2c7f",
-      "title": "8 Naturally Adorable K-Pop Idols With Fierce Stage Presence",
-      "url": "https://www.soompi.com/article/1850250wpp/8-naturally-adorable-k-pop-idols-with-fierce-stage-presence",
-      "source": "Soompi",
-      "publishedAt": "2026-07-03T03:26:18.000Z",
-      "snippet": "Stage presence isn’t just about how you look, it’s about how you rock it! These idols show some amazing duality with their fierce performances, in spite of the fact that they’re ac...",
-      "description": "Stage presence isn’t just about how you look, it’s about how you rock it! These idols show some amazing duality with their fierce performances, in spite of the fact that they’re actually pretty adorable. Sometimes, looks can be deceiving! IVE’s Rei This is one of Rei’s most-viewed fancams for a reason! IVE’s performances often have… Continue reading 8 Naturally Adorable K-Pop Idols With Fierce Stage Presence The post 8 Naturally Adorable K-Pop Idols With Fierce Stage Presence appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "ive"
       ]
     },
     {
@@ -381,65 +441,6 @@
       "tags": [
         "k-pop",
         "debut"
-      ]
-    },
-    {
-      "id": "fa7f78832e9fa62b",
-      "title": "Aoora wins &apos;Iconic Spiritual Song of the Year&apos; at Indian music awards",
-      "url": "https://www.koreaherald.com/article/10794559",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-01T04:41:38.000Z",
-      "snippet": "Aoora has won the Iconic Spiritual Song of the Year award at the Mid-Day Showbiz Icons Awards, held in Mumbai, India, Saturday, marking a milestone in India's mainstream music indu...",
-      "description": "Aoora has won the Iconic Spiritual Song of the Year award at the Mid-Day Showbiz Icons Awards, held in Mumbai, India, Saturday, marking a milestone in India's mainstream music industry. The honor was awarded for the K-pop singer's February single \"Shiva Shivam.\" Reinterpreting Hindu mythology through a contemporary lens, the music video has surpassed 14.35 million views on YouTube as of Wednesday. The song combines modern K-pop production with spiritual themes rooted in Indian culture, earning w",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260701.7c1010db72264e199e6dcfbc677ab680_T1.jpeg",
-      "tags": [
-        "k-pop",
-        "music video"
-      ]
-    },
-    {
-      "id": "9c0c3b0088f5ce90",
-      "title": "Hybe’s 3-group collab extends stay on Billboard Hot 100",
-      "url": "https://www.koreaherald.com/article/10794489",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-01T03:10:01.000Z",
-      "snippet": "Le Sserafim, Illit and Katseye’s collaboration single “Iconic by Mistake” logged two weeks on Billboard’s Hot 100, ranking No. 43 on the chart dated July 4. It slid down five rungs...",
-      "description": "Le Sserafim, Illit and Katseye’s collaboration single “Iconic by Mistake” logged two weeks on Billboard’s Hot 100, ranking No. 43 on the chart dated July 4. It slid down five rungs from the previous week, when it hit the main songs chart at the highest spot for a K-pop girl group’s endeavor from this year. On Billboard’s Global 200 it sits at No. 23, as well as No. 24 on the Global Excl. US chart. The single climbed to No. 21 on Spotify’s global weekly songs chart from No. 25. On UK’s Official S",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260701.3521955294544688aa45016b3ba06b5b_T1.jpg",
-      "tags": [
-        "k-pop",
-        "billboard",
-        "le sserafim"
-      ]
-    },
-    {
-      "id": "74e5ef1804abe530",
-      "title": "BTS’ V logs 700m streams on Spotify with ‘Winter Ahead’",
-      "url": "https://www.koreaherald.com/article/10794374",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-01T02:29:19.000Z",
-      "snippet": "V of BTS exceeded 700 million plays on Spotify with his solo single “Winter Ahead (with Park Hyoshin).” This is his second solo song to accomplish the feat on the platform, after “...",
-      "description": "V of BTS exceeded 700 million plays on Spotify with his solo single “Winter Ahead (with Park Hyoshin).” This is his second solo song to accomplish the feat on the platform, after “Love Me Again.” “Winter Ahead” was released in November 2024 while he was enlisted. Despite the lack of promotional activities, the winter song entered Billboard’s Hot 100 at No. 99, becoming his fifth solo entry on the main singles chart. In the UK, it ranked No. 86 on the Official Singles Chart. The jazzy tune also t",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260701.3146c67c48a340629fff8ba749336afa_T1.jpg",
-      "tags": [
-        "billboard",
-        "bts"
-      ]
-    },
-    {
-      "id": "f0477141ae801460",
-      "title": "Seventeen’s V8 to run pop-up in Seoul",
-      "url": "https://www.koreaherald.com/article/10794167",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-01T01:37:45.000Z",
-      "snippet": "Seventeen subunit V8 will open a pop-up in Seoul on July 4, offering fans a real-life experience of its namesake first EP, agency Pledis Entertainment said on Tuesday. Visitors wil...",
-      "description": "Seventeen subunit V8 will open a pop-up in Seoul on July 4, offering fans a real-life experience of its namesake first EP, agency Pledis Entertainment said on Tuesday. Visitors will be greeted by the music video for the main track “Singasong” projected onto a huge media wall, along with props from the video on display. Fans can listen to the music and have their pictures taken. The duo of Vernon and The8 released the mini album on Monday. A string of international musicians participated in produ",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260701.46b85c5fe3f34501bceb97569496730b_T1.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "music video",
-        "seventeen"
       ]
     }
   ]
