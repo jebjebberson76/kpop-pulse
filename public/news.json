@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T10:01:58.881Z",
+  "generatedAt": "2026-07-06T14:21:57.127Z",
   "items": [
     {
       "id": "42cfba2169738735",
@@ -41,20 +41,6 @@
       "tags": [
         "debut",
         "seventeen"
-      ]
-    },
-    {
-      "id": "c6277e594b685b5c",
-      "title": "KARD To Disband Following Final Album And World Tour",
-      "url": "https://www.koreaboo.com/news/kard-disband-following-final-album-world-tour/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-07-06T03:12:07.000Z",
-      "snippet": "They will be concluding group activities.",
-      "description": "They will be concluding group activities.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "world tour"
       ]
     },
     {
@@ -441,6 +427,20 @@
       "tags": [
         "k-pop",
         "debut"
+      ]
+    },
+    {
+      "id": "fa7f78832e9fa62b",
+      "title": "Aoora wins &apos;Iconic Spiritual Song of the Year&apos; at Indian music awards",
+      "url": "https://www.koreaherald.com/article/10794559",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-01T04:41:38.000Z",
+      "snippet": "Aoora has won the Iconic Spiritual Song of the Year award at the Mid-Day Showbiz Icons Awards, held in Mumbai, India, Saturday, marking a milestone in India's mainstream music indu...",
+      "description": "Aoora has won the Iconic Spiritual Song of the Year award at the Mid-Day Showbiz Icons Awards, held in Mumbai, India, Saturday, marking a milestone in India's mainstream music industry. The honor was awarded for the K-pop singer's February single \"Shiva Shivam.\" Reinterpreting Hindu mythology through a contemporary lens, the music video has surpassed 14.35 million views on YouTube as of Wednesday. The song combines modern K-pop production with spiritual themes rooted in Indian culture, earning w",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260701.7c1010db72264e199e6dcfbc677ab680_T1.jpeg",
+      "tags": [
+        "k-pop",
+        "music video"
       ]
     }
   ]
