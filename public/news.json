@@ -1,32 +1,62 @@
 {
-  "generatedAt": "2026-07-06T23:00:14.569Z",
+  "generatedAt": "2026-07-07T02:27:49.255Z",
   "items": [
     {
-      "id": "b09f70d2bfafddd7",
-      "title": "Kihyun embraces confidence, maturity in ‘Borderline’",
-      "url": "https://www.koreaherald.com/article/10799675",
+      "id": "9bf042c535dd4d16",
+      "title": "NCT127 to return in August: report",
+      "url": "https://www.koreaherald.com/article/10800681",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-06T22:00:06.000Z",
-      "snippet": "Nearly four years after releasing his first solo album, Monsta X vocalist Kihyun is returning not simply with new music, but with a clearer understanding of who he has become. His...",
-      "description": "Nearly four years after releasing his first solo album, Monsta X vocalist Kihyun is returning not simply with new music, but with a clearer understanding of who he has become. His second EP, “Borderline,” set for release on Tuesday, marks his first solo release in three years and nine months since his 2022 EP “Youth.” The seven-track album arrives after his military service, Monsta X’s group activities and ongoing world tour, and Kihyun said the long wait allowed him to make an album he could fe",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-a.v1.20260706.6f9129b4401149d58549fea8008e911f_T1.png",
+      "publishedAt": "2026-07-07T02:25:21.000Z",
+      "snippet": "NCT127 is gearing up for an August comeback, according to a local media report on Tuesday. The report says that the NCT subunit is expected to release its seventh studio album on A...",
+      "description": "NCT127 is gearing up for an August comeback, according to a local media report on Tuesday. The report says that the NCT subunit is expected to release its seventh studio album on Aug. 24, which will be its first album in two years since “Walk.” The album was the group's seventh consecutive million-selling set and the titular track came in first place on television music chart shows three times. Since then, Taeyong and Jaehyun completed their military service as members of marching bands in the N",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/07/news-p.v1.20260707.486b958055814b05acbb1f1fee8cf0e1_T1.jpg",
       "tags": [
+        "comeback",
         "album",
-        "world tour"
+        "nct"
       ]
     },
     {
-      "id": "3c63cacba64a882e",
-      "title": "K-Pop Idol Goes On Extreme Starvation Diet After Getting Called Fat",
-      "url": "https://www.koreaboo.com/news/2pm-nichkhun-kpop-idol-goes-extreme-starvation-diet-after-getting-called-fat/",
+      "id": "aa517b1e5fd889ea",
+      "title": "NCT 127 To Make First Comeback Following Mark’s Withdrawal",
+      "url": "https://www.koreaboo.com/news/nct-127-first-comeback-following-mark-withdrawal-august-24/",
       "source": "Koreaboo",
-      "publishedAt": "2026-07-06T17:32:28.000Z",
-      "snippet": "He was shocked to see the brutal reactions.",
-      "description": "He was shocked to see the brutal reactions.",
+      "publishedAt": "2026-07-07T01:44:20.000Z",
+      "snippet": "It's been 2 years.",
+      "description": "It's been 2 years.",
       "image": "/public/placeholder-news.svg",
       "tags": [
+        "comeback",
+        "nct"
+      ]
+    },
+    {
+      "id": "b06af618095e0a29",
+      "title": "Big Hit Music ramps up Yeonjun&apos;s global solo push with new EP",
+      "url": "https://www.koreaherald.com/article/10799864",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-06T08:39:02.000Z",
+      "snippet": "Tomorrow X Together's Yeonjun will release his second solo EP on Friday before taking another step onto the global stage next month as the second K-pop solo artist to perform on AB...",
+      "description": "Tomorrow X Together's Yeonjun will release his second solo EP on Friday before taking another step onto the global stage next month as the second K-pop solo artist to perform on ABC's \"Good Morning America\" Summer Concert Series, following BTS' Jungkook. According to Big Hit Music on Monday, \"No Labels: Part 02\" arrives about eight months after the K-pop singer's previous solo release and marks the next chapter in his career, with promotions extending beyond South Korea through the major US tele",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-p.v1.20260706.af707b069107486ca1d18de60183925f_T1.jpg",
+      "tags": [
         "k-pop",
-        "idol"
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "1c06cad8ca166cff",
+      "title": "Day6’s Young K to return with second solo LP ‘Youngest’",
+      "url": "https://www.koreaherald.com/article/10799846",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-06T08:22:42.000Z",
+      "snippet": "Day6’s Young K is set to return as a solo artist with his second LP “Youngest” on July 27, according to JYP Entertainment on Monday. The release will mark Young K’s first solo albu...",
+      "description": "Day6’s Young K is set to return as a solo artist with his second LP “Youngest” on July 27, according to JYP Entertainment on Monday. The release will mark Young K’s first solo album since releasing \"Letters with notes” in September 2023. Alongside the announcement, the agency unveiled a prologue teaser image through Day6’s official social media channels. The image featured fragmented reflections of Young K’s face across broken glass, with a key engraved with the initials “YK,” sparking curiosity",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-p.v1.20260706.74c734ffbb464c67ac275e8e63a96ae3_T1.jpg",
+      "tags": [
+        "album",
+        "day6"
       ]
     },
     {
@@ -40,6 +70,21 @@
       "image": "https://0.soompi.io/wp-content/uploads/2026/07/05224751/jeonghan-joshua-.jpg",
       "tags": [
         "debut",
+        "seventeen"
+      ]
+    },
+    {
+      "id": "f58fa5717813ada6",
+      "title": "Seventeen’s Junghan, Joshua to form duo subunit: report",
+      "url": "https://www.koreaherald.com/article/10799328",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-06T02:40:22.000Z",
+      "snippet": "Junghan and Joshua are preparing to release an album as a duo in October, according to a local media report on Monday. The pair will be the seventh subunit from the 13-member act,...",
+      "description": "Junghan and Joshua are preparing to release an album as a duo in October, according to a local media report on Monday. The pair will be the seventh subunit from the 13-member act, with Junghan joining subunit activities for the second time and Joshua for the first. Junghan had teamed up with Wonwoo and brought out “This Man” in 2024, selling over 780,000 copies in the first week, a record for a K-pop subunit until bandmates S.Coups and Mingyu broke the record last year. Focus track “Last Night”",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-p.v1.20260706.977cbba62fc94da38e36e69b8597d90c_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
         "seventeen"
       ]
     },
@@ -150,6 +195,20 @@
         "comeback",
         "album",
         "day6"
+      ]
+    },
+    {
+      "id": "19f121ccf191af40",
+      "title": "Update: fromis_9 Announces Full Album “Glow ME” With Comeback Scheduler",
+      "url": "https://www.soompi.com/article/1852397wpp/watch-fromis_9-announces-july-comeback-date-with-bubbly-teaser",
+      "source": "Soompi",
+      "publishedAt": "2026-07-05T15:55:52.000Z",
+      "snippet": "Updated July 6 KST: fromis_9 is returning with a full album! Check out the scheduler for “Glow ME” below: Original Article: fromis_9 has kicked off the countdown to their summer co...",
+      "description": "Updated July 6 KST: fromis_9 is returning with a full album! Check out the scheduler for “Glow ME” below: Original Article: fromis_9 has kicked off the countdown to their summer comeback! On July 6 at midnight KST, fromis_9 officially announced the date for their upcoming return later this month. The group will be making their… Continue reading Update: fromis_9 Announces Full Album “Glow ME” With Comeback Scheduler The post Update: fromis_9 Announces Full Album “Glow ME” With Comeback Scheduler appeared first on Soompi.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "comeback",
+        "album"
       ]
     },
     {
@@ -385,20 +444,6 @@
         "world tour",
         "concert",
         "super junior"
-      ]
-    },
-    {
-      "id": "429f7f6272d71140",
-      "title": "K-pop rookie race, part 2: Next groups to watch",
-      "url": "https://www.koreaherald.com/article/10795105",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-01T10:17:57.000Z",
-      "snippet": "The next wave of rookies is taking diverse paths to capture attention. Some are building sizable fandoms before debuting through online content alone, while others are backed by so...",
-      "description": "The next wave of rookies is taking diverse paths to capture attention. Some are building sizable fandoms before debuting through online content alone, while others are backed by some of K-pop's biggest names and agencies. From viral newcomers to highly anticipated major-agency launches, the race to become the industry's next breakout act is already underway. Among the most closely watched newcomers is Wayf Boys, a five-member boy group that has yet to make its debut but has already built an unus",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260701.7c1e187e46cb4db9a667c0c73f5b6892_T1.jpeg",
-      "tags": [
-        "k-pop",
-        "debut"
       ]
     }
   ]
