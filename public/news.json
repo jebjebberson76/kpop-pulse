@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T15:12:36.563Z",
+  "generatedAt": "2026-07-08T17:22:27.667Z",
   "items": [
     {
       "id": "b52d0c6cedb16807",
@@ -38,7 +38,7 @@
       "publishedAt": "2026-07-08T11:34:57.000Z",
       "snippet": "Hearts2Hearts has won their second music show trophy for “Lemon Tang”! On the July 8 episode of “Show Champion,” the candidates for first place were dodree’s “HAWWAH,” ATEEZ’s “BAD...",
       "description": "Hearts2Hearts has won their second music show trophy for “Lemon Tang”! On the July 8 episode of “Show Champion,” the candidates for first place were dodree’s “HAWWAH,” ATEEZ’s “BAD,” Hearts2Hearts’s “Lemon Tang,” SEVENTEEN’s V8’s “singasong,” and UAU’s “GENE.” Hearts2Hearts ultimately took the win. Congratulations to Hearts2Hearts! Watch the winner announcement and their winning speech below: Performers… Continue reading Watch: Hearts2Hearts Takes 2nd Win For “Lemon Tang” On “Show Champion”; Performances By Choi Yoojung, Keyveatz, And More The post Watch: Hearts2Hearts Takes 2nd Win For “Lemon...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/08043445/h2h-show-champion.jpg",
       "tags": [
         "show champion",
         "seventeen"
@@ -67,20 +67,6 @@
       "snippet": "\"The audacity...\"",
       "description": "\"The audacity...\"",
       "image": "https://image.koreaboo.com/2026/07/FD2870-2-4.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "47b3334bca503b92",
-      "title": "Idol-Turned-Actor Breaks Up With Girlfriend Over Potential Marriage",
-      "url": "https://www.koreaboo.com/news/idol-turned-actor-breakup-girlfriend-potential-marriage/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-07-08T06:33:26.000Z",
-      "snippet": "A K-Pop idol-turned-actor opened up about his past experience of breaking up with a girlfriend. A recent episode of JTBC’s Love War, which aired on the 7th, featured Lee Joon,…",
-      "description": "A K-Pop idol-turned-actor opened up about his past experience of breaking up with a girlfriend. A recent episode of JTBC’s Love War, which aired on the 7th, featured Lee Joon,…",
-      "image": "https://image.koreaboo.com/2026/07/Lee-Joon-FI-2.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -438,6 +424,20 @@
       "tags": [
         "world tour",
         "bts"
+      ]
+    },
+    {
+      "id": "7a0e64a2a9df5d30",
+      "title": "Jennie headlines 2 major European music fests",
+      "url": "https://www.koreaherald.com/article/10798967",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-06T00:57:06.000Z",
+      "snippet": "BLACKPINK's Jennie performed as a headliner at Denmark's Roskilde Festival and Poland's Open'er Festival over the weekend, becoming the first K-pop solo artist to headline two majo...",
+      "description": "BLACKPINK's Jennie performed as a headliner at Denmark's Roskilde Festival and Poland's Open'er Festival over the weekend, becoming the first K-pop solo artist to headline two major European music festivals back-to-back, her agency said Monday. The singer performed her hits, including \"Mantra,\" \"ExtraL,\" \"Starlight\" and \"Like Jennie,\" appearing at the music festivals on Friday and Saturday (local time), respectively, according to OA Entertainment. \"Jennie's inclusion reflects current trends and",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-p.v1.20260706.d38a5d3ea89f498390e4ce0a082bae90_T1.jpg",
+      "tags": [
+        "k-pop",
+        "blackpink"
       ]
     }
   ]
