@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-09T00:03:31.210Z",
+  "generatedAt": "2026-07-09T04:44:24.814Z",
   "items": [
+    {
+      "id": "8561fcc255031c7b",
+      "title": "Popular K-Pop Idol Speaks To Former Group Member Who Passed Away, Through A Shamanistic Ritual",
+      "url": "https://www.koreaboo.com/news/popular-kpop-idol-speaks-former-group-member-passed-away-shaman/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-07-09T02:08:51.000Z",
+      "snippet": "They were close friends.",
+      "description": "They were close friends.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "6d740175e95656d7",
       "title": "K-Pop Idol Working As Back-Up Dancer Seemingly Confirms Group’s Disbandment",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-07-08T23:43:59.000Z",
       "snippet": "There has been no official notice.",
       "description": "There has been no official notice.",
-      "image": "https://image.koreaboo.com/2026/07/FEATURED-IMAGE-2026-07-08T183605.370.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -38,7 +52,7 @@
       "publishedAt": "2026-07-08T18:18:36.000Z",
       "snippet": "A K-Pop idol’s ex-wife reacted with disbelief to the remarriage news circulating about her. On July 7th, several photos were posted on Instagram with the caption, “My pretty baby M...",
       "description": "A K-Pop idol’s ex-wife reacted with disbelief to the remarriage news circulating about her. On July 7th, several photos were posted on Instagram with the caption, “My pretty baby Min…",
-      "image": "https://image.koreaboo.com/2026/07/Ji-Yeon-Soo-FI-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -74,6 +88,21 @@
       ]
     },
     {
+      "id": "9460e4c9b997c264",
+      "title": "Hybe seeks next generation of K-pop producers",
+      "url": "https://www.koreaherald.com/article/10802564",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-08T06:54:39.000Z",
+      "snippet": "Hybe will launch its 2026 Hybe Next New Creator producer audition, seeking new music creators to join its global multilabel system, the company announced Tuesday. According to Hybe...",
+      "description": "Hybe will launch its 2026 Hybe Next New Creator producer audition, seeking new music creators to join its global multilabel system, the company announced Tuesday. According to Hybe's official website, successful applicants will have the opportunity to work with labels under Hybe Music Group, including Big Hit Music, Belift Lab, Pledis Entertainment, Hybe Japan and YX Labels. The labels are home to some of K-pop's biggest acts, including BTS, Tomorrow X Together, Enhypen, Illit, Seventeen and &Te",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/08/news-p.v1.20260708.531139f29972479aa5034947738006ad_T1.jpg",
+      "tags": [
+        "k-pop",
+        "bts",
+        "seventeen"
+      ]
+    },
+    {
       "id": "774a0192648be457",
       "title": "Le Sserafim announces tour schedule",
       "url": "https://www.koreaherald.com/article/10802262",
@@ -103,6 +132,21 @@
       ]
     },
     {
+      "id": "cd5ead2bde95fbe4",
+      "title": "San&apos;s &apos;Bad&apos; performance trending online",
+      "url": "https://www.koreaherald.com/article/10802156",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-08T02:35:01.000Z",
+      "snippet": "Ateez member San's performance of \"Bad\" is taking the internet by storm following the group's performance on a TV music program last month. Ateez has been performing \"Bad,\" the tit...",
+      "description": "Ateez member San's performance of \"Bad\" is taking the internet by storm following the group's performance on a TV music program last month. Ateez has been performing \"Bad,\" the title song from its latest mini album, \"Golden Hour: Part.5,\" on Korean music shows. On SBS' music program \"Inkigayo,\" which aired on June 28, San, the group's main dancer and lead vocalist, drew widespread attention when he took the stage wearing a white tank top. During the dance break in the latter half of the song, Sa",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/08/news-p.v1.20260708.25f6c8172d754be6aff912d5154f115e_T1.gif",
+      "tags": [
+        "mini album",
+        "album",
+        "inkigayo"
+      ]
+    },
+    {
       "id": "f63cf31b31bf8fdb",
       "title": "TWICE’s Sana Confirmed To Make Acting Debut",
       "url": "https://www.soompi.com/article/1853079wpp/twices-sana-confirmed-to-make-acting-debut",
@@ -110,10 +154,25 @@
       "publishedAt": "2026-07-08T02:32:12.000Z",
       "snippet": "TWICE’s Sana is set to take on her first acting role! On July 8, a media outlet reported that Sana will star in the new film “Nyangi” (literal title). In response to the report, Sa...",
       "description": "TWICE’s Sana is set to take on her first acting role! On July 8, a media outlet reported that Sana will star in the new film “Nyangi” (literal title). In response to the report, Sana’s agency JYP Entertainment confirmed, “Sana will star as a lead in the film ‘Nyangi.'” “Nyangi” is a joint Korea-Japan production… Continue reading TWICE’s Sana Confirmed To Make Acting Debut The post TWICE’s Sana Confirmed To Make Acting Debut appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/07193133/sana-00.png",
       "tags": [
         "debut",
         "twice"
+      ]
+    },
+    {
+      "id": "e75b42cf337e439d",
+      "title": "British Museum adds special Korea Gallery program for BTS’ ‘The City Arirang’",
+      "url": "https://www.koreaherald.com/article/10802071",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-08T02:13:14.000Z",
+      "snippet": "The British Museum is hosting a special program inspired by BTS’ latest album as part of the group’s “The City Arirang” fan festival that accompanies its world tour stop in London....",
+      "description": "The British Museum is hosting a special program inspired by BTS’ latest album as part of the group’s “The City Arirang” fan festival that accompanies its world tour stop in London. Running until July 23, the program takes place at the museum’s Korea Gallery through an interactive exhibition titled “Korea Gallery Trail.” It invites visitors to explore Korean cultural artifacts connected to the themes of BTS’ fifth LP, “Arirang.” According to Big Hit Music, the program links selected permanent exh",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/08/news-p.v1.20260708.93cde628ec904986b1a0c46e46cc0c75_T1.jpg",
+      "tags": [
+        "album",
+        "world tour",
+        "bts"
       ]
     },
     {
@@ -139,7 +198,7 @@
       "publishedAt": "2026-07-07T21:26:36.000Z",
       "snippet": "ATEEZ topped multiple Billboard charts with their latest comeback! This past weekend, Billboard announced that ATEEZ’s new mini album “GOLDEN HOUR : Part.5” had debuted at No. 1 on...",
       "description": "ATEEZ topped multiple Billboard charts with their latest comeback! This past weekend, Billboard announced that ATEEZ’s new mini album “GOLDEN HOUR : Part.5” had debuted at No. 1 on the Billboard 200 after achieving the group’s biggest U.S. week to date. With the entry, ATEEZ also became the group with the most top 10 albums… Continue reading ATEEZ Tops 4 Billboard Charts With “GOLDEN HOUR : Part.5” The post ATEEZ Tops 4 Billboard Charts With “GOLDEN HOUR : Part.5” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/07142250/ATEEZ_551759.jpeg",
       "tags": [
         "comeback",
         "mini album",
@@ -379,66 +438,6 @@
         "k-pop",
         "album",
         "seventeen"
-      ]
-    },
-    {
-      "id": "5549b512e40653e3",
-      "title": "Ateez tops Billboard 200 with 14th EP",
-      "url": "https://www.koreaherald.com/article/10799303",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-06T02:33:28.000Z",
-      "snippet": "Ateez made a chart-topping debut on Billboard 200 with its 14th EP, “Golden Hour: Part 5,” according to the chart preview released on Sunday in the US. The mini album is the eight...",
-      "description": "Ateez made a chart-topping debut on Billboard 200 with its 14th EP, “Golden Hour: Part 5,” according to the chart preview released on Sunday in the US. The mini album is the eight member act’s third effort to top the main albums chart, after second LP “The World Ep. Fin: Will” did in 2023 and 11th EP “Golden Hour: Part 2” in 2024. Ateez has the third most albums to claim the No. 1 spot on the chart among K-pop groups, after Stray Kids at eight and BTS at seven. The latest extended play is the ni",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-p.v1.20260706.8e2aceb1613947dc920b253f52a3b714_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut",
-        "mini album",
-        "album",
-        "billboard",
-        "bts"
-      ]
-    },
-    {
-      "id": "494bda04d38baf81",
-      "title": "BTS fans protest Chile&apos;s block on concerts",
-      "url": "https://www.koreaherald.com/article/10799272",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-06T02:29:08.000Z",
-      "snippet": "Hundreds of BTS fans gathered in Chile on Sunday to protest the Chilean government's decision to halt the group's three scheduled \"Arirang\" world tour concerts in October. BTS' fan...",
-      "description": "Hundreds of BTS fans gathered in Chile on Sunday to protest the Chilean government's decision to halt the group's three scheduled \"Arirang\" world tour concerts in October. BTS' fandom, Army, demonstrated on the streets of Santiago, Chile, on Sunday, wearing purple outfits, waving purple balloons and holding picket signs. The protesters opposed the government's decision to cancel three concerts that were scheduled for October as a part of the group's \"Arirang\" world tour. BTS was scheduled to per",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/rcv.YNA.20260706.PEP20260706045801009_T1.jpg",
-      "tags": [
-        "world tour",
-        "bts"
-      ]
-    },
-    {
-      "id": "7a0e64a2a9df5d30",
-      "title": "Jennie headlines 2 major European music fests",
-      "url": "https://www.koreaherald.com/article/10798967",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-06T00:57:06.000Z",
-      "snippet": "BLACKPINK's Jennie performed as a headliner at Denmark's Roskilde Festival and Poland's Open'er Festival over the weekend, becoming the first K-pop solo artist to headline two majo...",
-      "description": "BLACKPINK's Jennie performed as a headliner at Denmark's Roskilde Festival and Poland's Open'er Festival over the weekend, becoming the first K-pop solo artist to headline two major European music festivals back-to-back, her agency said Monday. The singer performed her hits, including \"Mantra,\" \"ExtraL,\" \"Starlight\" and \"Like Jennie,\" appearing at the music festivals on Friday and Saturday (local time), respectively, according to OA Entertainment. \"Jennie's inclusion reflects current trends and",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/news-p.v1.20260706.d38a5d3ea89f498390e4ce0a082bae90_T1.jpg",
-      "tags": [
-        "k-pop",
-        "blackpink"
-      ]
-    },
-    {
-      "id": "f03d5f7d18f8088e",
-      "title": "BTS heats up London with The City Arirang",
-      "url": "https://www.koreaherald.com/article/10798506",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-05T07:45:29.000Z",
-      "snippet": "BTS' city-wide fan festival, \"The City Arirang,\" kicked off its London edition at the Korean Cultural Centre UK on Saturday, with organizers also announcing that the fan-themed cam...",
-      "description": "BTS' city-wide fan festival, \"The City Arirang,\" kicked off its London edition at the Korean Cultural Centre UK on Saturday, with organizers also announcing that the fan-themed campaign will extend to the British Museum. Celebrating BTS' upcoming concerts in the UK during the \"Arirang\" world tour, The City Arirang invites fans to visit London's iconic venues transformed with a BTS theme. Fans can travel to these venues and take part in an eight-stop stamp rally. An exhibition at the KCCUK, locat",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/05/rcv.YNA.20260705.PYH2026070501670008500_T1.jpg",
-      "tags": [
-        "world tour",
-        "bts"
       ]
     }
   ]
