@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-10T06:36:57.871Z",
+  "generatedAt": "2026-07-10T10:17:26.812Z",
   "items": [
+    {
+      "id": "e250fd3a52aa0365",
+      "title": "TWICE’s Jihyo Sparks Major Shock With Raw Sexiness In New Music Video",
+      "url": "https://www.koreaboo.com/news/twice-jihyo-sexy-shock-new-music-video/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-07-10T09:40:49.000Z",
+      "snippet": "\"Looking like a damn supermodel...\"",
+      "description": "\"Looking like a damn supermodel...\"",
+      "image": "https://image.koreaboo.com/2026/07/FD2870-10-1.jpg",
+      "tags": [
+        "music video",
+        "twice"
+      ]
+    },
     {
       "id": "f38b06c2a41d0ede",
       "title": "BTS&apos; V debuts as Jinro&apos;s first global ambassador",
@@ -13,20 +27,6 @@
       "tags": [
         "debut",
         "bts"
-      ]
-    },
-    {
-      "id": "3cfd95cdd51b4cc4",
-      "title": "Fifth-Gen Female Idol Shocks With Pre-Debut Photos",
-      "url": "https://www.koreaboo.com/news/resecene-woni-graduation-photos/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-07-10T04:22:13.000Z",
-      "snippet": "A natural born beauty.",
-      "description": "A natural born beauty.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "debut"
       ]
     },
     {
@@ -140,7 +140,7 @@
       "publishedAt": "2026-07-08T21:02:27.000Z",
       "snippet": "Circle Chart has revealed its chart rankings for the week of June 21 to 27! Album Chart ATEEZ achieved a double crown on this week’s charts, topping both the physical album chart a...",
       "description": "Circle Chart has revealed its chart rankings for the week of June 21 to 27! Album Chart ATEEZ achieved a double crown on this week’s charts, topping both the physical album chart and the digital download chart with their new mini album “GOLDEN HOUR : Part.5” and its title track “BAD.” ATEEZ swept two of… Continue reading ATEEZ And CORTIS Earn Double Crowns On Circle Weekly Charts The post ATEEZ And CORTIS Earn Double Crowns On Circle Weekly Charts appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/08135018/ATEEZ-CORTIS.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -233,20 +233,6 @@
         "mini album",
         "album",
         "inkigayo"
-      ]
-    },
-    {
-      "id": "f63cf31b31bf8fdb",
-      "title": "TWICE’s Sana Confirmed To Make Acting Debut",
-      "url": "https://www.soompi.com/article/1853079wpp/twices-sana-confirmed-to-make-acting-debut",
-      "source": "Soompi",
-      "publishedAt": "2026-07-08T02:32:12.000Z",
-      "snippet": "TWICE’s Sana is set to take on her first acting role! On July 8, a media outlet reported that Sana will star in the new film “Nyangi” (literal title). In response to the report, Sa...",
-      "description": "TWICE’s Sana is set to take on her first acting role! On July 8, a media outlet reported that Sana will star in the new film “Nyangi” (literal title). In response to the report, Sana’s agency JYP Entertainment confirmed, “Sana will star as a lead in the film ‘Nyangi.'” “Nyangi” is a joint Korea-Japan production… Continue reading TWICE’s Sana Confirmed To Make Acting Debut The post TWICE’s Sana Confirmed To Make Acting Debut appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "twice"
       ]
     },
     {
@@ -439,6 +425,20 @@
         "mini album",
         "album",
         "billboard",
+        "bts"
+      ]
+    },
+    {
+      "id": "494bda04d38baf81",
+      "title": "BTS fans protest Chile&apos;s block on concerts",
+      "url": "https://www.koreaherald.com/article/10799272",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-06T02:29:08.000Z",
+      "snippet": "Hundreds of BTS fans gathered in Chile on Sunday to protest the Chilean government's decision to halt the group's three scheduled \"Arirang\" world tour concerts in October. BTS' fan...",
+      "description": "Hundreds of BTS fans gathered in Chile on Sunday to protest the Chilean government's decision to halt the group's three scheduled \"Arirang\" world tour concerts in October. BTS' fandom, Army, demonstrated on the streets of Santiago, Chile, on Sunday, wearing purple outfits, waving purple balloons and holding picket signs. The protesters opposed the government's decision to cancel three concerts that were scheduled for October as a part of the group's \"Arirang\" world tour. BTS was scheduled to per",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/06/rcv.YNA.20260706.PEP20260706045801009_T1.jpg",
+      "tags": [
+        "world tour",
         "bts"
       ]
     }
