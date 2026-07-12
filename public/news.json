@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-12T16:51:38.470Z",
+  "generatedAt": "2026-07-12T17:54:20.923Z",
   "items": [
+    {
+      "id": "d27be998db7c7727",
+      "title": "i-dle Members Give Shoutouts To IVE Members",
+      "url": "https://www.koreaboo.com/news/idle-gidle-members-give-shoutouts-ive-members/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-07-12T17:10:22.000Z",
+      "snippet": "Recently, i-dle’s Minnie, Soyeon, and Miyeon appeared on SBS PowerFM’s Wendy’s Young Street radio show to promote their ninth mini-album We made. When asked if they prepared anythi...",
+      "description": "Recently, i-dle’s Minnie, Soyeon, and Miyeon appeared on SBS PowerFM’s Wendy’s Young Street radio show to promote their ninth mini-album We made. When asked if they prepared anything special for…",
+      "image": "https://image.koreaboo.com/2026/07/idle-IVE.jpg",
+      "tags": [
+        "album",
+        "ive"
+      ]
+    },
     {
       "id": "9e0698cac5f02f11",
       "title": "K-Pop Boy Group Clarifies “Idol Star Athletics Championships” Outcast Rumors",
@@ -65,7 +79,7 @@
       "publishedAt": "2026-07-12T02:14:00.000Z",
       "snippet": "It’s official: IU and Heo Nam Jun will be reuniting for her next music video! On July 11, Heo Nam Jun’s agency H.SOLID confirmed reports that the actor would be starring in IU’s mu...",
       "description": "It’s official: IU and Heo Nam Jun will be reuniting for her next music video! On July 11, Heo Nam Jun’s agency H.SOLID confirmed reports that the actor would be starring in IU’s music video for the title track of her upcoming album. “Heo Nam Jun is appearing in IU’s music video for her new… Continue reading IU And Heo Nam Jun Confirmed To Reunite For Her Upcoming Comeback MV The post IU And Heo Nam Jun Confirmed To Reunite For Her Upcoming Comeback MV appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/11191334/Heo-Nam-Jun-IU.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "album",
@@ -424,21 +438,6 @@
         "k-pop",
         "album",
         "world tour"
-      ]
-    },
-    {
-      "id": "9bf042c535dd4d16",
-      "title": "NCT127 to return in August: report",
-      "url": "https://www.koreaherald.com/article/10800681",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-07T02:25:21.000Z",
-      "snippet": "NCT127 is gearing up for an August comeback, according to a local media report on Tuesday. The report says that the NCT subunit is expected to release its seventh studio album on A...",
-      "description": "NCT127 is gearing up for an August comeback, according to a local media report on Tuesday. The report says that the NCT subunit is expected to release its seventh studio album on Aug. 24, which will be its first album in two years since “Walk.” The album was the group's seventh consecutive million-selling set and the titular track came in first place on television music chart shows three times. Since then, Taeyong and Jaehyun completed their military service as members of marching bands in the N",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/07/news-p.v1.20260707.486b958055814b05acbb1f1fee8cf0e1_T1.jpg",
-      "tags": [
-        "comeback",
-        "album",
-        "nct"
       ]
     }
   ]
