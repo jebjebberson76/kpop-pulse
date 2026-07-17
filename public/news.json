@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-16T23:57:44.496Z",
+  "generatedAt": "2026-07-17T02:37:16.690Z",
   "items": [
+    {
+      "id": "1c200f83ca23d685",
+      "title": "When heritage meets pop culture: K-pop",
+      "url": "https://www.koreaherald.com/article/10811338",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-17T00:00:00.000Z",
+      "snippet": "Korea's cultural heritage is finding new life beyond museums and historic sites. As history, folklore and tradition become a key creative engine behind Korean pop culture's global...",
+      "description": "Korea's cultural heritage is finding new life beyond museums and historic sites. As history, folklore and tradition become a key creative engine behind Korean pop culture's global expansion, K-pop, films, dramas and games are bringing the nation's past to audiences around the world. The following stories examine how each industry is making heritage part of its global success. With the K-pop genre now a global phenomenon, artists are increasingly drawing on Korea's history, music and visual tradi",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/17/news-p.v1.20260715.38a3ac69f01241d9965554eebd2509c9_T1.jpg",
+      "tags": [
+        "k-pop",
+        "korean pop"
+      ]
+    },
     {
       "id": "2e60a08efc6ac6c5",
       "title": "TXT’s Yeonjun Achieves Highest 1st-Week Sales Of Any Korean Soloist In 2026 With “NO LABELS: PART 02”",
@@ -24,7 +38,7 @@
       "publishedAt": "2026-07-16T17:55:48.000Z",
       "snippet": "That's one way to do it.",
       "description": "That's one way to do it.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/07/FEATURED-IMAGE-2026-07-16T125238.708.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -38,7 +52,7 @@
       "publishedAt": "2026-07-16T16:16:52.000Z",
       "snippet": "A K-Pop idol flaunted her innocent beauty while wearing a bikini, earning the admiration of fans and netizens. On July 15th, several photos taken in Jeju Island were posted on…",
       "description": "A K-Pop idol flaunted her innocent beauty while wearing a bikini, earning the admiration of fans and netizens. On July 15th, several photos taken in Jeju Island were posted on…",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/07/Yoon-Chaekyung-FI.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -94,7 +108,7 @@
       "publishedAt": "2026-07-15T19:59:37.000Z",
       "snippet": "Circle Chart has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certification system for album sales...",
       "description": "Circle Chart has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certification system for album sales, song downloads, and online streaming. Starting with music released on or after January 1, 2018, Circle Chart now certifies albums platinum once they reach 250,000 sales, while albums that… Continue reading CORTIS, aespa, TWS, BABYMONSTER, LE SSERAFIM, ILLIT, And More Earn Circle Million And Platinum Certifications The post CORTIS, aespa, TWS, BABYMONSTER, LE SSERAFIM, ILLIT, And More Earn Circle Million And Platinu...",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/15124544/CORTIS-aespa-TWS-BABYMONSTER.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "album",
         "circle chart",
@@ -110,7 +124,7 @@
       "publishedAt": "2026-07-15T18:59:37.000Z",
       "snippet": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart RIIZE topped the physical album chart for June with their latest mini album “II,” which...",
       "description": "Circle Chart has revealed its latest monthly and weekly chart rankings! Monthly Album Chart RIIZE topped the physical album chart for June with their latest mini album “II,” which debuted at No. 1 on the monthly chart. All of the top five spots on June’s album chart went to new releases: TREASURE’s “NEW WAV” debuted… Continue reading ATEEZ, I.O.I, RIIZE, CORTIS, BTS, SEVENTEEN’s V8, And ILLIT Top Circle Monthly And Weekly Charts The post ATEEZ, I.O.I, RIIZE, CORTIS, BTS, SEVENTEEN’s V8, And ILLIT Top Circle Monthly And Weekly Charts appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/15115334/ATEEZ-I.O.I-RIIZE-CORTIS.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -295,22 +309,6 @@
       "tags": [
         "twice",
         "stray kids"
-      ]
-    },
-    {
-      "id": "ef6fc451b103fca9",
-      "title": "SUPER JUNIOR-83z Tops iTunes Charts Around The World With Unit Debut Album “Promise”",
-      "url": "https://www.soompi.com/article/1854667wpp/super-junior-83z-tops-itunes-charts-around-the-world-with-unit-debut-album-promise",
-      "source": "Soompi",
-      "publishedAt": "2026-07-14T14:01:29.000Z",
-      "snippet": "The debut of Super Junior’s newest unit is off to a promising start! On July 13 at 6 p.m. KST, Leeteuk and Kim Heechul’s new unit SUPER JUNIOR-83z made their debut with their first...",
-      "description": "The debut of Super Junior’s newest unit is off to a promising start! On July 13 at 6 p.m. KST, Leeteuk and Kim Heechul’s new unit SUPER JUNIOR-83z made their debut with their first mini album “Promise” and its title track of the same name. Immediately upon its release, the mini album soared to the… Continue reading SUPER JUNIOR-83z Tops iTunes Charts Around The World With Unit Debut Album “Promise” The post SUPER JUNIOR-83z Tops iTunes Charts Around The World With Unit Debut Album “Promise” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album",
-        "super junior"
       ]
     },
     {
