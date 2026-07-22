@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-07-22T02:46:57.355Z",
+  "generatedAt": "2026-07-22T05:41:40.185Z",
   "items": [
+    {
+      "id": "e9c266d6049aa634",
+      "title": "BTS Chile concerts approved after revised stage plans",
+      "url": "https://www.koreaherald.com/article/10816451",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-22T04:36:58.000Z",
+      "snippet": "Chile has approved BTS’ scheduled concerts at Santiago’s Estadio Nacional after the concert promoter revised production plans to address concerns of potential damage to the venue’s...",
+      "description": "Chile has approved BTS’ scheduled concerts at Santiago’s Estadio Nacional after the concert promoter revised production plans to address concerns of potential damage to the venue’s playing field. According to Chile’s Ministry of Sports, the National Sports Institute approved a revision submitted by local promoter DG Medios on Tuesday. The revised proposal incorporates technical modifications designed to protect the stadium’s sports infrastructure. Authorities therefore concluded that the concert",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.e00cb60a0aed41debcf6bd7bd2e44f74_T1.jpg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "7119794394a0a913",
+      "title": "SF9’s Jaeyoon to celebrate birthday with fans at 1st solo meetup",
+      "url": "https://www.koreaherald.com/article/10816402",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-22T04:04:45.000Z",
+      "snippet": "Jaeyoon of SF9 will host his first solo fan meeting in Seoul on Aug. 8, according to agency FNC Entertainment on Wednesday. He will meet and greet fans twice that day under the tit...",
+      "description": "Jaeyoon of SF9 will host his first solo fan meeting in Seoul on Aug. 8, according to agency FNC Entertainment on Wednesday. He will meet and greet fans twice that day under the title \"Our Summer,\" just oen day before his birthday. Jaeyoon is the main vocalist of SF9, which released the special album “About Love” in March to mark its 10th anniversary. The group dropped a Japanese-language version of the album in June and held fan meetups in Tokyo and Osaka, during which the bandmates hinted at a",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.f41db027ee384840bd3eea9370fc46b2_T1.jpg",
+      "tags": [
+        "album",
+        "fan meeting",
+        "twice"
+      ]
+    },
     {
       "id": "560a4fc789b6449f",
       "title": "Madein’s Mashiro to drop 1st solo EP",
@@ -13,36 +42,6 @@
       "tags": [
         "album",
         "concert"
-      ]
-    },
-    {
-      "id": "61b8094dfc6fb63e",
-      "title": "Cortis tops 300m Spotify streams with 2nd EP",
-      "url": "https://www.koreaherald.com/article/10816035",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-22T01:25:24.000Z",
-      "snippet": "Cortis crossed the 300 million streams mark on Spotify with its second EP “Greengreen” as of Monday, its label Big Hit Music said Wednesday. The mini album achieved the feat in 77...",
-      "description": "Cortis crossed the 300 million streams mark on Spotify with its second EP “Greengreen” as of Monday, its label Big Hit Music said Wednesday. The mini album achieved the feat in 77 days, and added 100 million streams in about a month despite already concluding promotions. The main single “Redred” accounted for half of the plays, and has spent 12 weeks straight on Spotify’s Weekly Top Songs Global, ranking No. 109 on the most recent tally. \"Greengreen\" logged 10 consecutive weeks on the Billboard",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-a.v1.20260722.d39b03c6baf64177a92d0e699a186993_T1.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "billboard"
-      ]
-    },
-    {
-      "id": "2206d1ab9897256f",
-      "title": "BTS still going strong on Billboard charts",
-      "url": "https://www.koreaherald.com/article/10816025",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-22T01:22:22.000Z",
-      "snippet": "BTS is spending its 17th week on Billboard’s Hot 100 with “Swim,” according to the latest chart published Tuesday in the US. The main track from its fifth studio album “Arirang” sa...",
-      "description": "BTS is spending its 17th week on Billboard’s Hot 100 with “Swim,” according to the latest chart published Tuesday in the US. The main track from its fifth studio album “Arirang” sat at No. 100 on the main songs chart, tying the group's charting streak with “My Universe,” a Coldplay collaboration from 2021. “Swim” has stayed among the top five on Billboard Global excl. US, sitting at No. 2 for seven weeks straight. It spent the most weeks atop the chart, at eight, for a song released this year as",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/22/news-p.v1.20260722.3fd4fdf3e2604eed9b3eb79fa7c7ad82_T1.jpg",
-      "tags": [
-        "album",
-        "billboard",
-        "bts"
       ]
     },
     {
@@ -103,20 +102,6 @@
       ]
     },
     {
-      "id": "817671d8719cbbe4",
-      "title": "NewJeans Makes Shocking Comeback With Four Members",
-      "url": "https://www.koreaboo.com/news/newjeans-makes-shocking-new-content-four-members/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-07-21T15:56:24.000Z",
-      "snippet": "It's the first official content without Danielle.",
-      "description": "It's the first official content without Danielle.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "newjeans"
-      ]
-    },
-    {
       "id": "5e2600681f61bce0",
       "title": "Watch: NewJeans Announces Return As 4-Member Group With “2026 Summer Of NewJeans” Films And Photos",
       "url": "https://www.soompi.com/article/1856451wpp/watch-newjeans-announces-return-as-4-member-group-with-2026-summer-of-newjeans-films",
@@ -143,6 +128,50 @@
         "music video",
         "mv",
         "seventeen"
+      ]
+    },
+    {
+      "id": "5545620337fd8ddc",
+      "title": "Jennie to release new single &apos;Less Than a Lover&apos;",
+      "url": "https://www.koreaherald.com/article/10815049",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-21T04:57:01.000Z",
+      "snippet": "Blackpink's Jennie will release her new single \"Less Than a Lover\" on Friday after previewing the song at major international music festivals in the US and Europe. Her agency, Odd...",
+      "description": "Blackpink's Jennie will release her new single \"Less Than a Lover\" on Friday after previewing the song at major international music festivals in the US and Europe. Her agency, Odd Atelier, announced Tuesday that the single will be released at 1 p.m. KST on major global streaming platforms. The agency also unveiled a teaser image showing Jennie and a man through the window of a truck, with a natural landscape in the background. Jennie participated in directing the music video as well as writing a",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/21/news-p.v1.20260721.8b46597a09114aa59fd23356bc212018_T1.jpg",
+      "tags": [
+        "music video",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "defdfbaebd8aa49a",
+      "title": "Katseye to drop single Friday",
+      "url": "https://www.koreaherald.com/article/10814918",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-21T02:35:45.000Z",
+      "snippet": "Katseye set fans abuzz Tuesday with a teaser video for their new single “Animal.” The video is awash in black and red, with the five members dressed up in suits and killer heels. T...",
+      "description": "Katseye set fans abuzz Tuesday with a teaser video for their new single “Animal.” The video is awash in black and red, with the five members dressed up in suits and killer heels. The single is set to drop on July 24, ahead of the release of the group's third EP “Wild,” due out Aug. 14. Expectations are high for the group, which set the bar high with the success of its previous releases. Its second mini album “Beautiful Chaos” peaked at No. 4 on the Billboard 200 and has been on the chart for a y",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/21/news-p.v1.20260721.9f9a0dc69d1646f69232254b89fa5827_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "billboard"
+      ]
+    },
+    {
+      "id": "b954b61a2ca5dfa7",
+      "title": "Riize to celebrate 3rd anniversary with fan meetup",
+      "url": "https://www.koreaherald.com/article/10814676",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-21T01:41:38.000Z",
+      "snippet": "Riize is set to host a two-day fan meeting this fall to mark the third anniversary of its debut, label SM Entertainment announced Monday. The group invited fans to the event, “Ch....",
+      "description": "Riize is set to host a two-day fan meeting this fall to mark the third anniversary of its debut, label SM Entertainment announced Monday. The group invited fans to the event, “Ch. Riize: On Air,” themed after a broadcasting channel dedicated to the six members and their official fandom. The idea was pitched at a fan party Riize held in May to mark the 1,000th day of its debut. The event is slated for Sept. 12 at 5 p.m. and Sept. 13 at 4 p.m. at Inspire Arena in Incheon. The six-member act return",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/21/news-p.v1.20260721.3287fa92b19a455aa537eac010e4dedd_T1.jpg",
+      "tags": [
+        "debut",
+        "fan meeting",
+        "riize"
       ]
     },
     {
@@ -287,38 +316,6 @@
         "debut",
         "album",
         "music video"
-      ]
-    },
-    {
-      "id": "78fe9a95a70765fa",
-      "title": "PSY’s “Gangnam Style” Becomes 1st MV By Asian Artist To Hit 6 Billion Views",
-      "url": "https://www.soompi.com/article/1855840wpp/psys-gangnam-style-becomes-1st-mv-by-asian-artist-to-hit-6-billion-views",
-      "source": "Soompi",
-      "publishedAt": "2026-07-19T22:32:55.000Z",
-      "snippet": "PSY has once again made YouTube history with his iconic hit “Gangnam Style”! On July 17, PSY’s legendary music video for his 2012 smash hit “Gangnam Style” surpassed 6 billion view...",
-      "description": "PSY has once again made YouTube history with his iconic hit “Gangnam Style”! On July 17, PSY’s legendary music video for his 2012 smash hit “Gangnam Style” surpassed 6 billion views on YouTube, making it the first music video by an Asian artist ever to reach the milestone—and only the fifth overall. PSY originally released… Continue reading PSY’s “Gangnam Style” Becomes 1st MV By Asian Artist To Hit 6 Billion Views The post PSY’s “Gangnam Style” Becomes 1st MV By Asian Artist To Hit 6 Billion Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "music video",
-        "mv"
-      ]
-    },
-    {
-      "id": "5483004c9ce21393",
-      "title": "ATEEZ, CORTIS, V8, LE SSERAFIM, BOYNEXTDOOR, Stray Kids, BTS, aespa, And More Sweep Top Spots On Billboard World Albums Chart",
-      "url": "https://www.soompi.com/article/1855822wpp/ateez-cortis-v8-le-sserafim-boynextdoor-stray-kids-bts-aespa-and-more-sweep-top-spots-on-billboard-world-albums-chart",
-      "source": "Soompi",
-      "publishedAt": "2026-07-19T20:38:20.000Z",
-      "snippet": "Billboard has published its World Albums chart for the week ending on July 18! ATEEZ’s latest mini album “GOLDEN HOUR : Part.5” remained No. 1 on the World Albums chart for the sec...",
-      "description": "Billboard has published its World Albums chart for the week ending on July 18! ATEEZ’s latest mini album “GOLDEN HOUR : Part.5” remained No. 1 on the World Albums chart for the second week in a row, in addition to spending a second week in the top 20 of the Billboard 200 at No. 19.… Continue reading ATEEZ, CORTIS, V8, LE SSERAFIM, BOYNEXTDOOR, Stray Kids, BTS, aespa, And More Sweep Top Spots On Billboard World Albums Chart The post ATEEZ, CORTIS, V8, LE SSERAFIM, BOYNEXTDOOR, Stray Kids, BTS, aespa, And More Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album",
-        "billboard",
-        "bts",
-        "stray kids",
-        "aespa"
       ]
     },
     {
