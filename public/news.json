@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-27T02:13:02.494Z",
+  "generatedAt": "2026-07-27T06:20:52.400Z",
   "items": [
+    {
+      "id": "82e60b37acaff03f",
+      "title": "Popular Idol Allegedly Brings Girlfriend To Concert, Sparks Major Backlash",
+      "url": "https://www.koreaboo.com/news/super-junior-leeteuk-brings-alleged-girlfriend-concert-sparks-backlash/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-07-27T05:11:13.000Z",
+      "snippet": "Netizens were divided.",
+      "description": "Netizens were divided.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "concert"
+      ]
+    },
     {
       "id": "173ae23b61e1aab1",
       "title": "BTS’s Jungkook Unexpectedly Spotted At Another Idol’s Concert",
@@ -17,19 +31,18 @@
       ]
     },
     {
-      "id": "c66060daa548de11",
-      "title": "BTS bounces back to top 10 on Billboard 200",
-      "url": "https://www.koreaherald.com/article/10821191",
+      "id": "7f11d8749001f506",
+      "title": "Young K turns inward on his most personal solo album yet",
+      "url": "https://www.koreaherald.com/article/10820571",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-27T01:36:53.000Z",
-      "snippet": "BTS' fifth album “Arirang” jumped to No. 9 on the Billboard 200 dated Aug. 1, according to the chart preview released Sunday in the US. The album leapt up 17 rungs from the previou...",
-      "description": "BTS' fifth album “Arirang” jumped to No. 9 on the Billboard 200 dated Aug. 1, according to the chart preview released Sunday in the US. The album leapt up 17 rungs from the previous week, charting 13 weeks in the top ten on the main albums chart, a first-ever for a K-pop artist. The group's release of an exclusive vinyl edition with two bonus tracks — “Voice Message: Love Song” and “Normal” — boosted sales alongside a historic performance at the halftime show for the 2026 FIFA World Cup final. T",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/27/news-p.v1.20260727.9c6abe8c32fd4d3db184d0f541e6219d_T1.jpg",
+      "publishedAt": "2026-07-26T23:00:00.000Z",
+      "snippet": "After spending the past decade giving his all as part of K-pop boy band Day6, singer-songwriter Young K says it is finally time to turn his attention toward Kang Young-hyun, the pe...",
+      "description": "After spending the past decade giving his all as part of K-pop boy band Day6, singer-songwriter Young K says it is finally time to turn his attention toward Kang Young-hyun, the person behind the artist. That process lies at the heart of his second LP, “Youngest.” Arriving two years and 10 months after his first album, “Letters with notes,” the 15-track release captures not only Young K’s broad musical range, but also a period of self-examination in which he began confronting emotions and parts",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/26/news-p.v1.20260726.f1427c1816264ddb945e9563def58639_T1.jpg",
       "tags": [
         "k-pop",
         "album",
-        "billboard",
-        "bts"
+        "day6"
       ]
     },
     {
@@ -127,6 +140,20 @@
       ]
     },
     {
+      "id": "c840a54ab38222cf",
+      "title": "Cortis to livestream LA concert in cinemas across 29 countries and regions",
+      "url": "https://www.koreaherald.com/article/10820373",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-26T02:55:30.000Z",
+      "snippet": "Fans around the world will be able to watch Cortis' upcoming Los Angeles concert in movie theaters, extending the reach of the rookie boy group's first world tour. The group’s Aug....",
+      "description": "Fans around the world will be able to watch Cortis' upcoming Los Angeles concert in movie theaters, extending the reach of the rookie boy group's first world tour. The group’s Aug. 13 concert at YouTube Theater in Los Angeles, part of the North American leg of its “Put Your Phone Down” world tour, will be broadcast through a live-viewing event, Big Hit Music announced Sunday. The concert will be screened at more than 870 cinemas across 29 countries and regions, including South Korea. Some market",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/26/news-p.v1.20260726.62d89909a5a74af6af9087373a5df9a4_T1.jpg",
+      "tags": [
+        "world tour",
+        "concert"
+      ]
+    },
+    {
       "id": "25de62b34e424001",
       "title": "Jennie Tops YouTube And iTunes Charts Worldwide With “Less than a Lover”",
       "url": "https://www.soompi.com/article/1857273wpp/jennie-tops-youtube-and-itunes-charts-worldwide-with-less-than-a-lover",
@@ -138,6 +165,21 @@
       "tags": [
         "music video",
         "blackpink"
+      ]
+    },
+    {
+      "id": "c7160378687af9cc",
+      "title": "Riize draws 50,000 to Japan fan meeting tour",
+      "url": "https://www.koreaherald.com/article/10819892",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-07-25T02:15:09.000Z",
+      "snippet": "K-pop group Riize has wrapped up its Japan fan meeting tour, drawing about 50,000 people across six shows, SM Entertainment said. The tour ran July 10 in Fukuoka, July 15-16 in Tok...",
+      "description": "K-pop group Riize has wrapped up its Japan fan meeting tour, drawing about 50,000 people across six shows, SM Entertainment said. The tour ran July 10 in Fukuoka, July 15-16 in Tokyo and July 23-24 in Hyogo. All six shows sold out. Built around a game concept, the fan meetings featured dance and mission challenges as well as talk segments. The group performed \"Kill Shot,\" the ending theme for the Japanese animated series \"Kill Blue,\" for the first time, along with \"All of You\" and \"Flashlight\" f",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/25/news-p.v1.20260725.d7eb092dccdc4b6aba4ad3139ca5fc5c_T1.jpg",
+      "tags": [
+        "k-pop",
+        "fan meeting",
+        "riize"
       ]
     },
     {
@@ -213,20 +255,6 @@
         "music video",
         "billboard",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "eea23c4739614e7c",
-      "title": "Park Eun Bin Announces 2026 Fan Concert Tour “EUNBIN NOTE: EUNiverse”",
-      "url": "https://www.soompi.com/article/1857043wpp/park-eun-bin-announces-2026-fan-concert-tour-eunbin-note-euniverse",
-      "source": "Soompi",
-      "publishedAt": "2026-07-23T09:38:05.000Z",
-      "snippet": "Park Eun Bin is set to hold a fan concert tour in celebration of the 30th anniversary of her debut! On July 23, it was announced that Park Eun Bin will kick off her 2026 fan concer...",
-      "description": "Park Eun Bin is set to hold a fan concert tour in celebration of the 30th anniversary of her debut! On July 23, it was announced that Park Eun Bin will kick off her 2026 fan concert “EUNBIN NOTE: EUNiverse” at KBS Arena in Seoul on September 5 at 5 p.m. KST. Her agency Namoo… Continue reading Park Eun Bin Announces 2026 Fan Concert Tour “EUNBIN NOTE: EUNiverse” The post Park Eun Bin Announces 2026 Fan Concert Tour “EUNBIN NOTE: EUNiverse” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "concert"
       ]
     },
     {
