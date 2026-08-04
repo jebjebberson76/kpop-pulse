@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-04T11:58:16.268Z",
+  "generatedAt": "2026-08-04T14:14:36.727Z",
   "items": [
+    {
+      "id": "d8549e79203e8c45",
+      "title": "SF9 Announces Plans For 10th-Anniversary Comeback, Concert, And More",
+      "url": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
+      "source": "Soompi",
+      "publishedAt": "2026-08-04T13:52:28.000Z",
+      "snippet": "Get ready: SF9 has big plans for the rest of 2026! On August 4, SF9 officially announced their plans for the upcoming 10th anniversary of their debut. First, SF9 will make a comeba...",
+      "description": "Get ready: SF9 has big plans for the rest of 2026! On August 4, SF9 officially announced their plans for the upcoming 10th anniversary of their debut. First, SF9 will make a comeback with their second full-length album on August 26, when they will also be holding a showcase for the release. Then, after ringing… Continue reading SF9 Announces Plans For 10th-Anniversary Comeback, Concert, And More The post SF9 Announces Plans For 10th-Anniversary Comeback, Concert, And More appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/04065033/SF9.jpeg",
+      "tags": [
+        "comeback",
+        "debut",
+        "album",
+        "concert"
+      ]
+    },
     {
       "id": "88c6d0096d717308",
       "title": "“Nugu” 4th-Gen Girl Group From Big K-Pop Company Makes Shocking Re-Debut Announcement",
@@ -153,7 +169,7 @@
       "publishedAt": "2026-08-02T14:52:17.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on August 1! ATEEZ’s latest mini album “GOLDEN HOUR : Part.5” returned to No. 1 this week, marking its third non-...",
       "description": "Billboard has published its World Albums chart for the week ending on August 1! ATEEZ’s latest mini album “GOLDEN HOUR : Part.5” returned to No. 1 this week, marking its third non-consecutive week at the top of the chart. The EP also spent a fourth week on the Billboard 200 at No. 121. CORTIS’s latest… Continue reading ATEEZ, CORTIS, Yeonjun, LE SSERAFIM, BTS, BOYNEXTDOOR, aespa, Stray Kids, And More Sweep Top Spots On Billboard World Albums Chart The post ATEEZ, CORTIS, Yeonjun, LE SSERAFIM, BTS, BOYNEXTDOOR, aespa, Stray Kids, And More Sweep Top Spots On Billboard World Albums Chart appeared...",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/02075058/ATEEZ-CORTIS-Yeonjun-LE-SSERAFIM.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "mini album",
         "album",
@@ -429,20 +445,6 @@
         "album",
         "billboard",
         "bts"
-      ]
-    },
-    {
-      "id": "6329957392fd7244",
-      "title": "NCT 127 to release seventh LP ‘Blingy’",
-      "url": "https://www.koreaherald.com/article/10821323",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-07-27T02:13:30.000Z",
-      "snippet": "NCT 127 will return with its seventh album “Blingy” next month, marking the group’s first major release since July 2024. The nine-track album will be released across global music p...",
-      "description": "NCT 127 will return with its seventh album “Blingy” next month, marking the group’s first major release since July 2024. The nine-track album will be released across global music platforms at 6 p.m. on Aug. 24, SM Entertainment announced Monday. Physical copies of the album will also be released on the same day. According to the agency, “Blingy” reflects on the group’s decadelong journey while expressing the members’ pride in the team and their commitment to continuing forward together as one te",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/27/news-p.v1.20260727.5180f72c5ac24b909bbf6121110d005d_T1.jpg",
-      "tags": [
-        "album",
-        "nct"
       ]
     }
   ]
