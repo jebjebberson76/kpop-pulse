@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-08-07T03:43:56.206Z",
+  "generatedAt": "2026-08-07T05:28:43.910Z",
   "items": [
-    {
-      "id": "cbf80aa5eb13524e",
-      "title": "Blackpink’s Rose denies missing group’s 10th-anniversary event",
-      "url": "https://www.koreaherald.com/article/10834113",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-07T02:51:48.000Z",
-      "snippet": "Rose of Blackpink will attend an event planned to celebrate the 10th anniversary of the group’s debut, said her agency The Black Label on Friday. The company released a statement d...",
-      "description": "Rose of Blackpink will attend an event planned to celebrate the 10th anniversary of the group’s debut, said her agency The Black Label on Friday. The company released a statement denying rumors that she will miss the group activity due to schedule conflicts, underlining that she set aside time well in advance prioritizing the Aug. 8 anniversary. YG Entertainment, which oversees the quartet’s career, confirmed that all four members would make appearance on the day. Rose was allegedly spotted in L",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/07/news-p.v1.20260807.4f02ae331856486e86869b3f245106f1_T1.jpg",
-      "tags": [
-        "debut",
-        "blackpink"
-      ]
-    },
     {
       "id": "77701160996bbf3f",
       "title": "BLACKPINK to mark 10th anniv. with fan event in Seoul",
@@ -61,34 +47,6 @@
       ]
     },
     {
-      "id": "4cfd0a4696fe6b12",
-      "title": "Popular K-Pop Idol Confesses She Had Her Boyfriend Stolen By Her Best Friend",
-      "url": "https://www.koreaboo.com/news/popular-kpop-idol-confesses-boyfriend-stolen-best-friend/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-06T17:56:35.000Z",
-      "snippet": "A popular K-Pop idol confessed that she had a man taken away by a close friend, evoking sympathy from netizens. On August 5th, the YouTube channel No Back Tak posted…",
-      "description": "A popular K-Pop idol confessed that she had a man taken away by a close friend, evoking sympathy from netizens. On August 5th, the YouTube channel No Back Tak posted…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "8a4a248009afe69c",
-      "title": "Top K-Pop Idol Captivates With Bikini Photos",
-      "url": "https://www.koreaboo.com/news/top-kpop-idol-captivates-bikini-photos/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-06T17:40:14.000Z",
-      "snippet": "A K-Pop idol shared several photos of herself wearing a bikini on social media, drawing attention to her gorgeous figure and natural beauty. On August 4th, 2NE1’s Sandara Park shar...",
-      "description": "A K-Pop idol shared several photos of herself wearing a bikini on social media, drawing attention to her gorgeous figure and natural beauty. On August 4th, 2NE1’s Sandara Park shared…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
       "id": "7d2808d21aaf3e1b",
       "title": "Watch: Jennie Takes 2nd Win For “Less than a Lover” On “M Countdown”; Performances By Red Velvet, Dino, And More",
       "url": "https://www.soompi.com/article/1860719wpp/watch-jennie-takes-2nd-win-for-less-than-a-lover-on-m-countdown-performances-by-red-velvet-dino-and-more",
@@ -129,6 +87,50 @@
       "tags": [
         "k-pop",
         "debut"
+      ]
+    },
+    {
+      "id": "69783f216af53ba2",
+      "title": "Katseye stores to pop up in Seoul, Tokyo for 3rd EP",
+      "url": "https://www.koreaherald.com/article/10832824",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-06T02:25:23.000Z",
+      "snippet": "Katseye is planning to open pop-up stores for its upcoming EP in Seoul and Tokyo, according to Hybe X Geffen Records on Thursday. The temporary space for EP “Wild” will be shaded i...",
+      "description": "Katseye is planning to open pop-up stores for its upcoming EP in Seoul and Tokyo, according to Hybe X Geffen Records on Thursday. The temporary space for EP “Wild” will be shaded in fuchsia, the key color of the mini album, mirroring the kitsch and untamed ambience of the set. Visitors can listen to exclusive messages and leave replies in booths, getting a close-up look at costumes on mannequins re-creating scenes from the group's music videos. A range of merchandise will be available for purcha",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/06/news-p.v1.20260806.e683ad853a104a9db0bbc004dbb7b381_T1.jpg",
+      "tags": [
+        "mini album",
+        "album",
+        "music video"
+      ]
+    },
+    {
+      "id": "bf88432d74b10e69",
+      "title": "Girl group Tuide announces debut single",
+      "url": "https://www.koreaherald.com/article/10832784",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-06T02:11:37.000Z",
+      "snippet": "Tuide, the first girl group launched by Hybe’s new affiliate ABD, which stands for a bold dream, unveiled the title of its debut single: “Sun Kiss.” On Wednesday night, a teaser im...",
+      "description": "Tuide, the first girl group launched by Hybe’s new affiliate ABD, which stands for a bold dream, unveiled the title of its debut single: “Sun Kiss.” On Wednesday night, a teaser image inspired by a summer camp was uploaded, giving details of promoting the group’s first EP “Tune & Play” set for Aug. 24. Tuide will be a multinational act comprising seven members aged 15 to 20, including Seoyeon, the youngest sister of Twice leader Jihyo. The group held two showcases in Seoul last weekend where it",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/06/news-p.v1.20260806.808ea01ebc814f45a3cd48dfc1ba8d92_T1.jpg",
+      "tags": [
+        "debut",
+        "twice"
+      ]
+    },
+    {
+      "id": "dccdbcddded2f92f",
+      "title": "BTS tops 4b Spotify streams with ‘Arirang’ album",
+      "url": "https://www.koreaherald.com/article/10832672",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-06T01:30:22.000Z",
+      "snippet": "BTS has garnered 4 billion plays on Spotify with fifth studio album “Arirang,” becoming the fifth fastest album to reach the milestone and the fastest for any album by an Asian art...",
+      "description": "BTS has garnered 4 billion plays on Spotify with fifth studio album “Arirang,” becoming the fifth fastest album to reach the milestone and the fastest for any album by an Asian artist. The septet now has eight albums that reached the 4 billion mark. The ongoing world tour named after the LP is likely to add momentum to the streaming streak. BTS is going live in Boston again Thursday before hopping between the remaining stops of the North American leg — four more cities in the US and Toronto. Mea",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/06/news-p.v1.20260806.ae84c99dbccb41d688fadc68dd450463_T1.jpg",
+      "tags": [
+        "album",
+        "world tour",
+        "bts"
       ]
     },
     {
@@ -262,22 +264,6 @@
       "tags": [
         "music video",
         "mv"
-      ]
-    },
-    {
-      "id": "d8549e79203e8c45",
-      "title": "SF9 Announces Plans For 10th-Anniversary Comeback, Concert, And More",
-      "url": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
-      "source": "Soompi",
-      "publishedAt": "2026-08-04T13:52:28.000Z",
-      "snippet": "Get ready: SF9 has big plans for the rest of 2026! On August 4, SF9 officially announced their plans for the upcoming 10th anniversary of their debut. First, SF9 will make a comeba...",
-      "description": "Get ready: SF9 has big plans for the rest of 2026! On August 4, SF9 officially announced their plans for the upcoming 10th anniversary of their debut. First, SF9 will make a comeback with their second full-length album on August 26, when they will also be holding a showcase for the release. Then, after ringing… Continue reading SF9 Announces Plans For 10th-Anniversary Comeback, Concert, And More The post SF9 Announces Plans For 10th-Anniversary Comeback, Concert, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "debut",
-        "album",
-        "concert"
       ]
     },
     {
