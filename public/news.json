@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-09T10:25:29.307Z",
+  "generatedAt": "2026-08-09T11:21:51.799Z",
   "items": [
+    {
+      "id": "5a5d8f3ecd6e6ac9",
+      "title": "Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer",
+      "url": "https://www.soompi.com/article/1861302wpp/stars-rock-the-blue-carpet-at-2026-sbs-gayo-daejeon-summer",
+      "source": "Soompi",
+      "publishedAt": "2026-08-09T10:29:35.000Z",
+      "snippet": "Ahead of the 2026 SBS Gayo Daejeon Summer, stars greeted fans on the blue carpet! The SBS Gayo Daejeon Summer is a midyear special that wraps up the first half of 2026 with special...",
+      "description": "Ahead of the 2026 SBS Gayo Daejeon Summer, stars greeted fans on the blue carpet! The SBS Gayo Daejeon Summer is a midyear special that wraps up the first half of 2026 with special performances by a star-studded lineup of artists. In addition to RIIZE’s Sungchan, Hearts2Hearts’ Ian, and NCT WISH’s Sion hosting the event,… Continue reading Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer The post Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/09032617/sbs-gayo-daejeon.png",
+      "tags": [
+        "nct",
+        "riize"
+      ]
+    },
     {
       "id": "c53b779488b41a5d",
       "title": "“ARIRANG” Breaks BTS’s Personal Record From 7 Years Ago On UK’s Official Albums Chart",
@@ -29,20 +43,6 @@
         "blackpink",
         "stray kids",
         "red velvet"
-      ]
-    },
-    {
-      "id": "ef813b56b252ef22",
-      "title": "K-Pop Idol Posts Distressing Message Following Group’s Sudden Disbandment",
-      "url": "https://www.koreaboo.com/news/male-idol-posts-distressing-message-following-groups-sudden-disbandment/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-08T20:10:15.000Z",
-      "snippet": "Fans are concerned.",
-      "description": "Fans are concerned.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -84,7 +84,7 @@
       "publishedAt": "2026-08-08T02:25:26.000Z",
       "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
       "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from July 8 to August 8. BTS held onto their spot at the top… Continue reading August Boy Group Brand Reputation Rankings Announced The post August Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/07192339/BTS-ATEEZ-CORTIS.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "bts"
