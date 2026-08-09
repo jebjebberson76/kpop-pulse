@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-08-09T03:26:13.533Z",
+  "generatedAt": "2026-08-09T04:57:22.427Z",
   "items": [
-    {
-      "id": "d205488268370a77",
-      "title": "Blackpink&apos;s 10th anniversary overshadowed by fan backlash, apologies",
-      "url": "https://www.koreaherald.com/article/10835049",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-09T02:39:15.000Z",
-      "snippet": "Blackpink marked 10 years since its debut Saturday, reuniting to meet fans and go live online — but the celebration also came with repeated apologies over how the anniversary was h...",
-      "description": "Blackpink marked 10 years since its debut Saturday, reuniting to meet fans and go live online — but the celebration also came with repeated apologies over how the anniversary was handled. YG Entertainment first announced the event Thursday — just two days before the anniversary — saying it would hold an in-person gathering \"somewhere in Seoul\" for 40 paying Weverse members. The announcement did not confirm which members would attend, adding the caveat that only those \"available by schedule\" woul",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/09/news-p.v1.20260809.92f0c15211374024858a50c44c7fe8df_T1.png",
-      "tags": [
-        "debut",
-        "blackpink"
-      ]
-    },
     {
       "id": "ffde6a99b916da75",
       "title": "Watch: RESCENE Takes 3rd Win For “Pretty Girl” On “Music Core”; Performances By Stray Kids, Red Velvet, BABYMONSTER, And More",
@@ -38,7 +24,7 @@
       "publishedAt": "2026-08-08T20:10:15.000Z",
       "snippet": "Fans are concerned.",
       "description": "Fans are concerned.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/08/FEATURED-IMAGE-2026-08-08T150621.925.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -52,7 +38,7 @@
       "publishedAt": "2026-08-08T17:38:44.000Z",
       "snippet": "What a deal!",
       "description": "What a deal!",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/08/FEATURED-IMAGE-2026-08-08T123717.236.jpg",
       "tags": [
         "k-pop",
         "concert"
@@ -97,7 +83,7 @@
       "publishedAt": "2026-08-08T02:25:26.000Z",
       "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
       "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from July 8 to August 8. BTS held onto their spot at the top… Continue reading August Boy Group Brand Reputation Rankings Announced The post August Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/07192339/BTS-ATEEZ-CORTIS.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "bts"
@@ -111,7 +97,7 @@
       "publishedAt": "2026-08-07T11:48:27.000Z",
       "snippet": "NouerA has won a second music show trophy of their career! On the August 7 episode of “Music Bank,” the candidates for first place were NouerA’s “.exe” and CORTIS’s “REDRED.” Nouer...",
       "description": "NouerA has won a second music show trophy of their career! On the August 7 episode of “Music Bank,” the candidates for first place were NouerA’s “.exe” and CORTIS’s “REDRED.” NouerA ultimately took the prize with a total of 8,827 points, marking the first public broadcast network music show win of their career. Congratulations to NouerA! Watch… Continue reading Watch: NouerA Takes 2nd Win For “.exe” On “Music Bank”; Performances By Stray Kids, Dayoung, Jay Park, And More The post Watch: NouerA Takes 2nd Win For “.exe” On “Music Bank”; Performances By Stray Kids, Dayoung, Jay Park, And More app...",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/07044814/nouera-music-bank.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "music bank",
         "stray kids"
@@ -129,6 +115,20 @@
       "tags": [
         "music video",
         "mv"
+      ]
+    },
+    {
+      "id": "cbf80aa5eb13524e",
+      "title": "Blackpink’s Rose denies missing group’s 10th-anniversary event",
+      "url": "https://www.koreaherald.com/article/10834113",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-07T02:51:48.000Z",
+      "snippet": "Rose of Blackpink will attend an event planned to celebrate the 10th anniversary of the group’s debut, said her agency The Black Label on Friday. The company released a statement d...",
+      "description": "Rose of Blackpink will attend an event planned to celebrate the 10th anniversary of the group’s debut, said her agency The Black Label on Friday. The company released a statement denying rumors that she will miss the group activity due to schedule conflicts, underlining that she set aside time well in advance prioritizing the Aug. 8 anniversary. YG Entertainment, which oversees the quartet’s career, confirmed that all four members would make appearance on the day. Rose was allegedly spotted in L",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/07/news-p.v1.20260807.4f02ae331856486e86869b3f245106f1_T1.jpg",
+      "tags": [
+        "debut",
+        "blackpink"
       ]
     },
     {
