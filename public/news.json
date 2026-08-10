@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-10T05:18:29.937Z",
+  "generatedAt": "2026-08-10T07:16:48.215Z",
   "items": [
+    {
+      "id": "7806c5d3cc078831",
+      "title": "Baby Shark Boy returns as K-pop singer",
+      "url": "https://www.koreaherald.com/article/10836239",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-10T06:18:45.000Z",
+      "snippet": "The child performer featured in YouTube's most-viewed video of all time, known as Baby Shark Boy in Korea, is set to make his K-pop debut on Aug. 20, according to The Pinkfong Comp...",
+      "description": "The child performer featured in YouTube's most-viewed video of all time, known as Baby Shark Boy in Korea, is set to make his K-pop debut on Aug. 20, according to The Pinkfong Company. The global family entertainment company behind Pinkfong and Baby Shark announced Monday that \"Baby Shark Boy\" will release his first digital single, \"WAVE,\" a Korean-language track with lyrics he co-wrote himself, featuring Joohoney of K-pop group Monsta X. Baby Shark Boy, whose real name is Park Geon-roung, 17,",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/10/news-p.v1.20260810.a6ba1ef36d8a4b7e8b119ee0fef9fbd7_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut"
+      ]
+    },
     {
       "id": "bc13d5d70fb798d8",
       "title": "BLACKPINK’s 10th Debut Anniversary Event Filed For Investigation, Sparks Backlash",
@@ -422,21 +436,6 @@
       "tags": [
         "album",
         "red velvet"
-      ]
-    },
-    {
-      "id": "1f9fcf7542c1430a",
-      "title": "BTS’ Jungkook surpasses 1.5b Spotify streams for 2nd time",
-      "url": "https://www.koreaherald.com/article/10830140",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-04T01:53:48.000Z",
-      "snippet": "Jungkook of BTS has garnered 1.5 billion plays on Spotify with his solo single “Standing Next to You,” label Big Hit Music said Tuesday. It is his second solo song to hit the thres...",
-      "description": "Jungkook of BTS has garnered 1.5 billion plays on Spotify with his solo single “Standing Next to You,” label Big Hit Music said Tuesday. It is his second solo song to hit the threshold, after “Seven (feat. Latto),” which had logged 3 billion streams as of June. The recent feat makes him the first solo K-pop artist to have multiple songs with over 1.5 billion streams on the platform. “Standing Next to You” is the main track from his first solo album, “Golden.” The disco funk tune spent 19 weeks o",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/04/news-p.v1.20260804.f6c6fc6a737e4b34852f796565a47779_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "bts"
       ]
     }
   ]
