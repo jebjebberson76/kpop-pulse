@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:10:33.057Z",
+  "generatedAt": "2026-08-10T11:00:50.477Z",
   "items": [
     {
       "id": "5cd90db847c5da59",
@@ -27,20 +27,6 @@
       "tags": [
         "k-pop",
         "debut"
-      ]
-    },
-    {
-      "id": "bc13d5d70fb798d8",
-      "title": "BLACKPINK’s 10th Debut Anniversary Event Filed For Investigation, Sparks Backlash",
-      "url": "https://www.koreaboo.com/news/blackpinksmeet-greet-national-museum-korea-filed-investigation-complaints/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-10T03:21:25.000Z",
-      "snippet": "They received numerous citizen complaints.",
-      "description": "They received numerous citizen complaints.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "blackpink"
       ]
     },
     {
@@ -436,6 +422,21 @@
       "tags": [
         "album",
         "red velvet"
+      ]
+    },
+    {
+      "id": "1f9fcf7542c1430a",
+      "title": "BTS’ Jungkook surpasses 1.5b Spotify streams for 2nd time",
+      "url": "https://www.koreaherald.com/article/10830140",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-04T01:53:48.000Z",
+      "snippet": "Jungkook of BTS has garnered 1.5 billion plays on Spotify with his solo single “Standing Next to You,” label Big Hit Music said Tuesday. It is his second solo song to hit the thres...",
+      "description": "Jungkook of BTS has garnered 1.5 billion plays on Spotify with his solo single “Standing Next to You,” label Big Hit Music said Tuesday. It is his second solo song to hit the threshold, after “Seven (feat. Latto),” which had logged 3 billion streams as of June. The recent feat makes him the first solo K-pop artist to have multiple songs with over 1.5 billion streams on the platform. “Standing Next to You” is the main track from his first solo album, “Golden.” The disco funk tune spent 19 weeks o",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/04/news-p.v1.20260804.f6c6fc6a737e4b34852f796565a47779_T1.jpg",
+      "tags": [
+        "k-pop",
+        "album",
+        "bts"
       ]
     }
   ]
