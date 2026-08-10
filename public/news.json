@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-10T07:16:48.215Z",
+  "generatedAt": "2026-08-10T09:10:33.057Z",
   "items": [
+    {
+      "id": "5cd90db847c5da59",
+      "title": "SEVENTEEN Mingyu’s Enlistment Notice Sparks Wave Of Negativity Towards Idol",
+      "url": "https://www.koreaboo.com/news/seventeen-mingyu-enlistment-news-negativity-idol/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-08-10T08:20:43.000Z",
+      "snippet": "Fans were quick to defend Mingyu!",
+      "description": "Fans were quick to defend Mingyu!",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "seventeen"
+      ]
+    },
     {
       "id": "7806c5d3cc078831",
       "title": "Baby Shark Boy returns as K-pop singer",
@@ -23,7 +37,7 @@
       "publishedAt": "2026-08-10T03:21:25.000Z",
       "snippet": "They received numerous citizen complaints.",
       "description": "They received numerous citizen complaints.",
-      "image": "https://image.koreaboo.com/2026/08/post2-2026-08-10T121614.291.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "debut",
         "blackpink"
@@ -55,20 +69,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "7d6671a21b7a9a91",
-      "title": "ILLIT And LE SSERAFIM Accused Of Encouraging Racism Against NewJeans’ Hanni",
-      "url": "https://www.koreaboo.com/news/illit-le-sserafim-accusations-racism-insensitive-newjeans-hanni/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-09T23:01:32.000Z",
-      "snippet": "The controversy was too big to be ignored.",
-      "description": "The controversy was too big to be ignored.",
-      "image": "https://image.koreaboo.com/2026/08/illit-lsfm.jpg",
-      "tags": [
-        "newjeans",
-        "le sserafim"
       ]
     },
     {
@@ -111,7 +111,7 @@
       "publishedAt": "2026-08-09T14:24:11.000Z",
       "snippet": "Stray Kids has given fans a closer look at their latest choreography! On August 9, Stray Kids released the official dance practice video for “This & That,” the title track of their...",
       "description": "Stray Kids has given fans a closer look at their latest choreography! On August 9, Stray Kids released the official dance practice video for “This & That,” the title track of their new mini album of the same name. The new video offers a full view of all eight members’ moves throughout the song, along… Continue reading Watch: Stray Kids Proves They’ve Got “This & That” In New Dance Practice Video The post Watch: Stray Kids Proves They’ve Got “This & That” In New Dance Practice Video appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/09072428/Stray-Kids.jpg",
       "tags": [
         "mini album",
         "album",
@@ -126,7 +126,7 @@
       "publishedAt": "2026-08-09T10:29:35.000Z",
       "snippet": "Ahead of the 2026 SBS Gayo Daejeon Summer, stars greeted fans on the blue carpet! The SBS Gayo Daejeon Summer is a midyear special that wraps up the first half of 2026 with special...",
       "description": "Ahead of the 2026 SBS Gayo Daejeon Summer, stars greeted fans on the blue carpet! The SBS Gayo Daejeon Summer is a midyear special that wraps up the first half of 2026 with special performances by a star-studded lineup of artists. In addition to RIIZE’s Sungchan, Hearts2Hearts’ Ian, and NCT WISH’s Sion hosting the event,… Continue reading Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer The post Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/09032617/sbs-gayo-daejeon.png",
       "tags": [
         "nct",
         "riize"
