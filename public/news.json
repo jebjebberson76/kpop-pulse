@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T06:54:56.972Z",
+  "generatedAt": "2026-08-11T08:05:19.700Z",
   "items": [
     {
       "id": "492b71499127d6f7",
@@ -43,21 +43,6 @@
       "tags": [
         "album",
         "billboard"
-      ]
-    },
-    {
-      "id": "2807cba3d7da1751",
-      "title": "“LGBT Is The Devil” — Male K-Pop Idol’s Re-Debut Met With Demands For His Removal",
-      "url": "https://www.koreaboo.com/news/lgbt-devil-male-kpop-idols-re-debut-met-demands-removal/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-10T21:03:25.000Z",
-      "snippet": "\"...he's gonna bring the group down.\"",
-      "description": "\"...he's gonna bring the group down.\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol",
-        "debut"
       ]
     },
     {
@@ -284,22 +269,6 @@
       ]
     },
     {
-      "id": "3103388bca160159",
-      "title": "Stray Kids Tops YouTube And iTunes Charts All Over The World With “THIS & THAT”",
-      "url": "https://www.soompi.com/article/1861061wpp/stray-kids-tops-youtube-and-itunes-charts-all-over-the-world-with-this-that",
-      "source": "Soompi",
-      "publishedAt": "2026-08-08T04:44:31.000Z",
-      "snippet": "Stray Kids is back—and already topping charts worldwide! On August 7 at 1 p.m. KST, Stray Kids made their highly-anticipated comeback with their new mini album “THIS & THAT” and it...",
-      "description": "Stray Kids is back—and already topping charts worldwide! On August 7 at 1 p.m. KST, Stray Kids made their highly-anticipated comeback with their new mini album “THIS & THAT” and its title track of the same name. Immediately upon their release, both the EP and the song “This & That” soared to the top of… Continue reading Stray Kids Tops YouTube And iTunes Charts All Over The World With “THIS & THAT” The post Stray Kids Tops YouTube And iTunes Charts All Over The World With “THIS & THAT” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album",
-        "stray kids"
-      ]
-    },
-    {
       "id": "b867d8fbb5d9f821",
       "title": "Stray Kids mum on Grammy submission plans after BTS boycott",
       "url": "https://www.koreaherald.com/article/10834521",
@@ -443,6 +412,21 @@
         "k-pop",
         "debut",
         "world tour"
+      ]
+    },
+    {
+      "id": "4b6b6afc4dbbcc92",
+      "title": "BTS, Seventeen join the &apos;Spider-Man&apos; frenzy sweeping Korea",
+      "url": "https://www.koreaherald.com/article/10831642",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-05T02:46:40.000Z",
+      "snippet": "The hottest movie in Korean theaters right now has some very famous fans. As \"Spider-Man: Brand New Day\" steamrolls the box office, K-pop's biggest names have been lining up to sho...",
+      "description": "The hottest movie in Korean theaters right now has some very famous fans. As \"Spider-Man: Brand New Day\" steamrolls the box office, K-pop's biggest names have been lining up to show their love — on the stage, on social media and, in one case, at a movie night with a dress code. BTS' J-Hope got things rolling on Friday, the film's opening day in North America, when he posted a nighttime view of New York City to his Instagram story complete with a Spider-Man graphic and music from the film's sound",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/05/news-p.v1.20260805.3496ffa0c8e9422c8cccdb9f3aab2768_T1.png",
+      "tags": [
+        "k-pop",
+        "bts",
+        "seventeen"
       ]
     }
   ]
