@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-11T05:55:24.695Z",
+  "generatedAt": "2026-08-11T06:54:56.972Z",
   "items": [
+    {
+      "id": "492b71499127d6f7",
+      "title": "Doh Kyung Soo Announces Stops For 2026-27 Concert Tour “DAY OFF”",
+      "url": "https://www.soompi.com/article/1861942wpp/doh-kyung-soo-announces-stops-for-2026-27-concert-tour-day-off",
+      "source": "Soompi",
+      "publishedAt": "2026-08-11T06:29:53.000Z",
+      "snippet": "EXO’s Doh Kyung Soo will be greeting fans through his 2026-27 concert tour “DAY OFF”! After starting the tour in Seoul from October 2 to 4, Doh Kyung Soo will visit Macau, Bangkok,...",
+      "description": "EXO’s Doh Kyung Soo will be greeting fans through his 2026-27 concert tour “DAY OFF”! After starting the tour in Seoul from October 2 to 4, Doh Kyung Soo will visit Macau, Bangkok, Jakarta, Kaohsiung, Singapore, Hong Kong, Manila, Tokyo, and Taipei. Check out the poster below! Is Doh Kyung Soo coming to a location… Continue reading Doh Kyung Soo Announces Stops For 2026-27 Concert Tour “DAY OFF” The post Doh Kyung Soo Announces Stops For 2026-27 Concert Tour “DAY OFF” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/10232913/dohkyungsoo.jpeg",
+      "tags": [
+        "concert",
+        "exo"
+      ]
+    },
     {
       "id": "a4139568a5b67933",
       "title": "Shinee’s Onew ready for Japanese single, concert",
@@ -44,20 +58,6 @@
         "k-pop",
         "idol",
         "debut"
-      ]
-    },
-    {
-      "id": "766319c292c0c195",
-      "title": "Idol-Husband Actor Shows Off Toned Muscles",
-      "url": "https://www.koreaboo.com/news/idol-husband-actor-shows-off-toned-muscles/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-10T19:56:21.000Z",
-      "snippet": "A Korean actor, who is married to a K-Pop idol, shared an update on his self-care by revealing his well-toned body. On August 9th, two photos were posted on Instagram…",
-      "description": "A Korean actor, who is married to a K-Pop idol, shared an update on his self-care by revealing his well-toned body. On August 9th, two photos were posted on Instagram…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -218,7 +218,7 @@
       "publishedAt": "2026-08-09T10:29:35.000Z",
       "snippet": "Ahead of the 2026 SBS Gayo Daejeon Summer, stars greeted fans on the blue carpet! The SBS Gayo Daejeon Summer is a midyear special that wraps up the first half of 2026 with special...",
       "description": "Ahead of the 2026 SBS Gayo Daejeon Summer, stars greeted fans on the blue carpet! The SBS Gayo Daejeon Summer is a midyear special that wraps up the first half of 2026 with special performances by a star-studded lineup of artists. In addition to RIIZE’s Sungchan, Hearts2Hearts’ Ian, and NCT WISH’s Sion hosting the event,… Continue reading Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer The post Stars Rock The Blue Carpet At 2026 SBS Gayo Daejeon Summer appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/09032617/sbs-gayo-daejeon.png",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "nct",
         "riize"
@@ -297,20 +297,6 @@
         "mini album",
         "album",
         "stray kids"
-      ]
-    },
-    {
-      "id": "23f480f725cc936d",
-      "title": "August Boy Group Brand Reputation Rankings Announced",
-      "url": "https://www.soompi.com/article/1861054wpp/august-boy-group-brand-reputation-rankings-announced-9",
-      "source": "Soompi",
-      "publishedAt": "2026-08-08T02:25:26.000Z",
-      "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
-      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from July 8 to August 8. BTS held onto their spot at the top… Continue reading August Boy Group Brand Reputation Rankings Announced The post August Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
       ]
     },
     {
@@ -442,6 +428,21 @@
         "nct",
         "red velvet",
         "shinee"
+      ]
+    },
+    {
+      "id": "8a81d2f69d6376f2",
+      "title": "Cortis kicks off North American leg of sold-out world tour",
+      "url": "https://www.koreaherald.com/article/10831729",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-05T04:46:08.000Z",
+      "snippet": "Cortis launched the North American leg of its first tour Tuesday, extending its rapid global rise less than a year after its debut. The five-member group opened the North American...",
+      "description": "Cortis launched the North American leg of its first tour Tuesday, extending its rapid global rise less than a year after its debut. The five-member group opened the North American leg of its “Put Your Phone Down” tour in Toronto, before heading to New York, Atlanta, Irving, Los Angeles and San Francisco through Aug. 16. The tour follows the group’s sold-out opening concerts in Incheon in July and comes just days after Cortis performed at Lollapalooza Chicago, where it was the only K-pop boy grou",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/05/news-p.v1.20260805.45191b65dcfb42c891132736c225517c_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "world tour"
       ]
     }
   ]
