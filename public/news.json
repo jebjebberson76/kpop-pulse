@@ -1,21 +1,6 @@
 {
-  "generatedAt": "2026-08-12T03:58:55.562Z",
+  "generatedAt": "2026-08-12T05:39:09.550Z",
   "items": [
-    {
-      "id": "e73ef0fcc10e4062",
-      "title": "Cortis shoots up 75 rungs on Billboard 200",
-      "url": "https://www.koreaherald.com/article/10838630",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-12T02:18:58.000Z",
-      "snippet": "Cortis' second mini album skyrocketed to No. 39 on the Billboard 200, 75 rungs above the previous week, according to label Big Hit Music on Wednesday. The EP “Greengreen” has spent...",
-      "description": "Cortis' second mini album skyrocketed to No. 39 on the Billboard 200, 75 rungs above the previous week, according to label Big Hit Music on Wednesday. The EP “Greengreen” has spent 13 weeks on the main albums chart after debuting on it at No. 3. The main single “Redred” ranked No. 129 and No. 78 on the Billboard Global 200 and Global excl. US, respectively, in its 15th consecutive week on the charts. The album’s rally is likely due in no small part to the North American tour the rookie boy group",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/12/news-p.v1.20260812.17e360ec681e4c768f06eccc9c2bb7c9_T1.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "billboard"
-      ]
-    },
     {
       "id": "daa587a8569dfa0c",
       "title": "BTS charts 20 weeks on Billboard’s Hot 100 with ‘Swim’",
@@ -437,6 +422,21 @@
       "tags": [
         "debut",
         "twice"
+      ]
+    },
+    {
+      "id": "dccdbcddded2f92f",
+      "title": "BTS tops 4b Spotify streams with ‘Arirang’ album",
+      "url": "https://www.koreaherald.com/article/10832672",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-06T01:30:22.000Z",
+      "snippet": "BTS has garnered 4 billion plays on Spotify with fifth studio album “Arirang,” becoming the fifth fastest album to reach the milestone and the fastest for any album by an Asian art...",
+      "description": "BTS has garnered 4 billion plays on Spotify with fifth studio album “Arirang,” becoming the fifth fastest album to reach the milestone and the fastest for any album by an Asian artist. The septet now has eight albums that reached the 4 billion mark. The ongoing world tour named after the LP is likely to add momentum to the streaming streak. BTS is going live in Boston again Thursday before hopping between the remaining stops of the North American leg — four more cities in the US and Toronto. Mea",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/06/news-p.v1.20260806.ae84c99dbccb41d688fadc68dd450463_T1.jpg",
+      "tags": [
+        "album",
+        "world tour",
+        "bts"
       ]
     }
   ]
