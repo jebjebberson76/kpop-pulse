@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T05:39:09.550Z",
+  "generatedAt": "2026-08-12T07:13:18.708Z",
   "items": [
     {
       "id": "daa587a8569dfa0c",
@@ -66,7 +66,7 @@
       "publishedAt": "2026-08-11T18:41:05.000Z",
       "snippet": "He declared he would not be returning to the industry.",
       "description": "He declared he would not be returning to the industry.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/08/FEATURED-IMAGE-2026-08-11T133801.308.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -80,7 +80,7 @@
       "publishedAt": "2026-08-11T18:16:55.000Z",
       "snippet": "An OG K-Pop idol confessed that she went through a difficult time due to severe health deterioration after two divorces and shared an update on her current life. On August…",
       "description": "An OG K-Pop idol confessed that she went through a difficult time due to severe health deterioration after two divorces and shared an update on her current life. On August…",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/08/Lee-Jihyun-FI-1.jpg",
       "tags": [
         "k-pop",
         "idol"
@@ -108,7 +108,7 @@
       "publishedAt": "2026-08-11T15:21:16.000Z",
       "snippet": "Mark your calendars for VERIVERY’s return! On August 12 at midnight KST, VERIVERY officially announced the date and details for their upcoming comeback next month. The group will b...",
       "description": "Mark your calendars for VERIVERY’s return! On August 12 at midnight KST, VERIVERY officially announced the date and details for their upcoming comeback next month. The group will be returning with their eighth mini album “CONFETTI” on September 7 at 6 p.m. KST. VERIVERY also released a hilarious commercial-inspired teaser for “CONFETTI,” which you can… Continue reading Watch: VERIVERY Announces Comeback Date With Hilarious Teaser For “CONFETTI” The post Watch: VERIVERY Announces Comeback Date With Hilarious Teaser For “CONFETTI” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/11081858/VERIVERY.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "mini album",
@@ -123,7 +123,7 @@
       "publishedAt": "2026-08-11T15:13:25.000Z",
       "snippet": "SF9 has unveiled a festive new set of concept photos for their upcoming comeback! On August 11, SF9 released group and individual “LIGHTEN” concept photos for their second full-len...",
       "description": "SF9 has unveiled a festive new set of concept photos for their upcoming comeback! On August 11, SF9 released group and individual “LIGHTEN” concept photos for their second full-length album “TENACITY.” The new photos capture the members celebrating the 10th anniversary of their debut, which is coming up this October. “TENACITY” is due out on… Continue reading SF9 Celebrates 10th Anniversary In Festive Teasers For Full-Length Album “TENACITY” The post SF9 Celebrates 10th Anniversary In Festive Teasers For Full-Length Album “TENACITY” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/11081113/SF9_394f61.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "debut",
@@ -296,20 +296,6 @@
       ]
     },
     {
-      "id": "ae2d39234e71ae7b",
-      "title": "EVAN (Heeseung) To Release 1st Mini Album In September",
-      "url": "https://www.soompi.com/article/1861371wpp/evan-heeseung-to-release-1st-mini-album-in-september",
-      "source": "Soompi",
-      "publishedAt": "2026-08-09T16:05:15.000Z",
-      "snippet": "Get ready for the release of EVAN (Heeseung)’s first physical album as a soloist! On August 10 at midnight KST, BELIFT LAB officially announced that EVAN would be returning with hi...",
-      "description": "Get ready for the release of EVAN (Heeseung)’s first physical album as a soloist! On August 10 at midnight KST, BELIFT LAB officially announced that EVAN would be returning with his first mini album next month. EVAN will release his first mini album “DEATH OF ME” on September 7 at 6 p.m. KST, and he… Continue reading EVAN (Heeseung) To Release 1st Mini Album In September The post EVAN (Heeseung) To Release 1st Mini Album In September appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album"
-      ]
-    },
-    {
       "id": "d205488268370a77",
       "title": "Blackpink&apos;s 10th anniversary overshadowed by fan backlash, apologies",
       "url": "https://www.koreaherald.com/article/10835049",
@@ -437,6 +423,21 @@
         "album",
         "world tour",
         "bts"
+      ]
+    },
+    {
+      "id": "afbeb2227326871b",
+      "title": "SM Entertainment unveils second-half lineup",
+      "url": "https://www.koreaherald.com/article/10832193",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-05T12:11:42.000Z",
+      "snippet": "SM Entertainment unveiled its second-half artist lineup Wednesday, confirming new releases by Minho of Shinee and boy group WayV, along with a single from a new Girls’ Generation u...",
+      "description": "SM Entertainment unveiled its second-half artist lineup Wednesday, confirming new releases by Minho of Shinee and boy group WayV, along with a single from a new Girls’ Generation unit. The company’s third-quarter lineup includes Red Velvet’s latest EP “Velvet Summer,” released Monday, as well as NCT 127’s upcoming LP “Blingy,” a solo EP from Shinee’s Minho, and an EP from WayV. A single is also due to be released from Girls’ Generation members Hyoyeon, Yuri and Sooyoung, who recently launched th",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/05/news-p.v1.20260805.3a099fc487634bb897b57776a772c381_T1.jpg",
+      "tags": [
+        "nct",
+        "red velvet",
+        "shinee"
       ]
     }
   ]
