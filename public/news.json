@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-08-19T03:39:33.694Z",
+  "generatedAt": "2026-08-19T04:29:41.956Z",
   "items": [
-    {
-      "id": "4bacd85495e3ca29",
-      "title": "Katseye climbs Billboard’s Hot 100 with ‘Animal’",
-      "url": "https://www.koreaherald.com/article/10845227",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-19T02:26:37.000Z",
-      "snippet": "Katseye’s prerelease “Animal” ranked No. 30 on Billboard’s Hot 100, climbing up five places from the previous week. The single was released last month ahead of the group's third EP...",
-      "description": "Katseye’s prerelease “Animal” ranked No. 30 on Billboard’s Hot 100, climbing up five places from the previous week. The single was released last month ahead of the group's third EP “Wild,” which was released Aug. 14. The dance-pop tune hit the main songs chart at No. 24, and Spotify’s Daily Top Songs Global at No. 5, both its highest debut on the rankings. On Billboard’s Global 200 and Global excl. US dated Aug. 22, the single ranked No. 16 and No. 19, respectively. For the time being, however,",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.ad95314c927a4f6f8382a4c34a05b37b_T1.jpg",
-      "tags": [
-        "debut",
-        "billboard"
-      ]
-    },
     {
       "id": "6e93c970c8f2036a",
       "title": "Shinee’s Taemin shares tracklist for 6th solo EP",
@@ -43,21 +29,6 @@
       "tags": [
         "comeback",
         "album"
-      ]
-    },
-    {
-      "id": "29ed08ea67df7edd",
-      "title": "BTS&apos; &apos;Swim&apos; nominated for Song of the Year at MTV VMAs",
-      "url": "https://www.koreaherald.com/article/10844921",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-19T00:39:41.000Z",
-      "snippet": "BTS' \"Swim\" has been nominated for Song of the Year at the 2026 MTV Video Music Awards, putting the K-pop septet in contention for one of the ceremony's top honors. The lead track...",
-      "description": "BTS' \"Swim\" has been nominated for Song of the Year at the 2026 MTV Video Music Awards, putting the K-pop septet in contention for one of the ceremony's top honors. The lead track from BTS' fifth studio album, \"Arirang,\" was among the nominees announced Tuesday. It will compete against songs including Madonna and Sabrina Carpenter's \"Bring Your Love,\" PinkPantheress and Zara Larsson's \"Stateside\" and Raye's \"Where is My Husband!\" The nomination marks BTS' second time competing for Song of the Ye",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.20f56968d93a4da8b8b9ebfe216c03df_T1.jpg",
-      "tags": [
-        "k-pop",
-        "album",
-        "bts"
       ]
     },
     {
@@ -99,7 +70,7 @@
       "publishedAt": "2026-08-18T18:25:55.000Z",
       "snippet": "A K-Pop girl group idol spoke about her views on pregnancy and how they have changed over the years. On August 17, a video titled “From Ex-Boyfriend’s Cheating Stories… (No…",
       "description": "A K-Pop girl group idol spoke about her views on pregnancy and how they have changed over the years. On August 17, a video titled “From Ex-Boyfriend’s Cheating Stories… (No…",
-      "image": "https://image.koreaboo.com/2026/08/SISTAR-Soyou-FI-10.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -151,6 +122,34 @@
       ]
     },
     {
+      "id": "97c8448b65a1f80c",
+      "title": "Shinee’s Minho to drop 2nd solo EP next month",
+      "url": "https://www.koreaherald.com/article/10843970",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-18T02:44:21.000Z",
+      "snippet": "Minho of Shinee is set to release his second solo set, “Make it hot,” on Sept. 7, said SM Entertainment on Tuesday. The EP will comprise six tracks, including the title track, and...",
+      "description": "Minho of Shinee is set to release his second solo set, “Make it hot,” on Sept. 7, said SM Entertainment on Tuesday. The EP will comprise six tracks, including the title track, and comes approximately nine months after releasing his solo single, “Tempo.” Minho unveiled the title track from his first single set ahead of the full release at a fan meetup he held in Seoul. In June, Shinee rolled out its sixth EP “Atmos” and held a concert in Seoul titled “Shinee World VII : [The Invert].” The five-da",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/18/news-p.v1.20260818.3981433c330644d8ac380fa82fd9916e_T1.jpg",
+      "tags": [
+        "concert",
+        "shinee"
+      ]
+    },
+    {
+      "id": "5f10614ef5e3bb76",
+      "title": "BTS’ Jin hits 1b on Spotify with “Don’t Say You Love Me’",
+      "url": "https://www.koreaherald.com/article/10843836",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-18T02:13:43.000Z",
+      "snippet": "Jin of BTS surpassed 1 billion Spotify streams for the first time on his own with “Don’t Say You Love Me,” his label Big Hit Music said Tuesday, citing platform data. The track fro...",
+      "description": "Jin of BTS surpassed 1 billion Spotify streams for the first time on his own with “Don’t Say You Love Me,” his label Big Hit Music said Tuesday, citing platform data. The track fronted his second solo EP \"Echo,” which rolled out in May 2025. It entered Billboard’s Hot 100 at No. 90, marking his third solo entry on the main songs chart, after “The Astronaut” and “Running Wild.” On Spotify’s Weekly Top Songs Global and Billboard’s Global 200, it ranked No. 2 and No. 6, respectively, while the mini",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/18/news-p.v1.20260818.1c44fb1d504e4cdba97962f53c28e913_T1.jpg",
+      "tags": [
+        "billboard",
+        "bts"
+      ]
+    },
+    {
       "id": "34302cba41719eea",
       "title": "Le Sserafim generates 300m Spotify plays with ‘Eve, Psyche & The Bluebeard&apos;s wife’",
       "url": "https://www.koreaherald.com/article/10843697",
@@ -172,7 +171,7 @@
       "publishedAt": "2026-08-17T15:21:35.000Z",
       "snippet": "SHINee’s Minho is gearing up for his solo comeback! On August 18 at midnight KST, Minho unveiled plans to release his second mini album “Make it hot,” along with summery teaser ima...",
       "description": "SHINee’s Minho is gearing up for his solo comeback! On August 18 at midnight KST, Minho unveiled plans to release his second mini album “Make it hot,” along with summery teaser images. The new album is set to be released on September 7 at 6 p.m. KST, marking Minho’s return in approximately nine months after… Continue reading SHINee’s Minho Announces Solo Comeback With Teaser Schedule For New Album “Make It Hot” The post SHINee’s Minho Announces Solo Comeback With Teaser Schedule For New Album “Make It Hot” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/17081815/minho10_40ca48.jpeg",
       "tags": [
         "comeback",
         "mini album",
