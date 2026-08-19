@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T10:20:34.142Z",
+  "generatedAt": "2026-08-19T11:18:02.669Z",
   "items": [
     {
       "id": "593d14bcb562cc6e",
@@ -296,20 +296,6 @@
       ]
     },
     {
-      "id": "a40ff51d8f299ec5",
-      "title": "August Idol Group Brand Reputation Rankings Announced",
-      "url": "https://www.soompi.com/article/1863370wpp/august-idol-group-brand-reputation-rankings-announced-6",
-      "source": "Soompi",
-      "publishedAt": "2026-08-17T01:10:26.000Z",
-      "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for all idol groups! The rankings were determined through an analysis of the consumer par...",
-      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for all idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community awareness indexes of various idol groups, using big data collected from July 17 to August 17. BTS continued their reign at the top… Continue reading August Idol Group Brand Reputation Rankings Announced The post August Idol Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
-      ]
-    },
-    {
       "id": "0775e042bb5fe035",
       "title": "Four in 10 US music consumers familiar with BTS: survey",
       "url": "https://www.koreaherald.com/article/10841771",
@@ -437,6 +423,20 @@
       "tags": [
         "k-pop",
         "billboard"
+      ]
+    },
+    {
+      "id": "6e8e160780f4cea2",
+      "title": "Alpha Drive One teases 2nd EP",
+      "url": "https://www.koreaherald.com/article/10840043",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-13T02:19:51.000Z",
+      "snippet": "Boy group Alpha Drive One unveiled teaser visuals for its second EP, “Unbreakable: Boy Beast,” via agency WakeOne Entertainment on Wednesday. The photographs and video were inspire...",
+      "description": "Boy group Alpha Drive One unveiled teaser visuals for its second EP, “Unbreakable: Boy Beast,” via agency WakeOne Entertainment on Wednesday. The photographs and video were inspired by stray cats, as the name of the related concept film, “Hissing,” suggests. The seven members evoke the charm of untamed cats, cautious but also seeking attention. The mini album is set to be released on Aug. 24. To mark the album drop, pop-up stores will open in Seoul and Tokyo as well as Shanghai and Guangzhou, Ch",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/13/news-p.v1.20260813.c785c019a9d84d4f8a2325c5b67950cf_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
       ]
     }
   ]
