@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T04:30:19.770Z",
+  "generatedAt": "2026-08-21T05:25:01.919Z",
   "items": [
     {
       "id": "3e06c9e4ee0ddf5b",
@@ -59,20 +59,6 @@
         "comeback",
         "mv",
         "blackpink"
-      ]
-    },
-    {
-      "id": "4c804e713c23537f",
-      "title": "K-Pop Idol Draws Interest For Her Beach Girl Look",
-      "url": "https://www.koreaboo.com/news/kpop-idol-draws-interest-beach-girl-look/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-20T17:09:32.000Z",
-      "snippet": "A female K-Pop idol shared a glimpse of her relaxed daily life after completing her performance, drawing attention for her hot girl vibe. On August 20th, several photos were posted...",
-      "description": "A female K-Pop idol shared a glimpse of her relaxed daily life after completing her performance, drawing attention for her hot girl vibe. On August 20th, several photos were posted…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -431,6 +417,22 @@
       "tags": [
         "album",
         "le sserafim"
+      ]
+    },
+    {
+      "id": "3d622b4cd83adc3e",
+      "title": "Stray Kids make Billboard history with 9th straight No. 1",
+      "url": "https://www.koreaherald.com/article/10843012",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-17T02:30:46.000Z",
+      "snippet": "Stray Kids have made Billboard 200 history, becoming the first act to debut their first nine charting albums at No. 1 with their new EP \"This & That.\" The boy group's 10th EP debut...",
+      "description": "Stray Kids have made Billboard 200 history, becoming the first act to debut their first nine charting albums at No. 1 with their new EP \"This & That.\" The boy group's 10th EP debuted atop the Billboard 200 with 369,000 equivalent album units earned in the US, including 357,000 in traditional album sales, according to a chart preview published Sunday. The figure marks the group's biggest sales week to date. The achievement extends a streak that began with the group's 2022 EP \"Oddinary.\" It was fo",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/17/news-p.v1.20260817.6836dcbec4c94903b8c8e1bb524a1a3b_T1.jpg",
+      "tags": [
+        "debut",
+        "album",
+        "billboard",
+        "stray kids"
       ]
     }
   ]
