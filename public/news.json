@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:28:02.565Z",
+  "generatedAt": "2026-08-23T07:27:07.770Z",
   "items": [
     {
       "id": "cfbb0c13c49f57af",
@@ -9,24 +9,10 @@
       "publishedAt": "2026-08-23T05:48:35.000Z",
       "snippet": "Amid ongoing controversy over a YouTuber’s release of CCTV footage showing a social service worker assisting him during a KTX fall accident, criticism has also spread to his wife,...",
       "description": "Amid ongoing controversy over a YouTuber’s release of CCTV footage showing a social service worker assisting him during a KTX fall accident, criticism has also spread to his wife, a…",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/08/Song-Jieun-FI-1.jpg",
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "6c10dc2d8c7d2aab",
-      "title": "Cortis to release expanded EP with two new tracks for debut anniversary",
-      "url": "https://www.koreaherald.com/article/10849084",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-23T05:45:42.000Z",
-      "snippet": "Cortis is set to celebrate the first anniversary since the group debuted with an expanded edition of its second EP, featuring two new songs that “reflect the group’s current musica...",
-      "description": "Cortis is set to celebrate the first anniversary since the group debuted with an expanded edition of its second EP, featuring two new songs that “reflect the group’s current musical identity.” The expanded album, “GreenGreen_playextended,” will be released at midnight on Monday, with \"Pack It Up\" and \"MoneyMoneyMoney\" added to the six songs originally featured on the group’s second EP, “GreenGreen.” The two songs were first unveiled as surprise performances during the opening night of Cortis’ “P",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/23/news-a.v1.20260823.246b0f6ff1ca4e128240eb8ec06fe33f_T1.png",
-      "tags": [
-        "debut",
-        "album"
       ]
     },
     {
@@ -55,6 +41,20 @@
       "tags": [
         "comeback",
         "mini album",
+        "album"
+      ]
+    },
+    {
+      "id": "a38fb777540ad03a",
+      "title": "Enhypen&apos;s new EP sells 1.77m copies on release day",
+      "url": "https://www.koreaherald.com/article/10848746",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-22T05:48:29.000Z",
+      "snippet": "K-pop boy band Enhypen's eighth EP sold more than a million copies on the day of its release, according to local sales tracker Hanteo Chart. \"The Sin : Bliss\" topped Hanteo's daily...",
+      "description": "K-pop boy band Enhypen's eighth EP sold more than a million copies on the day of its release, according to local sales tracker Hanteo Chart. \"The Sin : Bliss\" topped Hanteo's daily albums chart with 1.77 million copies sold upon its release on Friday. The EP also ranked first on iTunes' Top Albums chart in 23 countries and regions, including Brazil, Japan, Malaysia and Turkey. It is the group's first release since Enhypen was reorganized as a six-member act. The album consists of 10 tracks, incl",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/22/news-p.v1.20260822.d9b12ee0a29b4bccb2ae045b715ae7d3_T1.jpeg",
+      "tags": [
+        "k-pop",
         "album"
       ]
     },
@@ -141,7 +141,7 @@
       "publishedAt": "2026-08-21T01:29:52.000Z",
       "snippet": "Updated August 21 KST: BLACKPINK’s Jennie has unveiled the first MV teaser for new song “FALLEN ANGEL”! Original Article: Mark your calendars for BLACKPINK’s Jennie’s comeback! Jen...",
       "description": "Updated August 21 KST: BLACKPINK’s Jennie has unveiled the first MV teaser for new song “FALLEN ANGEL”! Original Article: Mark your calendars for BLACKPINK’s Jennie’s comeback! Jennie has officially announced that she will be releasing her new digital EP “Fallen Angel” on August 28 at 1 p.m. KST. According to Jennie’s agency OA (ODD ATELIER),… Continue reading Update: Jennie Unveils Enchanting 1st MV Teaser For “FALLEN ANGEL” The post Update: Jennie Unveils Enchanting 1st MV Teaser For “FALLEN ANGEL” appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/20211710/jennie-fallen-angel-teaser.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "comeback",
         "mv",
