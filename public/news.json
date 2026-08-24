@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-08-24T03:47:19.388Z",
+  "generatedAt": "2026-08-24T04:37:10.785Z",
   "items": [
-    {
-      "id": "2d35137780e2c010",
-      "title": "Katseye tops Billboard 200 with 3rd EP",
-      "url": "https://www.koreaherald.com/article/10849718",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-24T01:33:33.000Z",
-      "snippet": "Katseye has scored its first chart-topper on the Billboard 200, landing at No. 1 on the main albums chart with its third EP “Wild,” according to the chart preview published on Sund...",
-      "description": "Katseye has scored its first chart-topper on the Billboard 200, landing at No. 1 on the main albums chart with its third EP “Wild,” according to the chart preview published on Sunday in the US. The group became the fourth female group to sit atop the ranking since 2020, after Blackpink, NewJeans and Twice. The EP consists of five genre-spanning tracks, including the prerelease “Animal.” The song entered Billboard’s Hot 100 at No. 24, the highest among the group’s six entries. In the UK, the EP d",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/24/news-p.v1.20260824.91006e7a6ae944938c3693426502bd6f_T1.jpg",
-      "tags": [
-        "billboard",
-        "blackpink",
-        "twice",
-        "newjeans"
-      ]
-    },
     {
       "id": "7515214bb355ec14",
       "title": "Stray Kids’ “THIS & THAT” Becomes Their 1st Album To Spend 2 Weeks In Top 3 Of Billboard 200",
@@ -94,20 +78,6 @@
       ]
     },
     {
-      "id": "e3e147ae2ef93f38",
-      "title": "Former K-Pop Idol Confesses To Almost Jumping Off A Building After Repeated Failures",
-      "url": "https://www.koreaboo.com/news/former-kpop-idol-confesses-almost-jumping-off-building-after-repeated-failures/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-23T16:28:10.000Z",
-      "snippet": "A former K-Pop idol opened up about his difficult feelings after repeated failures. On the episode of KBS2’s variety show Mr. House Husband Season 2 aired on August 22nd, the…",
-      "description": "A former K-Pop idol opened up about his difficult feelings after repeated failures. On the episode of KBS2’s variety show Mr. House Husband Season 2 aired on August 22nd, the…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
       "id": "727de89a64c3058f",
       "title": "Watch: TREASURE Returns With Explosive Dance Performance Video For “DANGER”",
       "url": "https://www.soompi.com/article/1865007wpp/watch-treasure-returns-with-explosive-dance-performance-video-for-danger",
@@ -151,6 +121,20 @@
       ]
     },
     {
+      "id": "6c10dc2d8c7d2aab",
+      "title": "Cortis to release expanded EP with two new tracks for debut anniversary",
+      "url": "https://www.koreaherald.com/article/10849084",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-23T05:45:42.000Z",
+      "snippet": "Cortis is set to celebrate the first anniversary since the group debuted with an expanded edition of its second EP, featuring two new songs that “reflect the group’s current musica...",
+      "description": "Cortis is set to celebrate the first anniversary since the group debuted with an expanded edition of its second EP, featuring two new songs that “reflect the group’s current musical identity.” The expanded album, “GreenGreen_playextended,” will be released at midnight on Monday, with \"Pack It Up\" and \"MoneyMoneyMoney\" added to the six songs originally featured on the group’s second EP, “GreenGreen.” The two songs were first unveiled as surprise performances during the opening night of Cortis’ “P",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/23/news-a.v1.20260823.246b0f6ff1ca4e128240eb8ec06fe33f_T1.png",
+      "tags": [
+        "debut",
+        "album"
+      ]
+    },
+    {
       "id": "ef2ad8a6b605845e",
       "title": "BABYMONSTER’s “DRIP” Becomes Their Fastest MV To Hit 400 Million Views",
       "url": "https://www.soompi.com/article/1864710wpp/babymonsters-drip-becomes-their-fastest-mv-to-hit-400-million-views",
@@ -191,6 +175,20 @@
       "tags": [
         "k-pop",
         "album"
+      ]
+    },
+    {
+      "id": "0ba14c73eca20aba",
+      "title": "Girls&apos; Generation&apos;s HRS unit to debut with &apos;Skibidi&apos; single",
+      "url": "https://www.koreaherald.com/article/10848694",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-22T03:25:37.000Z",
+      "snippet": "Girls' Generation's new unit HRS will release its debut digital single, \"Skibidi,\" on Aug. 31, its agency SM Entertainment said on Saturday. The single will contain two tracks -- t...",
+      "description": "Girls' Generation's new unit HRS will release its debut digital single, \"Skibidi,\" on Aug. 31, its agency SM Entertainment said on Saturday. The single will contain two tracks -- the title song \"Skibidi\" and \"Lowkey in Love.\" \"Skibidi\" begins with house music before shifting into hip-hop, with lyrics carrying the message of forging a new path together, SM said. The Girls' Generation-HRS was formed through Girls' Generation member Hyoyeon's personal YouTube channel, \"Hyoyeon's Level Up,\" and incl",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/22/news-p.v1.20260822.6d6c1b5c3cad4e52887a72205a05ea1e_T1.jpg",
+      "tags": [
+        "debut",
+        "girls' generation"
       ]
     },
     {
