@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:33:38.178Z",
+  "generatedAt": "2026-08-24T13:43:50.645Z",
   "items": [
     {
       "id": "8f8276b40fe8159f",
@@ -122,20 +122,6 @@
         "album",
         "billboard",
         "stray kids"
-      ]
-    },
-    {
-      "id": "60ca42bd939cdee8",
-      "title": "BTS’s Member Under Fire After Latest “ARIRANG” Concert",
-      "url": "https://www.koreaboo.com/news/bts-member-scrutiny-after-toronto-arirang-concert/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-23T21:44:41.000Z",
-      "snippet": "Some fans were convinced that his words were intentional.",
-      "description": "Some fans were convinced that his words were intentional.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "bts"
       ]
     },
     {
@@ -441,6 +427,20 @@
       "tags": [
         "mini album",
         "album"
+      ]
+    },
+    {
+      "id": "593d14bcb562cc6e",
+      "title": "JYP&apos;s new multinational girl group OurBirthday debuts with its own brand of music",
+      "url": "https://www.koreaherald.com/article/10845886",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-19T09:54:44.000Z",
+      "snippet": "JYP Entertainment's new multinational girl group OurBirthday made its first appearance as a full group during its debut showcase in Seoul on Wednesday, where it introduced its own...",
+      "description": "JYP Entertainment's new multinational girl group OurBirthday made its first appearance as a full group during its debut showcase in Seoul on Wednesday, where it introduced its own brand of music called \"whip-hop.\" The group, consisting of three Koreans, two people from Japan, one from Thailand and one from Taiwan, took the stage at Yongsan-gu's Blue Square. It is the first girl group launched by JYP in four years following Nmixx, and it is managed by JYP subsidiary Innit Entertainment. At the sh",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.60a21c03daf5497db6104beee8a47442_T1.jpg",
+      "tags": [
+        "debut",
+        "nmixx"
       ]
     }
   ]
