@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-24T00:52:09.770Z",
+  "generatedAt": "2026-08-24T02:18:41.829Z",
   "items": [
+    {
+      "id": "2d35137780e2c010",
+      "title": "Katseye tops Billboard 200 with 3rd EP",
+      "url": "https://www.koreaherald.com/article/10849718",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-24T01:33:33.000Z",
+      "snippet": "Katseye has scored its first chart-topper on the Billboard 200, landing at No. 1 on the main albums chart with its third EP “Wild,” according to the chart preview published on Sund...",
+      "description": "Katseye has scored its first chart-topper on the Billboard 200, landing at No. 1 on the main albums chart with its third EP “Wild,” according to the chart preview published on Sunday in the US. The group became the fourth female group to sit atop the ranking since 2020, after Blackpink, NewJeans and Twice. The EP consists of five genre-spanning tracks, including the prerelease “Animal.” The song entered Billboard’s Hot 100 at No. 24, the highest among the group’s six entries. In the UK, the EP d",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/24/news-p.v1.20260824.91006e7a6ae944938c3693426502bd6f_T1.jpg",
+      "tags": [
+        "billboard",
+        "blackpink",
+        "twice",
+        "newjeans"
+      ]
+    },
     {
       "id": "7515214bb355ec14",
       "title": "Stray Kids’ “THIS & THAT” Becomes Their 1st Album To Spend 2 Weeks In Top 3 Of Billboard 200",
@@ -25,7 +41,7 @@
       "publishedAt": "2026-08-23T21:44:41.000Z",
       "snippet": "Some fans were convinced that his words were intentional.",
       "description": "Some fans were convinced that his words were intentional.",
-      "image": "https://image.koreaboo.com/2026/08/bts-rm-2.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts"
@@ -67,7 +83,7 @@
       "publishedAt": "2026-08-23T16:59:50.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on August 22! Stray Kids’ new mini album “THIS & THAT” debuted at No. 1 on this week’s World Albums chart, in add...",
       "description": "Billboard has published its World Albums chart for the week ending on August 22! Stray Kids’ new mini album “THIS & THAT” debuted at No. 1 on this week’s World Albums chart, in addition to making a historic No. 1 entry on the Billboard 200. All in all, Stray Kids topped a total of five… Continue reading Stray Kids, CORTIS, ATEEZ, BTS, LE SSERAFIM, Yeonjun, aespa, ILLIT, And More Sweep Top Spots On Billboard World Albums Chart The post Stray Kids, CORTIS, ATEEZ, BTS, LE SSERAFIM, Yeonjun, aespa, ILLIT, And More Sweep Top Spots On Billboard World Albums Chart appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/23095249/Stray-Kids-CORTIS-ATEEZ-BTS.jpg",
       "tags": [
         "mini album",
         "album",
@@ -85,7 +101,7 @@
       "publishedAt": "2026-08-23T16:28:10.000Z",
       "snippet": "A former K-Pop idol opened up about his difficult feelings after repeated failures. On the episode of KBS2’s variety show Mr. House Husband Season 2 aired on August 22nd, the…",
       "description": "A former K-Pop idol opened up about his difficult feelings after repeated failures. On the episode of KBS2’s variety show Mr. House Husband Season 2 aired on August 22nd, the…",
-      "image": "https://image.koreaboo.com/2026/08/Park-Hyun-Ho-FI.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -99,7 +115,7 @@
       "publishedAt": "2026-08-23T15:40:20.000Z",
       "snippet": "TREASURE is back with an exciting new performance video! On August 24 at midnight KST, TREASURE released a dance performance video for “DANGER,” one of the B-sides from their lates...",
       "description": "TREASURE is back with an exciting new performance video! On August 24 at midnight KST, TREASURE released a dance performance video for “DANGER,” one of the B-sides from their latest mini album “NEW WAV.” Check out TREASURE’s new dance performance video for “DANGER” below! Watch TREASURE in “Idol Festa Attack” on Viki below: And watch… Continue reading Watch: TREASURE Returns With Explosive Dance Performance Video For “DANGER” The post Watch: TREASURE Returns With Explosive Dance Performance Video For “DANGER” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/23083849/TREASURE.jpg",
       "tags": [
         "idol",
         "mini album",
@@ -421,20 +437,6 @@
         "debut",
         "billboard",
         "stray kids"
-      ]
-    },
-    {
-      "id": "d0aeb65bc0f0c97a",
-      "title": "Cortis earns two MTV VMA nominations one year after debut",
-      "url": "https://www.koreaherald.com/article/10845603",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-19T06:39:46.000Z",
-      "snippet": "Cortis earned its first nominations at the MTV Video Music Awards, just one year after its debut, Big Hit Music announced Wednesday, becoming the first K-pop boy group to debut in...",
-      "description": "Cortis earned its first nominations at the MTV Video Music Awards, just one year after its debut, Big Hit Music announced Wednesday, becoming the first K-pop boy group to debut in the 2020s to be recognized by the US awards show. The five-member group — Martin, James, Juhoon and Keonho — was nominated in two categories for the 2026 MTV VMAs: best new artist and best K-pop, according to the list of nominees announced Tuesday. Cortis will compete for best new artist alongside rising international",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-a.v1.20260819.fdc09536ba784b19ac374de4dc78baf6_T1.png",
-      "tags": [
-        "k-pop",
-        "debut"
       ]
     }
   ]
