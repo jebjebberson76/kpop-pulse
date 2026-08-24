@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-24T09:38:42.978Z",
+  "generatedAt": "2026-08-24T10:30:04.773Z",
   "items": [
+    {
+      "id": "d5b7606e2a657f7f",
+      "title": "K-Pop Idol Announces Pregnancy And Marriage To Actor",
+      "url": "https://www.koreaboo.com/news/kpop-idol-announces-pregnancy-marriage-actor/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-08-24T10:16:14.000Z",
+      "snippet": "A K-Pop idol has announced her pregnancy and marriage to an actor, earning many congratulations from netizens. On August 24, a message beginning with, “Everyone, I’m getting marrie...",
+      "description": "A K-Pop idol has announced her pregnancy and marriage to an actor, earning many congratulations from netizens. On August 24, a message beginning with, “Everyone, I’m getting married,” was written…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "256778207b3a1375",
       "title": "Watch: BLACKPINK’s Jisoo Announces Comeback With Mysterious “CLICK” Teaser",
@@ -87,7 +101,7 @@
       "publishedAt": "2026-08-23T21:44:41.000Z",
       "snippet": "Some fans were convinced that his words were intentional.",
       "description": "Some fans were convinced that his words were intentional.",
-      "image": "https://image.koreaboo.com/2026/08/bts-rm-2.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts"
@@ -101,7 +115,7 @@
       "publishedAt": "2026-08-23T19:57:52.000Z",
       "snippet": "KATSEYE has just made Billboard 200 history with their first-ever No. 1 album! On August 23 local time, Billboard announced that KATSEYE’s new EP “WILD” had debuted at No. 1 on the...",
       "description": "KATSEYE has just made Billboard 200 history with their first-ever No. 1 album! On August 23 local time, Billboard announced that KATSEYE’s new EP “WILD” had debuted at No. 1 on the Billboard 200, making it the group’s first album ever to top the chart. According to Luminate (formerly Nielsen Music), “WILD” earned a total… Continue reading KATSEYE Sets Record On Billboard 200 As “WILD” Debuts At No. 1 The post KATSEYE Sets Record On Billboard 200 As “WILD” Debuts At No. 1 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/23125639/KATSEYE_4240f9.jpeg",
       "tags": [
         "album",
         "billboard"
@@ -424,21 +438,6 @@
       "tags": [
         "k-pop",
         "debut"
-      ]
-    },
-    {
-      "id": "fe574182145fc305",
-      "title": "Stray Kids earn career-best Hot 100 debut with ‘This & That’",
-      "url": "https://www.koreaherald.com/article/10845787",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-19T08:15:17.000Z",
-      "snippet": "Stray Kids have reached new milestones on the Billboard charts, earning the group’s highest-ever Hot 100 ranking on Wednesday while extending their record-breaking run atop the Bil...",
-      "description": "Stray Kids have reached new milestones on the Billboard charts, earning the group’s highest-ever Hot 100 ranking on Wednesday while extending their record-breaking run atop the Billboard 200 the day before. According to Billboard’s charts released Wednesday, the group’s latest title track “This & That” from its 10th EP debuted at No. 38 on the Billboard Hot 100, marking Stray Kids’ highest placement on the main singles chart to date. As of Tuesday, the EP simultaneously debuted at No. 1 on the B",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.ab6ff58b5fee46d2b996f235fa890f8d_T1.jpg",
-      "tags": [
-        "debut",
-        "billboard",
-        "stray kids"
       ]
     }
   ]
