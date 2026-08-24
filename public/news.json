@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-24T18:29:16.976Z",
+  "generatedAt": "2026-08-24T19:22:34.208Z",
   "items": [
+    {
+      "id": "6dfe19824c536967",
+      "title": "Female K-Pop Idol Divulges Secret To Her “Waterbomb” Figure",
+      "url": "https://www.koreaboo.com/news/female-kpop-idol-divulges-secret-waterbomb-figure/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-08-24T18:41:58.000Z",
+      "snippet": "A female K-Pop idol has revealed the secret to her body management in preparation for her appearance at Waterbomb. On August 24th, Nam Yujeong (also known as Nam You Joung)…",
+      "description": "A female K-Pop idol has revealed the secret to her body management in preparation for her appearance at Waterbomb. On August 24th, Nam Yujeong (also known as Nam You Joung)…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "183abe7afbf32672",
       "title": "Beloved K-Pop Idol Confesses Heartbreaking Reason For Not Dieting Anymore",
@@ -429,20 +443,6 @@
       "tags": [
         "comeback",
         "album"
-      ]
-    },
-    {
-      "id": "fd58d7c6020f66a6",
-      "title": "NCT127 to open pop-up store for 7th album",
-      "url": "https://www.koreaherald.com/article/10846710",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-20T02:54:20.000Z",
-      "snippet": "NCT127 will run a pop-up store in Seoul to celebrate the release of its seventh album, “Blingy,” label SM Entertainment announced Thursday. The space will bring the album's concept...",
-      "description": "NCT127 will run a pop-up store in Seoul to celebrate the release of its seventh album, “Blingy,” label SM Entertainment announced Thursday. The space will bring the album's concept to life, recreating a lost-and-found center that doubles as a secret lair for the five members, who turned into “fixers in Seoul.” The pop-up runs Aug. 25 to Sept. 1 in Seoul before heading to Shanghai, Tokyo and Bangkok. The NCT subunit is releasing the album on Aug. 24, featuring five members, as Doyoung and Jungwoo",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/20/news-p.v1.20260820.bbd8a9dab6ad4e1482f19c56e6b34b2f_T1.jpg",
-      "tags": [
-        "album",
-        "nct"
       ]
     }
   ]
