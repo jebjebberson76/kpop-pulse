@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:33:24.128Z",
+  "generatedAt": "2026-08-25T13:42:07.281Z",
   "items": [
     {
       "id": "53f7d53e90678a54",
@@ -105,20 +105,6 @@
       ]
     },
     {
-      "id": "183abe7afbf32672",
-      "title": "Beloved K-Pop Idol Confesses Heartbreaking Reason For Not Dieting Anymore",
-      "url": "https://www.koreaboo.com/news/beloved-kpop-idol-confesses-heartbreaking-reason-not-dieting-anymore/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-24T17:12:14.000Z",
-      "snippet": "A beloved K-Pop idol revealed that she is currently gaining weight and divulged the heartbreaking reason why she stopped dieting. On August 24th, a video titled “Everything Reveale...",
-      "description": "A beloved K-Pop idol revealed that she is currently gaining weight and divulged the heartbreaking reason why she stopped dieting. On August 24th, a video titled “Everything Revealed About Soyou’s…",
-      "image": "https://image.koreaboo.com/2026/08/SISTAR-Soyou-FI-11.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
       "id": "703d7f74f57f04e6",
       "title": "Doh Kyung Soo Announces Comeback Date With First Teasers For New Album “DOPAMINE”",
       "url": "https://www.soompi.com/article/1865411wpp/doh-kyung-soo-announces-comeback-date-with-first-teasers-for-new-album-dopamine",
@@ -126,7 +112,7 @@
       "publishedAt": "2026-08-24T15:17:22.000Z",
       "snippet": "EXO’s Doh Kyung Soo (D.O.) is gearing up for a comeback! On August 25 at midnight KST, Doh Kyung Soo unveiled the first teaser images for his upcoming fourth mini album “DOPAMINE.”...",
       "description": "EXO’s Doh Kyung Soo (D.O.) is gearing up for a comeback! On August 25 at midnight KST, Doh Kyung Soo unveiled the first teaser images for his upcoming fourth mini album “DOPAMINE.” The album is scheduled to drop on September 8 at 6 p.m. KST, marking his return nearly one year after his previous digital… Continue reading Doh Kyung Soo Announces Comeback Date With First Teasers For New Album “DOPAMINE” The post Doh Kyung Soo Announces Comeback Date With First Teasers For New Album “DOPAMINE” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/24081230/doh-kyung-soo1-2.jpeg",
       "tags": [
         "comeback",
         "mini album",
@@ -447,6 +433,20 @@
       "tags": [
         "comeback",
         "album"
+      ]
+    },
+    {
+      "id": "fd58d7c6020f66a6",
+      "title": "NCT127 to open pop-up store for 7th album",
+      "url": "https://www.koreaherald.com/article/10846710",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-20T02:54:20.000Z",
+      "snippet": "NCT127 will run a pop-up store in Seoul to celebrate the release of its seventh album, “Blingy,” label SM Entertainment announced Thursday. The space will bring the album's concept...",
+      "description": "NCT127 will run a pop-up store in Seoul to celebrate the release of its seventh album, “Blingy,” label SM Entertainment announced Thursday. The space will bring the album's concept to life, recreating a lost-and-found center that doubles as a secret lair for the five members, who turned into “fixers in Seoul.” The pop-up runs Aug. 25 to Sept. 1 in Seoul before heading to Shanghai, Tokyo and Bangkok. The NCT subunit is releasing the album on Aug. 24, featuring five members, as Doyoung and Jungwoo",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/20/news-p.v1.20260820.bbd8a9dab6ad4e1482f19c56e6b34b2f_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
       ]
     }
   ]
