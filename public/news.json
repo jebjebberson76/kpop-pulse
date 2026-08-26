@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-25T23:18:35.754Z",
+  "generatedAt": "2026-08-26T00:52:55.496Z",
   "items": [
+    {
+      "id": "ea53b556e4e1d7b8",
+      "title": "Journalist Outting K-Pop Idol As Gay Hit With Massive Backlash",
+      "url": "https://www.koreaboo.com/news/jouraist-outing-kpop-idol-tiktok/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-08-26T00:12:58.000Z",
+      "snippet": "\"They act like it's illegal to find a gay man hot...\"",
+      "description": "\"They act like it's illegal to find a gay man hot...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "bb92c3df444cdec1",
       "title": "K-Pop Idol’s Seemingly Changed Appearance Sparks Plastic Surgery Accusations",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-08-25T18:18:14.000Z",
       "snippet": "The seemingly changed appearance of a K-Pop idol is making headlines as netizens discuss whether she’s gotten plastic surgery. Recently, various online communities posted titles li...",
       "description": "The seemingly changed appearance of a K-Pop idol is making headlines as netizens discuss whether she’s gotten plastic surgery. Recently, various online communities posted titles like “Is it a side…",
-      "image": "https://image.koreaboo.com/2026/08/T-ARA-Qri-FI.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -90,33 +104,17 @@
       ]
     },
     {
-      "id": "4ba06b7dae71961f",
-      "title": "NCT 127 turns 10, enters next chapter with ‘Blingy’",
-      "url": "https://www.koreaherald.com/article/10851537",
+      "id": "5f5420176611b4fb",
+      "title": "Zerobaseone reigns on Oricon charts with 2nd EP in Japan",
+      "url": "https://www.koreaherald.com/article/10851227",
       "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-25T05:28:54.000Z",
-      "snippet": "NCT 127 has reached the 10-year mark, but not in the way its members once imagined. For fans who have watched the group grow since its 2016 debut, the milestone arrives with a diff...",
-      "description": "NCT 127 has reached the 10-year mark, but not in the way its members once imagined. For fans who have watched the group grow since its 2016 debut, the milestone arrives with a different lineup, as two members are serving in the military, and a new album that reflects how much has changed — and what remains. “Blingy,” NCT 127’s seventh full-length album, released Monday, marks the group’s first major release in nearly two years since “Walk” in July 2024. The album is more than a 10th anniversary",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/25/news-p.v1.20260824.8d970fb88dd045728a57eee2ed7b0179_T1.jpg",
+      "publishedAt": "2026-08-25T02:21:28.000Z",
+      "snippet": "Zerobaseone has nabbed the No. 1 spot on Oricon’s Weekly Album Ranking with \"Love,\" its second EP in Japan. The three-track set dominated the Daily Album Ranking for four days, alo...",
+      "description": "Zerobaseone has nabbed the No. 1 spot on Oricon’s Weekly Album Ranking with \"Love,\" its second EP in Japan. The three-track set dominated the Daily Album Ranking for four days, along with a series of major album charts in the country. The mini album is the first new release in Japan in about 10 months from the five-member act. The group held an impromptu showcase in Tokyo on Aug. 19, the day of album drop, and gathered approximately 4,000 fans in less than two hours. Kim Ji-woong could not join",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/25/news-p.v1.20260825.c4159239bed649a692549d25436e716f_T1.jpg",
       "tags": [
-        "debut",
-        "album",
-        "nct"
-      ]
-    },
-    {
-      "id": "bb7b4fb31e48d4a7",
-      "title": "Donations top W100m after BTS Jimin kisses young cancer patient",
-      "url": "https://www.koreaherald.com/article/10851448",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-25T04:30:22.000Z",
-      "snippet": "A touching moment between Jimin of BTS and a young cancer patient at a recent concert on the group’s world tour has inspired more than 100 million won ($72,000) in donations to sup...",
-      "description": "A touching moment between Jimin of BTS and a young cancer patient at a recent concert on the group’s world tour has inspired more than 100 million won ($72,000) in donations to support children with cancer, according to news reports Tuesday. During BTS’ performance of \"Go Go\" at its Aug. 15 \"Arirang\" world tour show in Arlington, Texas, Jimin stepped down from the stage to greet Olivya, a young cancer patient supported by Heroes for Children, a nonprofit that provides financial and social assist",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/25/news-p.v1.20260825.c0057262520f49c281426e55749dbf9e_T1.png",
-      "tags": [
-        "world tour",
-        "concert",
-        "bts"
+        "mini album",
+        "album"
       ]
     },
     {
@@ -127,7 +125,7 @@
       "publishedAt": "2026-08-24T15:17:22.000Z",
       "snippet": "EXO’s Doh Kyung Soo (D.O.) is gearing up for a comeback! On August 25 at midnight KST, Doh Kyung Soo unveiled the first teaser images for his upcoming fourth mini album “DOPAMINE.”...",
       "description": "EXO’s Doh Kyung Soo (D.O.) is gearing up for a comeback! On August 25 at midnight KST, Doh Kyung Soo unveiled the first teaser images for his upcoming fourth mini album “DOPAMINE.” The album is scheduled to drop on September 8 at 6 p.m. KST, marking his return nearly one year after his previous digital… Continue reading Doh Kyung Soo Announces Comeback Date With First Teasers For New Album “DOPAMINE” The post Doh Kyung Soo Announces Comeback Date With First Teasers For New Album “DOPAMINE” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/24081230/doh-kyung-soo1-2.jpeg",
       "tags": [
         "comeback",
         "mini album",
