@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-30T08:48:35.967Z",
+  "generatedAt": "2026-08-30T14:12:07.890Z",
   "items": [
+    {
+      "id": "805fcc90b1ff9bd3",
+      "title": "BTS Faces New Accusations Of Insensitivity Toward Women After Latest Concert",
+      "url": "https://www.koreaboo.com/news/bts-new-accusations-insensitivity-toward-women-after-latest-concert/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-08-30T11:23:24.000Z",
+      "snippet": "Some fans believe it was a clear message.",
+      "description": "Some fans believe it was a clear message.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "b2a5f122858c87fe",
       "title": "IVE’s “I AM” Becomes Their 1st MV To Hit 400 Million Views",
@@ -42,20 +56,6 @@
       "tags": [
         "album",
         "billboard"
-      ]
-    },
-    {
-      "id": "111dd409e4fb31f1",
-      "title": "K-Pop Group Enters Hiatus After Losing Half The Members 7 Months After Debut",
-      "url": "https://www.koreaboo.com/news/kpop-group-enters-hiatus-after-losing-2-members-7-months-after-debut/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-08-29T18:13:48.000Z",
-      "snippet": "We wish them the best!",
-      "description": "We wish them the best!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "debut"
       ]
     },
     {
@@ -199,38 +199,6 @@
       "tags": [
         "album",
         "world tour"
-      ]
-    },
-    {
-      "id": "7eb2b2fa529e7a13",
-      "title": "Stray Kids, WayV, RESCENE, BTS, And More Top Circle Weekly Charts",
-      "url": "https://www.soompi.com/article/1865926wpp/stray-kids-wayv-rescene-bts-and-more-top-circle-weekly-charts",
-      "source": "Soompi",
-      "publishedAt": "2026-08-26T19:02:43.000Z",
-      "snippet": "Circle Chart has revealed its chart rankings for the week of August 9 to 15! Album Chart WayV topped this week’s physical album chart with their new mini album “Vision Wings,” whic...",
-      "description": "Circle Chart has revealed its chart rankings for the week of August 9 to 15! Album Chart WayV topped this week’s physical album chart with their new mini album “Vision Wings,” which debuted at No. 1. Stray Kids’ latest mini album “THIS & THAT” stayed strong at No. 2, while KATSEYE’s new EP “WILD” debuted… Continue reading Stray Kids, WayV, RESCENE, BTS, And More Top Circle Weekly Charts The post Stray Kids, WayV, RESCENE, BTS, And More Top Circle Weekly Charts appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album",
-        "circle chart",
-        "bts",
-        "stray kids"
-      ]
-    },
-    {
-      "id": "866c1178d6a41f89",
-      "title": "ENHYPEN’s “THE SIN : BLISS” Becomes Their 4th Album To Sell 2 Million Copies In 1st Week",
-      "url": "https://www.soompi.com/article/1865979wpp/enhypens-the-sin-bliss-becomes-their-4th-album-to-sell-2-million-copies-in-1st-week",
-      "source": "Soompi",
-      "publishedAt": "2026-08-26T17:27:48.000Z",
-      "snippet": "ENHYPEN’s latest album is already a “double-million seller”! Last week, ENHYPEN made their comeback with their new mini album “THE SIN : BLISS” and its catchy title track “Bloody P...",
-      "description": "ENHYPEN’s latest album is already a “double-million seller”! Last week, ENHYPEN made their comeback with their new mini album “THE SIN : BLISS” and its catchy title track “Bloody Paradise” on August 21. On August 26, Hanteo Chart announced that “THE SIN : BLISS” had already sold over 2 million copies, making it their fourth… Continue reading ENHYPEN’s “THE SIN : BLISS” Becomes Their 4th Album To Sell 2 Million Copies In 1st Week The post ENHYPEN’s “THE SIN : BLISS” Becomes Their 4th Album To Sell 2 Million Copies In 1st Week appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
       ]
     },
     {
