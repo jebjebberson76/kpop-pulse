@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-01T00:16:51.479Z",
+  "generatedAt": "2026-09-01T05:56:16.538Z",
   "items": [
+    {
+      "id": "d63822f74e56ce10",
+      "title": "Meet Woni, the underdog with an edge on K-pop&apos;s biggest names",
+      "url": "https://www.koreaherald.com/article/10858639",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-01T02:28:09.000Z",
+      "snippet": "Who was the most talked-about individual K-pop idol in August? Not BTS' Jimin or Ive's Jang Wonyoung. According to the monthly individual idol brand reputation rankings published b...",
+      "description": "Who was the most talked-about individual K-pop idol in August? Not BTS' Jimin or Ive's Jang Wonyoung. According to the monthly individual idol brand reputation rankings published by brand analytics firm Brikorea, it was Woni of Rescene for the second consecutive month. The leader of the five-member girl group topped the August ranking with a brand reputation index of 6,951,891, ahead of Jimin at No. 2 and Jang Wonyoung at No. 3. The index combines data on consumer engagement, media exposure, onl",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.8c6ce472568e43a5a5b31cb041bb3229_T1.jpg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "bts",
+        "ive"
+      ]
+    },
+    {
+      "id": "d4c652a88d16834a",
+      "title": "Enhypen tops Oricon chart for 11th time with 8th EP",
+      "url": "https://www.koreaherald.com/article/10858452",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-01T01:47:55.000Z",
+      "snippet": "Enhypen hit the top of Oricon’s Weekly Album Ranking with its eighth EP, “The Sin: Bliss,” according to the chart published Tuesday. This is the 11th album from the group to bank a...",
+      "description": "Enhypen hit the top of Oricon’s Weekly Album Ranking with its eighth EP, “The Sin: Bliss,” according to the chart published Tuesday. This is the 11th album from the group to bank a No. 1 spot in the weekly ranking. The mini album had made a chart-topping debut on the Billboard 200, a first for Enhypen. It sold over 2 million copies in the first week of sales, becoming the group’s fifth album to do so. Lead single “Bloody Paradise” debuted on Spotify’s daily and weekly global songs charts at No.",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.3935d33ba6a042b991a779810020966c_T1.png",
+      "tags": [
+        "debut",
+        "mini album",
+        "album",
+        "billboard"
+      ]
+    },
     {
       "id": "c880c9442a73b1a0",
       "title": "LG’s washing machines get virtual girl group singing ‘I Wash’",
@@ -29,6 +61,65 @@
         "debut",
         "album",
         "billboard"
+      ]
+    },
+    {
+      "id": "76c0cd5172590a59",
+      "title": "BTS&apos; &apos;Arirang&apos; ranks No. 2 on Billboard Top Tours chart",
+      "url": "https://www.koreaherald.com/article/10857337",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-31T02:53:57.000Z",
+      "snippet": "BTS generated over $102.5 million in revenue in July through its ongoing “Arirang” world tour, claiming the No. 2 spot on Billboard’s Top Tours chart. The tour attracted 582,000 co...",
+      "description": "BTS generated over $102.5 million in revenue in July through its ongoing “Arirang” world tour, claiming the No. 2 spot on Billboard’s Top Tours chart. The tour attracted 582,000 concertgoers with eight shows in July. The Weeknd sat atop the ranking at $124 million grossed with 16 shows. Billboard said the septet is “the third act to gross a reported $100 million in multiple months,” joining Beyonce and Bad Bunny. BTS had topped the monthly tours revenue tally in both April and May. The tour had",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/31/news-p.v1.20260831.0a3e8c66d76b417ead01bdb578cb5293_T1.jpg",
+      "tags": [
+        "billboard",
+        "world tour",
+        "bts"
+      ]
+    },
+    {
+      "id": "9e26f09715d45a1b",
+      "title": "TXT’s Yeonjun to release Michael Buble cover",
+      "url": "https://www.koreaherald.com/article/10857251",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-31T02:29:27.000Z",
+      "snippet": "Yeonjun of Tomorrow X Together is set to release his cover of Michael Buble’s 2005 hit song “Home” online on Tuesday, according to label Big Hit Music. Yeonjun sang the ballad on “...",
+      "description": "Yeonjun of Tomorrow X Together is set to release his cover of Michael Buble’s 2005 hit song “Home” online on Tuesday, according to label Big Hit Music. Yeonjun sang the ballad on “The Seasons,” a live music show hosted by singer Sung Si-kyung, last month, saying that it was the song that earned him the first nod for his music abilities when he was a trainee. The idol has been building up his solo career. He released his second solo EP, “No Labels: Part 02,” in July and it entered the Billboard 2",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/31/news-p.v1.20260831.739d46f23dec4eafb8cfb407d24df258_T1.jpg",
+      "tags": [
+        "idol",
+        "billboard"
+      ]
+    },
+    {
+      "id": "3e1869edbb9d06c8",
+      "title": "NCT’s 10-year celebration to take over Seoul",
+      "url": "https://www.koreaherald.com/article/10857194",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-31T02:05:54.000Z",
+      "snippet": "NCT will mark the 10th anniversary of its debut with a citywide celebration in Seoul, according to label SM Entertainment on Monday. The mega group is set to infuse the city with i...",
+      "description": "NCT will mark the 10th anniversary of its debut with a citywide celebration in Seoul, according to label SM Entertainment on Monday. The mega group is set to infuse the city with its signature color and a parade of music. Starting Tuesday, fountains along the Han River will shoot up water to the tunes of its subunits — NCT127, NCT Dream, WayV, NCT Wish and and NCT U — while lights surrounding Seokchon Lake will cast the neighborhood in a pearly champagne hue. The 23-member group's costumes will",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/31/news-p.v1.20260831.581be48aa108411b8369cd40adc7866f_T1.jpg",
+      "tags": [
+        "debut",
+        "nct"
+      ]
+    },
+    {
+      "id": "74bd1eca3b392b22",
+      "title": "Ive tops 400m for 1st time with ‘I Am’ music video",
+      "url": "https://www.koreaherald.com/article/10857105",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-31T01:32:11.000Z",
+      "snippet": "Ive now has a music video that garnered more than 400 million plays on YouTube, with “I Am” reaching the milestone on Sunday, according to Starship Entertainment. “I Am” is one of...",
+      "description": "Ive now has a music video that garnered more than 400 million plays on YouTube, with “I Am” reaching the milestone on Sunday, according to Starship Entertainment. “I Am” is one of the two focus tracks from the girl group's first studio album, “I’ve Ive,” which rolled out in April 2023. The single topped all major music charts at home and earned the group nine trophies from television music chart shows. It charted 22 weeks on Billboard’s Global 200 and 33 weeks on Global Excl. US. Meanwhile, the",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/31/news-p.v1.20260831.ccd0e7cc6f8747b6b79e37c4a0300977_T1.jpg",
+      "tags": [
+        "album",
+        "music video",
+        "billboard",
+        "ive"
       ]
     },
     {
@@ -351,20 +442,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/08/26/news-p.v1.20260826.874c7d5ae0bf487ab360c8bec28bbead_T1.jpg",
       "tags": [
         "k-pop",
-        "bts"
-      ]
-    },
-    {
-      "id": "ea7204414069d952",
-      "title": "BTS earns gold certification in France with ‘Swim’",
-      "url": "https://www.koreaherald.com/article/10852620",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-08-26T02:21:04.000Z",
-      "snippet": "BTS received “gold” certification from Syndicat National de l'Edition Phonographique, the French recording industry organization, with “Swim,” Big Hit Music announced Wednesday. Th...",
-      "description": "BTS received “gold” certification from Syndicat National de l'Edition Phonographique, the French recording industry organization, with “Swim,” Big Hit Music announced Wednesday. The focus track from the group's fifth album, “Arirang,” is its tenth song to achieve the feat and did so in about five months, the second shortest time for it after “Dynamite.” “Swim” earned the group a nomination for song of the year from the MTV Video Music Awards. The award ceremony will be held in Los Angeles on Sep",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/26/news-p.v1.20260826.2f6b09ab19d448ec91bda6a8b6b4f543_T1.jpg",
-      "tags": [
-        "album",
         "bts"
       ]
     }
