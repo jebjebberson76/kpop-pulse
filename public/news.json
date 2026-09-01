@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-01T11:00:42.135Z",
+  "generatedAt": "2026-09-01T15:52:42.395Z",
   "items": [
-    {
-      "id": "bf417cf0602b1ecc",
-      "title": "Viral Video About BTS V’s “Ego” Sparks Wave Of Criticism About Idol’s Personality",
-      "url": "https://www.koreaboo.com/news/viral-video-bts-vs-ego-sparks-wave-criticism-idols-personality/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-09-01T10:15:25.000Z",
-      "snippet": "The comments didn't hold back.",
-      "description": "The comments didn't hold back.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
-      ]
-    },
     {
       "id": "f9e614ed4a9166c2",
       "title": "Watch: Stray Kids’ Felix Lends Roh Yoon Seo A Helping Hand In Heartwarming “Slow It Down” MV",
@@ -444,6 +430,20 @@
       "tags": [
         "album",
         "world tour"
+      ]
+    },
+    {
+      "id": "83fa164e7374fbdd",
+      "title": "K-pop tickets are hard to get. One Korean woman allegedly got 2,600 and made $319,000",
+      "url": "https://www.koreaherald.com/article/10853221",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-08-26T08:11:57.000Z",
+      "snippet": "A woman in her 30s allegedly used a macro program to automatically purchase about 2,600 tickets to K-pop concerts, including nine tickets to BTS’ highly sought-after Gwanghwamun pe...",
+      "description": "A woman in her 30s allegedly used a macro program to automatically purchase about 2,600 tickets to K-pop concerts, including nine tickets to BTS’ highly sought-after Gwanghwamun performance earlier this year, police said Wednesday. The Seoul Metropolitan Police Agency said it had referred the woman to prosecutors without detention on charges of violating the Information and Communications Network Act, obstruction of business, and the Public Performance Act. Police said the woman used the automat",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/26/news-p.v1.20260826.874c7d5ae0bf487ab360c8bec28bbead_T1.jpg",
+      "tags": [
+        "k-pop",
+        "bts"
       ]
     }
   ]
