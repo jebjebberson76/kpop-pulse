@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-09-05T18:43:28.768Z",
+  "generatedAt": "2026-09-05T20:52:06.742Z",
   "items": [
+    {
+      "id": "24af34d4878a330b",
+      "title": "aespa’s Concert Labeled “Worst Ever” After Numerous Issues",
+      "url": "https://www.koreaboo.com/news/aespa-concert-labeled-worst-ever-after-numerous-issues/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-09-05T19:00:36.000Z",
+      "snippet": "Fans are considering legal action against the organizer.",
+      "description": "Fans are considering legal action against the organizer.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "aespa"
+      ]
+    },
+    {
+      "id": "19b738af2661f2ba",
+      "title": "Top K-Pop Idol Apologizes After Company’s Scolding Over Wardrobe Malfunction, Sparking Outrage",
+      "url": "https://www.koreaboo.com/news/top-kpop-idol-apologizes-after-companys-scolding-wardrobe-malfunction-sparking-outrage/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-09-05T18:00:08.000Z",
+      "snippet": "It is not the first time.",
+      "description": "It is not the first time.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "71c9546e4903f0b2",
       "title": "CORTIS’s “FaSHioN” Becomes Their 1st MV To Hit 100 Million Views",
