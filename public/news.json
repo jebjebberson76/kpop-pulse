@@ -1,18 +1,88 @@
 {
-  "generatedAt": "2026-09-07T05:32:49.898Z",
+  "generatedAt": "2026-09-07T11:15:22.979Z",
   "items": [
     {
-      "id": "fb6725041321c42f",
-      "title": "Beloved K-Pop Idol Sells Only 2 Albums In A Day, Gains Attention For Alleged Reaction",
-      "url": "https://www.koreaboo.com/news/beloved-kpop-idol-sells-2-albums-in-day-gains-attention-alleged-reaction/",
+      "id": "1c2f5cb28654ef49",
+      "title": "Reaction To NewJeans Haerin’s First Public Appearance Since Return Sparks Huge Response",
+      "url": "https://www.koreaboo.com/news/newjeans-haerins-first-public-appearance-since-return-sparks-huge-reactions/",
       "source": "Koreaboo",
-      "publishedAt": "2026-09-06T23:17:32.000Z",
-      "snippet": "He's seeing beyond the numbers.",
-      "description": "He's seeing beyond the numbers.",
+      "publishedAt": "2026-09-07T09:20:36.000Z",
+      "snippet": "The idol recently returned to activities.",
+      "description": "The idol recently returned to activities.",
       "image": "/public/placeholder-news.svg",
       "tags": [
+        "idol",
+        "newjeans"
+      ]
+    },
+    {
+      "id": "061847e157d9ba91",
+      "title": "NCT’s Jisung Teams Up With Johnny In Final Battle For The “Prince” Title On “ALL or NOTHING”",
+      "url": "https://www.soompi.com/article/1868659wpp/ncts-jisung-teams-up-with-johnny-in-final-battle-for-the-prince-title-on-all-or-nothing",
+      "source": "Soompi",
+      "publishedAt": "2026-09-07T09:04:22.000Z",
+      "snippet": "The cast of “ALL or NOTHING” is gearing up for their final showdown! “ALL or NOTHING” is a new winner-take-all travel variety series set in Egypt. Over seven days and six nights, t...",
+      "description": "The cast of “ALL or NOTHING” is gearing up for their final showdown! “ALL or NOTHING” is a new winner-take-all travel variety series set in Egypt. Over seven days and six nights, the cast will compete for the title of “prince” across the cities of Cairo, Luxor, and Hurghada. The show features SUPER JUNIOR members… Continue reading NCT’s Jisung Teams Up With Johnny In Final Battle For The “Prince” Title On “ALL or NOTHING” The post NCT’s Jisung Teams Up With Johnny In Final Battle For The “Prince” Title On “ALL or NOTHING” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/07020414/ALL-or-NOTHING-2.jpg",
+      "tags": [
+        "nct",
+        "super junior"
+      ]
+    },
+    {
+      "id": "61279b002618e4df",
+      "title": "BTS Jimin’s Vocals Hit With Brutal Criticism During Recent Concert",
+      "url": "https://www.koreaboo.com/news/bts-jimin-lip-sycing-vocal-criticism/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-09-07T08:05:06.000Z",
+      "snippet": "Netizens didn't hold back.",
+      "description": "Netizens didn't hold back.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
+    {
+      "id": "dea3b51d065a4330",
+      "title": "SM faces backlash after former NCT member Taeil’s outfit sold at charity flea market",
+      "url": "https://www.koreaherald.com/article/10865387",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-07T07:59:59.000Z",
+      "snippet": "SM Entertainment is facing criticism after an outfit previously worn by former NCT member Taeil, who is in jail for rape, was sold at a charity flea market held to mark the group’s...",
+      "description": "SM Entertainment is facing criticism after an outfit previously worn by former NCT member Taeil, who is in jail for rape, was sold at a charity flea market held to mark the group’s 10th anniversary. The controversy emerged Sunday after a fan who attended the NCT Flea Market in Seoul posted photos on X of a black jacket they had purchased for 150,000 won ($111), later identifying it as an outfit Taeil wore in NCT 127’s 2018 music video for “Chain.” “What fan would want to buy a criminal’s clothes",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.d65aebd9a751455084d4190bafe7ed49_T1.png",
+      "tags": [
+        "music video",
+        "nct"
+      ]
+    },
+    {
+      "id": "cbd8908ecb4cb94f",
+      "title": "Why K-pop is having a Brazilian funk moment",
+      "url": "https://www.koreaherald.com/article/10865341",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-07T07:41:01.000Z",
+      "snippet": "Brazilian funk is gaining a stronger presence in K-pop, with some of the industry's leading acts turning to the hard-hitting rhythms born in South America. Ateez brought the genre...",
+      "description": "Brazilian funk is gaining a stronger presence in K-pop, with some of the industry's leading acts turning to the hard-hitting rhythms born in South America. Ateez brought the genre to the forefront in June with \"Bad,\" the lead track from its 14th EP, \"Golden Hour: Part.5,\" while Enhypen followed in August with \"Bloody Paradise,\" the Brazilian funk-driven lead single from its eighth EP, \"The Sin: Bliss.\" Both albums debuted atop the Billboard 200. But Brazilian funk — sometimes introduced in K-pop",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/07/news-p.v1.20260907.f0a68897ae574040ab393a314b06f8b3_T1.jpg",
+      "tags": [
         "k-pop",
-        "idol"
+        "billboard"
+      ]
+    },
+    {
+      "id": "cfc9ad0e7bdc6e47",
+      "title": "EVAN (Heeseung) Personally Talks About Leaving ENHYPEN",
+      "url": "https://www.koreaboo.com/news/evan-heeseung-personally-talks-leaving-enhypen/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-09-07T06:44:18.000Z",
+      "snippet": "EVAN (also known as Heeseung) has personally addressed the reason he left ENHYPEN. EVAN’s first mini album DEATH OF ME media showcase was held on September 7th at the Kyung…",
+      "description": "EVAN (also known as Heeseung) has personally addressed the reason he left ENHYPEN. EVAN’s first mini album DEATH OF ME media showcase was held on September 7th at the Kyung…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "mini album",
+        "album"
       ]
     },
     {
@@ -86,7 +156,7 @@
       "publishedAt": "2026-09-06T12:58:41.000Z",
       "snippet": "The 2026 SPOTV K-Pop Awards was a star-studded event! On September 6, the 2026 SPOTV K-Pop Awards took place at KINTEX in Ilsan. The SPOTV K-Pop Awards aims to carry on the legacy...",
       "description": "The 2026 SPOTV K-Pop Awards was a star-studded event! On September 6, the 2026 SPOTV K-Pop Awards took place at KINTEX in Ilsan. The SPOTV K-Pop Awards aims to carry on the legacy of the Circle Chart Music Awards by combining objective evaluations based on Circle Chart data with global voting by fans all around… Continue reading Winners Of 2026 SPOTV K-Pop Awards The post Winners Of 2026 SPOTV K-Pop Awards appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/06061257/SKA-1-.png",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "circle chart"
@@ -219,22 +289,6 @@
         "debut",
         "album",
         "mv"
-      ]
-    },
-    {
-      "id": "71385a1c9b802879",
-      "title": "Watch: TEN Flaunts His Sleek Moves In MV For “OUTWEST” Solo Comeback",
-      "url": "https://www.soompi.com/article/1868120wpp/watch-ten-flaunts-his-sleek-moves-in-mv-for-outwest-solo-comeback",
-      "source": "Soompi",
-      "publishedAt": "2026-09-04T04:31:41.000Z",
-      "snippet": "TEN has returned with new music! On September 4, the NCT member released his new single “OUTWEST” along with the music video for the title track of the same name. This is TEN’s fir...",
-      "description": "TEN has returned with new music! On September 4, the NCT member released his new single “OUTWEST” along with the music video for the title track of the same name. This is TEN’s first solo release since departing SM Entertainment and co-establishing ILLIMNT. TEN personally participated in the composition and lyrics for “OUTWEST,” which includes… Continue reading Watch: TEN Flaunts His Sleek Moves In MV For “OUTWEST” Solo Comeback The post Watch: TEN Flaunts His Sleek Moves In MV For “OUTWEST” Solo Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "music video",
-        "mv",
-        "nct"
       ]
     },
     {
@@ -385,20 +439,6 @@
         "debut",
         "album",
         "billboard",
-        "bts"
-      ]
-    },
-    {
-      "id": "d57ca5d903c97656",
-      "title": "Los Angeles declares ‘BTS Week’ as world tour lands",
-      "url": "https://www.koreaherald.com/article/10858677",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-09-01T02:40:07.000Z",
-      "snippet": "Los Angeles has officially designated Sept. 1-8 as “BTS Week” as the group returns to the city for four sold-out concerts as part of its “Arirang” world tour. The boy group is set...",
-      "description": "Los Angeles has officially designated Sept. 1-8 as “BTS Week” as the group returns to the city for four sold-out concerts as part of its “Arirang” world tour. The boy group is set to perform at SoFi Stadium on Tuesday and Wednesday and again on Saturday and Sunday, marking the group’s first concerts at the venue in nearly five years. To welcome the group and fans traveling to the city for the shows, Los Angeles will also illuminate its city hall in red on Tuesday, reflecting the key color associ",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.3b90ef48a19545c6a7d2997982f391c4_T1.jpg",
-      "tags": [
-        "world tour",
         "bts"
       ]
     }
