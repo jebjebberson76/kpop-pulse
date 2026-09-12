@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:32:19.426Z",
+  "generatedAt": "2026-09-12T07:32:23.336Z",
   "items": [
     {
       "id": "9345ea4e74a58073",
@@ -23,20 +23,6 @@
       "publishedAt": "2026-09-11T19:27:01.000Z",
       "snippet": "We wish him the best!",
       "description": "We wish him the best!",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "78efa85ae083ddb7",
-      "title": "Girl Group Idol Gets Honest About Her Fellow Member’s Marriage",
-      "url": "https://www.koreaboo.com/news/girl-group-idol-honest-fellow-member-marriage/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-09-11T16:26:04.000Z",
-      "snippet": "A K-Pop girl group idol congratulated fellow group member on her marriage, while also revealing her honest thoughts about the news. On the afternoon of September 8th, Lovelyz’s Ryu...",
-      "description": "A K-Pop girl group idol congratulated fellow group member on her marriage, while also revealing her honest thoughts about the news. On the afternoon of September 8th, Lovelyz’s Ryu Sujeong…",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
@@ -174,34 +160,6 @@
       "image": "/public/placeholder-news.svg",
       "tags": [
         "show champion",
-        "shinee"
-      ]
-    },
-    {
-      "id": "bc3c30179d565e78",
-      "title": "QUIZ: Tell Us What Kind Of Student You Are And We’ll Recommend The Perfect New K-Pop Album To Get Your Semester Started",
-      "url": "https://www.soompi.com/article/1866718wpp/quiz-tell-us-what-kind-of-student-you-are-and-well-recommend-the-perfect-new-k-pop-album-to-get-your-semester-started",
-      "source": "Soompi",
-      "publishedAt": "2026-09-09T09:03:24.000Z",
-      "snippet": "Now that your fall semester has started, I bet that you could use a new K-pop album to raise your spirits. Just tell us all about your school life and what kind of student you are,...",
-      "description": "Now that your fall semester has started, I bet that you could use a new K-pop album to raise your spirits. Just tell us all about your school life and what kind of student you are, and this quiz will recommend a newly-released album for you. Sounds like a good deal, right? The post QUIZ: Tell Us What Kind Of Student You Are And We’ll Recommend The Perfect New K-Pop Album To Get Your Semester Started appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "album"
-      ]
-    },
-    {
-      "id": "3b300af0e82238d3",
-      "title": "SHINee’s Taemin Reveals New Version Of Official Light Stick",
-      "url": "https://www.soompi.com/article/1869266wpp/shinees-taemin-reveals-new-version-of-official-light-stick",
-      "source": "Soompi",
-      "publishedAt": "2026-09-09T07:32:39.000Z",
-      "snippet": "SHINee’s Taemin is releasing a new version of his official light stick! On September 9, Taemin unveiled teasers for version 2 of his official light stick. The preview photos hint a...",
-      "description": "SHINee’s Taemin is releasing a new version of his official light stick! On September 9, Taemin unveiled teasers for version 2 of his official light stick. The preview photos hint at the light stick’s unique ability to turn into a lamp and a lantern. Taemin recently made his comeback with his solo EP “PHASE 1… Continue reading SHINee’s Taemin Reveals New Version Of Official Light Stick The post SHINee’s Taemin Reveals New Version Of Official Light Stick appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
         "shinee"
       ]
     },
