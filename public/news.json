@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-15T00:07:46.921Z",
+  "generatedAt": "2026-09-15T05:38:43.366Z",
   "items": [
+    {
+      "id": "e0bf719a6ce59cce",
+      "title": "&Team hits career-best with 2nd EP sales",
+      "url": "https://www.koreaherald.com/article/10874106",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-15T04:43:18.000Z",
+      "snippet": "The second EP &Team released in Korea sold over 1.35 million copies in its first week, a record for the group, its agency YX Labels said on Tuesday, citing a local tally. The mini...",
+      "description": "The second EP &Team released in Korea sold over 1.35 million copies in its first week, a record for the group, its agency YX Labels said on Tuesday, citing a local tally. The mini album logged over 1.2 million in sales on the first day, becoming the eight-member act’s fourth consecutive million-seller. The six-track album “Mark on Me” adds love to the group's signature “wolf” theme, portraying change brought by the feeling through the genre-spanning songs. The group is set to perform in Seoul on",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/15/news-p.v1.20260915.8b2130e716e24c7d9ff94d314ce894f4_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
+      ]
+    },
     {
       "id": "6358c04e4a3f88d3",
       "title": "Jeongyeon Unveils Dashing New Profile Photos",
@@ -44,6 +58,20 @@
       ]
     },
     {
+      "id": "bf816e93d5cac469",
+      "title": "Riize to release second LP in spring 2027",
+      "url": "https://www.koreaherald.com/article/10872651",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-14T04:25:40.000Z",
+      "snippet": "Riize will release its second LP next spring, with a prologue single set to arrive in late October, SM Entertainment announced Monday. The group revealed its upcoming release sched...",
+      "description": "Riize will release its second LP next spring, with a prologue single set to arrive in late October, SM Entertainment announced Monday. The group revealed its upcoming release schedule through a special video shown at the end of its third anniversary fan meeting, “Ch. Riize: On Air,” at Inspire Arena in Incheon on Sunday. According to the announcement, Riize will release the prologue single on Oct. 26 before continuing activities through the end of the year, leading into the release of its second",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/14/news-p.v1.20260914.a8c870c933044ca08743e8a53e4fc559_T1.jpg",
+      "tags": [
+        "fan meeting",
+        "riize"
+      ]
+    },
+    {
       "id": "8e2b6f70db871d6e",
       "title": "ILLIT Announces Fall Comeback Date",
       "url": "https://www.soompi.com/article/1870369wpp/illit-announces-fall-comeback-date",
@@ -56,6 +84,36 @@
         "comeback",
         "mini album",
         "album"
+      ]
+    },
+    {
+      "id": "5cf18e722ec5bae9",
+      "title": "Illit announces October comeback",
+      "url": "https://www.koreaherald.com/article/10872608",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-14T02:49:54.000Z",
+      "snippet": "Illit will release its fifth EP “Break Even” on Oct. 26, according to agency Belift Lab on Monday. The group’s last endeavor was its EP “Mamihlapinatapai.” Released in April, it hi...",
+      "description": "Illit will release its fifth EP “Break Even” on Oct. 26, according to agency Belift Lab on Monday. The group’s last endeavor was its EP “Mamihlapinatapai.” Released in April, it hit the Billboard 200 at No. 26, a career-high for the quintet. The main track from the mini album, “It’s Me,” made Billboard’s Global 200 at No. 67 and Global excl. US at No. 32. At home, the catchy techno tune also won the group four trophies from television music chart shows, and topped a series of major music charts",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/14/news-p.v1.20260914.a7360e38e08543beaf97c1a6a72be871_T1.jpg",
+      "tags": [
+        "comeback",
+        "mini album",
+        "album",
+        "billboard"
+      ]
+    },
+    {
+      "id": "64fddf1717b0f9c5",
+      "title": "AllDay Project to return with second EP ‘Crash’",
+      "url": "https://www.koreaherald.com/article/10872593",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-14T02:41:28.000Z",
+      "snippet": "AllDay Project will return in late September with its second EP, “Crash,” making its first comeback in nine months. The Black Label said Monday that the five-member group will rele...",
+      "description": "AllDay Project will return in late September with its second EP, “Crash,” making its first comeback in nine months. The Black Label said Monday that the five-member group will release the EP at 6 p.m. on Sept. 28. Teaser content posted to the group’s social media channels showed Annie, Tarzzan, Bailey, Woochan and Youngseo dressed in black, signaling a darker and more intense visual direction for the upcoming release. “Crash “ will be AllDay Project’s first release since its self-titled debut EP",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/14/news-a.v1.20260914.2c65929f8f7e411588a364d7c8e93014_T1.png",
+      "tags": [
+        "comeback",
+        "debut"
       ]
     },
     {
@@ -192,20 +250,6 @@
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "9345ea4e74a58073",
-      "title": "September Boy Group Brand Reputation Rankings Announced",
-      "url": "https://www.soompi.com/article/1869879wpp/september-boy-group-brand-reputation-rankings-announced-10",
-      "source": "Soompi",
-      "publishedAt": "2026-09-12T02:03:22.000Z",
-      "snippet": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer pa...",
-      "description": "The Korean Business Research Institute has revealed this month’s brand reputation rankings for male idol groups! The rankings were determined through an analysis of the consumer participation, media coverage, interaction, and community indexes of various boy groups, using big data collected from August 12 to September 12. BTS continued their reign at the top of… Continue reading September Boy Group Brand Reputation Rankings Announced The post September Boy Group Brand Reputation Rankings Announced appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
       ]
     },
     {
@@ -397,21 +441,6 @@
       "tags": [
         "k-pop",
         "blackpink"
-      ]
-    },
-    {
-      "id": "1e8837f41ba64597",
-      "title": "Lightsum to drop prerelease from Japan debut album",
-      "url": "https://www.koreaherald.com/article/10867606",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-09-09T02:39:08.000Z",
-      "snippet": "Girl group Lightsum will unveil the main track from its Japan debut album in advance, its agency Cube Entertainment said Wednesday. The six-member group will release the EP “Re:ido...",
-      "description": "Girl group Lightsum will unveil the main track from its Japan debut album in advance, its agency Cube Entertainment said Wednesday. The six-member group will release the EP “Re:idol” on Sept. 23 and drop the single “Doshite” on Sept. 16. The prerelease portrays the ups and downs of having a crush, mixing in cute dance moves. After the album release, the group will visit Sapporo to participate in a music festival, followed by meet-and-greets with fans in the city as well as in Tokyo and Osaka. A",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/09/news-p.v1.20260909.8285f77fea764a89b9ae08cbb7ec0a53_T1.jpg",
-      "tags": [
-        "idol",
-        "debut",
-        "album"
       ]
     }
   ]
