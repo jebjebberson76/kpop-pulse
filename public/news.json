@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-09-17T05:55:53.889Z",
+  "generatedAt": "2026-09-17T10:50:15.608Z",
   "items": [
+    {
+      "id": "8fd063147cac1e88",
+      "title": "aespa’s Winter Hit With Malicious Body-Shaming In Recent Concert Clip",
+      "url": "https://www.koreaboo.com/news/aespa-winter-body-shaming-concert/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-09-17T10:16:05.000Z",
+      "snippet": "\"Only bones...\"",
+      "description": "\"Only bones...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "aespa"
+      ]
+    },
+    {
+      "id": "4b99a0ffe3d256b3",
+      "title": "Criticism About LE SSERAFIM Sakura’s “Sexy” Concert Outfit Sparks Heated Reactions",
+      "url": "https://www.koreaboo.com/news/le-sserafim-sexy-clothes-criticism-heated-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-09-17T08:15:12.000Z",
+      "snippet": "International fans defended the outfit.",
+      "description": "International fans defended the outfit.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "le sserafim"
+      ]
+    },
+    {
+      "id": "4836192757440abb",
+      "title": "Beyond music shows: How gaming, news and brands are becoming K-pop’s new stages",
+      "url": "https://www.koreaherald.com/article/10877333",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-17T06:38:55.000Z",
+      "snippet": "For years, the promotional path for a K-pop \"comeback\" was relatively predictable: release new music, appear on weekly music shows, visit radio programs and variety shows, repeat f...",
+      "description": "For years, the promotional path for a K-pop \"comeback\" was relatively predictable: release new music, appear on weekly music shows, visit radio programs and variety shows, repeat for two to three weeks. That formula is beginning to loosen. K-pop artists are increasingly meeting audiences in places outside the typical comeback circuit — from esports finals and gaming festivals to news studios, baseball stadiums, fashion events and brand campaigns. The shift is not simply about finding more places",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/17/news-p.v1.20260917.adbfa5cf534b4cd8beed6b6dab9ae812_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback"
+      ]
+    },
     {
       "id": "15f5317524e9d060",
       "title": "CORTIS, i-dle, TXT’s Yeonjun, ILLIT, SEVENTEEN’s V8, LE SSERAFIM, And More Earn Circle Million And Platinum Certifications",
@@ -274,20 +316,6 @@
       ]
     },
     {
-      "id": "6358c04e4a3f88d3",
-      "title": "Jeongyeon Unveils Dashing New Profile Photos",
-      "url": "https://www.soompi.com/article/1870473wpp/jeongyeon-unveils-dashing-new-profile-photos",
-      "source": "Soompi",
-      "publishedAt": "2026-09-14T09:45:14.000Z",
-      "snippet": "TWICE’s Jeongyeon has unveiled stunning new profile photos! On September 14, VARO Entertainment unveiled four new profile photos of Jeongyeon, showcasing her in clean styling and h...",
-      "description": "TWICE’s Jeongyeon has unveiled stunning new profile photos! On September 14, VARO Entertainment unveiled four new profile photos of Jeongyeon, showcasing her in clean styling and highlighting her effortlessly chic charm. Check out the photos below! Jeongyeon made her debut as a member of TWICE in 2015. After parting ways with her longtime agency JYP… Continue reading Jeongyeon Unveils Dashing New Profile Photos The post Jeongyeon Unveils Dashing New Profile Photos appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "twice"
-      ]
-    },
-    {
       "id": "cef0bedd1b7e4cac",
       "title": "K-pop stars shine at Brazil’s Rock in Rio",
       "url": "https://www.koreaherald.com/article/10873142",
@@ -413,35 +441,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/09/11/news-p.v1.20260911.10b459268b4746a4918eec598d1a609a_T1.jpg",
       "tags": [
         "k-pop",
-        "concert",
-        "aespa"
-      ]
-    },
-    {
-      "id": "8a67bb6bc9071e58",
-      "title": "Olympic Park concert disruptions spill into October",
-      "url": "https://www.koreaherald.com/article/10870572",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-09-11T05:10:32.000Z",
-      "snippet": "Ongoing disruptions at Ticketlink Live Arena in Seoul’s Olympic Park are beginning to affect concerts scheduled as far ahead as October, forcing artists to relocate shows and raisi...",
-      "description": "Ongoing disruptions at Ticketlink Live Arena in Seoul’s Olympic Park are beginning to affect concerts scheduled as far ahead as October, forcing artists to relocate shows and raising concerns over further disruptions during the busy year-end concert season. Singers Doh Kyungsoo — also known as D.O. of Exo — and Lee Changsub both announced venue changes recently for concerts that had been scheduled at the arena in October. Doh will relocate the Seoul leg of his “Day Off” tour scheduled for Oct. 2",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/11/news-p.v1.20260911.4c91ef60aad146fda8de14fa9f06ab3f_T1.png",
-      "tags": [
-        "concert",
-        "exo"
-      ]
-    },
-    {
-      "id": "764fc91817a6df17",
-      "title": "Aespa to drop single album with solo tracks",
-      "url": "https://www.koreaherald.com/article/10870479",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-09-11T03:25:29.000Z",
-      "snippet": "Four solo tracks Aespa unveiled at the girl group's Seoul concert in August will be published as a special digital single set, SM Entertainment said Friday. The group will release...",
-      "description": "Four solo tracks Aespa unveiled at the girl group's Seoul concert in August will be published as a special digital single set, SM Entertainment said Friday. The group will release “Synk: Complaexity” on Monday, giving fans a listen to the songs each of the four bandmates contributed in making and performed on stage last month. Karina co-wrote the words for “16 Bit,” an R&B dance number using pixels to portray overcoming anxiety. Winter belts out the message to prove oneself by action in “Saddle",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/11/news-p.v1.20260911.be6dc5ed01c6413fbb3868a6824aaaff_T1.jpg",
-      "tags": [
-        "album",
         "concert",
         "aespa"
       ]
