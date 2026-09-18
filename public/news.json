@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:56:06.794Z",
+  "generatedAt": "2026-09-18T05:29:34.729Z",
   "items": [
     {
       "id": "dc7d17f62ab3eb16",
@@ -9,24 +9,10 @@
       "publishedAt": "2026-09-17T21:37:34.000Z",
       "snippet": "It seemed like a reunion would happen.",
       "description": "It seemed like a reunion would happen.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://image.koreaboo.com/2026/09/FEATURED-IMAGE-2026-09-17T163549.556.jpg",
       "tags": [
         "k-pop",
         "idol"
-      ]
-    },
-    {
-      "id": "53224f411e5ce428",
-      "title": "LE SSERAFIM Member Unexpectedly Mentions NewJeans, Sparks Massive Backlash",
-      "url": "https://www.koreaboo.com/news/le-sserafim-member-mentions-newjeans-sparks-backlash/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-09-17T14:46:33.000Z",
-      "snippet": "Many saw it as a subtle gesture.",
-      "description": "Many saw it as a subtle gesture.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "newjeans",
-        "le sserafim"
       ]
     },
     {
@@ -58,6 +44,23 @@
       "tags": [
         "k-pop",
         "comeback"
+      ]
+    },
+    {
+      "id": "9aefde5f8f58ea40",
+      "title": "BTS’ Jimin sets streaming record with ‘Like Crazy’",
+      "url": "https://www.koreaherald.com/article/10876754",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-17T01:35:26.000Z",
+      "snippet": "Jimin of BTS banked 1 billion filtered streams on Spotify with his solo single “Like Crazy,” a first for a fully Korean song, Big Hit Music announced Thursday. “Like Crazy” was rel...",
+      "description": "Jimin of BTS banked 1 billion filtered streams on Spotify with his solo single “Like Crazy,” a first for a fully Korean song, Big Hit Music announced Thursday. “Like Crazy” was released in March 2023 as the lead track for his first solo set, “Face.” The synth-pop tune made a chart-topping debut on Billboard’s Hot 100, the only Korean-language song from a K-pop solo act to do so in chart history. It spent five weeks on the main songs chart while the album charted seven weeks on Billboard 200, pea",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/17/news-p.v1.20260917.9b553cd53caa4374ba768d7ea481bcfb_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "album",
+        "billboard",
+        "bts"
       ]
     },
     {
@@ -204,7 +207,7 @@
       "publishedAt": "2026-09-16T01:08:11.000Z",
       "snippet": "Get ready for this year’s Melon Music Awards (MMA2026)! On September 16, The 18th Melon Music Awards announced its first lineup of artists consisting of PLAVE, RIIZE, NCT WISH, ALP...",
       "description": "Get ready for this year’s Melon Music Awards (MMA2026)! On September 16, The 18th Melon Music Awards announced its first lineup of artists consisting of PLAVE, RIIZE, NCT WISH, ALPHA DRIVE ONE, and LNGSHOT. The key theme of this year’s awards ceremony is “Connect,” with the main slogan set as “K-POP CONNECT: The New Pulse.”… Continue reading Melon Music Awards 2026 Announces First Lineup The post Melon Music Awards 2026 Announces First Lineup appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/15180718/melon-music-awards-2026.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "melon",
@@ -226,65 +229,6 @@
         "album",
         "billboard",
         "stray kids"
-      ]
-    },
-    {
-      "id": "ff941e9ffc49b98b",
-      "title": "MONSTA X Scores 5th Billboard 200 Entry With “The Phase”",
-      "url": "https://www.soompi.com/article/1870925wpp/monsta-x-scores-5th-billboard-200-entry-with-the-phase",
-      "source": "Soompi",
-      "publishedAt": "2026-09-15T20:21:27.000Z",
-      "snippet": "MONSTA X has landed another album on the Billboard 200! On September 15 local time, Billboard announced that MONSTA X’s new EP “The Phase” had debuted at No. 118 on its Top 200 Alb...",
-      "description": "MONSTA X has landed another album on the Billboard 200! On September 15 local time, Billboard announced that MONSTA X’s new EP “The Phase” had debuted at No. 118 on its Top 200 Albums chart, the main chart ranking the most popular albums in the United States. “The Phase” is MONSTA X’s second Korean album… Continue reading MONSTA X Scores 5th Billboard 200 Entry With “The Phase” The post MONSTA X Scores 5th Billboard 200 Entry With “The Phase” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "billboard"
-      ]
-    },
-    {
-      "id": "ffe80650f71bb89d",
-      "title": "SHINee’s Minho Breaks His 1st-Week Sales Record With “Make it hot”",
-      "url": "https://www.soompi.com/article/1870870wpp/shinees-minho-breaks-his-1st-week-sales-record-with-make-it-hot",
-      "source": "Soompi",
-      "publishedAt": "2026-09-15T15:46:31.000Z",
-      "snippet": "SHINee’s Minho is soaring to new heights with his latest solo comeback! Last week, Minho made his return with his new solo mini album “Make it hot” and its title track of the same...",
-      "description": "SHINee’s Minho is soaring to new heights with his latest solo comeback! Last week, Minho made his return with his new solo mini album “Make it hot” and its title track of the same name. According to Hanteo Chart, Minho has achieved the highest first-week sales of his career with his new mini album. In… Continue reading SHINee’s Minho Breaks His 1st-Week Sales Record With “Make it hot” The post SHINee’s Minho Breaks His 1st-Week Sales Record With “Make it hot” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album",
-        "shinee"
-      ]
-    },
-    {
-      "id": "7d77e201bc94da78",
-      "title": "Kim Jae Hwan Announces October Comeback With Teaser For “Love, From Here”",
-      "url": "https://www.soompi.com/article/1870869wpp/kim-jae-hwan-announces-october-comeback-with-teaser-for-love-from-here",
-      "source": "Soompi",
-      "publishedAt": "2026-09-15T15:37:04.000Z",
-      "snippet": "Mark your calendars for Kim Jae Hwan’s return! On September 16 at midnight KST, Kim Jae Hwan officially announced his plans for his upcoming comeback next month. Kim Jae Hwan will...",
-      "description": "Mark your calendars for Kim Jae Hwan’s return! On September 16 at midnight KST, Kim Jae Hwan officially announced his plans for his upcoming comeback next month. Kim Jae Hwan will return with his new single album “Love, From Here” on October 7 at 6 p.m. KST, and you can check out his first teaser… Continue reading Kim Jae Hwan Announces October Comeback With Teaser For “Love, From Here” The post Kim Jae Hwan Announces October Comeback With Teaser For “Love, From Here” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "album"
-      ]
-    },
-    {
-      "id": "86591b7f8554685e",
-      "title": "&TEAM Breaks 1st-Week Sales Record With “Mark On Me”",
-      "url": "https://www.soompi.com/article/1870856wpp/team-breaks-1st-week-sales-record-with-mark-on-me",
-      "source": "Soompi",
-      "publishedAt": "2026-09-15T14:05:10.000Z",
-      "snippet": "&TEAM has achieved the highest first-week sales of their career with their first Korean comeback! Last week, &TEAM made their first-ever Korean comeback with their new mini album “...",
-      "description": "&TEAM has achieved the highest first-week sales of their career with their first Korean comeback! Last week, &TEAM made their first-ever Korean comeback with their new mini album “Mark on Me” and its title track of the same name on September 8. Hanteo Chart has now reported that “Mark on Me” sold an impressive total… Continue reading &TEAM Breaks 1st-Week Sales Record With “Mark On Me” The post &TEAM Breaks 1st-Week Sales Record With “Mark On Me” appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "comeback",
-        "mini album",
-        "album"
       ]
     },
     {
