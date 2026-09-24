@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-23T21:56:05.562Z",
+  "generatedAt": "2026-09-24T00:11:27.237Z",
   "items": [
+    {
+      "id": "3ba038157bc1e3d4",
+      "title": "Popular K-Pop Idol Spotted With “Hickey,” Goes Viral",
+      "url": "https://www.koreaboo.com/news/popular-kpop-idol-spotted-hickey-goes-viral/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-09-23T22:23:11.000Z",
+      "snippet": "Fans have fiercely defended him.",
+      "description": "Fans have fiercely defended him.",
+      "image": "https://image.koreaboo.com/2026/09/FEATURED-IMAGE-2026-09-23T171944.383.jpg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
     {
       "id": "a15b5acd45aec583",
       "title": "Lisa’s “SaWaDiKa” Becomes Her 3rd Solo Song To Chart For Multiple Weeks On Billboard Hot 100",
@@ -13,34 +27,6 @@
       "tags": [
         "billboard",
         "blackpink"
-      ]
-    },
-    {
-      "id": "044cdcc87542e95d",
-      "title": "OG K-Pop Idol Exposes The Truth Behind Celebrity Dating Shows",
-      "url": "https://www.koreaboo.com/news/og-kpop-idol-exposes-truth-behind-celebrity-dating-shows/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-09-23T14:28:18.000Z",
-      "snippet": "An OG K-Pop idol opened up about the difficulties he faced while appearing on variety shows in the past. On the morning of September 21st, the YouTube channel Channel Bandal…",
-      "description": "An OG K-Pop idol opened up about the difficulties he faced while appearing on variety shows in the past. On the morning of September 21st, the YouTube channel Channel Bandal…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "846b00b36c666fe6",
-      "title": "Thread Of “Evidence” Alleging BTS’s Jungkook And aespa’s Winter Are Dating Sparks Heated Reactions",
-      "url": "https://www.koreaboo.com/news/proposal-thread-evidence-btss-jungkook-aespas-winter-dating-sparks-heated-reactions/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-09-23T10:40:25.000Z",
-      "snippet": "Netizens were not impressed.",
-      "description": "Netizens were not impressed.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "aespa"
       ]
     },
     {
@@ -110,7 +96,7 @@
       "publishedAt": "2026-09-22T23:36:13.000Z",
       "snippet": "TWICE has extended their world record on YouTube! On September 23 at approximately 8:18 a.m. KST, TWICE’s music video for their 2021 Japanese title track “Perfect World” surpassed...",
       "description": "TWICE has extended their world record on YouTube! On September 23 at approximately 8:18 a.m. KST, TWICE’s music video for their 2021 Japanese title track “Perfect World” surpassed 100 million views on YouTube. “Perfect World” is TWICE’s 27th full-group music video to reach the milestone, extending their record as the girl group with the most… Continue reading TWICE’s “Perfect World” Extends Their Record As Girl Group With Most MVs To Hit 100 Million Views The post TWICE’s “Perfect World” Extends Their Record As Girl Group With Most MVs To Hit 100 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/22163436/TWICE.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "music video",
         "twice"
