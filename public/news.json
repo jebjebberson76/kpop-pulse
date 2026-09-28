@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-28T00:12:25.413Z",
+  "generatedAt": "2026-09-28T06:11:45.499Z",
   "items": [
+    {
+      "id": "2e2a7905bfe0a0a1",
+      "title": "What is Karina reading on her Canada trip?",
+      "url": "https://www.koreaherald.com/article/10886265",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-28T04:47:34.000Z",
+      "snippet": "Karina has been spending some of her time in Canada with a book in hand. As Aespa continues its fourth world tour, the group has been touring North America since September. Between...",
+      "description": "Karina has been spending some of her time in Canada with a book in hand. As Aespa continues its fourth world tour, the group has been touring North America since September. Between concerts, the singer has shared snapshots of her time offstage on Instagram, including visits to museums and galleries. On Sept. 16, she posted a series of photos from Toronto with the caption, “Collecting beauty.” In several of the photos, she is holding a fairly thick book at a library and near a pier. So, what was",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/28/news-a.v1.20260928.661414eac9a9459f9093003e641744f1_T1.png",
+      "tags": [
+        "world tour",
+        "aespa"
+      ]
+    },
+    {
+      "id": "584ccf331e815c57",
+      "title": "TVXQ&apos;s Max Changmin to make solo comeback after nearly 5 years",
+      "url": "https://www.koreaherald.com/article/10886264",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-28T04:47:11.000Z",
+      "snippet": "Max Changmin of K-pop duo TVXQ will return as a solo artist next month with his first new album in nearly five years, according to SM Entertainment on Monday. His third EP, \"All of...",
+      "description": "Max Changmin of K-pop duo TVXQ will return as a solo artist next month with his first new album in nearly five years, according to SM Entertainment on Monday. His third EP, \"All of My Life,\" will arrive Oct. 19 on major music streaming platforms, marking his first solo album since \"Devil,\" his second EP, which came out in January 2022. The six-track EP explores the emotions and experiences that come with moving forward through life. Following the arrival of the new album, the singer will kick of",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/28/news-p.v1.20260928.da228d646b704d91a62567359ec252b6_T1.jpg",
+      "tags": [
+        "k-pop",
+        "comeback",
+        "album",
+        "tvxq"
+      ]
+    },
+    {
+      "id": "9858dd9364c2d5d1",
+      "title": "BTS Wins 3 Awards At 2026 MTV Video Music Awards",
+      "url": "https://www.soompi.com/article/1873571wpp/bts-wins-3-awards-at-2026-mtv-video-music-awards",
+      "source": "Soompi",
+      "publishedAt": "2026-09-28T04:11:21.000Z",
+      "snippet": "BTS has won three awards at the 2026 MTV Video Music Awards (VMAs)! On September 27 (local time), the MTV Video Music Awards at the Peacock Theater in Los Angeles. BTS won the awar...",
+      "description": "BTS has won three awards at the 2026 MTV Video Music Awards (VMAs)! On September 27 (local time), the MTV Video Music Awards at the Peacock Theater in Los Angeles. BTS won the award for Song of the Year with “SWIM” as well Best K-Pop for “SWIM” and Best Group, snagging three awards total and… Continue reading BTS Wins 3 Awards At 2026 MTV Video Music Awards The post BTS Wins 3 Awards At 2026 MTV Video Music Awards appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/27210945/bts-mtv-.jpeg",
+      "tags": [
+        "k-pop",
+        "bts"
+      ]
+    },
     {
       "id": "3095f66e7583e0fb",
       "title": "TXT Announces Comeback Date And Details For Return With “PERFECT STORM”",
@@ -50,20 +94,6 @@
       ]
     },
     {
-      "id": "17153e7afabb3b4f",
-      "title": "K-Pop Idol “Taeyang” Getting Caught With A Woman In Public Goes Viral",
-      "url": "https://www.koreaboo.com/news/kpop-idol-taeyang-getting-caught-woman-in-public-goes-viral/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-09-27T13:33:16.000Z",
-      "snippet": "He didn't even bother to hide his face.",
-      "description": "He didn't even bother to hide his face.",
-      "image": "https://image.koreaboo.com/2026/09/taeyang-2.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
       "id": "3662c2b3e87e40ec",
       "title": "IVE Announces Comeback Date For New EP “Looks Can Kill”",
       "url": "https://www.soompi.com/article/1873360wpp/ive-announces-comeback-date-for-new-ep-looks-can-kill",
@@ -76,20 +106,6 @@
         "comeback",
         "album",
         "ive"
-      ]
-    },
-    {
-      "id": "62b5225f11af6acc",
-      "title": "K-Pop Idol-Turned-Actress Gives Birth And Reveals Plans For Next Pregnancy",
-      "url": "https://www.koreaboo.com/news/kpop-idol-turned-actress-gives-birth-reveals-plans-next-pregnancy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-09-27T11:11:23.000Z",
-      "snippet": "A K-Pop idol-turned-actress has given birth to a healthy first son and also revealed plans for her second pregnancy. On September 25th, a video and photos were posted on Instagram…",
-      "description": "A K-Pop idol-turned-actress has given birth to a healthy first son and also revealed plans for her second pregnancy. On September 25th, a video and photos were posted on Instagram…",
-      "image": "https://storage.googleapis.com/koreaboo-cdn/2026/09/SONAMOO-Nahyun.mp4",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -122,6 +138,20 @@
       ]
     },
     {
+      "id": "74457e1b76fb9b72",
+      "title": "Jungkook becomes first K-pop soloist with six 3 million+ TikTok songs",
+      "url": "https://www.koreaherald.com/article/10885176",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-27T02:20:27.000Z",
+      "snippet": "BTS' Jungkook has added another notch to his TikTok record, with six of his songs each surpassing 3 million uses on the platform. Jungkook's most-used song on TikTok was \"Left and...",
+      "description": "BTS' Jungkook has added another notch to his TikTok record, with six of his songs each surpassing 3 million uses on the platform. Jungkook's most-used song on TikTok was \"Left and Right,\" his collaboration with the American singer-songwriter Charlie Puth. The song has been used in more than 23.2 million posts. \"Dreamers\" followed with 16.9 million posts, while \"Seven\" surpassed 8.5 million. \"Left and Right (Sped Up Ver.)\" was used in over 3.9 million posts, \"3D\" in 3.2 million and \"Still With Yo",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/27/news-p.v1.20260927.ebe47d19e1394815afe585c809c934d8_T1.jpg",
+      "tags": [
+        "k-pop",
+        "bts"
+      ]
+    },
+    {
       "id": "4426928ff8952ef3",
       "title": "NCT WISH, TXT, ENHYPEN, RIIZE, TWS, ZEROBASEONE, LE SSERAFIM, And More Earn RIAJ Double Platinum And Gold Certifications In Japan",
       "url": "https://www.soompi.com/article/1873066wpp/nct-wish-txt-enhypen-riize-tws-zerobaseone-le-sserafim-and-more-earn-riaj-double-platinum-and-gold-certifications-in-japan",
@@ -138,20 +168,6 @@
       ]
     },
     {
-      "id": "a15b5acd45aec583",
-      "title": "Lisa’s “SaWaDiKa” Becomes Her 3rd Solo Song To Chart For Multiple Weeks On Billboard Hot 100",
-      "url": "https://www.soompi.com/article/1872904wpp/lisas-sawadika-becomes-her-3rd-solo-song-to-chart-for-multiple-weeks-on-billboard-hot-100",
-      "source": "Soompi",
-      "publishedAt": "2026-09-23T17:59:12.000Z",
-      "snippet": "BLACKPINK’s Lisa’s new single is enjoying a strong second week on the Billboard charts! On September 23 local time, Billboard revealed that Lisa’s latest single “SaWaDiKa” was spen...",
-      "description": "BLACKPINK’s Lisa’s new single is enjoying a strong second week on the Billboard charts! On September 23 local time, Billboard revealed that Lisa’s latest single “SaWaDiKa” was spending its second week on the Hot 100 at No. 93. The song first entered the chart, which ranks the most popular songs in the United States, at… Continue reading Lisa’s “SaWaDiKa” Becomes Her 3rd Solo Song To Chart For Multiple Weeks On Billboard Hot 100 The post Lisa’s “SaWaDiKa” Becomes Her 3rd Solo Song To Chart For Multiple Weeks On Billboard Hot 100 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "billboard",
-        "blackpink"
-      ]
-    },
-    {
       "id": "a228037245de577f",
       "title": "For Gucci Caliente, K-pop went from Microsoft Excel to creative freedom",
       "url": "https://www.koreaherald.com/article/10883789",
@@ -163,6 +179,22 @@
       "tags": [
         "k-pop",
         "ive"
+      ]
+    },
+    {
+      "id": "77abf4ef05f4948b",
+      "title": "Hybe Cine Fest expands globally with BTS live screenings",
+      "url": "https://www.koreaherald.com/article/10883581",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-09-23T05:34:34.000Z",
+      "snippet": "Hybe is taking its annual film series worldwide for the first time this year, bringing concert films and live broadcasts of BTS' ongoing world tour to more than 1,100 theaters acro...",
+      "description": "Hybe is taking its annual film series worldwide for the first time this year, bringing concert films and live broadcasts of BTS' ongoing world tour to more than 1,100 theaters across 50 countries. \"Hybe Cine Fest 2026\" will run from Oct. 24-31, the K-pop company said Wednesday. In Korea, the films and live broadcasts will be shown exclusively by Lotte Cinema. The festival debuted in Latin America in 2024, drawing about 260,000 moviegoers, before expanding to Asia last year, where attendance reac",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/23/news-p.v1.20260923.f2afda72374245ca87716a6b917a310f_T1.jpg",
+      "tags": [
+        "k-pop",
+        "world tour",
+        "concert",
+        "bts"
       ]
     },
     {
