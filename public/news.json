@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:10:24.661Z",
+  "generatedAt": "2026-09-30T16:35:24.204Z",
   "items": [
     {
       "id": "9f81c7b6c31520c4",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-09-30T09:30:07.000Z",
       "snippet": "Some fans defended him.",
       "description": "Some fans defended him.",
-      "image": "https://image.koreaboo.com/2026/09/FD2870-8-2.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "idol",
         "blackpink"
@@ -80,7 +80,7 @@
       "publishedAt": "2026-09-29T13:28:41.000Z",
       "snippet": "Mark your calendars for FlareU’s first-ever comeback! On September 29, FlareU released a teaser schedule for their first comeback since their debut this past May. The duo will be r...",
       "description": "Mark your calendars for FlareU’s first-ever comeback! On September 29, FlareU released a teaser schedule for their first comeback since their debut this past May. The duo will be returning with their second mini album “LOVEHOOD” on October 14 at 6 p.m. KST. Check out FlareU’s schedule and first teasers for “LOVEHOOD” below! Watch FlareU… Continue reading FlareU Reveals Schedule For 1st-Ever Comeback The post FlareU Reveals Schedule For 1st-Ever Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/29062759/FlareU.jpg",
       "tags": [
         "comeback",
         "debut",
@@ -331,35 +331,6 @@
       "tags": [
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "30c9d6a5a6ac5335",
-      "title": "NCT 127 proves its strength as five while awaiting full-group return",
-      "url": "https://www.koreaherald.com/article/10881937",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-09-22T02:23:16.000Z",
-      "snippet": "NCT 127 spent much of its 10th anniversary concert demonstrating just how strong the group’s identity is. At “The Redline,” held Friday through Sunday at KSPO Dome in southern Seou...",
-      "description": "NCT 127 spent much of its 10th anniversary concert demonstrating just how strong the group’s identity is. At “The Redline,” held Friday through Sunday at KSPO Dome in southern Seoul, the group did not attempt to disguise the absence of Doyoung and Jungwoo, who are serving their mandatory military service. Instead, it reshaped familiar songs, redistributed parts and leaned on a decade of chemistry to prove that the group’s performance remains no less engaging despite its current five-member confi",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/22/news-p.v1.20260921.43137df4450b4afaa463b2ae2699c788_T1.jpg",
-      "tags": [
-        "concert",
-        "nct"
-      ]
-    },
-    {
-      "id": "4674b542bfbbeb73",
-      "title": "J.Y. Park&apos;s unlikely journey from K-pop to pulpit",
-      "url": "https://www.koreaherald.com/article/10881210",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-09-21T12:35:39.000Z",
-      "snippet": "J.Y. Park was hardly a name associated with religion. For decades, he was better known as the boundary-pushing singer in transparent plastic pants who became one of the architects...",
-      "description": "J.Y. Park was hardly a name associated with religion. For decades, he was better known as the boundary-pushing singer in transparent plastic pants who became one of the architects of modern K-pop, founding JYP Entertainment and producing generations of stars from Wonder Girls and GOT7 to Twice and Stray Kids. Today, however, Park can also be found standing at a lectern, teaching the Bible. On Saturday, First Fruits, the Christian community Park leads, uploaded a 72-minute YouTube video in which",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/21/news-p.v1.20260921.aad4b4b7872f41299b51d29748b2b3ad_T1.jpg",
-      "tags": [
-        "k-pop",
-        "twice",
-        "stray kids"
       ]
     }
   ]
