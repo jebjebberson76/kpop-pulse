@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-07T08:06:09.527Z",
+  "generatedAt": "2026-10-07T15:57:42.268Z",
   "items": [
     {
-      "id": "5fef05122ea11c3c",
-      "title": "K-Pop Idol Who Broke “No Pregnancy” Rule Gives Birth",
-      "url": "https://www.koreaboo.com/news/kpop-idol-broke-no-pregnancy-rule-gives-birth/",
+      "id": "f5c55ac826b31b2f",
+      "title": "3rd Generation Idol To Become A Mother Of Two",
+      "url": "https://www.koreaboo.com/news/3rd-generation-idol-become-mother-two/",
       "source": "Koreaboo",
-      "publishedAt": "2026-10-07T07:53:35.000Z",
-      "snippet": "A K-Pop idol, who previously admitted to breaking the “no pregnancy” rule while actively promoting, has become a mother after giving birth to a son. On October 7th, Rainbow’s Go…",
-      "description": "A K-Pop idol, who previously admitted to breaking the “no pregnancy” rule while actively promoting, has become a mother after giving birth to a son. On October 7th, Rainbow’s Go…",
+      "publishedAt": "2026-10-07T14:36:48.000Z",
+      "snippet": "A 3rd generation K-Pop idol shared her joy on social media as she is about to become a mother of two. On October 7th, several photos and videos were posted…",
+      "description": "A 3rd generation K-Pop idol shared her joy on social media as she is about to become a mother of two. On October 7th, several photos and videos were posted…",
       "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
@@ -16,17 +16,59 @@
       ]
     },
     {
-      "id": "c93ac448753524ec",
-      "title": "BTS fever grips Lima ahead of first-ever Peru concerts",
-      "url": "https://www.koreaherald.com/article/10895830",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-07T06:03:56.000Z",
-      "snippet": "BTS is set to perform its first concerts in Peru starting Wednesday, with the group’s arrival prompting a series of citywide events in Lima ranging from a temporarily renamed stree...",
-      "description": "BTS is set to perform its first concerts in Peru starting Wednesday, with the group’s arrival prompting a series of citywide events in Lima ranging from a temporarily renamed street to landmark illuminations. The group is set to perform at Estadio San Marcos on Wednesday, Friday and Saturday as part of the South American leg of its “Arirang” world tour. Ahead of the concerts, the Santiago de Surco district decided to temporarily rename a street “Avenida BTS” — “BTS Avenue” in English — until Sun",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/07/news-p.v1.20261007.6fa56e3663d147f49d1a54bea9278800_T1.png",
+      "id": "48f6d304f4ea30a0",
+      "title": "K-Pop Idol Shocks With Former Group’s Connection To Alleged Cult",
+      "url": "https://www.koreaboo.com/news/kpop-idol-shocks-former-group-connection-alleged-cult/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-07T13:50:23.000Z",
+      "snippet": "A K-Pop idol revealed the process of re-debuting as part of a group, while sparking shock with the revelation that the group had a connection to an alleged cult. On…",
+      "description": "A K-Pop idol revealed the process of re-debuting as part of a group, while sparking shock with the revelation that the group had a connection to an alleged cult. On…",
+      "image": "/public/placeholder-news.svg",
       "tags": [
-        "world tour",
-        "bts"
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "dedfb2dfa121b9cc",
+      "title": "Top K-Pop Group’s Major Drop In Success For Recent Comeback Spark Huge Debate",
+      "url": "https://www.koreaboo.com/news/top-kpop-group-drop-success-comeback-debate/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-07T10:30:19.000Z",
+      "snippet": "\"The hate train...\"",
+      "description": "\"The hate train...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "comeback"
+      ]
+    },
+    {
+      "id": "567d02d4a548e27e",
+      "title": "Watch: Hwang Minhyun Honestly Conveys His Feelings In Sleek MV For “OUR”",
+      "url": "https://www.soompi.com/article/1876035wpp/watch-hwang-minhyun-honestly-conveys-his-feelings-in-sleek-mv-for-our",
+      "source": "Soompi",
+      "publishedAt": "2026-10-07T09:14:06.000Z",
+      "snippet": "Hwang Minhyun is here with new music! On October 7 at 6 p.m. KST, Hwang Minhyun returned with his new digital single “OUR” along with a music video for the track. “OUR” is a medium...",
+      "description": "Hwang Minhyun is here with new music! On October 7 at 6 p.m. KST, Hwang Minhyun returned with his new digital single “OUR” along with a music video for the track. “OUR” is a medium tempo pop song with minimalistic composition. The song captures the meaning that even as the seasons change and the familiar… Continue reading Watch: Hwang Minhyun Honestly Conveys His Feelings In Sleek MV For “OUR” The post Watch: Hwang Minhyun Honestly Conveys His Feelings In Sleek MV For “OUR” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/07021035/hwang-min-hyun-.png",
+      "tags": [
+        "music video",
+        "mv"
+      ]
+    },
+    {
+      "id": "db16afcb42ca41a6",
+      "title": "Watch: Onew And Zico Play A Game Of “Tic Tac Toe” In New Collab",
+      "url": "https://www.soompi.com/article/1876029wpp/watch-onew-and-zico-play-a-game-of-tic-tac-toe-in-new-collab",
+      "source": "Soompi",
+      "publishedAt": "2026-10-07T09:05:48.000Z",
+      "snippet": "SHINee’s Onew and Zico have dropped their new collab! On October 7 at 6 p.m. KST, Onew released “Tic Tac Toe (feat. Zico),” the second title track from his upcoming single album “C...",
+      "description": "SHINee’s Onew and Zico have dropped their new collab! On October 7 at 6 p.m. KST, Onew released “Tic Tac Toe (feat. Zico),” the second title track from his upcoming single album “Chakgak” (romanized title). “Tic Tac Toe” is an R&B hip hop track that cleverly compares the subtle dynamics and emotions between two people… Continue reading Watch: Onew And Zico Play A Game Of “Tic Tac Toe” In New Collab The post Watch: Onew And Zico Play A Game Of “Tic Tac Toe” In New Collab appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/07020542/onew-zico.jpg",
+      "tags": [
+        "album",
+        "shinee"
       ]
     },
     {
@@ -146,7 +188,7 @@
       "publishedAt": "2026-10-05T14:27:00.000Z",
       "snippet": "NewJeans has reached a new YouTube milestone! The girl group’s music video for “Super Shy” surpassed 300 million views on October 5 at approximately 11 p.m. KST. This is about thre...",
       "description": "NewJeans has reached a new YouTube milestone! The girl group’s music video for “Super Shy” surpassed 300 million views on October 5 at approximately 11 p.m. KST. This is about three years, two months, and 28 days since its release on July 7, 2023 at 1 p.m. KST. “Super Shy” is New Jeans’ second music… Continue reading NewJeans’ “Super Shy” Becomes Their 2nd MV To Hit 300 Million Views The post NewJeans’ “Super Shy” Becomes Their 2nd MV To Hit 300 Million Views appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/05074653/super-shy.jpeg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "music video",
         "mv",
@@ -179,24 +221,6 @@
       "tags": [
         "debut",
         "concert"
-      ]
-    },
-    {
-      "id": "a67f9efc5b0430ab",
-      "title": "Stray Kids, EVAN, ENHYPEN, CORTIS, ILLIT, TUIDE, BTS, LE SSERAFIM, ATEEZ, And More Sweep Top Spots On Billboard World Albums Chart",
-      "url": "https://www.soompi.com/article/1875434wpp/stray-kids-evan-enhypen-cortis-illit-tuide-bts-le-sserafim-ateez-and-more-sweep-top-spots-on-billboard-world-albums-chart",
-      "source": "Soompi",
-      "publishedAt": "2026-10-04T17:26:23.000Z",
-      "snippet": "Billboard has published its World Albums chart for the week ending on October 3! Stray Kids’ latest mini album “THIS & THAT” continued its reign at No. 1 on the World Albums chart,...",
-      "description": "Billboard has published its World Albums chart for the week ending on October 3! Stray Kids’ latest mini album “THIS & THAT” continued its reign at No. 1 on the World Albums chart, marking its sixth non-consecutive week at the top. “THIS & THAT” also spent a seventh week on the Billboard 200 at No.… Continue reading Stray Kids, EVAN, ENHYPEN, CORTIS, ILLIT, TUIDE, BTS, LE SSERAFIM, ATEEZ, And More Sweep Top Spots On Billboard World Albums Chart The post Stray Kids, EVAN, ENHYPEN, CORTIS, ILLIT, TUIDE, BTS, LE SSERAFIM, ATEEZ, And More Sweep Top Spots On Billboard World Albums Chart appeared fi...",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/04102601/Stray-Kids-EVAN-ENHYPEN-CORTIS.jpg",
-      "tags": [
-        "mini album",
-        "album",
-        "billboard",
-        "bts",
-        "stray kids",
-        "le sserafim"
       ]
     },
     {
