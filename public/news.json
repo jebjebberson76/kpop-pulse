@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-08T08:15:16.568Z",
+  "generatedAt": "2026-10-08T16:00:11.299Z",
   "items": [
+    {
+      "id": "be77b5690cda5af7",
+      "title": "BTS Member’s “Narcissistic” Shirt Becomes A Hot Topic At Recent Concert",
+      "url": "https://www.koreaboo.com/news/bts-members-narcissistic-shirt-becomes-hot-topic-recent-concert/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-08T10:40:49.000Z",
+      "snippet": "Netizens loved it.",
+      "description": "Netizens loved it.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "concert",
+        "bts"
+      ]
+    },
     {
       "id": "6848cc5579120ef9",
       "title": "BTS Jungkook’s Appearance At Concert Sparks Speculations Linked To Dating Rumors With aespa’s Winter",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-10-08T08:10:10.000Z",
       "snippet": "\"To make a statement...\"",
       "description": "\"To make a statement...\"",
-      "image": "https://image.koreaboo.com/2026/10/FD2870-12.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "concert",
         "bts",
@@ -30,6 +44,20 @@
         "music video",
         "mv",
         "blackpink"
+      ]
+    },
+    {
+      "id": "a0938d6cd0d1c8a1",
+      "title": "Update: ATEEZ Drops Promotion Map For Upcoming Album “GOLDEN HOUR : Part.6”",
+      "url": "https://www.soompi.com/article/1876093wpp/watch-ateez-announces-november-comeback-date-with-exciting-crash-to-begin-teaser",
+      "source": "Soompi",
+      "publishedAt": "2026-10-07T15:11:56.000Z",
+      "snippet": "Updated October 9 KST: A promotion map has been revealed for ATEEZ’s upcoming album “GOLDEN HOUR : Part.6”! Original Article: Mark your calendars for ATEEZ’s comeback! On October 8...",
+      "description": "Updated October 9 KST: A promotion map has been revealed for ATEEZ’s upcoming album “GOLDEN HOUR : Part.6”! Original Article: Mark your calendars for ATEEZ’s comeback! On October 8 at midnight KST, ATEEZ officially kicked off the countdown to their return by announcing their comeback date and releasing their first teaser. ATEEZ will be returning… Continue reading Update: ATEEZ Drops Promotion Map For Upcoming Album “GOLDEN HOUR : Part.6” The post Update: ATEEZ Drops Promotion Map For Upcoming Album “GOLDEN HOUR : Part.6” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/07081046/ATEEZ.jpg",
+      "tags": [
+        "comeback",
+        "album"
       ]
     },
     {
