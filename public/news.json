@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-15T05:26:19.486Z",
+  "generatedAt": "2026-10-15T10:39:35.536Z",
   "items": [
+    {
+      "id": "79bc8a4dcf8866b3",
+      "title": "A2O groups debut with young, multinational lineup and old-school K-pop formula",
+      "url": "https://www.koreaherald.com/article/10904154",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-10-15T08:25:29.000Z",
+      "snippet": "A2O Lite’s debut single “Neon” topped Melon’s Top 100 on Wednesday, giving producer Lee Soo-man a strong start to his return to the Korean music industry. Beyond its early chart su...",
+      "description": "A2O Lite’s debut single “Neon” topped Melon’s Top 100 on Wednesday, giving producer Lee Soo-man a strong start to his return to the Korean music industry. Beyond its early chart success, however, A2O’s two new groups reveal how the veteran producer is approaching this generation of K-pop idols: The young, multinational lineups are paired with a musical style reminiscent of his earlier work at SM Entertainment. A2O Lite and boy group A2O Soul made their first official appearances at a joint showc",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/15/news-p.v1.20261015.341af2378515424da9d694ac07f8fce0_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "melon"
+      ]
+    },
     {
       "id": "ffe2e638d4187ddb",
       "title": "A2O Lite tops Melon faster than NewJeans",
@@ -272,22 +287,6 @@
       ]
     },
     {
-      "id": "a5223849e0dffe3a",
-      "title": "BABYMONSTER’s “I LIKE IT” Becomes Their 13th MV To Hit 100 Million Views",
-      "url": "https://www.soompi.com/article/1877719wpp/babymonsters-i-like-it-becomes-their-13th-mv-to-hit-100-million-views",
-      "source": "Soompi",
-      "publishedAt": "2026-10-13T08:51:06.000Z",
-      "snippet": "BABYMONSTER has just reached 100 million views on YouTube with yet another music video! According to YG Entertainment on October 13, the music video for “I LIKE IT,” a B-side track...",
-      "description": "BABYMONSTER has just reached 100 million views on YouTube with yet another music video! According to YG Entertainment on October 13, the music video for “I LIKE IT,” a B-side track from BABYMONSTER’s third mini album “CHOOM,” surpassed 100 million views on YouTube at approximately 5:05 p.m. KST. The milestone comes about 99 days after… Continue reading BABYMONSTER’s “I LIKE IT” Becomes Their 13th MV To Hit 100 Million Views The post BABYMONSTER’s “I LIKE IT” Becomes Their 13th MV To Hit 100 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album",
-        "music video",
-        "mv"
-      ]
-    },
-    {
       "id": "1034dc728dbc239d",
       "title": "BTS, Blackpink, Stray Kids face off for top MAMA honors",
       "url": "https://www.koreaherald.com/article/10901140",
@@ -364,6 +363,20 @@
       ]
     },
     {
+      "id": "f4c9a61bd2e53eaa",
+      "title": "K-pop pioneer Lee Soo-man bets on 4D future",
+      "url": "https://www.koreaherald.com/article/10900163",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-10-12T12:40:42.000Z",
+      "snippet": "K-pop pioneer Lee Soo-man returned to the Korean music industry Monday with the simultaneous debut of a boy group and a girl group under his new company, A2O Entertainment, unveili...",
+      "description": "K-pop pioneer Lee Soo-man returned to the Korean music industry Monday with the simultaneous debut of a boy group and a girl group under his new company, A2O Entertainment, unveiling a vision that combines music with technology designed to change how fans experience performances. At a launch event in Ilsan, Gyeonggi Province, Lee introduced 15-member boy group A2O Soul and nine-member girl group A2O Lite, which will release their respective debut digital singles, \"Superstar\" and \"Neon,\" Tuesday.",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/12/news-p.v1.20261012.8108591da442422eb5a3ba80f0316986_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut"
+      ]
+    },
+    {
       "id": "37c985f22b0fa898",
       "title": "Surprise duet between Charlie Puth and Twice&apos;s Nayeon sparks buzz",
       "url": "https://www.koreaherald.com/article/10900005",
@@ -434,20 +447,6 @@
         "album",
         "billboard",
         "le sserafim"
-      ]
-    },
-    {
-      "id": "37aad12ebd65dc6c",
-      "title": "K-pop architect Lee Soo-man returns with double debut",
-      "url": "https://www.koreaherald.com/article/10897924",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-09T09:19:52.000Z",
-      "snippet": "Lee Soo-man, founder of SM Entertainment and widely regarded as the architect of modern K-pop, is returning to the Korean music industry with the simultaneous debut of a boy group...",
-      "description": "Lee Soo-man, founder of SM Entertainment and widely regarded as the architect of modern K-pop, is returning to the Korean music industry with the simultaneous debut of a boy group and a girl group under his new label, A2O Entertainment. The launch marks his first domestic music project since his three-year noncompete agreement with Hybe expired in February. A2O Entertainment said Thursday that boy group A2O Soul and girl group A2O Lite will hold a global debut showcase, \"Welcome to Soulite From",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/09/news-p.v1.20261009.85b7ac8f761e496d95883d31ae95bc1d_T1.jpg",
-      "tags": [
-        "k-pop",
-        "debut"
       ]
     }
   ]
