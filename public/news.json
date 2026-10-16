@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:48:44.674Z",
+  "generatedAt": "2026-10-16T00:55:20.812Z",
   "items": [
     {
       "id": "8ae65a8f96303d14",
@@ -9,7 +9,7 @@
       "publishedAt": "2026-10-15T17:42:37.000Z",
       "snippet": "A K-Pop idol looked back on a past when he felt anxious about his fading popularity. Recently, a video titled “Music Festival is Just an Excuse” was posted on YouTube….",
       "description": "A K-Pop idol looked back on a past when he felt anxious about his fading popularity. Recently, a video titled “Music Festival is Just an Excuse” was posted on YouTube….",
-      "image": "https://image.koreaboo.com/2026/10/CNBLUE-Yonghwa-FI.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol",
@@ -38,7 +38,7 @@
       "publishedAt": "2026-10-15T16:14:21.000Z",
       "snippet": "A female K-Pop idol disclosed shocking stories of what she went through during the process of re-debuting in a second girl group. On October 13th, a video titled “Shincheonji Girl…",
       "description": "A female K-Pop idol disclosed shocking stories of what she went through during the process of re-debuting in a second girl group. On October 13th, a video titled “Shincheonji Girl…",
-      "image": "https://image.koreaboo.com/2026/10/Jung-Eunwoo-FI-1.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -129,7 +129,7 @@
       "publishedAt": "2026-10-14T14:56:34.000Z",
       "snippet": "Just one day into their career, Lee Soo Man’s new girl group A2O LITE has already hit No. 1 on Melon’s Top 100! On October 13, A20 Entertainment—a new agency recently established b...",
       "description": "Just one day into their career, Lee Soo Man’s new girl group A2O LITE has already hit No. 1 on Melon’s Top 100! On October 13, A20 Entertainment—a new agency recently established by SM Entertainment founder Lee Soo Man—officially debuted the nine-member girl group A2O LITE and the 15-member boy group A2O SOUL. Both A2O… Continue reading Lee Soo Man’s New Group A2O LITE Hits No. 1 On Melon Top 100 Just One Day After Debut The post Lee Soo Man’s New Group A2O LITE Hits No. 1 On Melon Top 100 Just One Day After Debut appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/14235739/A2O-LITE.jpg",
       "tags": [
         "debut",
         "melon"
@@ -143,7 +143,7 @@
       "publishedAt": "2026-10-14T14:05:07.000Z",
       "snippet": "BOYNEXTDOOR has achieved a career first on the Billboard 200! This week, BOYNEXTDOOR’s first studio album “HOME” re-entered Billboard’s Top 200 Albums chart, which ranks the most p...",
       "description": "BOYNEXTDOOR has achieved a career first on the Billboard 200! This week, BOYNEXTDOOR’s first studio album “HOME” re-entered Billboard’s Top 200 Albums chart, which ranks the most popular albums in the United States, at No. 177 following the release of its repackaged version “HOME: DELUXE.” “HOME,” which became BOYNEXTDOOR’s first top 20 entry when it… Continue reading BOYNEXTDOOR’s “HOME” Re-Enters Billboard 200 + Becomes Their 1st Album To Chart For Multiple Weeks The post BOYNEXTDOOR’s “HOME” Re-Enters Billboard 200 + Becomes Their 1st Album To Chart For Multiple Weeks appeared first on Soom...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/14230126/BOYNEXTDOOR.jpeg",
       "tags": [
         "album",
         "billboard"
@@ -282,22 +282,6 @@
         "mini album",
         "album",
         "music video"
-      ]
-    },
-    {
-      "id": "ce73745eb2ac62f3",
-      "title": "BTS’s “Hooligan” Becomes Their 3rd MV From “ARIRANG” To Hit 100 Million Views",
-      "url": "https://www.soompi.com/article/1877879wpp/btss-hooligan-becomes-their-3rd-mv-from-arirang-to-hit-100-million-views",
-      "source": "Soompi",
-      "publishedAt": "2026-10-13T21:49:11.000Z",
-      "snippet": "BTS’s “Hooligan” has just hit the 100 million mark on YouTube! On Octoer 14 at approximately 6:41 a.m. KST, BTS’s music video for “Hooligan,” one of the B-sides from their latest a...",
-      "description": "BTS’s “Hooligan” has just hit the 100 million mark on YouTube! On Octoer 14 at approximately 6:41 a.m. KST, BTS’s music video for “Hooligan,” one of the B-sides from their latest album “ARIRANG,” surpassed 100 million views on YouTube. BTS first released the music video for “Hooligan” on April 8 at midnight KST, meaning that… Continue reading BTS’s “Hooligan” Becomes Their 3rd MV From “ARIRANG” To Hit 100 Million Views The post BTS’s “Hooligan” Becomes Their 3rd MV From “ARIRANG” To Hit 100 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "album",
-        "music video",
-        "mv",
-        "bts"
       ]
     },
     {
@@ -446,6 +430,21 @@
         "album",
         "concert",
         "nct"
+      ]
+    },
+    {
+      "id": "01002dfb577d3e6d",
+      "title": "Le Sserafim tops Oricon chart again with 2nd single",
+      "url": "https://www.koreaherald.com/article/10899275",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-10-12T01:27:00.000Z",
+      "snippet": "Le Sserafim topped Japan's Oricon Daily Single Ranking with its second single album, “Made My Night,” upon its release in the country, according to agency Source Music on Sunday. T...",
+      "description": "Le Sserafim topped Japan's Oricon Daily Single Ranking with its second single album, “Made My Night,” upon its release in the country, according to agency Source Music on Sunday. The latest endeavor follows in the footsteps of its previous single, “Spaghetti,” which also debuted atop the chart in October 2025. “Made My Night” consists of two tracks, the lead single of the same title and a B-side track, “Aeiou.” The former landed on Billboard’s Bubbling Under Hot 100 at No. 14 after it was releas",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/12/news-p.v1.20261012.ac25cc9cfa9449ddab0e0cb7235b094f_T1.jpg",
+      "tags": [
+        "album",
+        "billboard",
+        "le sserafim"
       ]
     }
   ]
