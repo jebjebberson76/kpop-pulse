@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-16T10:26:33.819Z",
+  "generatedAt": "2026-10-16T15:05:25.857Z",
   "items": [
+    {
+      "id": "cd28980fa6cd4a93",
+      "title": "BLACKPINK Jennie’s New Announcement Incites Brutal Criticism Towards Idol’s Morals",
+      "url": "https://www.koreaboo.com/news/blackpink-jennie-new-announcement-incites-brutal-criticism-towards-idols-morals/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-16T10:30:44.000Z",
+      "snippet": "Netizens shared their anger.",
+      "description": "Netizens shared their anger.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "blackpink"
+      ]
+    },
     {
       "id": "d2ebd60ad02614bb",
       "title": "BTS Member Brutally Mocked For Ranking On “Most Handsome Faces Of K-Pop”",
@@ -428,21 +442,6 @@
         "album",
         "concert",
         "nct"
-      ]
-    },
-    {
-      "id": "01002dfb577d3e6d",
-      "title": "Le Sserafim tops Oricon chart again with 2nd single",
-      "url": "https://www.koreaherald.com/article/10899275",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-12T01:27:00.000Z",
-      "snippet": "Le Sserafim topped Japan's Oricon Daily Single Ranking with its second single album, “Made My Night,” upon its release in the country, according to agency Source Music on Sunday. T...",
-      "description": "Le Sserafim topped Japan's Oricon Daily Single Ranking with its second single album, “Made My Night,” upon its release in the country, according to agency Source Music on Sunday. The latest endeavor follows in the footsteps of its previous single, “Spaghetti,” which also debuted atop the chart in October 2025. “Made My Night” consists of two tracks, the lead single of the same title and a B-side track, “Aeiou.” The former landed on Billboard’s Bubbling Under Hot 100 at No. 14 after it was releas",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/12/news-p.v1.20261012.ac25cc9cfa9449ddab0e0cb7235b094f_T1.jpg",
-      "tags": [
-        "album",
-        "billboard",
-        "le sserafim"
       ]
     }
   ]
