@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-21T15:49:48.159Z",
+  "generatedAt": "2026-10-21T19:50:38.488Z",
   "items": [
+    {
+      "id": "b37b8dc8e514bdc5",
+      "title": "“I’m A 100” — Girl Group Idol’s Pretty Face Gets Acknowledged By A TWICE Member",
+      "url": "https://www.koreaboo.com/news/girl-group-idol-pretty-face-acknowledged-twice-member/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-21T17:21:42.000Z",
+      "snippet": "A K-Pop girl group idol acknowledged her beautiful appearance, and even a TWICE member agrees. Recently, a video titled “Did you know? They say you lose your memory when you see…",
+      "description": "A K-Pop girl group idol acknowledged her beautiful appearance, and even a TWICE member agrees. Recently, a video titled “Did you know? They say you lose your memory when you see…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "twice"
+      ]
+    },
     {
       "id": "78859ddfbe1a9d62",
       "title": "Girl Group Idol Recommends Cohabitation Before Marriage",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-10-21T14:33:27.000Z",
       "snippet": "A K-Pop girl group idol shared her thoughts on cohabitation before marriage. On October 19th, a video about dating was uploaded to YouTube on a channel run by Soyou, originally…",
       "description": "A K-Pop girl group idol shared her thoughts on cohabitation before marriage. On October 19th, a video about dating was uploaded to YouTube on a channel run by Soyou, originally…",
-      "image": "https://image.koreaboo.com/2026/10/SISTAR-Soyou-FI-17.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -37,7 +52,7 @@
       "publishedAt": "2026-10-21T12:00:18.000Z",
       "snippet": "\"Being too obvious...\"",
       "description": "\"Being too obvious...\"",
-      "image": "https://image.koreaboo.com/2026/10/FD2870-7-3.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "bts",
         "blackpink"
@@ -66,7 +81,7 @@
       "publishedAt": "2026-10-21T09:43:55.000Z",
       "snippet": "TWICE’s Nayeon is gearing up for a solo comeback! On October 21, The Korea Herald reported that Nayeon is preparing to release a new album in late November, with the third week of...",
       "description": "TWICE’s Nayeon is gearing up for a solo comeback! On October 21, The Korea Herald reported that Nayeon is preparing to release a new album in late November, with the third week of the month as her tentative target. In response to the report, her agency JYP Entertainment confirmed, “Nayeon is preparing for a solo… Continue reading TWICE’s Nayeon Confirmed To Be Gearing Up For Solo Comeback The post TWICE’s Nayeon Confirmed To Be Gearing Up For Solo Comeback appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/21184335/nayeon-1.jpg",
       "tags": [
         "comeback",
         "album",
@@ -87,21 +102,6 @@
         "idol",
         "comeback",
         "album",
-        "twice"
-      ]
-    },
-    {
-      "id": "8a048d0723475a12",
-      "title": "TWICE Jihyo’s Future Plans’ Announcement Sparks Backlash Linked To BLACKPINK",
-      "url": "https://www.koreaboo.com/news/twice-jihyo-future-plans-sparks-backlash-linked-blackpink/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-10-21T08:10:21.000Z",
-      "snippet": "It was about past comments the idol made.",
-      "description": "It was about past comments the idol made.",
-      "image": "https://image.koreaboo.com/2026/10/FD2870-2-14.jpg",
-      "tags": [
-        "idol",
-        "blackpink",
         "twice"
       ]
     },
@@ -127,7 +127,7 @@
       "publishedAt": "2026-10-21T06:00:00.000Z",
       "snippet": "Ready to experience your favorite K-pop artists live on stage? To help you stay updated on the latest K-pop tours in your area, Soompi has compiled a masterlist of concerts, fan me...",
       "description": "Ready to experience your favorite K-pop artists live on stage? To help you stay updated on the latest K-pop tours in your area, Soompi has compiled a masterlist of concerts, fan meetings, fan-cons, and showcases coming up in 2027. Check out the full schedule below (and also the 2026 K-pop Tour Masterlist here)! *Tour criteria:… Continue reading 2027 K-Pop Tour Masterlist: Concerts, Fan Meetings, And More The post 2027 K-Pop Tour Masterlist: Concerts, Fan Meetings, And More appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/21145008/tour_183461.jpg",
       "tags": [
         "k-pop",
         "fan meeting"
@@ -170,7 +170,7 @@
       "publishedAt": "2026-10-20T21:36:28.000Z",
       "snippet": "Circle Chart has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certification system for album sales...",
       "description": "Circle Chart has announced its latest batch of official certifications! In 2018, the Korea Music Content Industry Association implemented a new certification system for album sales, song downloads, and online streaming. Starting with music released on or after January 1, 2018, Circle Chart now certifies albums platinum once they reach 250,000 sales, while albums that… Continue reading Stray Kids, ATEEZ, ENHYPEN, NCT 127, ALD1, CORTIS, And NEXZ Earn Circle Triple Million And Platinum Certifications The post Stray Kids, ATEEZ, ENHYPEN, NCT 127, ALD1, CORTIS, And NEXZ Earn Circle Triple Million A...",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/21063620/Stray-Kids-ATEEZ-ENHYPEN-NCT-127.jpg",
       "tags": [
         "album",
         "circle chart",
