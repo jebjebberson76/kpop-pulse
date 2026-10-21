@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:17:30.056Z",
+  "generatedAt": "2026-10-21T05:37:02.601Z",
   "items": [
     {
       "id": "72dbf37355ec7835",
@@ -63,48 +63,6 @@
       ]
     },
     {
-      "id": "9bdb74559b2272c6",
-      "title": "Female K-Pop Idol Regrets Not Dating Enough During Her Heyday",
-      "url": "https://www.koreaboo.com/news/female-kpop-idol-regrets-not-dating-enough-heyday/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-10-20T13:43:06.000Z",
-      "snippet": "A female K-Pop idol revealed that she regrets not having dated much in her twenties. On October 19th, a video titled “Wow, that’s really bad..Love Counseling Room: Dating Edition”...",
-      "description": "A female K-Pop idol revealed that she regrets not having dated much in her twenties. On October 19th, a video titled “Wow, that’s really bad..Love Counseling Room: Dating Edition” was…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
-      ]
-    },
-    {
-      "id": "7650c61b9a960571",
-      "title": "EXO Member’s Post About BTS Member Sparks Major Reactions Amid “Hate” Allegations",
-      "url": "https://www.koreaboo.com/news/exo-members-post-bts-member-sparks-major-reactions-amid-hate-allegations/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-10-20T09:55:15.000Z",
-      "snippet": "Ending a 10 year long fanwar...\"",
-      "description": "Ending a 10 year long fanwar...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "bts",
-        "exo"
-      ]
-    },
-    {
-      "id": "ed18445a7d934558",
-      "title": "Top Male Idol’s Instagram Flooded With Messages About BTS After Recent Controversial Comments",
-      "url": "https://www.koreaboo.com/news/male-idol-instagram-comments-bts-controversial/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-10-20T09:20:38.000Z",
-      "snippet": "\"Bunch of evil losers...\"",
-      "description": "\"Bunch of evil losers...\"",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "bts"
-      ]
-    },
-    {
       "id": "68f0154ef86c98db",
       "title": "Watch: Onew Gets Caught In A Sweet Illusion In New “Chakgak” MV",
       "url": "https://www.soompi.com/article/1880051wpp/watch-onew-gets-caught-in-a-sweet-illusion-in-new-chakgak-mv",
@@ -121,6 +79,20 @@
       ]
     },
     {
+      "id": "49480eb46a7d5c98",
+      "title": "Seventeen tops Pollstar Asia touring chart with $97m in revenue",
+      "url": "https://www.koreaherald.com/article/10909037",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-10-20T08:42:43.000Z",
+      "snippet": "Seventeen ranked No. 1 on Pollstar’s latest Asia touring chart after generating $97.4 million in tour revenue across the region. According to data released by the US concert indust...",
+      "description": "Seventeen ranked No. 1 on Pollstar’s latest Asia touring chart after generating $97.4 million in tour revenue across the region. According to data released by the US concert industry publication, the group topped Asia Focus Charts: Top Touring Artists, which covers the period from Aug. 1, 2025 to July 31, 2026. The group also ranked second on the same Pollstar chart in 2025, behind British band Coldplay. Pollstar said Seventeen sold 661,088 tickets during the period, generating $97.39 million in",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/20/news-p.v1.20261020.8d42004734f2499aa60bbd30b9785f50_T1.jpg",
+      "tags": [
+        "concert",
+        "seventeen"
+      ]
+    },
+    {
       "id": "33e599f14bc46e85",
       "title": "A2O Lite’s strong start tests whether Lee Soo-man’s K-pop formula still works",
       "url": "https://www.koreaherald.com/article/10908776",
@@ -133,6 +105,50 @@
         "k-pop",
         "comeback",
         "debut"
+      ]
+    },
+    {
+      "id": "1ffb3bf77b1d3558",
+      "title": "TXT to portray growing pains in 9th EP",
+      "url": "https://www.koreaherald.com/article/10908453",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-10-20T02:25:42.000Z",
+      "snippet": "Tomorrow X Together uploaded a teaser trailer for its ninth mini album, “Perfect Storm,” on Monday through its label, Big Hit Music. Each of the five members visualized the album t...",
+      "description": "Tomorrow X Together uploaded a teaser trailer for its ninth mini album, “Perfect Storm,” on Monday through its label, Big Hit Music. Each of the five members visualized the album title: Soobin wades in a tranquil lake, and Yeonjun survives centrifugal force in a giant spinning barrel. The upcoming EP captures yearning for change, facing harsh reality, dreaming and feeling lost — themes the group has portrayed through its previous albums. The album's Nov. 16 release will be preceded by three sold",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/20/news-p.v1.20261020.8cc8b9143994427f863f9910c29fe125_T1.jpg",
+      "tags": [
+        "mini album",
+        "album"
+      ]
+    },
+    {
+      "id": "61d3c2acf6f07149",
+      "title": "NCT Dream unveils music video for 6th LP prerelease",
+      "url": "https://www.koreaherald.com/article/10908353",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-10-20T01:49:25.000Z",
+      "snippet": "NCT Dream gave fans a taste of its sixth full album, “Dream After Dream,” releasing a music video for a side track ahead of the album's release. The six members unveiled supporting...",
+      "description": "NCT Dream gave fans a taste of its sixth full album, “Dream After Dream,” releasing a music video for a side track ahead of the album's release. The six members unveiled supporting visuals for “The Sun” on Tuesday in which they gather one by one and set out on a road trip, frolicking across fields and along the beach with the pop ballad playing in the back. The 10-year-old NCT subunit is set to return on Nov. 9 with the LP, a 10-track set fronted by “Boogie Woogie.” NCT Dream will be dropping th",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/20/news-p.v1.20261020.6572d2f182cb483c9c4b136079317e28_T1.jpg",
+      "tags": [
+        "album",
+        "music video",
+        "nct"
+      ]
+    },
+    {
+      "id": "1c3cd7cd8133c258",
+      "title": "Illit clocks 900m Spotify streams with debut single in record time",
+      "url": "https://www.koreaherald.com/article/10908285",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-10-20T01:23:59.000Z",
+      "snippet": "Illit had amassed 900 million plays on Spotify with its debut song, “Magnetic,” as of Sunday, Belift Lab said Tuesday, citing platform data. The 2024 megahit accomplished the feat...",
+      "description": "Illit had amassed 900 million plays on Spotify with its debut song, “Magnetic,” as of Sunday, Belift Lab said Tuesday, citing platform data. The 2024 megahit accomplished the feat in the fastest time for a debut song from a K-pop group. The dance number landed on Billboard’s Hot 100 and UK Official Singles Top 100 and swept all major music charts at home. Meanwhile, the quintet is set to bring out its fifth EP, “Break Even,” on Oct. 26. It remains to be seen if the full unit will be able to prom",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/20/news-p.v1.20261020.20aaa0c810784ba8b9e79f5159d01f4c_T1.jpg",
+      "tags": [
+        "k-pop",
+        "debut",
+        "billboard"
       ]
     },
     {
@@ -209,22 +225,6 @@
         "mini album",
         "album",
         "itzy"
-      ]
-    },
-    {
-      "id": "7d94ce0bb489211f",
-      "title": "Stray Kids’ “THIS & THAT” Climbs Back Up Into Top 30 Of Billboard 200 In 9th Week",
-      "url": "https://www.soompi.com/article/1879449wpp/stray-kids-this-that-climbs-back-up-into-top-30-of-billboard-200-in-9th-week",
-      "source": "Soompi",
-      "publishedAt": "2026-10-18T20:05:50.000Z",
-      "snippet": "Over two months after its release, Stray Kids’ “THIS & THAT” has re-entered the top 30 of the Billboard 200! This week, Stray Kids’ 10th mini album “THIS & THAT” climbed back up to...",
-      "description": "Over two months after its release, Stray Kids’ “THIS & THAT” has re-entered the top 30 of the Billboard 200! This week, Stray Kids’ 10th mini album “THIS & THAT” climbed back up to No. 29 in its ninth consecutive week on the Top 200 Albums chart, which ranks the most popular albums in the… Continue reading Stray Kids’ “THIS & THAT” Climbs Back Up Into Top 30 Of Billboard 200 In 9th Week The post Stray Kids’ “THIS & THAT” Climbs Back Up Into Top 30 Of Billboard 200 In 9th Week appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "mini album",
-        "album",
-        "billboard",
-        "stray kids"
       ]
     },
     {
