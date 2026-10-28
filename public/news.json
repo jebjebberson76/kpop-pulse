@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-28T13:42:13.253Z",
+  "generatedAt": "2026-10-28T19:13:03.433Z",
   "items": [
+    {
+      "id": "70fbd6f37af7a629",
+      "title": "POLL: Do You Believe BTS V And BLACKPINK Jennie’s “Confirmed” Relationship Is Real?",
+      "url": "https://www.koreaboo.com/polls/bts-v-blackpink-jennie-confirmed-relationship-dating-poll/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-28T17:05:54.000Z",
+      "snippet": "Their mutual friend \"confirmed\" it.",
+      "description": "Their mutual friend \"confirmed\" it.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
     {
       "id": "b6085e194634f85e",
       "title": "“How Am I Going To Eat?” — K-Pop Idol Struggles Big Time After His Group Disbanded",
@@ -9,7 +23,7 @@
       "publishedAt": "2026-10-28T12:56:41.000Z",
       "snippet": "A male K-Pop idol confessed to the financial hardships he faced after his group disbanded. Recently, the YouTube channel Idol Commerce Universe uploaded a video titled “Kenta’s Kor...",
       "description": "A male K-Pop idol confessed to the financial hardships he faced after his group disbanded. Recently, the YouTube channel Idol Commerce Universe uploaded a video titled “Kenta’s Korean Home Revealed.”…",
-      "image": "https://image.koreaboo.com/2026/10/Kenta-FI.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "k-pop",
         "idol"
@@ -27,20 +41,6 @@
       "tags": [
         "debut",
         "show champion"
-      ]
-    },
-    {
-      "id": "c1d2e6cad0915b26",
-      "title": "Girl Group Idol Cries Over Past Heyday, Netizens Have No Sympathy",
-      "url": "https://www.koreaboo.com/news/girl-group-idol-cries-past-heyday-netizens-no-sympathy/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-10-28T05:40:28.000Z",
-      "snippet": "A K-Pop girl group idol choked up while speaking about the group’s heyday, gaining attention from netizens but earning no sympathy. Recently, clips from a live broadcast by MAMAMOO...",
-      "description": "A K-Pop girl group idol choked up while speaking about the group’s heyday, gaining attention from netizens but earning no sympathy. Recently, clips from a live broadcast by MAMAMOO’s Wheein’s…",
-      "image": "https://image.koreaboo.com/2026/10/MAMAMOO-Wheein-FI.jpg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -98,7 +98,7 @@
       "publishedAt": "2026-10-27T05:30:24.000Z",
       "snippet": "XLOV member Hyun will not be attending the showcase for the group’s new album due to a leg injury. On October 27, XLOV’s agency StrangeLab released an official statement regarding...",
       "description": "XLOV member Hyun will not be attending the showcase for the group’s new album due to a leg injury. On October 27, XLOV’s agency StrangeLab released an official statement regarding Hyun’s absences from scheduled activities. Read the full statement below: Hello. This is StrangeLab. We are writing to inform you that XLOV member Hyun will… Continue reading XLOV’s Hyun To Sit Out Comeback Showcase Due To Injury The post XLOV’s Hyun To Sit Out Comeback Showcase Due To Injury appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/27142650/hyun.jpeg",
       "tags": [
         "comeback",
         "album"
@@ -170,7 +170,7 @@
       "publishedAt": "2026-10-26T23:33:57.000Z",
       "snippet": "ILLIT has set another personal record on YouTube! ILLIT’s music video for “It’s Me” surpassed 200 million views on YouTube on October 27 at approximately 3 a.m. KST, which is about...",
       "description": "ILLIT has set another personal record on YouTube! ILLIT’s music video for “It’s Me” surpassed 200 million views on YouTube on October 27 at approximately 3 a.m. KST, which is about five months and 26 days since its release on April 30 at 6 p.m. KST. “It’s Me” is ILLIT’s second and fastest music video… Continue reading ILLIT’s “It’s Me” Becomes Their 2nd MV To Hit 200 Million Views The post ILLIT’s “It’s Me” Becomes Their 2nd MV To Hit 200 Million Views appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/27085250/illit.jpeg",
       "tags": [
         "music video",
         "mv"
@@ -333,93 +333,6 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/10/23/news-p.v1.20261023.33f94facdd47410393298bd95a1e3b18_T1.jpg",
       "tags": [
         "album",
-        "music video",
-        "bts"
-      ]
-    },
-    {
-      "id": "9b328818927be0f1",
-      "title": "A2O Soul to release debut album ‘Superstar’ in November",
-      "url": "https://www.koreaherald.com/article/10911740",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-22T07:26:16.000Z",
-      "snippet": "A2O Soul will release its debut EP, “Superstar,” on Nov. 9, roughly a month after introducing itself with a prerelease single of the same name. The 15-member boy group, produced by...",
-      "description": "A2O Soul will release its debut EP, “Superstar,” on Nov. 9, roughly a month after introducing itself with a prerelease single of the same name. The 15-member boy group, produced by Lee Soo-man under A2O Entertainment, will release the five-track album at 6 p.m. through major streaming platforms. The album will include the prerelease single “Superstar” and second lead track “Dancing in the Dark,” as well as three additional songs built around what the group describes as its new synthwave sound. “",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/22/news-p.v1.20261022.919f2aa328d140f18e379e41b6a47d54_T1.jpg",
-      "tags": [
-        "debut",
-        "album"
-      ]
-    },
-    {
-      "id": "d2b4477238939d68",
-      "title": "From K-pop to community, Ian Eastwood reconnects with Korea&apos;s dance scene",
-      "url": "https://www.koreaherald.com/article/10911297",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-22T02:48:00.000Z",
-      "snippet": "When Ian Eastwood first worked with Taemin on his solo debut 12 years ago, he expected to spend several rehearsals teaching him the choreography for \"Danger.\" Taemin learned everyt...",
-      "description": "When Ian Eastwood first worked with Taemin on his solo debut 12 years ago, he expected to spend several rehearsals teaching him the choreography for \"Danger.\" Taemin learned everything he had prepared in the first session. Back in Korea this month, Eastwood was again impressed, this time by artists who had yet to debut. Teaching at entertainment labels, the American choreographer encountered trainees as young as 12 or 13 who could learn choreography, absorb corrections and incorporate staging wi",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/24/news-a.v1.20261022.46ac67246b5343228b50732368a5c07a_T1.png",
-      "tags": [
-        "k-pop",
-        "debut"
-      ]
-    },
-    {
-      "id": "f741cf093783b1db",
-      "title": "Aespa to mark 6th anniversary with fan meetups next month",
-      "url": "https://www.koreaherald.com/article/10911278",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-22T02:39:44.000Z",
-      "snippet": "Aespa will host fan meetings in Seoul on Nov. 28 and 29 in celebration of its sixth anniversary, the group's label SM Entertainment announced Thursday. It will be first such event...",
-      "description": "Aespa will host fan meetings in Seoul on Nov. 28 and 29 in celebration of its sixth anniversary, the group's label SM Entertainment announced Thursday. It will be first such event since the four members invited fans to mark the third year since their debut. They had a fan meetup in Tokyo for three days in July, in time for the release of first EP in Japan, “Kiss n Tell.” In the meantime, the group of four concluded touring Asia and North America with a show on Oct. 11 in Vancouver, British Colom",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/22/news-p.v1.20261022.5b32780d6fd840c682a7f7ea97288ea5_T1.jpg",
-      "tags": [
-        "debut",
-        "fan meeting",
-        "aespa"
-      ]
-    },
-    {
-      "id": "d8446df5904dd867",
-      "title": "Seventeen’s Jeonghan, Joshua top Oricon chart with unit EP",
-      "url": "https://www.koreaherald.com/article/10911227",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-22T02:25:08.000Z",
-      "snippet": "Jeonghan and Joshua of Seventeen topped Oricon’s Daily Album Ranking with their first unit EP “Dreamscape,” Pledis Entertainment said Thursday. The mini album also debuted atop Lin...",
-      "description": "Jeonghan and Joshua of Seventeen topped Oricon’s Daily Album Ranking with their first unit EP “Dreamscape,” Pledis Entertainment said Thursday. The mini album also debuted atop Line Music’s real-time albums chart and iTunes Top Albums Chart in six regions, including Japan. The duo subunit, JXJ, sold more than 650,000 copies of the seven-track set on its release day, shattering the first-day sales record for a K-pop subunit. Jeonghan’s first subunit with Wonwoo set a first-week sales record for a",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/22/news-p.v1.20261022.cf64215abb7d4e02aeac2a1e584b9c4c_T1.jpg",
-      "tags": [
-        "k-pop",
-        "mini album",
-        "album",
-        "seventeen"
-      ]
-    },
-    {
-      "id": "484b1020b596b62d",
-      "title": "Le Sserafim’s Sakura to sit out Paris show due to fever",
-      "url": "https://www.koreaherald.com/article/10911075",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-22T01:43:09.000Z",
-      "snippet": "Sakura of Le Sserafim will have to forgo participating in the Paris show slated for Thursday, agency Source Music announced on the day. She developed a sudden fever and saw a docto...",
-      "description": "Sakura of Le Sserafim will have to forgo participating in the Paris show slated for Thursday, agency Source Music announced on the day. She developed a sudden fever and saw a doctor on Wednesday, who ordered her to rest, the management company explained, apologizing to fans, especially as the concert is the group's first in the French capital. Le Sserafim is in the middle of the European leg of “Pureflow,” which makes five stops in the region. Paris is the third stop, followed by Copenhagen, Den",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/22/news-p.v1.20261022.4d2988d10be8469d9602ec590694bac1_T1.jpg",
-      "tags": [
-        "concert",
-        "le sserafim"
-      ]
-    },
-    {
-      "id": "89bf45bb8afaa218",
-      "title": "BTS ‘Swim’ music video cinches nomination from int’l film festival",
-      "url": "https://www.koreaherald.com/article/10911037",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-22T01:27:49.000Z",
-      "snippet": "BTS earned a nod from the 34th International Film Festival of the Art of Cinematography for its music video for “Swim,” Big Hit Music said Thursday. The visuals will compete for th...",
-      "description": "BTS earned a nod from the 34th International Film Festival of the Art of Cinematography for its music video for “Swim,” Big Hit Music said Thursday. The visuals will compete for the best music video award against Harry Styles’ “American Girls,” Ariana Grande’s “Hate That I Made You Love Me” and Madonna’s “Confessions II.” The weeklong film event, established in 1993 and held in Poland, is one of the largest international film festivals dedicated to cinematography. “Swim” is the main track off BT",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/22/news-p.v1.20261022.51b08512ea9749149b1d0328e1ca9f97_T1.jpg",
-      "tags": [
         "music video",
         "bts"
       ]
