@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-11-03T07:26:28.950Z",
+  "generatedAt": "2026-11-03T15:41:15.625Z",
   "items": [
+    {
+      "id": "91218bf036088f4a",
+      "title": "BLACKPINK Lisa’s Rumored Boyfriend Responds To Dating Rumors With Idol",
+      "url": "https://www.koreaboo.com/news/blackpink-lisa-rumored-boyfriend-blue-responds-dating-rumors-idol/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-11-03T14:30:14.000Z",
+      "snippet": "The \"proof\" has been going viral for months.",
+      "description": "The \"proof\" has been going viral for months.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "idol",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "9d77374fe162571c",
+      "title": "Hybe posts record quarterly results as BTS tour lifts revenue",
+      "url": "https://www.koreaherald.com/article/10924563",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-11-03T10:02:22.000Z",
+      "snippet": "K-pop giant Hybe reported record third-quarter revenue and operating profit Tuesday, propelled by BTS' ongoing world tour, putting it on track to become the first K-pop agency to s...",
+      "description": "K-pop giant Hybe reported record third-quarter revenue and operating profit Tuesday, propelled by BTS' ongoing world tour, putting it on track to become the first K-pop agency to surpass 4 trillion won ($2.98 billion) in annual revenue. According to its regulatory filing, the company's preliminary revenue for the July–September period jumped 109.8 percent year-on-year to 1.53 trillion won on a consolidated basis. Operating profit swung to 188.5 billion won from an operating loss of 42.2 billion",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/03/news-p.v1.20261103.8586231a88634e349f669c81ea405aa2_T1.png",
+      "tags": [
+        "k-pop",
+        "world tour",
+        "bts"
+      ]
+    },
+    {
+      "id": "344e7cf93a05c69c",
+      "title": "Another K-pop song finds new life on social media",
+      "url": "https://www.koreaherald.com/article/10924511",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-11-03T08:58:12.000Z",
+      "snippet": "A K-pop girl group that disbanded eight years ago is enjoying an unexpected revival after one of its 13-year-old songs went viral on social media, climbing music charts and introdu...",
+      "description": "A K-pop girl group that disbanded eight years ago is enjoying an unexpected revival after one of its 13-year-old songs went viral on social media, climbing music charts and introducing the group to a new generation of listeners. Bestie, a four-member group that debuted in 2013, has seen its second digital single \"Love Options\" gain renewed popularity after fans began pairing it with dance performances by younger K-pop idols. As of Tuesday afternoon, the song had peaked at No. 14 on Melon's Top 1",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/03/news-p.v1.20261103.aef3499a1643422cb5a59e0d017e07ae_T1.jpg",
+      "tags": [
+        "k-pop",
+        "melon"
+      ]
+    },
     {
       "id": "035be731c1bcceab",
       "title": "And2ble’s 2nd EP logs 800,000 in first-week sales",
@@ -15,20 +58,6 @@
         "mini album",
         "album",
         "melon"
-      ]
-    },
-    {
-      "id": "e6635b7fc8a53fc4",
-      "title": "NCT Member Excluded At Bangkok Concert, Triggers Massive Backlash",
-      "url": "https://www.koreaboo.com/news/nct-fans-exclude-member-taeyong-bangkok-concert-sparks-major-backlash/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-03T02:05:24.000Z",
-      "snippet": "Fans were appalled.",
-      "description": "Fans were appalled.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "concert",
-        "nct"
       ]
     },
     {
@@ -415,35 +444,6 @@
         "debut",
         "music video",
         "billboard"
-      ]
-    },
-    {
-      "id": "751dea222947b590",
-      "title": "Seventeen’s Junghan, Joshua reign on Oricon charts",
-      "url": "https://www.koreaherald.com/article/10916146",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-27T02:47:59.000Z",
-      "snippet": "Junghan and Joshua of Seventeen topped Oricon’s Weekly Album ranking with their first EP as a subunit, “Dreamscape,” said agency Pledis Entertainment, citing the latest ranking. Th...",
-      "description": "Junghan and Joshua of Seventeen topped Oricon’s Weekly Album ranking with their first EP as a subunit, “Dreamscape,” said agency Pledis Entertainment, citing the latest ranking. The duo climbed the Daily Album ranking for two days upon release before claiming the top spot on the weekly tally. The EP sold more than 800,000 copies in its first week, after logging 650,000 units on the day of release, a record in Korea for a subunit. On Oct. 30, the two will begin touring Asia, starting with a three",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20261027.e38a85eea42b4ced9376192fd292b822_T1.jpg",
-      "tags": [
-        "album",
-        "seventeen"
-      ]
-    },
-    {
-      "id": "2aa5e213eefb31fe",
-      "title": "P1Harmony to release 10th EP in November",
-      "url": "https://www.koreaherald.com/article/10916091",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-10-27T02:30:47.000Z",
-      "snippet": "P1Harmony is set to release its 10th EP, “Blow Up,” on Nov. 6, agency FNC Entertainment said Tuesday. With the new album, the group returns to the superhero-themed narrative it has...",
-      "description": "P1Harmony is set to release its 10th EP, “Blow Up,” on Nov. 6, agency FNC Entertainment said Tuesday. With the new album, the group returns to the superhero-themed narrative it has built up since its debut, with all six members returning to carry out the final mission. The group made its debut in October 2020 via a film in which the bandmates assemble in a dystopian setting in search of hope. The latest mini album is the group's first new material in about eight months, since its ninth EP “Uniqu",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20261027.3e4150e8cdf143c0a77430c73fe422c7_T1.jpg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album"
       ]
     }
   ]
