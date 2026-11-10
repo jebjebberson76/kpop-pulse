@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-10T13:09:44.587Z",
+  "generatedAt": "2026-11-10T20:39:49.765Z",
   "items": [
+    {
+      "id": "a4c7f6b47d35a862",
+      "title": "IVE Scores 1st-Ever Entry On Billboard 200 With “Looks Can Kill”",
+      "url": "https://www.soompi.com/article/1885647wpp/ive-scores-1st-ever-entry-on-billboard-200-with-looks-can-kill",
+      "source": "Soompi",
+      "publishedAt": "2026-11-10T19:25:12.000Z",
+      "snippet": "IVE has made their debut on the Billboard 200! On November 10 local time, Billboard officially announced that IVE had entered its Top 200 Albums chart (which ranks the most popular...",
+      "description": "IVE has made their debut on the Billboard 200! On November 10 local time, Billboard officially announced that IVE had entered its Top 200 Albums chart (which ranks the most popular albums in the United States) for the very first time. For the week ending on November 14, IVE’s new mini album “Looks Can Kill”… Continue reading IVE Scores 1st-Ever Entry On Billboard 200 With “Looks Can Kill” The post IVE Scores 1st-Ever Entry On Billboard 200 With “Looks Can Kill” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/11042208/IVE.jpeg",
+      "tags": [
+        "debut",
+        "mini album",
+        "album",
+        "billboard",
+        "ive"
+      ]
+    },
+    {
+      "id": "0a59b3adadbb330a",
+      "title": "News On Recent Update Of BTS V And BLACKPINK Jennie’s Dating Rumors Spark Major Attention",
+      "url": "https://www.koreaboo.com/news/update-bts-v-blackpink-jennie-saga-become-trending-news/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-11-10T18:36:42.000Z",
+      "snippet": "\"L.A restaurant date...\"",
+      "description": "\"L.A restaurant date...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "blackpink"
+      ]
+    },
+    {
+      "id": "fbe1c323f0e8612a",
+      "title": "Female Idol’s Daring Dress Makes Red Velvet Member Go Full Protective Mode",
+      "url": "https://www.koreaboo.com/news/female-idol-daring-dress-red-velvet-member-full-protective-mode/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-11-10T16:27:02.000Z",
+      "snippet": "A female K-Pop idol showed off a bold fashion look, prompting a Red Velvet member to step in to check her outfit. On November 9th, several photos relating to a…",
+      "description": "A female K-Pop idol showed off a bold fashion look, prompting a Red Velvet member to step in to check her outfit. On November 9th, several photos relating to a…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol",
+        "red velvet"
+      ]
+    },
     {
       "id": "ec7ec085598b0c0d",
       "title": "RESCENE Shatters Previous 1st-Week Sales Record By Nearly 6 Times With “PULSE”",
@@ -13,20 +59,6 @@
       "tags": [
         "mini album",
         "album"
-      ]
-    },
-    {
-      "id": "5c0e2b5f53ddcb4f",
-      "title": "BLACKPINK Lisa’s Las Vegas Shows’ Ticket Sales Spark Major Mocking",
-      "url": "https://www.koreaboo.com/news/blackpink-lisas-las-vegas-shows-ticket-sales-spark-major-mocking/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-10T09:40:09.000Z",
-      "snippet": "Many fans defended the idol.",
-      "description": "Many fans defended the idol.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "blackpink"
       ]
     },
     {
@@ -59,20 +91,6 @@
       ]
     },
     {
-      "id": "27ebbfe92159e1b9",
-      "title": "Girl Group Member Exposes The Reality Of A 10-Year Idol’s Income",
-      "url": "https://www.koreaboo.com/news/girl-group-member-exposes-reality-10-year-idol-income/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-10T05:28:42.000Z",
-      "snippet": "A girl group member, who made her debut over 10 years ago, candidly spoke about her income. Recently, on the YouTube channel Hello Hanssemyo, a video featuring WJSN (also known…",
-      "description": "A girl group member, who made her debut over 10 years ago, candidly spoke about her income. Recently, on the YouTube channel Hello Hanssemyo, a video featuring WJSN (also known…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "debut"
-      ]
-    },
-    {
       "id": "8954005ba027f808",
       "title": "Deux revives late Kim Sungjae&apos;s voice with AI for new album",
       "url": "https://www.koreaherald.com/article/10932187",
@@ -84,20 +102,6 @@
       "tags": [
         "k-pop",
         "album"
-      ]
-    },
-    {
-      "id": "f1d5716907cf2325",
-      "title": "Male K-Pop Idol Sparks Worry After Concerning Instagram Post",
-      "url": "https://www.koreaboo.com/news/concerning-instagram-post-male-idol/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-10T01:52:17.000Z",
-      "snippet": "Many reached out to him.",
-      "description": "Many reached out to him.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "idol"
       ]
     },
     {
@@ -145,13 +149,13 @@
     },
     {
       "id": "1877436e2c38ab36",
-      "title": "EXO’s Kai And Sehun Gear Up For Unit Debut As EXO-KASE With “Waking Up The City” Teaser",
+      "title": "Update: EXO-KASE Unveils Teaser Film For Unit Debut With “Waking Up The City”",
       "url": "https://www.soompi.com/article/1885364wpp/exos-kai-and-sehun-gear-up-for-unit-debut-as-exo-kase-with-waking-up-the-city-teaser",
       "source": "Soompi",
       "publishedAt": "2026-11-09T15:26:59.000Z",
-      "snippet": "EXO’s newest unit is gearing up for their debut! On November 10, a teaser was revealed for the new unit EXO-KASE, made up of members Kai and Sehun. EXO-KASE’s first mini album “Wak...",
-      "description": "EXO’s newest unit is gearing up for their debut! On November 10, a teaser was revealed for the new unit EXO-KASE, made up of members Kai and Sehun. EXO-KASE’s first mini album “Waking Up The City” is set to be released on December 1 at 6 p.m. KST. Stay tuned for more teasers! The post EXO’s Kai And Sehun Gear Up For Unit Debut As EXO-KASE With “Waking Up The City” Teaser appeared first on Soompi.",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/11/10002634/exo-kase_9ec39a.jpeg",
+      "snippet": "Updated November 11 KST: EXO’s new unit EXO-KASE has released a teaser film for tbeir upcoming debut mini album “Waking Up The City”! Original Article: EXO’s newest unit is gearing...",
+      "description": "Updated November 11 KST: EXO’s new unit EXO-KASE has released a teaser film for tbeir upcoming debut mini album “Waking Up The City”! Original Article: EXO’s newest unit is gearing up for their debut! On November 10, a teaser was revealed for the new unit EXO-KASE, made up of members Kai and Sehun. EXO-KASE’s first… Continue reading Update: EXO-KASE Unveils Teaser Film For Unit Debut With “Waking Up The City” The post Update: EXO-KASE Unveils Teaser Film For Unit Debut With “Waking Up The City” appeared first on Soompi.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/11005310/EXO-KASE.jpg",
       "tags": [
         "debut",
         "mini album",
@@ -253,7 +257,7 @@
       "publishedAt": "2026-11-08T22:49:00.000Z",
       "snippet": "Billboard has published its World Albums chart for the week ending on November 7! CORTIS’s latest EP “GREENGREEN” returned to the top of the World Albums chart for a sixth week at...",
       "description": "Billboard has published its World Albums chart for the week ending on November 7! CORTIS’s latest EP “GREENGREEN” returned to the top of the World Albums chart for a sixth week at No. 1, in addition to re-entering the Billboard 200 six months after its release. Meanwhile, CORTIS’s debut EP “COLOR OUTSIDE THE LINES” rounded… Continue reading CORTIS, Stray Kids, NMIXX, SEVENTEEN’s JxJ, K/DA, ILLIT, ENHYPEN, BTS, And More Sweep Top Spots On Billboard World Albums Chart The post CORTIS, Stray Kids, NMIXX, SEVENTEEN’s JxJ, K/DA, ILLIT, ENHYPEN, BTS, And More Sweep Top Spots On Billboard World Album...",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/11/09083205/CORTIS-Stray-Kids-NMIXX-JxJ.jpg",
+      "image": "/public/placeholder-news.svg",
       "tags": [
         "debut",
         "billboard",
@@ -339,6 +343,21 @@
       ]
     },
     {
+      "id": "1366b20ca8270ebc",
+      "title": "Update: EXO’s Doh Kyung Soo (D.O.) Unveils MV Teaser For New Single “Darling”",
+      "url": "https://www.soompi.com/article/1885060wpp/exos-doh-kyung-soo-d-o-announces-november-return-with-1st-teasers-for-darling",
+      "source": "Soompi",
+      "publishedAt": "2026-11-08T15:41:31.000Z",
+      "snippet": "Updated November 11 KST: EXO’s Doh Kyung Soo (D.O.) has released a music video teaser for his upcomimg solo single “Darling”! Updated November 10 KST: More concept photos have been...",
+      "description": "Updated November 11 KST: EXO’s Doh Kyung Soo (D.O.) has released a music video teaser for his upcomimg solo single “Darling”! Updated November 10 KST: More concept photos have been released for Doh Kyung Soo’s upcoming digital single “Darling”! Updated November 10 KST: The first concept photos have been unveiled for Doh Kyung Soo’s upcoming… Continue reading Update: EXO’s Doh Kyung Soo (D.O.) Unveils MV Teaser For New Single “Darling” The post Update: EXO’s Doh Kyung Soo (D.O.) Unveils MV Teaser For New Single “Darling” appeared first on Soompi.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "music video",
+        "mv",
+        "exo"
+      ]
+    },
+    {
       "id": "c5f55e09a80ef005",
       "title": "Update: Taeyeon Drops Promotion Schedule For Solo Studio Album “Unspecial”",
       "url": "https://www.soompi.com/article/1885057wpp/watch-girls-generations-taeyeon-announces-comeback-date-with-teaser-for-unspecial",
@@ -382,23 +401,6 @@
         "mini album",
         "album",
         "ive"
-      ]
-    },
-    {
-      "id": "782dbe6ff5cdfbf9",
-      "title": "Watch: A2O SOUL Flaunts Their Moves In MV For “Dancing in the Dark” Debut",
-      "url": "https://www.soompi.com/article/1884928wpp/watch-a2o-soul-unveils-mv-teaser-for-debut-track-dancing-in-the-dark",
-      "source": "Soompi",
-      "publishedAt": "2026-11-08T04:48:00.000Z",
-      "snippet": "Updated November 9 KST: A2O SOUL has made their official debut! On November 9, the boy group released their debut mini album along with the music video for “Dancing in the Dark,” t...",
-      "description": "Updated November 9 KST: A2O SOUL has made their official debut! On November 9, the boy group released their debut mini album along with the music video for “Dancing in the Dark,” the second of the double title tracks. “Dancing in the Dark” is a song with a catchy melody and conversational lyrics expressing a… Continue reading Watch: A2O SOUL Flaunts Their Moves In MV For “Dancing in the Dark” Debut The post Watch: A2O SOUL Flaunts Their Moves In MV For “Dancing in the Dark” Debut appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album",
-        "music video",
-        "mv"
       ]
     },
     {
