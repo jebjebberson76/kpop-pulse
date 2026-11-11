@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:39:49.765Z",
+  "generatedAt": "2026-11-11T00:57:33.794Z",
   "items": [
     {
       "id": "a4c7f6b47d35a862",
@@ -388,22 +388,6 @@
       ]
     },
     {
-      "id": "ade3c8046ec0c486",
-      "title": "Soompi’s K-Pop Music Chart 2026, November Week 2",
-      "url": "https://www.soompi.com/article/1885052wpp/soompis-k-pop-music-chart-2026-november-week-2",
-      "source": "Soompi",
-      "publishedAt": "2026-11-08T08:39:00.000Z",
-      "snippet": "IVE’s “Looks Can Kill” remains No. 1 for the second consecutive week. Congratulations to IVE! Debuting at No. 2 is ILLIT’s “You’re Under Arrest,” the title track from their fifth m...",
-      "description": "IVE’s “Looks Can Kill” remains No. 1 for the second consecutive week. Congratulations to IVE! Debuting at No. 2 is ILLIT’s “You’re Under Arrest,” the title track from their fifth mini album “BREAK EVEN.” “You’re Under Arrest” is an electro-pop track that delivers a bold warning about ending a relationship with someone whose habitual kindness… Continue reading Soompi’s K-Pop Music Chart 2026, November Week 2 The post Soompi’s K-Pop Music Chart 2026, November Week 2 appeared first on Soompi.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "k-pop",
-        "mini album",
-        "album",
-        "ive"
-      ]
-    },
-    {
       "id": "2551eff71ff9cf9e",
       "title": "NCT Dream to unveil new tracks in advance at listening session",
       "url": "https://www.koreaherald.com/article/10928449",
@@ -443,6 +427,20 @@
       "tags": [
         "album",
         "bts"
+      ]
+    },
+    {
+      "id": "988154b06360f37c",
+      "title": "NCT Dream to go disco at album showcase",
+      "url": "https://www.koreaherald.com/article/10927043",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-11-05T03:08:47.000Z",
+      "snippet": "NCT Dream is unveiling “Boogie Woogie,” the focus track from its sixth full-length album, in a showcase for the set in Seoul on Nov. 12, SM Entertainment announced Thursday. The si...",
+      "description": "NCT Dream is unveiling “Boogie Woogie,” the focus track from its sixth full-length album, in a showcase for the set in Seoul on Nov. 12, SM Entertainment announced Thursday. The six-member subunit is bringing out LP “Dream After Dream” on Monday. The 10-track set fronted by a disco-inspire upbeat dance tune celebrates the group's 10th year. Jaemin participated in writing the lyrics of the song and choreographer Lee Jung co-created the dance. The group will also run a pop-up store in Seoul from S",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/05/news-p.v1.20261105.d247b5ce249f4ff98747cfc58ffbe94b_T1.jpg",
+      "tags": [
+        "album",
+        "nct"
       ]
     }
   ]
