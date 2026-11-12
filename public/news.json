@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-12T12:01:41.978Z",
+  "generatedAt": "2026-11-12T20:35:34.901Z",
   "items": [
     {
-      "id": "236d19d7e72827f8",
-      "title": "Top Fourth-Gen Idol’s Intimate Dance With Male Dancer Sparks Speculations About Stray Kids Member",
-      "url": "https://www.koreaboo.com/news/top-fourth-gen-idols-intimate-dance-male-dancer-linked-stray-kids-member/",
+      "id": "0cca2da034358493",
+      "title": "Female K-Pop Idol Teases Reveal Of “Stories I Haven’t Told Yet”",
+      "url": "https://www.koreaboo.com/news/female-kpop-idol-teases-reveal-stories-havent-told/",
       "source": "Koreaboo",
-      "publishedAt": "2026-11-12T10:45:51.000Z",
-      "snippet": "Netizens thought there were similarities.",
-      "description": "Netizens thought there were similarities.",
+      "publishedAt": "2026-11-12T15:55:37.000Z",
+      "snippet": "A female K-Pop idol has announced a new beginning and teased that she will be revealing stories she couldn’t tell before, piquing netizens’ curiosity. On November 11th, Min, origin...",
+      "description": "A female K-Pop idol has announced a new beginning and teased that she will be revealing stories she couldn’t tell before, piquing netizens’ curiosity. On November 11th, Min, originally from…",
       "image": "/public/placeholder-news.svg",
       "tags": [
-        "idol",
-        "stray kids"
+        "k-pop",
+        "idol"
       ]
     },
     {
@@ -43,21 +43,6 @@
         "debut",
         "album",
         "music video",
-        "stray kids"
-      ]
-    },
-    {
-      "id": "8976137b71be35ce",
-      "title": "Stray Kids’ Lee Know To Debut As Solo Artist",
-      "url": "https://www.koreaboo.com/news/stray-kids-lee-know-debut-solo-artist/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-12T05:46:00.000Z",
-      "snippet": "Stray Kids member Lee Know is debuting as a solo singer. According to Newsen on November 12th, Lee Know is preparing his first solo album, scheduled for release early next…",
-      "description": "Stray Kids member Lee Know is debuting as a solo singer. According to Newsen on November 12th, Lee Know is preparing his first solo album, scheduled for release early next…",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "debut",
-        "album",
         "stray kids"
       ]
     },
@@ -122,20 +107,6 @@
         "circle chart",
         "ive",
         "riize"
-      ]
-    },
-    {
-      "id": "9d161e1088a15b5b",
-      "title": "Female Idol Makes Porn Debut After Leaving Her Group With Idol-Themed Video",
-      "url": "https://www.koreaboo.com/asia/female-idol-makes-prn-debut-after-leaving-group-idol-themed-video/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-11T22:02:58.000Z",
-      "snippet": "She was active in three groups.",
-      "description": "She was active in three groups.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "debut"
       ]
     },
     {
@@ -442,6 +413,20 @@
       "image": "https://wimg.heraldcorp.com/news/cms/2026/11/09/news-p.v1.20261109.68742a7152e34b499146d3548d8205fa_T1.jpeg",
       "tags": [
         "k-pop",
+        "concert"
+      ]
+    },
+    {
+      "id": "a8acf4739ad865b3",
+      "title": "Big Bang halts concert in Bangkok due to heavy rain",
+      "url": "https://www.koreaherald.com/article/10930627",
+      "source": "Korea Herald K-pop",
+      "publishedAt": "2026-11-09T03:08:16.000Z",
+      "snippet": "Big Bang’s live show in Bangkok, Thailand on Sunday was stopped midway by torrential rain. The trio had a standalone concert at the National Stadium in the Thai capital city on its...",
+      "description": "Big Bang’s live show in Bangkok, Thailand on Sunday was stopped midway by torrential rain. The trio had a standalone concert at the National Stadium in the Thai capital city on its world tour, “XX: Cosmos.” The three members braved the rain and carried on, but the storm only picked up and eventually brought down some equipment. “Although we promised to keep going however much it rains, this is too dangerous,” the artists told the audience bowing their heads down and offering their apologies. G D",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/09/news-p.v1.20261109.68d82ad0e12f4008b658131de1f3ef7f_T1.png",
+      "tags": [
+        "world tour",
         "concert"
       ]
     }
