@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-23T10:05:22.305Z",
+  "generatedAt": "2026-11-23T22:21:47.757Z",
   "items": [
+    {
+      "id": "8c1f96aa3f7c899c",
+      "title": "Female K-Pop Idol Showcases Toned Body With Workout Photos",
+      "url": "https://www.koreaboo.com/news/female-kpop-idol-showcases-toned-body-workout-photos/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-11-23T18:06:25.000Z",
+      "snippet": "A female K-Pop idol showed off her workout photo, drawing attention with her toned body. On November 22nd, several photos were posted on social media with the caption, “Living to…",
+      "description": "A female K-Pop idol showed off her workout photo, drawing attention with her toned body. On November 22nd, several photos were posted on social media with the caption, “Living to…",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "2ccbc418f50dbebf",
+      "title": "Girl Group Idol Cries At Her Wedding Over Fellow Member’s Speech",
+      "url": "https://www.koreaboo.com/news/girl-group-idol-cries-wedding-fellow-member-speech/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-11-23T16:59:02.000Z",
+      "snippet": "A K-Pop girl group idol shed tears upon hearing a fellow member’s congratulatory speech at her wedding, proving the close relationship shared by the two of them. On November 23rd,…",
+      "description": "A K-Pop girl group idol shed tears upon hearing a fellow member’s congratulatory speech at her wedding, proving the close relationship shared by the two of them. On November 23rd,…",
+      "image": "https://image.koreaboo.com/2026/11/4Minute-1.mp4",
+      "tags": [
+        "k-pop",
+        "idol"
+      ]
+    },
+    {
+      "id": "a0fbbc7af3c48959",
+      "title": "BTS Jimin’s Reaction To LE SSERAFIM Mention During Live Trigger Hugely Divided Reactions",
+      "url": "https://www.koreaboo.com/news/bts-jimins-reaction-members-mentioning-le-sserafim-live-triiger-hugely-divided-reactions/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-11-23T12:35:25.000Z",
+      "snippet": "It sparked controversy online.",
+      "description": "It sparked controversy online.",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "le sserafim"
+      ]
+    },
+    {
+      "id": "58664b43a0bdf0b1",
+      "title": "LE SSERAFIM’s Actions Towards BTS Following “2026 MAMAs” Spark Brutal Backlash",
+      "url": "https://www.koreaboo.com/news/le-sserafim-actions-bts-backlash-mamas/",
+      "source": "Koreaboo",
+      "publishedAt": "2026-11-23T10:55:34.000Z",
+      "snippet": "\"So embarrassing...\"",
+      "description": "\"So embarrassing...\"",
+      "image": "/public/placeholder-news.svg",
+      "tags": [
+        "bts",
+        "le sserafim"
+      ]
+    },
     {
       "id": "aceabda72a5d2c7b",
       "title": "How Ateez rose from a small K-pop agency to four Billboard No. 1 albums",
@@ -13,20 +69,6 @@
       "tags": [
         "k-pop",
         "billboard"
-      ]
-    },
-    {
-      "id": "a200ef96675898d1",
-      "title": "Idol Gets Kicked Out Of Group, Decides To Make Porn Debut",
-      "url": "https://www.koreaboo.com/asia/idol-gets-kicked-group-decides-make-debut/",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-23T06:08:20.000Z",
-      "snippet": "She said she made the choice independent of financial desires.",
-      "description": "She said she made the choice independent of financial desires.",
-      "image": "/public/placeholder-news.svg",
-      "tags": [
-        "idol",
-        "debut"
       ]
     },
     {
@@ -395,51 +437,6 @@
         "nct",
         "exo",
         "riize"
-      ]
-    },
-    {
-      "id": "d7a9c4dd46041f4c",
-      "title": "P1Harmony’s 10th EP hits Billboard 200 at No. 4",
-      "url": "https://www.koreaherald.com/article/10941166",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-11-18T02:39:37.000Z",
-      "snippet": "P1Harmony landed at fourth place on the Billboard 200 with its 10th EP, “Blow Up,” according to the latest chart published Tuesday. The group scored its third back-to-back entry am...",
-      "description": "P1Harmony landed at fourth place on the Billboard 200 with its 10th EP, “Blow Up,” according to the latest chart published Tuesday. The group scored its third back-to-back entry among the top 10 on the main albums chart and seventh consecutive on the chart overall. The mini album was released on Nov. 6 and sold more than 600,000 copies in the first week, hitting half a million in first-week sales for the first time since the group's debut. The six-track set concludes the “hero” narrative that ha",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/18/news-p.v1.20261118.d30c3d932d414c089a0f64eb9dd3a0fa_T1.jpg",
-      "tags": [
-        "debut",
-        "mini album",
-        "album",
-        "billboard"
-      ]
-    },
-    {
-      "id": "f2b0dcbf110e6a23",
-      "title": "Babymonster&apos;s ‘Choom’ streamed 100m times on Spotify",
-      "url": "https://www.koreaherald.com/article/10941165",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-11-18T02:39:07.000Z",
-      "snippet": "Babymonster exceeded 100 million plays on Spotify with “Choom,” the title track from its third EP, label YG Entertainment announced Wednesday. The single reached the milestone in a...",
-      "description": "Babymonster exceeded 100 million plays on Spotify with “Choom,” the title track from its third EP, label YG Entertainment announced Wednesday. The single reached the milestone in about six months as the girl group’s eighth song to do so. The performance video for the hip-hop dance tune hit 100 million views on YouTube as of Monday, while the music video passed 200 million in October. Six of the group's seven members are in the middle of a world tour named after the EP, which began in late June.",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/18/news-p.v1.20261118.afef694567994d489ca76dfc3fad1ed4_T1.jpg",
-      "tags": [
-        "music video",
-        "world tour"
-      ]
-    },
-    {
-      "id": "c0ac7818a3704ca4",
-      "title": "Can Jennie end K-pop&apos;s Grammy losing streak?",
-      "url": "https://www.koreaherald.com/article/10940044",
-      "source": "Korea Herald K-pop",
-      "publishedAt": "2026-11-17T06:31:35.000Z",
-      "snippet": "Can Blackpink's Jennie finally achieve what BTS and fellow Blackpink member Rose could not — a Grammy win for an established K-pop artist in one of the Recording Academy's mainstre...",
-      "description": "Can Blackpink's Jennie finally achieve what BTS and fellow Blackpink member Rose could not — a Grammy win for an established K-pop artist in one of the Recording Academy's mainstream music categories? Jennie emerged as the most prominent K-pop contender for the 2027 Grammy Awards after her remix of \"Dracula\" with Australian psychedelic music project Tame Impala earned nominations Monday for record of the year, one of the ceremony's four general field awards, and best pop duo/group performance. H",
-      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/17/news-p.v1.20261117.2e97ad15efab43b8a81bce7bf4716df2_T1.jpg",
-      "tags": [
-        "k-pop",
-        "bts",
-        "blackpink"
       ]
     }
   ]
